@@ -824,5 +824,149 @@ website: "#"
     website:
         "#"
 },
+  {
+    id: "mp019",
+    name: "EMMANUEL AWORTWE",
+    position: "Member of Parliament",
+    constituency: "Komenda Edina Eguafo Abrem (KEEA) Constituency",
+    region: "Central",
+    parliament: "Youth Parliament Ghana",
+    committee: "Information to be updated",
+
+    education:
+        "JHS: Dabir Benyadze Egyei M/A Basic School. SHS: Eguafo Abrem Senior High School. Tertiary: Kwame Nkrumah University of Science and Technology (KNUST) — currently pursuing a B.A. in Political Science.",
+
+    profession:
+        "Political Science Student / Youth Leader",
+
+    experience:
+        "EMMANUEL AWORTWE is involved in grassroots mobilisation of young people within the Komenda Edina Eguafo Abrem (KEEA) Constituency. He currently serves as the Youth Member of Parliament for the KEEA Constituency under Youth Parliament Ghana.",
+
+    biography:
+        "EMMANUEL AWORTWE is the Youth Member of Parliament for the Komenda Edina Eguafo Abrem (KEEA) Constituency in the Central Region under Youth Parliament Ghana. He is currently pursuing a B.A. in Political Science at Kwame Nkrumah University of Science and Technology (KNUST). His interests include grassroots youth mobilisation, civic participation and advocacy for greater opportunities for young people.",
+
+    vision:
+        "To empower the youth of KEEA to participate actively in civic life and promote equal opportunities for all.",
+
+    plans:
+        "Promote effective decentralisation in youth participation, civic engagement and advocacy while encouraging young people to take an active role in issues affecting their communities.",
+
+    contribution:
+        "EMMANUEL AWORTWE seeks to help bridge the gap between governance and youth participation by promoting grassroots mobilisation, civic engagement and advocacy among young people.",
+
+    currentActivities:
+        "Currently pursuing a B.A. in Political Science at KNUST and serving as the Youth Member of Parliament for the Komenda Edina Eguafo Abrem (KEEA) Constituency under Youth Parliament Ghana.",
+
+    image:
+        "images/awortwe.jpeg",
+
+    email:
+        "Official contact to be added",
+
+    phone:
+        "Official contact to be added",
+
+    website:
+        "#"
+},
+{
+    id: "mp020",
+    name: "SALAMATU JULIET FRANKLIN",
+    position: "Member of Parliament",
+    constituency: "Salaga South Constituency",
+    region: "Savannah",
+    parliament: "Youth Parliament Ghana",
+    committee: "Information to be updated",
+
+    education:
+        "Senior High School: Accra Girls Senior High School. Tertiary Education: Ghana Water Institute (GWI) — Water Quality Management.",
+
+    profession:
+        "Water Quality Management Professional / Youth Leader",
+
+    experience:
+        "SALAMATU JULIET FRANKLIN has developed experience in youth leadership, community engagement and public service. She is currently building her professional experience in the water and sanitation sector while engaging in youth leadership and community development activities. She currently serves as the Youth MP-elect for the Salaga South Constituency under Youth Parliament Ghana.",
+
+    biography:
+        "SALAMATU JULIET FRANKLIN is a young Ghanaian leader with a background in Water Quality Management and a strong interest in youth leadership, community development and public service. She began her education at Accra Girls Senior High School before pursuing further studies at the Ghana Water Institute (GWI), where she specialized in Water Quality Management and gained knowledge in water treatment, water quality and environmental management. She currently serves as the Youth MP-elect for the Salaga South Constituency under Youth Parliament Ghana, where she is committed to representing the voices, concerns and aspirations of young people in her constituency.",
+
+    vision:
+        "To build a more engaged, informed and empowered youth constituency where young people are encouraged to identify challenges and actively participate in finding solutions.",
+
+    plans:
+        "Promote youth engagement, leadership development, mentorship, education and skills development while creating stronger connections between young people, community leaders, institutions and other relevant stakeholders.",
+
+    contribution:
+        "SALAMATU JULIET FRANKLIN seeks to contribute to Ghana's development by encouraging young people to develop the knowledge, skills, confidence and sense of responsibility needed to participate positively in society. Her background in water quality and environmental management, combined with her interest in youth leadership and community development, gives her a perspective that connects technical knowledge with social development.",
+
+    currentActivities:
+        "Currently building professional experience in the water and sanitation sector while engaging in youth leadership and community development activities. She also serves as the Youth MP-elect for the Salaga South Constituency under Youth Parliament Ghana.",
+
+    officeChanges:
+        "She intends to promote an inclusive, accessible and responsive leadership approach. She seeks to strengthen communication with constituents, encourage greater participation in Youth Parliament activities and ensure that the concerns and ideas of young people are properly identified, discussed and represented.",
+
+    focusAreas:
+        "Youth Participation • Leadership Development • Mentorship • Education • Skills Development • Community Development • Water Quality • Environmental Management • Environmental Awareness • Responsible Leadership",
+
+    leadershipStatement:
+        "My vision is to see young people move from simply being beneficiaries of development to becoming active participants in shaping the future of their communities and Ghana as a whole.",
+
+    image:
+        "images/juliet.jpeg",
+
+    email:
+        "franklinsalama1@gmail.com",
+
+    phone:
+        "0537814551",
+
+    website:
+        "#"
+},
+{
+    id: "mp021",
+    name: "DAVID ERNUU DORGARA",
+    position: "Member of Parliament",
+    constituency: "Sene West Constituency",
+    region: "Bono East",
+    parliament: "Youth Parliament Ghana",
+
+    committee: "Information to be updated",
+
+    education: "Basic Education: Gwira Abrodiem Basic School, Nzema East District; Wa Tendamba M.A Primary School, Upper West Region; Axim, Nzema East Municipal, Western Region — completed basic education in 2017. Senior High School: Tarkwa Senior High School (TARSCO), General Arts, admitted in September 2017. Tertiary Education: University of Cape Coast (UCC) — Bachelor of Education in Social Sciences.",
+
+    profession: "National Service Person / Social Sciences Education Graduate",
+
+    experience: "DAVID ERNUU DORGARA is the Youth Member of Parliament for the Sene West Constituency under Youth Parliament Ghana. He is currently serving as a National Service Person at the College of Distance Education at the University of Cape Coast. He has held leadership positions including President of the TARSCO Past Students’ Association (TARPSA), 2020 year group, and Deputy TARPSA NSMQ Coordinator.",
+
+    biography: "DAVID ERNUU DORGARA is a young Ghanaian leader and education professional with a background in Social Sciences Education. He began his basic education at Gwira Abrodiem Basic School in the Nzema East District and later continued his education at Wa Tendamba M.A Primary School in the Upper West Region before completing his basic education in Axim. In September 2017, he was admitted to Tarkwa Senior High School (TARSCO) to study General Arts. During his time at TARSCO, he served as Assistant House Prefect for Fabil House, 3rd in Command for the TARSCO Cadet, and TARSCO Choir Conductor during the 2019/2020 academic year. He later gained admission to the University of Cape Coast to pursue a Bachelor of Education in Social Sciences. At UCC, he served on various hall and college-level committees, including Deputy Library Chairperson and Deputy Welfare Chairperson for the Education Students Association of Ghana (ESAG), member of the 6th Casford Parliamentary Council, member of the Casley Hayford Hall Welfare Committee, and Founder and former President of the TARSCO Past Students’ Association, University of Cape Coast Chapter (TARPSA-UCC).",
+
+    vision: "To build an informed, skilled, responsible and united youth community in Sene West, where young people have a stronger voice and better access to opportunities.",
+
+    plans: "Build an accessible, responsive, transparent and youth-centred Office of the Youth MP for Sene West Constituency. Promote skills training, mentorship, entrepreneurship, education, agriculture and access to information while encouraging youth participation in community service, leadership and decision-making.",
+
+    contribution: "DAVID ERNUU DORGARA seeks to use the Office of the Youth MP as a platform to empower young people, connect them to opportunities and encourage active participation in community development. He intends to build partnerships with government institutions, businesses, NGOs and individuals to support youth development and help young people become more productive and self-reliant.",
+
+    currentActivities: "Currently serving as a National Service Person at the College of Distance Education at the University of Cape Coast. He also serves as President of the TARSCO Past Students’ Association (TARPSA), 2020 year group, and Deputy TARPSA NSMQ Coordinator.",
+
+    officeChanges: "As the Youth MP for Sene West Constituency, DAVID ERNUU DORGARA intends to build an office that is accessible, responsive, transparent and youth-centred, providing young people with a stronger platform to express their concerns, access opportunities and participate in community development.",
+
+    focusAreas: "Youth Empowerment • Skills Training • Mentorship • Entrepreneurship • Education • Agriculture • Community Development • Youth Participation • Leadership • Access to Opportunities",
+
+    leadershipStatement: "When we empower young people, we strengthen communities; and when communities become stronger, Ghana becomes more stronger.",
+
+    slogan: "Building a better Youth for a better Ghana 🇬🇭",
+
+    constituencyFocus: "Office of the Youth MP for Sene West Constituency",
+
+    image: "images/david.jpeg",
+
+    email: "Official contact to be added",
+
+    phone: "+233547411539",
+
+    website: "#"
+},
+
 
 ];
