@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -23,6 +24,7 @@
     <link rel="stylesheet" href="css/style.css">
 
     <style>
+
         /* =========================
            MPs PAGE
         ========================= */
@@ -36,7 +38,6 @@
                 );
 
             padding: 110px 0 80px;
-
             color: white;
         }
 
@@ -44,11 +45,8 @@
             background: rgba(215, 169, 40, 0.15);
             color: var(--gold-light);
             border: 1px solid rgba(215, 169, 40, 0.4);
-
             padding: 8px 14px;
-
             border-radius: 30px;
-
             font-size: 12px;
             letter-spacing: 1px;
         }
@@ -62,29 +60,23 @@
         .page-header p {
             max-width: 650px;
             margin: auto;
-
             color: rgba(255,255,255,0.72);
-
             line-height: 1.8;
         }
 
 
-        /* SEARCH AREA */
+        /* =========================
+           SEARCH AREA
+        ========================= */
 
         .directory-tools {
             background: white;
-
             border: 1px solid var(--border);
-
             border-radius: 16px;
-
             padding: 25px;
-
             margin-top: -40px;
-
             position: relative;
             z-index: 5;
-
             box-shadow: 0 15px 40px rgba(7, 27, 53, 0.08);
         }
 
@@ -94,143 +86,123 @@
 
         .search-box i {
             position: absolute;
-
             left: 16px;
             top: 50%;
-
             transform: translateY(-50%);
-
             color: var(--muted);
         }
 
         .search-box input {
             padding-left: 45px;
-
             height: 52px;
-
             border: 1px solid var(--border);
-
             border-radius: 8px;
         }
 
         .search-box input:focus {
             border-color: var(--gold);
-
             box-shadow: 0 0 0 3px rgba(215,169,40,0.12);
         }
 
         .region-select {
             height: 52px;
-
             border: 1px solid var(--border);
-
             border-radius: 8px;
         }
 
         .region-select:focus {
             border-color: var(--gold);
-
             box-shadow: 0 0 0 3px rgba(215,169,40,0.12);
         }
 
 
-        /* DIRECTORY TITLE */
+        /* =========================
+           DIRECTORY TITLE
+        ========================= */
 
         .directory-heading {
             display: flex;
-
             justify-content: space-between;
-
             align-items: center;
-
             margin-bottom: 30px;
         }
 
         .directory-heading h2 {
             color: var(--navy);
-
             font-size: 28px;
-
             font-weight: 800;
-
             margin: 0;
         }
 
         .results-count {
             color: var(--muted);
-
             font-size: 14px;
         }
 
 
-        /* MP CARD */
+        /* =========================
+           MP CARD
+        ========================= */
 
         .mp-card {
             height: 100%;
-
             background: white;
-
             border: 1px solid var(--border);
-
             border-radius: 16px;
-
             overflow: hidden;
-
             transition: 0.3s ease;
         }
 
         .mp-card:hover {
             transform: translateY(-6px);
-
             box-shadow:
                 0 18px 40px rgba(7, 27, 53, 0.10);
         }
 
 
-        /* MP IMAGE */
+        /* =========================
+           MP IMAGE
+        ========================= */
 
-        .mp-image {
-            height: 270px;
+    .mp-image {
+    height: 340px;
+    background: #f5f5f5;
+    position: relative;
+    overflow: hidden;
+}
 
-            background: var(--light);
+.mp-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: 50% 15%;
+    display: block;
+    transition: transform 0.4s ease;
+}
 
-            position: relative;
-
-            overflow: hidden;
-        }
-
-        .mp-image img {
-            width: 100%;
-            height: 100%;
-
-            object-fit: cover;
-
-            transition: 0.4s ease;
-        }
-
-        .mp-card:hover .mp-image img {
-            transform: scale(1.04);
-        }
+.mp-card:hover .mp-image img {
+    transform: scale(1.03);
+}
 
 
-        /* Placeholder when no photo */
+        /* =========================
+           PLACEHOLDER
+        ========================= */
 
         .mp-placeholder {
             width: 100%;
             height: 100%;
-
             display: flex;
-
             justify-content: center;
             align-items: center;
-
             color: #a67c0d;
-
             font-size: 70px;
         }
 
 
-        /* MP INFORMATION */
+        /* =========================
+           MP INFORMATION
+        ========================= */
 
         .mp-info {
             padding: 24px;
@@ -238,61 +210,48 @@
 
         .mp-info h3 {
             color: var(--navy);
-
             font-size: 20px;
-
             font-weight: 800;
-
             margin-bottom: 8px;
         }
 
         .mp-position {
             color: #9a7410;
-
             font-size: 13px;
-
             font-weight: 700;
-
             margin-bottom: 14px;
         }
 
         .mp-details {
             border-top: 1px solid var(--border);
-
             padding-top: 14px;
         }
 
         .mp-details p {
             color: var(--muted);
-
             font-size: 14px;
-
             margin-bottom: 6px;
         }
 
         .mp-details i {
             color: var(--gold);
-
             margin-right: 7px;
         }
 
 
-        /* PROFILE BUTTON */
+        /* =========================
+           PROFILE BUTTON
+        ========================= */
 
         .view-profile {
             display: inline-flex;
-
             align-items: center;
-
             gap: 6px;
-
             margin-top: 12px;
-
             color: var(--navy);
-
             font-size: 14px;
-
             font-weight: 700;
+            text-decoration: none;
         }
 
         .view-profile:hover {
@@ -300,28 +259,27 @@
         }
 
 
-        /* NO RESULTS */
+        /* =========================
+           NO RESULTS
+        ========================= */
 
         .no-results {
             display: none;
-
             text-align: center;
-
             padding: 70px 20px;
-
             color: var(--muted);
         }
 
         .no-results i {
             font-size: 50px;
-
             color: var(--gold);
-
             margin-bottom: 15px;
         }
 
 
-        /* MOBILE */
+        /* =========================
+           MOBILE
+        ========================= */
 
         @media (max-width: 767px) {
 
@@ -331,15 +289,12 @@
 
             .directory-tools {
                 margin-top: -30px;
-
                 padding: 18px;
             }
 
             .directory-heading {
                 flex-direction: column;
-
                 align-items: flex-start;
-
                 gap: 8px;
             }
 
@@ -348,8 +303,11 @@
             }
 
         }
+
     </style>
+
 </head>
+
 
 <body>
 
@@ -632,330 +590,9 @@
         </div>
 
 
+        <!-- MP CARDS GENERATED AUTOMATICALLY -->
+
         <div class="row g-4" id="mpGrid">
-
-
-            <!-- MP 1 -->
-
-            <div
-                class="col-lg-4 col-md-6 mp-item"
-                data-name="Sample Member"
-                data-constituency="Sample Constituency"
-                data-region="Greater Accra">
-
-                <div class="mp-card">
-
-                    <div class="mp-image">
-
-                        <div class="mp-placeholder">
-                            <i class="bi bi-person"></i>
-                        </div>
-
-                    </div>
-
-                    <div class="mp-info">
-
-                        <h3>
-                            Sample Member
-                        </h3>
-
-                        <div class="mp-position">
-                            Member of Parliament
-                        </div>
-
-                        <div class="mp-details">
-
-                            <p>
-                                <i class="bi bi-geo-alt"></i>
-                                Sample Constituency
-                            </p>
-
-                            <p>
-                                <i class="bi bi-map"></i>
-                                Greater Accra Region
-                            </p>
-
-                        </div>
-
-                        <<a href="profile.html?id=mp001" class="view-profile">
-                         View Profile
-                        <i class="bi bi-arrow-right"></i>
-                        </a>
-
-                    </div>
-
-                </div>
-
-            </div>
-
-
-            <!-- MP 2 -->
-
-            <div
-                class="col-lg-4 col-md-6 mp-item"
-                data-name="Sample Member"
-                data-constituency="Sample Constituency"
-                data-region="Ashanti">
-
-                <div class="mp-card">
-
-                    <div class="mp-image">
-
-                        <div class="mp-placeholder">
-                            <i class="bi bi-person"></i>
-                        </div>
-
-                    </div>
-
-                    <div class="mp-info">
-
-                        <h3>
-                            Sample Member
-                        </h3>
-
-                        <div class="mp-position">
-                            Member of Parliament
-                        </div>
-
-                        <div class="mp-details">
-
-                            <p>
-                                <i class="bi bi-geo-alt"></i>
-                                Sample Constituency
-                            </p>
-
-                            <p>
-                                <i class="bi bi-map"></i>
-                                Ashanti Region
-                            </p>
-
-                        </div>
-
-                        <<a href="profile.html?id=mp002" class="view-profile">
-                         View Profile
-                        <i class="bi bi-arrow-right"></i>
-                        </a>
-
-                    </div>
-
-                </div>
-
-            </div>
-
-
-            <!-- MP 3 -->
-
-            <div
-                class="col-lg-4 col-md-6 mp-item"
-                data-name="Sample Member"
-                data-constituency="Sample Constituency"
-                data-region="Central">
-
-                <div class="mp-card">
-
-                    <div class="mp-image">
-
-                        <div class="mp-placeholder">
-                            <i class="bi bi-person"></i>
-                        </div>
-
-                    </div>
-
-                    <div class="mp-info">
-
-                        <h3>
-                            Sample Member
-                        </h3>
-
-                        <div class="mp-position">
-                            Member of Parliament
-                        </div>
-
-                        <div class="mp-details">
-
-                            <p>
-                                <i class="bi bi-geo-alt"></i>
-                                Sample Constituency
-                            </p>
-
-                            <p>
-                                <i class="bi bi-map"></i>
-                                Central Region
-                            </p>
-
-                        </div>
-
-                       <<a href="profile.html?id=mp003" class="view-profile">
-                         View Profile
-                        <i class="bi bi-arrow-right"></i>
-                        </a>
-
-                    </div>
-
-                </div>
-
-            </div>
-            <!-- MP 4 -->
-
-            <div
-                class="col-lg-4 col-md-6 mp-item"
-                data-name="Sample Member"
-                data-constituency="Sample Constituency"
-                data-region="Greater Accra">
-
-                <div class="mp-card">
-
-                    <div class="mp-image">
-
-                        <div class="mp-placeholder">
-                            <i class="bi bi-person"></i>
-                        </div>
-
-                    </div>
-
-                    <div class="mp-info">
-
-                        <h3>
-                            Sample Member
-                        </h3>
-
-                        <div class="mp-position">
-                            Member of Parliament
-                        </div>
-
-                        <div class="mp-details">
-
-                            <p>
-                                <i class="bi bi-geo-alt"></i>
-                                Sample Constituency
-                            </p>
-
-                            <p>
-                                <i class="bi bi-map"></i>
-                                Greater Accra Region
-                            </p>
-
-                        </div>
-
-                        <<a href="profile.html?id=mp004" class="view-profile">
-                         View Profile
-                        <i class="bi bi-arrow-right"></i>
-                        </a>
-
-                    </div>
-
-                </div>
-
-            </div>
-            <!-- MP 5 -->
-
-            <div
-                class="col-lg-4 col-md-6 mp-item"
-                data-name="Sample Member"
-                data-constituency="Sample Constituency"
-                data-region="Greater Accra">
-
-                <div class="mp-card">
-
-                    <div class="mp-image">
-
-                        <div class="mp-placeholder">
-                            <i class="bi bi-person"></i>
-                        </div>
-
-                    </div>
-
-                    <div class="mp-info">
-
-                        <h3>
-                            Sample Member
-                        </h3>
-
-                        <div class="mp-position">
-                            Member of Parliament
-                        </div>
-
-                        <div class="mp-details">
-
-                            <p>
-                                <i class="bi bi-geo-alt"></i>
-                                Sample Constituency
-                            </p>
-
-                            <p>
-                                <i class="bi bi-map"></i>
-                                Greater Accra Region
-                            </p>
-
-                        </div>
-
-                        <<a href="profile.html?id=mp005" class="view-profile">
-                         View Profile
-                        <i class="bi bi-arrow-right"></i>
-                        </a>
-
-                    </div>
-
-                </div>
-
-            </div>
-            <!-- MP 6 -->
-
-            <div
-                class="col-lg-4 col-md-6 mp-item"
-                data-name="Sample Member"
-                data-constituency="Sample Constituency"
-                data-region="Greater Accra">
-
-                <div class="mp-card">
-
-                    <div class="mp-image">
-
-                        <div class="mp-placeholder">
-                            <i class="bi bi-person"></i>
-                        </div>
-
-                    </div>
-
-                    <div class="mp-info">
-
-                        <h3>
-                            Sample Member
-                        </h3>
-
-                        <div class="mp-position">
-                            Member of Parliament
-                        </div>
-
-                        <div class="mp-details">
-
-                            <p>
-                                <i class="bi bi-geo-alt"></i>
-                                Sample Constituency
-                            </p>
-
-                            <p>
-                                <i class="bi bi-map"></i>
-                                Greater Accra Region
-                            </p>
-
-                        </div>
-
-                        <<a href="profile.html?id=mp006" class="view-profile">
-                         View Profile
-                        <i class="bi bi-arrow-right"></i>
-                        </a>
-
-                    </div>
-
-                </div>
-
-            </div>
-
-
-
-
-
         </div>
 
 
@@ -1120,14 +757,27 @@
 
 
 
-<!-- Bootstrap JS -->
+<!-- =========================
+     BOOTSTRAP JS
+========================= -->
 
 <script
     src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js">
 </script>
 
 
-<!-- MP Search -->
+
+<!-- =========================
+     MP DATA
+========================= -->
+
+<script src="js/mp-data.js"></script>
+
+
+
+<!-- =========================
+     MP DIRECTORY SCRIPT
+========================= -->
 
 <script>
 
@@ -1137,8 +787,8 @@
     const regionFilter =
         document.getElementById("regionFilter");
 
-    const mpItems =
-        document.querySelectorAll(".mp-item");
+    const mpGrid =
+        document.getElementById("mpGrid");
 
     const noResults =
         document.getElementById("noResults");
@@ -1147,62 +797,214 @@
         document.getElementById("resultsCount");
 
 
-    function filterMPs() {
+    /* =========================
+       CREATE MP CARD
+    ========================= */
+
+    function createMPCard(member) {
+
+        let imageHTML = "";
+
+        if (member.image) {
+
+            imageHTML = `
+                <img
+                    src="${member.image}"
+                    alt="${member.name}"
+                    onerror="
+                        this.style.display='none';
+                        this.nextElementSibling.style.display='flex';
+                    "
+                >
+
+                <div
+                    class="mp-placeholder"
+                    style="display:none;">
+
+                    <i class="bi bi-person"></i>
+
+                </div>
+            `;
+
+        } else {
+
+            imageHTML = `
+                <div class="mp-placeholder">
+
+                    <i class="bi bi-person"></i>
+
+                </div>
+            `;
+
+        }
+
+
+        return `
+
+            <div
+                class="col-lg-4 col-md-6 mp-item"
+                data-name="${member.name}"
+                data-constituency="${member.constituency}"
+                data-region="${member.region}">
+
+                <div class="mp-card">
+
+
+                    <!-- MP PHOTO -->
+
+                    <div class="mp-image">
+
+                        ${imageHTML}
+
+                    </div>
+
+
+                    <!-- MP INFORMATION -->
+
+                    <div class="mp-info">
+
+                        <h3>
+                            ${member.name}
+                        </h3>
+
+
+                        <div class="mp-position">
+
+                            ${member.position}
+
+                        </div>
+
+
+                        <div class="mp-details">
+
+                            <p>
+
+                                <i class="bi bi-geo-alt"></i>
+
+                                ${member.constituency}
+
+                            </p>
+
+
+                            <p>
+
+                                <i class="bi bi-map"></i>
+
+                                ${member.region}
+
+                            </p>
+
+                        </div>
+
+
+                        <a
+                            href="profile.html?id=${member.id}"
+                            class="view-profile">
+
+                            View Profile
+
+                            <i class="bi bi-arrow-right"></i>
+
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        `;
+    }
+
+
+
+    /* =========================
+       DISPLAY MPs
+    ========================= */
+
+    function displayMPs() {
 
         const search =
             searchInput.value
                 .toLowerCase()
                 .trim();
 
-        const region =
+
+        const selectedRegion =
             regionFilter.value
                 .toLowerCase();
 
-        let visible = 0;
+
+        const filteredMPs =
+            mpData.filter(function(member) {
 
 
-        mpItems.forEach(function(item) {
-
-            const name =
-                item.dataset.name.toLowerCase();
-
-            const constituency =
-                item.dataset.constituency.toLowerCase();
-
-            const itemRegion =
-                item.dataset.region.toLowerCase();
+                const name =
+                    String(member.name || "")
+                        .toLowerCase();
 
 
-            const matchesSearch =
-                name.includes(search) ||
-                constituency.includes(search);
-
-            const matchesRegion =
-                region === "" ||
-                itemRegion === region;
+                const constituency =
+                    String(member.constituency || "")
+                        .toLowerCase();
 
 
-            if (matchesSearch && matchesRegion) {
+                const region =
+                    String(member.region || "")
+                        .toLowerCase();
 
-                item.style.display = "";
 
-                visible++;
+                const matchesSearch =
+                    name.includes(search) ||
+                    constituency.includes(search);
 
-            } else {
 
-                item.style.display = "none";
+                const matchesRegion =
+                    selectedRegion === "" ||
+                    region === selectedRegion;
 
-            }
+
+                return (
+                    matchesSearch &&
+                    matchesRegion
+                );
+
+            });
+
+
+        /* Clear current cards */
+
+        mpGrid.innerHTML = "";
+
+
+        /* Add filtered cards */
+
+        filteredMPs.forEach(function(member) {
+
+            mpGrid.insertAdjacentHTML(
+                "beforeend",
+                createMPCard(member)
+            );
 
         });
 
 
+        /* Update result count */
+
         resultsCount.textContent =
-            "Showing " + visible + " MP" +
-            (visible === 1 ? "" : "s");
+            "Showing " +
+            filteredMPs.length +
+            " MP" +
+            (
+                filteredMPs.length === 1
+                    ? ""
+                    : "s"
+            );
 
 
-        if (visible === 0) {
+        /* Show / hide no results */
+
+        if (filteredMPs.length === 0) {
 
             noResults.style.display = "block";
 
@@ -1215,20 +1017,36 @@
     }
 
 
+
+    /* =========================
+       SEARCH
+    ========================= */
+
     searchInput.addEventListener(
         "input",
-        filterMPs
+        displayMPs
     );
+
+
+    /* =========================
+       REGION FILTER
+    ========================= */
 
     regionFilter.addEventListener(
         "change",
-        filterMPs
+        displayMPs
     );
 
 
-    filterMPs();
+    /* =========================
+       INITIAL LOAD
+    ========================= */
+
+    displayMPs();
 
 </script>
-<script src="js/mp-data.js"></script>
+
+
 </body>
+
 </html>
