@@ -967,6 +967,42 @@ website: "#"
 
     website: "#"
 },
+  {
+    id: "mp022",
+    name: "DARKO ASIEDU EBENEZER",
+    position: "Member of Parliament",
+    constituency: "Ablekuma North Constituency",
+    region: "Greater Accra",
+    parliament: "Youth Parliament Ghana",
+
+    committee: "Information to be updated",
+
+    education: "University of Education, Winneba — Currently pursuing a Bachelor of Education with a focus on Political Science in Education.",
+
+    profession: "Educator-in-Training / Youth Leader",
+
+    experience: "DARKO ASIEDU EBENEZER is currently serving as the Youth Member of Parliament for the Ablekuma North Constituency under Youth Parliament Ghana. His interests and activities include youth leadership, civic participation, education, governance and community development.",
+
+    biography: "DARKO ASIEDU EBENEZER is a young Ghanaian leader, educator-in-training, and advocate for youth governance. He is currently pursuing a Bachelor of Education at the University of Education, Winneba, with a focus on Political Science in Education. He is deeply passionate about youth leadership, civic participation, education, governance, and community development. He currently serves as the Youth Member of Parliament for the Ablekuma North Constituency under Youth Parliament Ghana, where he works to strengthen youth representation, promote grassroots engagement, and connect young people with leadership, educational, and developmental opportunities.",
+
+    vision: "To strengthen youth representation, promote grassroots engagement, and connect young people with leadership, educational, and developmental opportunities.",
+
+    plans: "To promote youth leadership, civic participation, education, governance and community development while strengthening grassroots engagement and access to opportunities for young people in the Ablekuma North Constituency.",
+
+    contribution: "DARKO ASIEDU EBENEZER seeks to contribute to youth development by strengthening youth representation, encouraging civic participation, promoting education and connecting young people with leadership, educational and developmental opportunities.",
+
+    currentActivities: "Currently pursuing a Bachelor of Education at the University of Education, Winneba, with a focus on Political Science in Education, while serving as the Youth Member of Parliament for the Ablekuma North Constituency under Youth Parliament Ghana.",
+
+    focusAreas: "Youth Leadership • Civic Participation • Education • Governance • Community Development • Youth Representation • Grassroots Engagement",
+
+    image: "images/darko.jpeg",
+
+    email: "qhwakucyril50@gmail.com",
+
+    phone: "0508462090 / 0593813446",
+
+    website: "#"
+},
 
 
 ];
