@@ -465,7 +465,7 @@ website: "#"
         "Currently serving as the Youth Member of Parliament for the Tema Central Constituency under Youth Parliament Ghana and pursuing her studies at the University of Professional Studies, Accra (UPSA).",
 
     image:
-        "images/Hon. Teye Adepa Gracelove.png",
+        "images/adepa.jpeg
 
     email:
         "gracelovexr@gmail.com",
