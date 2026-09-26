@@ -300,7 +300,7 @@ website: "#"
         "University of Ghana — Currently pursuing a Bachelor of Education. Also engaged in theological studies.",
 
     profession:
-        "Educator-in-Training / Student",
+        "Criminologist",
 
     experience:
         "KELVIN GBAFFAH BOAKYE YIADOM is currently serving as the Youth Member of Parliament for the Trobu Constituency under Youth Parliament Ghana. His interests and activities include youth leadership, civic participation, education, governance and community development.",
@@ -321,10 +321,10 @@ website: "#"
         "images/Boakye.jpeg",
 
     email:
-        "Official contact to be added",
+        "Gbaffahkelvin@gmail.com",
 
     phone:
-        "Official contact to be added",
+        "050 854 9673 / +233 59 937 8872",
 
     website:
         "#"
