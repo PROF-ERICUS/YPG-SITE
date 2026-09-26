@@ -633,10 +633,10 @@ website: "#"
         "Agriculture Graduate / Youth Leader",
 
     experience:
-        "FIRDAUS MUMUNI began his leadership journey by serving as School Prefect during both his primary and junior high school education. At KNUST, she served as Presidential Envoy for the International Association of Students in Agricultural and Related Sciences (IAAS), KNUST Chapter, and Deputy Organizing Secretary for the College of Agriculture and Natural Resources, KNUST. He also received professional training as a Virtual Assistant from Affluence Academy, developing administrative, communication and organizational skills.",
+        "FIRDAUS MUMUNI began her leadership journey by serving as School Prefect during both her primary and junior high school education. At KNUST, she served as Presidential Envoy for the International Association of Students in Agricultural and Related Sciences (IAAS), KNUST Chapter, and Deputy Organizing Secretary for the College of Agriculture and Natural Resources, KNUST. she also received professional training as a Virtual Assistant from Affluence Academy, developing administrative, communication and organizational skills.",
 
     biography:
-        "FIRDAUS MUMUNI is a young Ghanaian leader and graduate of Kwame Nkrumah University of Science and Technology (KNUST), where he obtained a Bachelor of Science in Agriculture. He is passionate about youth development, leadership, community service and creating practical opportunities for young people to contribute meaningfully to national development. He currently serves as the Youth Member of Parliament for the Essikado Ketan Constituency under Youth Parliament Ghana. His leadership approach focuses on listening to young people, connecting them to useful opportunities and encouraging active participation in community development.",
+        "FIRDAUS MUMUNI is a young Ghanaian leader and graduate of Kwame Nkrumah University of Science and Technology (KNUST), where she obtained a Bachelor of Science in Agriculture. She is passionate about youth development, leadership, community service and creating practical opportunities for young people to contribute meaningfully to national development. She currently serves as the Youth Member of Parliament for the Essikado Ketan Constituency under Youth Parliament Ghana. Her leadership approach focuses on listening to young people, connecting them to useful opportunities and encouraging active participation in community development.",
 
     vision:
         "To empower, encourage action and connect young people to the skills, networks and opportunities they need to contribute meaningfully to their communities and national development.",
@@ -648,7 +648,7 @@ website: "#"
         "Promote practical youth empowerment, community development, environmental action, networking and career development. Create opportunities for young people to develop practical skills, connect with mentors, professionals, organizations and businesses, and encourage community participation in addressing local challenges.",
 
     contribution:
-        "FIRDAUS MUMUNI seeks to contribute to national development by encouraging young Ghanaians to become active contributors to their communities rather than merely beneficiaries of development. Through youth empowerment, leadership development, community engagement and stronger connections between young people and opportunities, he seeks to support the development of an active, skilled and responsible generation of young Ghanaian leaders.",
+        "FIRDAUS MUMUNI seeks to contribute to national development by encouraging young Ghanaians to become active contributors to their communities rather than merely beneficiaries of development. Through youth empowerment, leadership development, community engagement and stronger connections between young people and opportunities, she seeks to support the development of an active, skilled and responsible generation of young Ghanaian leaders.",
 
     currentActivities:
         "Currently serving as the Youth Member of Parliament for the Essikado Ketan Constituency under Youth Parliament Ghana, engaging young people, understanding challenges affecting them and building relationships and partnerships that can create practical opportunities for development.",
