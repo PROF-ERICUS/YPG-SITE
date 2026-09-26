@@ -1,283 +1,452 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
+
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
 
     <meta name="description"
-        content="Appointees Directory - Youth Parliament Ghana">
+          content="Appointees Directory - Youth Parliament Ghana">
 
     <title>Appointees | Youth Parliament Ghana</title>
 
-    <!-- Bootstrap -->
+
+    <!-- =========================
+         BOOTSTRAP
+    ========================== -->
+
     <link
         href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
         rel="stylesheet">
 
-    <!-- Bootstrap Icons -->
+
+    <!-- =========================
+         BOOTSTRAP ICONS
+    ========================== -->
+
     <link
         href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css"
         rel="stylesheet">
 
-    <!-- Main CSS -->
-    <link rel="stylesheet" href="css/style.css">
+
+    <!-- =========================
+         MAIN CSS
+    ========================== -->
+
+    <link rel="stylesheet"
+          href="css/style.css">
+
 
     <style>
+
         /* =========================
            DIRECTORY HEADER
-        ========================= */
+        ========================== */
 
         .directory-header {
+
             background:
                 linear-gradient(
                     135deg,
                     rgba(7, 27, 53, 0.98),
                     rgba(13, 43, 80, 0.95)
                 );
+
             padding: 150px 0 80px;
+
             color: white;
         }
 
+
         .directory-header h1 {
+
             font-size: clamp(38px, 5vw, 58px);
+
             font-weight: 800;
+
             margin-bottom: 15px;
         }
 
+
         .directory-header p {
+
             max-width: 650px;
+
             color: rgba(255,255,255,0.72);
+
             line-height: 1.8;
+
             margin: 0 auto;
         }
 
 
         /* =========================
            FILTER AREA
-        ========================= */
+        ========================== */
 
         .directory-tools {
+
             margin-top: -35px;
+
             position: relative;
+
             z-index: 5;
         }
 
+
         .filter-card {
+
             background: white;
+
             border-radius: 14px;
+
             padding: 25px;
-            box-shadow: 0 15px 40px rgba(7, 27, 53, 0.10);
+
+            box-shadow:
+                0 15px 40px rgba(7, 27, 53, 0.10);
+
             border: 1px solid var(--border);
         }
 
+
         .filter-card label {
+
             font-size: 13px;
+
             font-weight: 700;
+
             color: var(--navy);
+
             margin-bottom: 8px;
         }
 
+
         .filter-card .form-control,
         .filter-card .form-select {
+
             min-height: 48px;
+
             border-color: var(--border);
+
             border-radius: 7px;
         }
 
+
         .filter-card .form-control:focus,
         .filter-card .form-select:focus {
+
             border-color: var(--gold);
-            box-shadow: 0 0 0 0.2rem rgba(215, 169, 40, 0.12);
+
+            box-shadow:
+                0 0 0 0.2rem
+                rgba(215, 169, 40, 0.12);
         }
 
 
         /* =========================
-           APPoinTEE CARDS
-        ========================= */
+           APPOINTEE CARDS
+        ========================== */
 
         .appointee-card {
+
             height: 100%;
+
             background: white;
+
             border: 1px solid var(--border);
+
             border-radius: 14px;
+
             overflow: hidden;
+
             transition: 0.3s ease;
         }
 
+
         .appointee-card:hover {
+
             transform: translateY(-6px);
-            box-shadow: 0 18px 40px rgba(7, 27, 53, 0.10);
+
+            box-shadow:
+                0 18px 40px
+                rgba(7, 27, 53, 0.10);
         }
 
-        .appointee-photo {
-    height: 350px;
-    background: #f5f7fa;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    overflow: hidden;
-}
 
-.appointee-photo img {
-    width: 100%;
-    height: 100%;
-    object-fit: contain;
-}
+        .appointee-photo {
+
+            height: 350px;
+
+            background: #f5f7fa;
+
+            display: flex;
+
+            align-items: center;
+
+            justify-content: center;
+
+            overflow: hidden;
+        }
+
+
+        .appointee-photo img {
+
+            width: 100%;
+
+            height: 100%;
+
+            object-fit: cover;
+
+            object-position: 50% 15%;
+
+            transition: 0.4s ease;
+        }
+
+
+        .appointee-card:hover
+        .appointee-photo img {
+
+            transform: scale(1.03);
+        }
+
 
         .default-photo {
+
             font-size: 75px;
+
             color: #aab3bd;
         }
 
+
         .appointee-content {
+
             padding: 25px;
         }
 
+
         .appointee-content h3 {
+
             color: var(--navy);
+
             font-size: 21px;
+
             font-weight: 800;
+
             margin-bottom: 7px;
         }
 
+
         .appointee-position {
+
             color: #9a7410;
+
             font-size: 14px;
+
             font-weight: 700;
+
             margin-bottom: 15px;
         }
 
+
         .appointee-meta {
+
             display: flex;
+
             flex-direction: column;
+
             gap: 9px;
+
             margin-bottom: 20px;
         }
 
+
         .appointee-meta span {
+
             color: var(--muted);
+
             font-size: 13px;
         }
 
+
         .appointee-meta i {
+
             color: #9a7410;
+
             margin-right: 7px;
         }
 
+
         .view-profile {
+
             display: inline-flex;
+
             align-items: center;
+
             color: #9a7410;
+
             font-size: 14px;
+
             font-weight: 700;
+
+            text-decoration: none;
         }
 
+
         .view-profile i {
+
             margin-left: 7px;
+
             transition: 0.3s ease;
         }
 
+
         .view-profile:hover {
+
             color: var(--gold);
         }
 
+
         .view-profile:hover i {
+
             transform: translateX(4px);
         }
 
 
         /* =========================
            RESULT COUNT
-        ========================= */
+        ========================== */
 
         .result-count {
+
             color: var(--muted);
+
             font-size: 14px;
         }
 
+
         .result-count strong {
+
             color: var(--navy);
         }
 
 
         /* =========================
            NO RESULTS
-        ========================= */
+        ========================== */
 
         .no-results {
+
             display: none;
+
             padding: 70px 20px;
+
             text-align: center;
         }
 
+
         .no-results i {
+
             font-size: 55px;
+
             color: #b8c0c9;
+
             margin-bottom: 20px;
         }
 
+
         .no-results h3 {
+
             color: var(--navy);
+
             font-weight: 800;
         }
 
+
         .no-results p {
+
             color: var(--muted);
         }
 
 
         /* =========================
            MOBILE
-        ========================= */
+        ========================== */
 
         @media (max-width: 767px) {
 
             .directory-header {
+
                 padding: 130px 20px 70px;
             }
 
+
             .directory-header h1 {
+
                 font-size: 38px;
             }
 
+
             .directory-tools {
+
                 margin-top: -25px;
             }
 
+
             .filter-card {
+
                 padding: 20px;
             }
 
+
             .appointee-photo {
-                height: 240px;
+
+                height: 300px;
             }
+
         }
+
     </style>
+
 </head>
+
 
 <body>
 
 
 <!-- =========================
      NAVBAR
-========================= -->
+========================== -->
 
 <nav class="navbar navbar-expand-lg fixed-top">
+
     <div class="container">
+
 
         <a class="navbar-brand d-flex align-items-center"
            href="index.html">
 
-            <img src="images/YPG-LOGO.png"
-                 alt="Youth Parliament Ghana"
-                 class="site-logo">
+            <img
+                src="images/YPG-LOGO.png"
+                alt="Youth Parliament Ghana"
+                class="site-logo">
 
             <span class="brand-text">
-                <strong>Youth Parliament Ghana</strong>
-                <small>Parliamentary Directory</small>
+
+                <strong>
+                    Youth Parliament Ghana
+                </strong>
+
+                <small>
+                    Parliamentary Directory
+                </small>
+
             </span>
 
         </a>
+
 
         <button
             class="navbar-toggler"
@@ -289,87 +458,143 @@
 
         </button>
 
-        <div class="collapse navbar-collapse" id="mainNavbar">
+
+        <div
+            class="collapse navbar-collapse"
+            id="mainNavbar">
 
             <ul class="navbar-nav ms-auto align-items-lg-center">
 
+
                 <li class="nav-item">
-                    <a class="nav-link"
-                       href="index.html">
+
+                    <a
+                        class="nav-link"
+                        href="index.html">
+
                         Home
+
                     </a>
+
                 </li>
 
+
                 <li class="nav-item">
-                    <a class="nav-link"
-                       href="mps.html">
+
+                    <a
+                        class="nav-link"
+                        href="mps.html">
+
                         MPs
+
                     </a>
+
                 </li>
 
+
                 <li class="nav-item">
-                    <a class="nav-link active"
-                       href="appointees.html">
+
+                    <a
+                        class="nav-link active"
+                        href="appointees.html">
+
                         Appointees
+
                     </a>
+
                 </li>
 
+
                 <li class="nav-item">
-                    <a class="nav-link"
-                       href="ministries.html">
+
+                    <a
+                        class="nav-link"
+                        href="ministries.html">
+
                         Ministries
+
                     </a>
+
                 </li>
 
+
                 <li class="nav-item">
-                    <a class="nav-link"
-                       href="news.html">
+
+                    <a
+                        class="nav-link"
+                        href="news.html">
+
                         News
+
                     </a>
+
                 </li>
 
+
                 <li class="nav-item">
-                    <a class="nav-link"
-                       href="about.html">
+
+                    <a
+                        class="nav-link"
+                        href="about.html">
+
                         About
+
                     </a>
+
                 </li>
+
 
                 <li class="nav-item ms-lg-3">
-                    <a href="mps.html"
-                       class="btn btn-gold">
+
+                    <a
+                        href="mps.html"
+                        class="btn btn-gold">
+
                         Explore Directory
+
                     </a>
+
                 </li>
+
 
             </ul>
 
         </div>
 
     </div>
+
 </nav>
+
 
 
 <!-- =========================
      PAGE HEADER
-========================= -->
+========================== -->
 
 <section class="directory-header">
 
     <div class="container text-center">
 
         <div class="section-label light">
+
             PUBLIC DIRECTORY
+
         </div>
 
+
         <h1>
+
             Appointees Directory
+
         </h1>
 
+
         <p>
+
             Explore profiles of appointed officials and
             office holders within the Youth Parliament Ghana
             structure.
+
         </p>
 
     </div>
@@ -377,9 +602,10 @@
 </section>
 
 
+
 <!-- =========================
      FILTERS
-========================= -->
+========================== -->
 
 <section class="directory-tools">
 
@@ -389,19 +615,27 @@
 
             <div class="row g-3">
 
+
                 <!-- SEARCH -->
 
                 <div class="col-lg-5">
 
                     <label for="appointeeSearch">
+
                         Search Appointee
+
                     </label>
+
 
                     <div class="input-group">
 
-                        <span class="input-group-text bg-white">
+                        <span
+                            class="input-group-text bg-white">
+
                             <i class="bi bi-search"></i>
+
                         </span>
+
 
                         <input
                             type="text"
@@ -414,13 +648,17 @@
                 </div>
 
 
+
                 <!-- MINISTRY -->
 
                 <div class="col-lg-3">
 
                     <label for="ministryFilter">
+
                         Ministry
+
                     </label>
+
 
                     <select
                         id="ministryFilter"
@@ -430,29 +668,10 @@
                             All Ministries
                         </option>
 
-                        <option value="Defence">
-                            Defence
-                        </option>
-
-                        <option value="Education">
-                            Education
-                        </option>
-
-                        <option value="Finance">
-                            Finance
-                        </option>
-
-                        <option value="Health">
-                            Health
-                        </option>
-
-                        <option value="Youth">
-                            Youth
-                        </option>
-
                     </select>
 
                 </div>
+
 
 
                 <!-- REGION -->
@@ -460,8 +679,11 @@
                 <div class="col-lg-3">
 
                     <label for="appointeeRegion">
+
                         Region
+
                     </label>
+
 
                     <select
                         id="appointeeRegion"
@@ -471,36 +693,10 @@
                             All Regions
                         </option>
 
-                        <option value="Ahafo">Ahafo</option>
-                        <option value="Ashanti">Ashanti</option>
-                        <option value="Bono">Bono</option>
-                        <option value="Bono East">Bono East</option>
-                        <option value="Central">Central</option>
-                        <option value="Eastern">Eastern</option>
-                        <option value="Greater Accra">
-                            Greater Accra
-                        </option>
-                        <option value="Northern">Northern</option>
-                        <option value="North East">
-                            North East
-                        </option>
-                        <option value="Oti">Oti</option>
-                        <option value="Savannah">Savannah</option>
-                        <option value="Upper East">
-                            Upper East
-                        </option>
-                        <option value="Upper West">
-                            Upper West
-                        </option>
-                        <option value="Volta">Volta</option>
-                        <option value="Western">Western</option>
-                        <option value="Western North">
-                            Western North
-                        </option>
-
                     </select>
 
                 </div>
+
 
 
                 <!-- RESET -->
@@ -528,408 +724,95 @@
 </section>
 
 
+
 <!-- =========================
      APPOINTEES
-========================= -->
+========================== -->
 
 <section class="section-padding">
 
     <div class="container">
 
-        <div class="d-flex justify-content-between
-                    align-items-center mb-4">
+
+        <div
+            class="d-flex justify-content-between
+                   align-items-center mb-4">
+
 
             <h2 class="section-title mb-0">
+
                 Appointees
+
             </h2>
 
+
             <div class="result-count">
+
                 Showing
-                <strong id="resultCount">6</strong>
+
+                <strong id="resultCount">
+                    0
+                </strong>
+
                 profiles
+
             </div>
 
         </div>
 
 
-        <div class="row g-4" id="appointeeGrid">
 
+        <!-- DYNAMIC APPoinTEE GRID -->
 
-            <!-- APPOINTEE 1 -->
-
-           <div class="col-lg-4 col-md-6 appointee-item"
-     data-name="Sample Appointee One"
-     data-position="Minister for Defence"
-     data-ministry="Defence"
-     data-region="Greater Accra">
-
-    <div class="appointee-card">
-
-        <div class="appointee-photo">
-
-            <img
-                src="images/defence.jpeg"
-                alt="HON. ERIC ANDOH">
+        <div
+            class="row g-4"
+            id="appointeeGrid">
 
         </div>
 
-        <div class="appointee-content">
-
-            <h3>
-                HON. ERIC ANDOH
-            </h3>
-
-            <div class="appointee-position">
-                Minister for Defence
-            </div>
-
-            <div class="appointee-meta">
-
-                <span>
-                    <i class="bi bi-building"></i>
-                    Ministry of Defence
-                </span>
-
-                <span>
-                    <i class="bi bi-geo-alt"></i>
-                    Greater Accra
-                </span>
-
-            </div>
-
-            <a href="appointee-profile.html?id=app001"
-               class="view-profile">
-
-                View Profile
-                <i class="bi bi-arrow-right"></i>
-
-            </a>
-
-        </div>
-
-    </div>
-
-</div>
-
-
-            <!-- APPOINTEE 2 -->
-
-            <div class="col-lg-4 col-md-6 appointee-item"
-                 data-name="Sample Appointee Two"
-                 data-position="Minister for Education"
-                 data-ministry="Education"
-                 data-region="Ashanti">
-
-                <div class="appointee-card">
-
-                    <div class="appointee-photo">
-
-                        <img
-                            src="images/profiles/default.jpg"
-                            alt="Sample Appointee Two">
-
-                    </div>
-
-                    <div class="appointee-content">
-
-                        <h3>
-                            Sample Appointee Two
-                        </h3>
-
-                        <div class="appointee-position">
-                            Minister for Education
-                        </div>
-
-                        <div class="appointee-meta">
-
-                            <span>
-                                <i class="bi bi-building"></i>
-                                Ministry of Education
-                            </span>
-
-                            <span>
-                                <i class="bi bi-geo-alt"></i>
-                                Ashanti
-                            </span>
-
-                        </div>
-
-                        <a href="appointee-profile.html?id=app002"
-                            class="view-profile">
-
-                            View Profile
-                            <i class="bi bi-arrow-right"></i>
-
-                        </a>
-
-                    </div>
-
-                </div>
-
-            </div>
-
-
-            <!-- APPOINTEE 3 -->
-
-            <div class="col-lg-4 col-md-6 appointee-item"
-                 data-name="Sample Appointee Three"
-                 data-position="Minister for Health"
-                 data-ministry="Health"
-                 data-region="Central">
-
-                <div class="appointee-card">
-
-                    <div class="appointee-photo">
-
-                        <img
-                            src="images/profiles/default.jpg"
-                            alt="Sample Appointee Three">
-
-                    </div>
-
-                    <div class="appointee-content">
-
-                        <h3>
-                            Sample Appointee Three
-                        </h3>
-
-                        <div class="appointee-position">
-                            Minister for Health
-                        </div>
-
-                        <div class="appointee-meta">
-
-                            <span>
-                                <i class="bi bi-building"></i>
-                                Ministry of Health
-                            </span>
-
-                            <span>
-                                <i class="bi bi-geo-alt"></i>
-                                Central
-                            </span>
-
-                        </div>
-
-                       <a href="appointee-profile.html?id=app003"
-                            class="view-profile">
-
-                            View Profile
-                            <i class="bi bi-arrow-right"></i>
-
-                        </a>
-
-                    </div>
-
-                </div>
-
-            </div>
-
-
-            <!-- APPOINTEE 4 -->
-
-            <div class="col-lg-4 col-md-6 appointee-item"
-                 data-name="Sample Appointee Four"
-                 data-position="Minister for Finance"
-                 data-ministry="Finance"
-                 data-region="Eastern">
-
-                <div class="appointee-card">
-
-                    <div class="appointee-photo">
-
-                        <img
-                            src="images/profiles/default.jpg"
-                            alt="Sample Appointee Four">
-
-                    </div>
-
-                    <div class="appointee-content">
-
-                        <h3>
-                            Sample Appointee Four
-                        </h3>
-
-                        <div class="appointee-position">
-                            Minister for Finance
-                        </div>
-
-                        <div class="appointee-meta">
-
-                            <span>
-                                <i class="bi bi-building"></i>
-                                Ministry of Finance
-                            </span>
-
-                            <span>
-                                <i class="bi bi-geo-alt"></i>
-                                Eastern
-                            </span>
-
-                        </div>
-
-                        <a href="appointee-profile.html?id=app004"
-                            class="view-profile">
-
-                            View Profile
-                            <i class="bi bi-arrow-right"></i>
-
-                        </a>
-
-                    </div>
-
-                </div>
-
-            </div>
-
-
-            <!-- APPOINTEE 5 -->
-
-            <div class="col-lg-4 col-md-6 appointee-item"
-                 data-name="Sample Appointee Five"
-                 data-position="Minister for Youth"
-                 data-ministry="Youth"
-                 data-region="Volta">
-
-                <div class="appointee-card">
-
-                    <div class="appointee-photo">
-
-                        <img
-                            src="images/profiles/default.jpg"
-                            alt="Sample Appointee Five">
-
-                    </div>
-
-                    <div class="appointee-content">
-
-                        <h3>
-                            Sample Appointee Five
-                        </h3>
-
-                        <div class="appointee-position">
-                            Minister for Youth
-                        </div>
-
-                        <div class="appointee-meta">
-
-                            <span>
-                                <i class="bi bi-building"></i>
-                                Ministry of Youth
-                            </span>
-
-                            <span>
-                                <i class="bi bi-geo-alt"></i>
-                                Volta
-                            </span>
-
-                        </div>
-
-                        <a href="appointee-profile.html?id=app005"
-                            class="view-profile">
-
-                            View Profile
-                            <i class="bi bi-arrow-right"></i>
-
-                        </a>
-
-                    </div>
-
-                </div>
-
-            </div>
-
-
-            <!-- APPOINTEE 6 -->
-
-            <div class="col-lg-4 col-md-6 appointee-item"
-                 data-name="Sample Appointee Six"
-                 data-position="Deputy Minister"
-                 data-ministry="Education"
-                 data-region="Northern">
-
-                <div class="appointee-card">
-
-                    <div class="appointee-photo">
-
-                        <img
-                            src="images/profiles/default.jpg"
-                            alt="Sample Appointee Six">
-
-                    </div>
-
-                    <div class="appointee-content">
-
-                        <h3>
-                            Sample Appointee Six
-                        </h3>
-
-                        <div class="appointee-position">
-                            Deputy Minister
-                        </div>
-
-                        <div class="appointee-meta">
-
-                            <span>
-                                <i class="bi bi-building"></i>
-                                Ministry of Education
-                            </span>
-
-                            <span>
-                                <i class="bi bi-geo-alt"></i>
-                                Northern
-                            </span>
-
-                        </div>
-
-                        
-                            <a href="appointee-profile.html?id=app006"
-                            class="view-profile">
-
-                            View Profile
-                            <i class="bi bi-arrow-right"></i>
-
-                        </a>
-
-                    </div>
-
-                </div>
-
-            </div>
-
-        </div>
 
 
         <!-- NO RESULTS -->
 
-        <div class="no-results" id="noResults">
+        <div
+            class="no-results"
+            id="noResults">
 
             <i class="bi bi-person-x"></i>
 
+
             <h3>
+
                 No Appointee Found
+
             </h3>
 
+
             <p>
+
                 Try changing your search or filter criteria.
+
             </p>
 
         </div>
+
 
     </div>
 
 </section>
 
 
+
 <!-- =========================
      FOOTER
-========================= -->
+========================== -->
 
 <footer class="footer">
 
     <div class="container">
 
         <div class="row g-5">
+
 
             <div class="col-lg-5">
 
@@ -940,40 +823,63 @@
                         alt="Youth Parliament Ghana"
                         class="site-logo">
 
+
                     <div>
+
                         <strong>
+
                             Youth Parliament Ghana
+
                         </strong>
 
+
                         <small>
+
                             Parliamentary Directory
+
                         </small>
+
                     </div>
 
                 </div>
 
+
                 <p>
+
                     A public directory designed to provide
                     accessible information about parliamentary
                     representatives, appointees and ministries.
+
                 </p>
+
 
                 <div class="social-links mt-4">
 
                     <a href="#">
+
                         <i class="bi bi-facebook"></i>
+
                     </a>
 
+
                     <a href="#">
+
                         <i class="bi bi-twitter-x"></i>
+
                     </a>
 
+
                     <a href="#">
+
                         <i class="bi bi-instagram"></i>
+
                     </a>
 
+
                     <a href="#">
+
                         <i class="bi bi-linkedin"></i>
+
                     </a>
 
                 </div>
@@ -981,38 +887,91 @@
             </div>
 
 
+
             <div class="col-lg-2 col-md-4">
 
-                <h5>Directory</h5>
+                <h5>
 
-                <a href="mps.html">Members of Parliament</a>
-                <a href="appointees.html">Appointees</a>
-                <a href="ministries.html">Ministries</a>
+                    Directory
+
+                </h5>
+
+
+                <a href="mps.html">
+
+                    Members of Parliament
+
+                </a>
+
+
+                <a href="appointees.html">
+
+                    Appointees
+
+                </a>
+
+
+                <a href="ministries.html">
+
+                    Ministries
+
+                </a>
 
             </div>
 
 
+
             <div class="col-lg-2 col-md-4">
 
-                <h5>Explore</h5>
+                <h5>
 
-                <a href="news.html">News</a>
-                <a href="about.html">About</a>
-                <a href="index.html">Home</a>
+                    Explore
+
+                </h5>
+
+
+                <a href="news.html">
+
+                    News
+
+                </a>
+
+
+                <a href="about.html">
+
+                    About
+
+                </a>
+
+
+                <a href="index.html">
+
+                    Home
+
+                </a>
 
             </div>
+
 
 
             <div class="col-lg-3 col-md-4">
 
-                <h5>Information</h5>
+                <h5>
+
+                    Information
+
+                </h5>
+
 
                 <p>
+
                     This directory is intended to provide
                     accessible civic information.
+
                 </p>
 
             </div>
+
 
         </div>
 
@@ -1023,12 +982,17 @@
         <div class="footer-bottom">
 
             <span>
+
                 © 2026 Youth Parliament Ghana.
                 All rights reserved.
+
             </span>
 
+
             <span>
+
                 Parliamentary Directory
+
             </span>
 
         </div>
@@ -1038,153 +1002,670 @@
 </footer>
 
 
-<!-- Bootstrap JS -->
+
+<!-- =========================
+     BOOTSTRAP JS
+========================== -->
 
 <script
     src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js">
 </script>
 
 
-<!-- Main JS -->
+
+<!-- =========================
+     MAIN JS
+========================== -->
 
 <script src="js/main.js"></script>
+
+
+<!-- =========================
+     APPOINTEE DATA
+========================== -->
+
 <script src="js/appointee-data.js"></script>
 
 
-<!-- Appointee Filtering -->
+
+<!-- =========================
+     APPOINTEE DIRECTORY JS
+========================== -->
 
 <script>
 
-    const searchInput =
-        document.getElementById("appointeeSearch");
-
-    const ministryFilter =
-        document.getElementById("ministryFilter");
-
-    const regionFilter =
-        document.getElementById("appointeeRegion");
-
-    const resetButton =
-        document.getElementById("resetFilters");
-
-    const cards =
-        document.querySelectorAll(".appointee-item");
-
-    const resultCount =
-        document.getElementById("resultCount");
-
-    const noResults =
-        document.getElementById("noResults");
+document.addEventListener(
+    "DOMContentLoaded",
+    function () {
 
 
-    function filterAppointees() {
+        /* =========================
+           ELEMENTS
+        ========================== */
 
-        const search =
-            searchInput.value.toLowerCase().trim();
-
-        const ministry =
-            ministryFilter.value.toLowerCase();
-
-        const region =
-            regionFilter.value.toLowerCase();
-
-        let visibleCount = 0;
+        const grid =
+            document.getElementById(
+                "appointeeGrid"
+            );
 
 
-        cards.forEach(card => {
+        const searchInput =
+            document.getElementById(
+                "appointeeSearch"
+            );
+
+
+        const ministryFilter =
+            document.getElementById(
+                "ministryFilter"
+            );
+
+
+        const regionFilter =
+            document.getElementById(
+                "appointeeRegion"
+            );
+
+
+        const resetButton =
+            document.getElementById(
+                "resetFilters"
+            );
+
+
+        const resultCount =
+            document.getElementById(
+                "resultCount"
+            );
+
+
+        const noResults =
+            document.getElementById(
+                "noResults"
+            );
+
+
+
+        /* =========================
+           CHECK DATA
+        ========================== */
+
+        if (
+            typeof appointeeData === "undefined"
+        ) {
+
+            console.error(
+                "appointeeData was not found."
+            );
+
+            grid.innerHTML = `
+                <div class="col-12 text-center py-5">
+                    <p class="text-danger">
+                        Appointee data could not be loaded.
+                    </p>
+                </div>
+            `;
+
+            return;
+        }
+
+
+
+        /* =========================
+           CREATE CARD
+        ========================== */
+
+        function createAppointeeCard(
+            appointee
+        ) {
+
+            const column =
+                document.createElement("div");
+
+
+            column.className =
+                "col-lg-4 col-md-6 appointee-item";
+
+
+            column.dataset.name =
+                appointee.name || "";
+
+
+            column.dataset.position =
+                appointee.position || "";
+
+
+            column.dataset.ministry =
+                appointee.ministry || "";
+
+
+            column.dataset.region =
+                appointee.region || "";
+
+
+
+            const card =
+                document.createElement("div");
+
+
+            card.className =
+                "appointee-card";
+
+
+
+            /* =========================
+               PHOTO
+            ========================== */
+
+            const photo =
+                document.createElement("div");
+
+
+            photo.className =
+                "appointee-photo";
+
+
+            const image =
+                document.createElement("img");
+
+
+            image.src =
+                appointee.image ||
+                "images/profiles/default.jpg";
+
+
+            image.alt =
+                appointee.name ||
+                "Appointee";
+
+
+            image.loading = "lazy";
+
+
+            image.onerror =
+                function () {
+
+                    this.onerror = null;
+
+                    this.src =
+                        "images/profiles/default.jpg";
+                };
+
+
+            photo.appendChild(image);
+
+
+
+            /* =========================
+               CONTENT
+            ========================== */
+
+            const content =
+                document.createElement("div");
+
+
+            content.className =
+                "appointee-content";
+
+
+
+            /* NAME */
 
             const name =
-                card.dataset.name.toLowerCase();
+                document.createElement("h3");
+
+
+            name.textContent =
+                appointee.name ||
+                "Name not available";
+
+
+
+            /* POSITION */
 
             const position =
-                card.dataset.position.toLowerCase();
-
-            const cardMinistry =
-                card.dataset.ministry.toLowerCase();
-
-            const cardRegion =
-                card.dataset.region.toLowerCase();
+                document.createElement("div");
 
 
-            const matchesSearch =
-                name.includes(search) ||
-                position.includes(search);
-
-            const matchesMinistry =
-                !ministry ||
-                cardMinistry === ministry;
-
-            const matchesRegion =
-                !region ||
-                cardRegion === region;
+            position.className =
+                "appointee-position";
 
 
-            if (
-                matchesSearch &&
-                matchesMinistry &&
-                matchesRegion
-            ) {
+            position.textContent =
+                appointee.position ||
+                "Position not available";
 
-                card.style.display = "";
 
-                visibleCount++;
+
+            /* META */
+
+            const meta =
+                document.createElement("div");
+
+
+            meta.className =
+                "appointee-meta";
+
+
+
+            /* MINISTRY */
+
+            const ministry =
+                document.createElement("span");
+
+
+            ministry.innerHTML = `
+                <i class="bi bi-building"></i>
+                ${escapeHTML(
+                    appointee.ministry ||
+                    "Ministry not available"
+                )}
+            `;
+
+
+
+            /* REGION */
+
+            const region =
+                document.createElement("span");
+
+
+            region.innerHTML = `
+                <i class="bi bi-geo-alt"></i>
+                ${escapeHTML(
+                    appointee.region ||
+                    "Region not available"
+                )}
+            `;
+
+
+
+            /* PROFILE LINK */
+
+            const profileLink =
+                document.createElement("a");
+
+
+            profileLink.className =
+                "view-profile";
+
+
+            profileLink.href =
+                `appointee-profile.html?id=${encodeURIComponent(
+                    appointee.id
+                )}`;
+
+
+            profileLink.innerHTML = `
+                View Profile
+                <i class="bi bi-arrow-right"></i>
+            `;
+
+
+
+            /* APPEND */
+
+            meta.appendChild(ministry);
+
+            meta.appendChild(region);
+
+
+            content.appendChild(name);
+
+            content.appendChild(position);
+
+            content.appendChild(meta);
+
+            content.appendChild(profileLink);
+
+
+            card.appendChild(photo);
+
+            card.appendChild(content);
+
+
+            column.appendChild(card);
+
+
+            return column;
+        }
+
+
+
+        /* =========================
+           ESCAPE HTML
+        ========================== */
+
+        function escapeHTML(
+            value
+        ) {
+
+            return String(value)
+                .replace(/&/g, "&amp;")
+                .replace(/</g, "&lt;")
+                .replace(/>/g, "&gt;")
+                .replace(/"/g, "&quot;")
+                .replace(/'/g, "&#039;");
+        }
+
+
+
+        /* =========================
+           LOAD CARDS
+        ========================== */
+
+        function renderAppointees(
+            data
+        ) {
+
+            grid.innerHTML = "";
+
+
+            data.forEach(
+                function (appointee) {
+
+                    grid.appendChild(
+                        createAppointeeCard(
+                            appointee
+                        )
+                    );
+
+                }
+            );
+
+
+            resultCount.textContent =
+                data.length;
+
+
+            if (data.length === 0) {
+
+                noResults.style.display =
+                    "block";
 
             } else {
 
-                card.style.display = "none";
-
+                noResults.style.display =
+                    "none";
             }
 
-        });
+        }
 
 
-        resultCount.textContent =
-            visibleCount;
+
+        /* =========================
+           GET MINISTRIES
+        ========================== */
+
+        function loadMinistries() {
+
+            const ministries =
+                [
+                    ...new Set(
+                        appointeeData
+                            .map(
+                                person =>
+                                    person.ministry
+                            )
+                            .filter(Boolean)
+                    )
+                ]
+                .sort();
 
 
-        if (visibleCount === 0) {
+            ministries.forEach(
+                function (ministry) {
 
-            noResults.style.display = "block";
+                    const option =
+                        document.createElement(
+                            "option"
+                        );
 
-        } else {
 
-            noResults.style.display = "none";
+                    option.value =
+                        ministry;
+
+
+                    option.textContent =
+                        ministry
+                            .replace(
+                                /^Ministry of /i,
+                                ""
+                            )
+                            .replace(
+                                /^Ministry for /i,
+                                ""
+                            );
+
+
+                    ministryFilter.appendChild(
+                        option
+                    );
+
+                }
+            );
 
         }
+
+
+
+        /* =========================
+           GET REGIONS
+        ========================== */
+
+        function loadRegions() {
+
+            const regions =
+                [
+                    ...new Set(
+                        appointeeData
+                            .map(
+                                person =>
+                                    person.region
+                            )
+                            .filter(Boolean)
+                    )
+                ]
+                .sort();
+
+
+            regions.forEach(
+                function (region) {
+
+                    const option =
+                        document.createElement(
+                            "option"
+                        );
+
+
+                    option.value =
+                        region;
+
+
+                    option.textContent =
+                        region;
+
+
+                    regionFilter.appendChild(
+                        option
+                    );
+
+                }
+            );
+
+        }
+
+
+
+        /* =========================
+           FILTER
+        ========================== */
+
+        function filterAppointees() {
+
+            const search =
+                searchInput.value
+                    .toLowerCase()
+                    .trim();
+
+
+            const ministry =
+                ministryFilter.value
+                    .toLowerCase()
+                    .trim();
+
+
+            const region =
+                regionFilter.value
+                    .toLowerCase()
+                    .trim();
+
+
+
+            const filtered =
+                appointeeData.filter(
+                    function (person) {
+
+                        const name =
+                            (
+                                person.name || ""
+                            )
+                            .toLowerCase();
+
+
+                        const position =
+                            (
+                                person.position || ""
+                            )
+                            .toLowerCase();
+
+
+                        const constituency =
+                            (
+                                person.constituency || ""
+                            )
+                            .toLowerCase();
+
+
+                        const personMinistry =
+                            (
+                                person.ministry || ""
+                            )
+                            .toLowerCase();
+
+
+                        const personRegion =
+                            (
+                                person.region || ""
+                            )
+                            .toLowerCase();
+
+
+
+                        const matchesSearch =
+                            !search ||
+                            name.includes(search) ||
+                            position.includes(search) ||
+                            constituency.includes(search);
+
+
+                        const matchesMinistry =
+                            !ministry ||
+                            personMinistry === ministry;
+
+
+                        const matchesRegion =
+                            !region ||
+                            personRegion === region;
+
+
+
+                        return (
+                            matchesSearch &&
+                            matchesMinistry &&
+                            matchesRegion
+                        );
+
+                    }
+                );
+
+
+            renderAppointees(
+                filtered
+            );
+
+        }
+
+
+
+        /* =========================
+           RESET
+        ========================== */
+
+        function resetFilters() {
+
+            searchInput.value = "";
+
+            ministryFilter.value = "";
+
+            regionFilter.value = "";
+
+            renderAppointees(
+                appointeeData
+            );
+
+        }
+
+
+
+        /* =========================
+           EVENTS
+        ========================== */
+
+        searchInput.addEventListener(
+            "input",
+            filterAppointees
+        );
+
+
+        ministryFilter.addEventListener(
+            "change",
+            filterAppointees
+        );
+
+
+        regionFilter.addEventListener(
+            "change",
+            filterAppointees
+        );
+
+
+        resetButton.addEventListener(
+            "click",
+            resetFilters
+        );
+
+
+
+        /* =========================
+           INITIALIZE
+        ========================== */
+
+        loadMinistries();
+
+        loadRegions();
+
+        renderAppointees(
+            appointeeData
+        );
 
     }
 
-
-    searchInput.addEventListener(
-        "input",
-        filterAppointees
-    );
-
-    ministryFilter.addEventListener(
-        "change",
-        filterAppointees
-    );
-
-    regionFilter.addEventListener(
-        "change",
-        filterAppointees
-    );
-
-
-    resetButton.addEventListener(
-        "click",
-        function () {
-
-            searchInput.value = "";
-            ministryFilter.value = "";
-            regionFilter.value = "";
-
-            filterAppointees();
-
-        }
-    );
+);
 
 </script>
 
+
 </body>
+
 </html>
