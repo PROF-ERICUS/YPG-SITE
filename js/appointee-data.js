@@ -387,6 +387,59 @@ constituency: "Trobu Constituency",
     website:
         "#"
 },
+    {
+    id: "app007",
+    name: "FRANCIS ABANGA",
+    position: "Deputy Minister of Energy and Green Transition",
+
+ministry: "Office of Energy and Green Transition",
+
+region: "Upper East",
+    appointmentDate: "20th September, 2026.",
+
+    isMP: true,
+    constituency: "Zebilla Constituency",
+
+
+
+    education: "BOLGATANGA TECHNICAL UNIVERSITY — Undergraduate, currently studying BSc. Electrical and Electronics Engineering.",
+
+    profession: "ELECTRICAL AND ELECTRONICS ENGINEER / SOLAR ENGINEER TECHNICIAN",
+
+    experience: "FRANCIS ABANGA is a student at Bolgatanga Technical University and an undergraduate pursuing a BSc. in Electrical and Electronics Engineering. He has experience in electrical work and renewable energy technology, including solar energy technical work and electrical operations.",
+
+    biography: "FRANCIS ABANGA is a student at Bolgatanga Technical University pursuing a BSc. in Electrical and Electronics Engineering. He is an aspiring electrical and renewable energy professional with experience in solar energy technology and electrical operations. He previously served as a BTU SRC aspirant and has developed practical experience in electrical and renewable energy-related activities.",
+
+    vision: "To contribute to the development and adoption of electrical and renewable energy solutions while supporting sustainable energy development.",
+
+    plans: "Support initiatives related to electrical engineering, renewable energy, solar energy technology and practical technical skills development.",
+
+    contribution: "FRANCIS ABANGA seeks to contribute to the energy sector through his background in electrical and electronics engineering, solar energy technology and renewable energy-related technical work.",
+
+    currentActivities: "Currently pursuing a BSc. in Electrical and Electronics Engineering at Bolgatanga Technical University and working as an Electrical Artisan and Renewable Energy Technician.",
+
+    leadershipExperience: "Former BTU SRC Aspirant.",
+
+    professionalExperience: "Solar Energy Technician — BTU Solar Learning Centre. Operations Team Lead — Zacky Electricals.",
+
+    focusAreas: "Electrical Engineering • Renewable Energy • Solar Energy • Green Transition • Technical Skills Development • Energy Technology",
+
+    image: "images/francis.jpeg",
+
+    email: "francisabanga028@gmail.com",
+
+    phone: "0248546063",
+
+    website: "#",
+
+    facebook: "FrancisAbanga",
+
+    twitter: "#",
+
+    instagram: "Francis Abanga",
+
+    linkedin: "FrancisAbanga"
+},
 
 
 ];
