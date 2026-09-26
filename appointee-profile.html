@@ -1,26 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
+
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
 
     <meta name="description"
           content="Appointee Profile - Youth Parliament Ghana">
 
     <title>Appointee Profile | Youth Parliament Ghana</title>
 
-    <!-- Bootstrap -->
+
+    <!-- =========================
+         BOOTSTRAP
+    ========================== -->
+
     <link
         href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
         rel="stylesheet">
 
-    <!-- Bootstrap Icons -->
+
+    <!-- =========================
+         BOOTSTRAP ICONS
+    ========================== -->
+
     <link
         href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css"
         rel="stylesheet">
 
-    <!-- Main CSS -->
-    <link rel="stylesheet" href="css/style.css">
+
+    <!-- =========================
+         MAIN CSS
+    ========================== -->
+
+    <link rel="stylesheet"
+          href="css/style.css">
+
 
     <style>
 
@@ -29,6 +47,7 @@
         ========================= */
 
         .profile-header {
+
             background:
                 linear-gradient(
                     135deg,
@@ -37,20 +56,31 @@
                 );
 
             padding: 150px 0 70px;
+
             color: white;
         }
 
+
         .back-link {
+
             color: var(--gold-light);
+
             font-size: 14px;
+
             font-weight: 700;
+
             display: inline-flex;
+
             align-items: center;
+
             gap: 7px;
+
             margin-bottom: 25px;
         }
 
+
         .back-link:hover {
+
             color: white;
         }
 
@@ -60,17 +90,29 @@
         ========================= */
 
         .profile-card {
+
             margin-top: -45px;
+
             position: relative;
+
             z-index: 5;
+
             background: white;
+
             border-radius: 16px;
+
             border: 1px solid var(--border);
-            box-shadow: 0 20px 50px rgba(7, 27, 53, 0.10);
+
+            box-shadow:
+                0 20px 50px
+                rgba(7, 27, 53, 0.10);
+
             overflow: hidden;
         }
 
+
         .profile-top {
+
             padding: 40px;
         }
 
@@ -80,18 +122,32 @@
         ========================= */
 
         .profile-photo {
+
             width: 220px;
+
             height: 260px;
+
             border-radius: 12px;
+
             overflow: hidden;
+
             background: var(--light);
+
             margin: auto;
         }
 
+
         .profile-photo img {
+
             width: 100%;
+
             height: 100%;
+
             object-fit: cover;
+
+            object-position: 50% 15%;
+
+            display: block;
         }
 
 
@@ -100,225 +156,359 @@
         ========================= */
 
         .profile-main h1 {
+
             color: var(--navy);
+
             font-size: 38px;
+
             font-weight: 800;
+
             margin-bottom: 8px;
         }
 
+
         .profile-position {
+
             color: #9a7410;
+
             font-weight: 700;
+
             font-size: 17px;
+
             margin-bottom: 20px;
         }
 
+
         .meta-list {
+
             display: flex;
+
             flex-wrap: wrap;
+
             gap: 10px 25px;
         }
 
+
         .meta-item {
+
             color: var(--muted);
+
             font-size: 14px;
         }
 
+
         .meta-item i {
+
             color: #9a7410;
+
             margin-right: 6px;
         }
 
 
         /* =========================
            PROFILE SECTIONS
-        ========================= */
+        ========================== */
 
         .profile-section {
+
             padding: 35px 40px;
+
             border-top: 1px solid var(--border);
         }
 
+
         .profile-section h2 {
+
             color: var(--navy);
+
             font-size: 22px;
+
             font-weight: 800;
+
             margin-bottom: 18px;
         }
 
+
         .profile-section p {
+
             color: var(--muted);
+
             line-height: 1.9;
+
             margin: 0;
         }
 
 
         /* =========================
            INFORMATION LIST
-        ========================= */
+        ========================== */
 
         .info-list {
+
             list-style: none;
+
             padding: 0;
+
             margin: 0;
         }
 
+
         .info-list li {
+
             display: flex;
+
             justify-content: space-between;
+
             gap: 30px;
+
             padding: 13px 0;
+
             border-bottom: 1px solid var(--border);
         }
 
+
         .info-list li:last-child {
+
             border-bottom: none;
         }
 
+
         .info-list strong {
+
             color: var(--navy);
+
             font-size: 14px;
+
+            min-width: 120px;
         }
 
+
         .info-list span {
+
             color: var(--muted);
+
             font-size: 14px;
+
             text-align: right;
+
+            flex: 1;
         }
 
 
         /* =========================
            CONTACT
-        ========================= */
+        ========================== */
 
         .contact-grid {
+
             display: grid;
+
             grid-template-columns:
                 repeat(3, 1fr);
+
             gap: 20px;
         }
 
+
         .contact-item {
+
             border: 1px solid var(--border);
+
             border-radius: 10px;
+
             padding: 20px;
+
             background: var(--light);
         }
 
+
         .contact-item i {
+
             color: #9a7410;
+
             font-size: 22px;
+
             margin-bottom: 10px;
+
+            display: block;
         }
 
+
         .contact-item strong {
+
             display: block;
+
             color: var(--navy);
+
             font-size: 13px;
+
             margin-bottom: 5px;
         }
 
+
         .contact-item span {
+
             color: var(--muted);
+
             font-size: 13px;
+
             word-break: break-word;
         }
 
+
         .contact-item a {
+
             color: #9a7410;
+
             font-weight: 600;
+
+            text-decoration: none;
+        }
+
+
+        .contact-item a:hover {
+
+            text-decoration: underline;
+        }
+
+
+        /* =========================
+           PARLIAMENTARY INFORMATION
+        ========================== */
+
+        #parliamentaryInfo {
+
+            display: none;
         }
 
 
         /* =========================
            NOT FOUND
-        ========================= */
+        ========================== */
 
         .profile-not-found {
+
             display: none;
+
             text-align: center;
+
             padding: 120px 20px;
         }
 
+
         .profile-not-found i {
+
             font-size: 60px;
+
             color: #b7c0ca;
+
             margin-bottom: 20px;
         }
 
+
         .profile-not-found h2 {
+
             color: var(--navy);
+
             font-weight: 800;
         }
 
+
         .profile-not-found p {
+
             color: var(--muted);
         }
 
 
         /* =========================
            MOBILE
-        ========================= */
+        ========================== */
 
         @media (max-width: 767px) {
 
             .profile-header {
+
                 padding: 130px 20px 60px;
             }
 
+
             .profile-top {
+
                 padding: 25px;
             }
 
+
             .profile-photo {
+
                 width: 180px;
+
                 height: 220px;
+
                 margin-bottom: 30px;
             }
 
+
             .profile-main h1 {
+
                 font-size: 30px;
             }
 
+
             .profile-section {
+
                 padding: 30px 25px;
             }
 
+
             .info-list li {
+
                 flex-direction: column;
+
                 gap: 5px;
             }
 
+
             .info-list span {
+
                 text-align: left;
             }
 
+
             .contact-grid {
+
                 grid-template-columns: 1fr;
             }
+
         }
 
     </style>
+
 </head>
+
 
 <body>
 
 
 <!-- =========================
      NAVBAR
-========================= -->
+========================== -->
 
 <nav class="navbar navbar-expand-lg fixed-top">
 
     <div class="container">
 
-        <a class="navbar-brand d-flex align-items-center"
-           href="index.html">
+
+        <a
+            class="navbar-brand d-flex align-items-center"
+            href="index.html"
+        >
 
             <img
                 src="images/YPG-LOGO.png"
                 alt="Youth Parliament Ghana"
-                class="site-logo">
+                class="site-logo"
+            >
+
 
             <span class="brand-text">
 
@@ -339,7 +529,8 @@
             class="navbar-toggler"
             type="button"
             data-bs-toggle="collapse"
-            data-bs-target="#mainNavbar">
+            data-bs-target="#mainNavbar"
+        >
 
             <i class="bi bi-list text-white fs-3"></i>
 
@@ -348,60 +539,93 @@
 
         <div
             class="collapse navbar-collapse"
-            id="mainNavbar">
+            id="mainNavbar"
+        >
 
-            <ul class="navbar-nav ms-auto align-items-lg-center">
+            <ul
+                class="navbar-nav ms-auto align-items-lg-center"
+            >
+
 
                 <li class="nav-item">
-                    <a class="nav-link"
-                       href="index.html">
+
+                    <a
+                        class="nav-link"
+                        href="index.html"
+                    >
                         Home
                     </a>
+
                 </li>
 
+
                 <li class="nav-item">
-                    <a class="nav-link"
-                       href="mps.html">
+
+                    <a
+                        class="nav-link"
+                        href="mps.html"
+                    >
                         MPs
                     </a>
+
                 </li>
 
+
                 <li class="nav-item">
-                    <a class="nav-link active"
-                       href="appointees.html">
+
+                    <a
+                        class="nav-link active"
+                        href="appointees.html"
+                    >
                         Appointees
                     </a>
+
                 </li>
 
+
                 <li class="nav-item">
-                    <a class="nav-link"
-                       href="ministries.html">
+
+                    <a
+                        class="nav-link"
+                        href="ministries.html"
+                    >
                         Ministries
                     </a>
+
                 </li>
 
+
                 <li class="nav-item">
-                    <a class="nav-link"
-                       href="news.html">
+
+                    <a
+                        class="nav-link"
+                        href="news.html"
+                    >
                         News
                     </a>
+
                 </li>
 
+
                 <li class="nav-item">
-                    <a class="nav-link"
-                       href="about.html">
+
+                    <a
+                        class="nav-link"
+                        href="about.html"
+                    >
                         About
                     </a>
+
                 </li>
+
 
                 <li class="nav-item ms-lg-3">
 
                     <a
                         href="mps.html"
-                        class="btn btn-gold">
-
+                        class="btn btn-gold"
+                    >
                         Explore Directory
-
                     </a>
 
                 </li>
@@ -415,17 +639,20 @@
 </nav>
 
 
+
 <!-- =========================
      PROFILE HEADER
-========================= -->
+========================== -->
 
 <section class="profile-header">
 
     <div class="container">
 
+
         <a
             href="appointees.html"
-            class="back-link">
+            class="back-link"
+        >
 
             <i class="bi bi-arrow-left"></i>
 
@@ -433,8 +660,11 @@
 
         </a>
 
+
         <div class="section-label light">
+
             OFFICIAL PROFILE
+
         </div>
 
     </div>
@@ -442,23 +672,30 @@
 </section>
 
 
+
 <!-- =========================
      PROFILE CARD
-========================= -->
+========================== -->
 
 <section>
 
     <div class="container">
 
+
         <div
             class="profile-card"
-            id="profileCard">
+            id="profileCard"
+        >
 
-            <!-- PROFILE TOP -->
+
+            <!-- =========================
+                 PROFILE TOP
+            ========================== -->
 
             <div class="profile-top">
 
                 <div class="row align-items-center g-4">
+
 
                     <!-- PHOTO -->
 
@@ -467,13 +704,15 @@
                         <div class="profile-photo">
 
                             <img
-                                src="images/defence.jpeg"
+                                src="images/profiles/default.jpg"
                                 alt="Appointee"
-                                id="profileImage">
+                                id="profileImage"
+                            >
 
                         </div>
 
                     </div>
+
 
 
                     <!-- DETAILS -->
@@ -482,30 +721,33 @@
 
                         <div class="profile-main">
 
-                            <h1 id="HON. ERIC ADOH">
-                                HON. ERIC ANDOH
+
+                            <h1 id="profileName">
+                                Loading...
                             </h1>
+
 
                             <div
                                 class="profile-position"
-                                id="profilePosition">
-
-                                Minister for Defence
-
+                                id="profilePosition"
+                            >
+                                Loading...
                             </div>
 
 
                             <div class="meta-list">
+
 
                                 <div class="meta-item">
 
                                     <i class="bi bi-building"></i>
 
                                     <span id="profileMinistry">
-                                        Ministry
+                                        —
                                     </span>
 
                                 </div>
+
 
 
                                 <div class="meta-item">
@@ -513,10 +755,11 @@
                                     <i class="bi bi-geo-alt"></i>
 
                                     <span id="profileRegion">
-                                        Christian
+                                        —
                                     </span>
 
                                 </div>
+
 
 
                                 <div class="meta-item">
@@ -524,10 +767,11 @@
                                     <i class="bi bi-calendar3"></i>
 
                                     <span id="profileAppointmentDate">
-                                        25th September, 2026
+                                        —
                                     </span>
 
                                 </div>
+
 
                             </div>
 
@@ -540,7 +784,10 @@
             </div>
 
 
-            <!-- BIOGRAPHY -->
+
+            <!-- =========================
+                 BIOGRAPHY
+            ========================== -->
 
             <div class="profile-section">
 
@@ -548,19 +795,68 @@
                     Biography
                 </h2>
 
+
                 <p id="profileBiography">
-                    Hon. Eric Andoh is an Information Technology student,
-    Front-End Developer and Graphic Designer with a technical
-    background in Electrical and Electronics Engineering. His
-    academic and professional journey reflects a combination
-    of technology, creativity, communication and practical
-    problem-solving.
+                    Loading profile information...
                 </p>
 
             </div>
 
 
-            <!-- PROFESSIONAL INFORMATION -->
+
+            <!-- =========================
+                 PARLIAMENTARY INFORMATION
+            ========================== -->
+
+            <div
+                class="profile-section"
+                id="parliamentaryInfo"
+            >
+
+                <h2>
+                    <i class="bi bi-bank2 me-2"></i>
+                    Parliamentary Information
+                </h2>
+
+
+                <ul class="info-list">
+
+
+                    <li>
+
+                        <strong>
+                            Parliamentary Role
+                        </strong>
+
+                        <span id="profileMPStatus">
+                            Member of Parliament
+                        </span>
+
+                    </li>
+
+
+                    <li>
+
+                        <strong>
+                            Constituency
+                        </strong>
+
+                        <span id="profileConstituency">
+                            —
+                        </span>
+
+                    </li>
+
+
+                </ul>
+
+            </div>
+
+
+
+            <!-- =========================
+                 PROFESSIONAL INFORMATION
+            ========================== -->
 
             <div class="profile-section">
 
@@ -568,7 +864,9 @@
                     Education & Professional Background
                 </h2>
 
+
                 <ul class="info-list">
+
 
                     <li>
 
@@ -590,29 +888,7 @@
                         </strong>
 
                         <span id="profileProfession">
-                           <p>
-
-    Beyond his professional and academic pursuits, Hon. Eric Andoh
-    has developed experience in student and community leadership.
-    His leadership background includes serving as a Course
-    Representative at GCTU, Public Relations Officer of Concerned
-    Youth of Enmokanwo, Committee Chair of the Entrepreneurship
-    Club at GCTU, and Vice President of GNAAS at Kikam Technical
-    Institute.
-
-</p>
-
-
-<p>
-
-    These experiences have provided opportunities to develop
-    communication, coordination, teamwork, public relations,
-    organisational and problem-solving skills. His leadership
-    experience has also involved representing students,
-    communicating important information, supporting programmes
-    and contributing to organisational activities.
-
-</p>
+                            Information to be updated
                         </span>
 
                     </li>
@@ -630,12 +906,16 @@
 
                     </li>
 
+
                 </ul>
 
             </div>
 
 
-            <!-- CONTACT -->
+
+            <!-- =========================
+                 CONTACT
+            ========================== -->
 
             <div class="profile-section">
 
@@ -643,8 +923,11 @@
                     Public Contact
                 </h2>
 
+
                 <div class="contact-grid">
 
+
+                    <!-- EMAIL -->
 
                     <div class="contact-item">
 
@@ -655,11 +938,14 @@
                         </strong>
 
                         <span id="profileEmail">
-                            ericandoh005@gmail.com
+                            Not available
                         </span>
 
                     </div>
 
+
+
+                    <!-- PHONE -->
 
                     <div class="contact-item">
 
@@ -670,11 +956,14 @@
                         </strong>
 
                         <span id="profilePhone">
-                            0542044490
+                            Not available
                         </span>
 
                     </div>
 
+
+
+                    <!-- WEBSITE -->
 
                     <div class="contact-item">
 
@@ -685,7 +974,7 @@
                         </strong>
 
                         <span id="profileWebsite">
-                            https://prof-ericus.github.io/YPG/
+                            Not available
                         </span>
 
                     </div>
@@ -695,33 +984,38 @@
 
             </div>
 
+
         </div>
+
 
 
         <!-- =========================
              NOT FOUND
-        ========================= -->
+        ========================== -->
 
         <div
             class="profile-not-found"
-            id="profileNotFound">
+            id="profileNotFound"
+        >
 
             <i class="bi bi-person-x"></i>
+
 
             <h2>
                 Appointee Not Found
             </h2>
 
+
             <p>
                 The requested profile could not be found.
             </p>
 
+
             <a
                 href="appointees.html"
-                class="btn btn-gold mt-3">
-
+                class="btn btn-gold mt-3"
+            >
                 Back to Appointees
-
             </a>
 
         </div>
@@ -731,25 +1025,32 @@
 </section>
 
 
+
 <!-- =========================
      FOOTER
-========================= -->
+========================== -->
 
 <footer class="footer">
 
     <div class="container">
 
+
         <div class="row g-5">
 
 
+            <!-- BRAND -->
+
             <div class="col-lg-5">
+
 
                 <div class="footer-brand">
 
                     <img
                         src="images/YPG-LOGO.png"
                         alt="Youth Parliament Ghana"
-                        class="site-logo">
+                        class="site-logo"
+                    >
+
 
                     <div>
 
@@ -765,10 +1066,13 @@
 
                 </div>
 
+
                 <p>
+
                     A public directory designed to provide
                     accessible information about parliamentary
                     representatives, appointees and ministries.
+
                 </p>
 
 
@@ -795,19 +1099,25 @@
             </div>
 
 
+
+            <!-- DIRECTORY -->
+
             <div class="col-lg-2 col-md-4">
 
                 <h5>
                     Directory
                 </h5>
 
+
                 <a href="mps.html">
                     Members of Parliament
                 </a>
 
+
                 <a href="appointees.html">
                     Appointees
                 </a>
+
 
                 <a href="ministries.html">
                     Ministries
@@ -816,19 +1126,25 @@
             </div>
 
 
+
+            <!-- EXPLORE -->
+
             <div class="col-lg-2 col-md-4">
 
                 <h5>
                     Explore
                 </h5>
 
+
                 <a href="news.html">
                     News
                 </a>
 
+
                 <a href="about.html">
                     About
                 </a>
+
 
                 <a href="index.html">
                     Home
@@ -837,18 +1153,25 @@
             </div>
 
 
+
+            <!-- INFORMATION -->
+
             <div class="col-lg-3 col-md-4">
 
                 <h5>
                     Information
                 </h5>
 
+
                 <p>
+
                     This directory is intended to provide
                     accessible civic information.
+
                 </p>
 
             </div>
+
 
         </div>
 
@@ -863,6 +1186,7 @@
                 All rights reserved.
             </span>
 
+
             <span>
                 Parliamentary Directory
             </span>
@@ -874,122 +1198,229 @@
 </footer>
 
 
-<!-- Bootstrap -->
+
+<!-- =========================
+     BOOTSTRAP JS
+========================== -->
 
 <script
     src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js">
 </script>
 
 
-<!-- Appointee Data -->
+
+<!-- =========================
+     APPOINTEE DATA
+========================== -->
 
 <script src="js/appointee-data.js"></script>
 
-<!-- Main JS -->
+
+
+<!-- =========================
+     MAIN JS
+========================== -->
 
 <script src="js/main.js"></script>
 
 
-<!-- Dynamic Profile -->
+
+<!-- =========================
+     DYNAMIC PROFILE
+========================== -->
 
 <script>
 
-    const params =
-        new URLSearchParams(window.location.search);
-
-    const appointeeId =
-        params.get("id");
+    document.addEventListener("DOMContentLoaded", function () {
 
 
-    const appointee =
-        appointeeData.find(
-            person => person.id === appointeeId
-        );
+        /* =========================
+           GET PROFILE ID
+        ========================== */
+
+        const params =
+            new URLSearchParams(
+                window.location.search
+            );
 
 
-    if (appointee) {
+        const appointeeId =
+            params.get("id");
+
+
+        /* =========================
+           FIND APPOINTEE
+        ========================== */
+
+        const appointee =
+            Array.isArray(appointeeData)
+                ? appointeeData.find(
+                    person =>
+                        person.id === appointeeId
+                )
+                : null;
+
+
+        /* =========================
+           ELEMENTS
+        ========================== */
+
+        const profileCard =
+            document.getElementById(
+                "profileCard"
+            );
+
+
+        const profileNotFound =
+            document.getElementById(
+                "profileNotFound"
+            );
+
+
+        /* =========================
+           CHECK PROFILE
+        ========================== */
+
+        if (!appointee) {
+
+            profileCard.style.display =
+                "none";
+
+            profileNotFound.style.display =
+                "block";
+
+            document.title =
+                "Profile Not Found | Youth Parliament Ghana";
+
+            return;
+        }
+
+
+        /* =========================
+           PAGE TITLE
+        ========================== */
 
         document.title =
-            appointee.name +
-            " | Youth Parliament Ghana";
+            `${appointee.name} | Youth Parliament Ghana`;
 
+
+        /* =========================
+           BASIC INFORMATION
+        ========================== */
 
         document.getElementById(
             "profileName"
         ).textContent =
-            appointee.name;
+            appointee.name || "—";
 
 
         document.getElementById(
             "profilePosition"
         ).textContent =
-            appointee.position;
+            appointee.position || "—";
 
 
         document.getElementById(
             "profileMinistry"
         ).textContent =
-            appointee.ministry;
+            appointee.ministry || "—";
 
 
         document.getElementById(
             "profileRegion"
         ).textContent =
-            appointee.region;
+            appointee.region || "—";
 
 
         document.getElementById(
             "profileAppointmentDate"
         ).textContent =
-            appointee.appointmentDate;
+            appointee.appointmentDate || "—";
 
+
+        /* =========================
+           BIOGRAPHY
+        ========================== */
 
         document.getElementById(
             "profileBiography"
         ).textContent =
-            appointee.biography;
+            appointee.biography ||
+            "Information to be updated.";
 
+
+        /* =========================
+           PROFESSIONAL INFORMATION
+        ========================== */
 
         document.getElementById(
             "profileEducation"
         ).textContent =
-            appointee.education;
+            appointee.education ||
+            "Information to be updated.";
 
 
         document.getElementById(
             "profileProfession"
         ).textContent =
-            appointee.profession;
+            appointee.profession ||
+            "Information to be updated.";
 
 
         document.getElementById(
             "profileExperience"
         ).textContent =
-            appointee.experience;
+            appointee.experience ||
+            "Information to be updated.";
 
 
-        document.getElementById(
-            "profileEmail"
-        ).textContent =
-            appointee.email;
-
-
-        document.getElementById(
-            "profilePhone"
-        ).textContent =
-            appointee.phone;
-
+        /* =========================
+           PROFILE IMAGE
+        ========================== */
 
         const image =
             document.getElementById(
                 "profileImage"
             );
 
+
         image.src =
-            appointee.image;
+            appointee.image ||
+            "images/profiles/default.jpg";
+
 
         image.alt =
-            appointee.name;
+            appointee.name ||
+            "Appointee";
+
+
+        /* =========================
+           IMAGE FALLBACK
+        ========================== */
+
+        image.onerror = function () {
+
+            this.onerror = null;
+
+            this.src =
+                "images/profiles/default.jpg";
+        };
+
+
+        /* =========================
+           CONTACT
+        ========================== */
+
+        const email =
+            document.getElementById(
+                "profileEmail"
+            );
+
+
+        const phone =
+            document.getElementById(
+                "profilePhone"
+            );
 
 
         const website =
@@ -998,40 +1429,161 @@
             );
 
 
+        email.textContent =
+            appointee.email ||
+            "Not available";
+
+
+        phone.textContent =
+            appointee.phone ||
+            "Not available";
+
+
+        /* =========================
+           EMAIL LINK
+        ========================== */
+
+        if (appointee.email) {
+
+            email.innerHTML =
+                `<a href="mailto:${escapeAttribute(appointee.email)}">
+                    ${escapeHTML(appointee.email)}
+                </a>`;
+
+        } else {
+
+            email.textContent =
+                "Not available";
+        }
+
+
+        /* =========================
+           PHONE LINK
+        ========================== */
+
+        if (appointee.phone) {
+
+            const cleanPhone =
+                String(appointee.phone)
+                    .replace(/[^\d+]/g, "");
+
+
+            phone.innerHTML =
+                `<a href="tel:${escapeAttribute(cleanPhone)}">
+                    ${escapeHTML(appointee.phone)}
+                </a>`;
+
+        } else {
+
+            phone.textContent =
+                "Not available";
+        }
+
+
+        /* =========================
+           WEBSITE
+        ========================== */
+
         if (
             appointee.website &&
             appointee.website !== "#"
         ) {
 
             website.innerHTML =
-                `<a href="${appointee.website}"
+                `<a
+                    href="${escapeAttribute(appointee.website)}"
                     target="_blank"
-                    rel="noopener">
-                    Official Website
+                    rel="noopener noreferrer"
+                >
+                    Visit Official Website
                 </a>`;
 
         } else {
 
             website.textContent =
                 "Not available";
-
         }
 
 
-    } else {
+        /* =========================
+           PARLIAMENTARY INFORMATION
+        ========================== */
 
-        document.getElementById(
-            "profileCard"
-        ).style.display = "none";
+        const parliamentaryInfo =
+            document.getElementById(
+                "parliamentaryInfo"
+            );
 
 
-        document.getElementById(
-            "profileNotFound"
-        ).style.display = "block";
+        const profileMPStatus =
+            document.getElementById(
+                "profileMPStatus"
+            );
 
+
+        const profileConstituency =
+            document.getElementById(
+                "profileConstituency"
+            );
+
+
+        if (appointee.isMP === true) {
+
+            parliamentaryInfo.style.display =
+                "block";
+
+
+            profileMPStatus.textContent =
+                "Member of Parliament";
+
+
+            profileConstituency.textContent =
+                appointee.constituency ||
+                "Information to be updated";
+
+        } else {
+
+            parliamentaryInfo.style.display =
+                "none";
+        }
+
+    });
+
+
+
+    /* =========================
+       ESCAPE HTML
+    ========================== */
+
+    function escapeHTML(value) {
+
+        return String(value)
+            .replace(/&/g, "&amp;")
+            .replace(/</g, "&lt;")
+            .replace(/>/g, "&gt;")
+            .replace(/"/g, "&quot;")
+            .replace(/'/g, "&#039;");
+    }
+
+
+
+    /* =========================
+       ESCAPE ATTRIBUTE
+    ========================== */
+
+    function escapeAttribute(value) {
+
+        return String(value)
+            .replace(/&/g, "&amp;")
+            .replace(/"/g, "&quot;")
+            .replace(/'/g, "&#039;")
+            .replace(/</g, "&lt;")
+            .replace(/>/g, "&gt;");
     }
 
 </script>
 
+
 </body>
+
 </html>
