@@ -1,71 +1,576 @@
-document.addEventListener("DOMContentLoaded", function () {
-
-    /* ===============================
-       NAVBAR SCROLL EFFECT
-    =============================== */
-
-    const navbar = document.querySelector(".navbar");
-
-    window.addEventListener("scroll", function () {
-
-        if (window.scrollY > 50) {
-            navbar.style.boxShadow =
-                "0 5px 25px rgba(0, 0, 0, 0.15)";
-        } else {
-            navbar.style.boxShadow = "none";
-        }
-
-    });
+const mpData = [
+  {
+id: "mp001",
+name: "FAUSTINA LADZAGLAH FIANUDZU",
+position: "Member of Parliament",
+constituency: "Effia Constituency",
+region: "Western",
+parliament: "Youth Parliament Ghana",
+committee: "Information to be updated",
 
 
-    /* ===============================
-       STAT COUNTER
-    =============================== */
+education:
+    "Takoradi Technical University (TTU). Currently pursuing a Bachelor of Technology (BTech) Top-up in Electrical and Electronics Engineering Technology.",
 
-    const counters = document.querySelectorAll("[data-count]");
+profession:
+    "Electrical and Electronics Engineering Technology Student",
 
-    const observer = new IntersectionObserver(
-        function (entries, observer) {
+experience:
+    "Previous Leadership Experience: Communications Officer/Publicity roles within TEIN TTU; Public Relations Officer, Women in Engineering (WiNE) TTU; Entertainment Secretary, Faculty of Engineering. Current Leadership Positions: Youth Member of Parliament, Effia Constituency — Youth Parliament Ghana; Representative to the First Lady of Ghana — Youth Parliament Ghana.",
 
-            entries.forEach(function (entry) {
+biography:
+    "FAUSTINA LADZAGLAH FIANUDZU is a student of Electrical and Electronics Engineering Technology at Takoradi Technical University (TTU), currently pursuing a Bachelor of Technology (BTech) Top-up programme. She has served in various student leadership positions, including Communications Officer/Publicity roles within TEIN TTU, Public Relations Officer for Women in Engineering (WiNE) TTU, and Entertainment Secretary for the Faculty of Engineering. She currently serves as the Youth Member of Parliament for the Effia Constituency under Youth Parliament Ghana and also serves as the Representative to the First Lady of Ghana, Youth Parliament Ghana. Her leadership and community activities focus on youth development, community engagement, drug-abuse prevention and awareness, education, women’s empowerment, STEM and digital skills, entrepreneurship, leadership, menstrual hygiene, youth skills development and educational support. Her vision is to build a more informed, skilled, responsible and empowered generation of young people in the Effia Constituency by creating platforms for youth consultation and engagement and connecting young people to educational, skills-development and entrepreneurship opportunities. She believes that national development begins with empowering young people with knowledge, skills, opportunities and the confidence to participate in decision-making.",
 
-                if (!entry.isIntersecting) return;
+vision:
+    "To build a more informed, skilled, responsible and empowered generation of young people in the Effia Constituency by listening to their needs and connecting them to meaningful opportunities.",
 
-                const counter = entry.target;
-                const target = parseInt(
-                    counter.getAttribute("data-count")
-                );
+plans:
+    "Strengthen communication between young people and relevant institutions; create platforms for youth consultation and engagement; connect young people to educational, skills-development and entrepreneurship opportunities; and encourage active and responsible participation in community and national development.",
 
-                let current = 0;
+leadershipStatement:
+    "I believe every young person deserves to be heard, empowered and given the opportunity to contribute meaningfully to society. My leadership is centred on service, inclusion, opportunity and action.",
 
-                const increment = Math.ceil(target / 50);
+image: "images/Faustina Ladzaglah Fianudzu.jpeg",
+email: "fianudzuf@gmail.com",
+phone: "0597878932",
+website: "#"
 
-                const updateCounter = setInterval(function () {
 
-                    current += increment;
+},
 
-                    if (current >= target) {
-                        current = target;
-                        clearInterval(updateCounter);
-                    }
 
-                    counter.textContent =
-                        current.toLocaleString();
+   {
+    id: "mp002",
+    name: "DENNIS TACHUM",
+    position: "Member of Parliament",
+    constituency: "Krachi West Constituency",
+    region: "Oti",
+    parliament: "Youth Parliament Ghana",
+    committee: "Information to be updated",
 
-                }, 30);
+    education:
+        "Kwame Nkrumah University of Science and Technology (KNUST). Programme: Publishing Studies. Mastercard Foundation Scholar.",
 
-                observer.unobserve(counter);
+    college:
+        "College of Art and Built Environment (CABE)",
 
-            });
+    profession:
+        "Student / Publishing Studies",
 
-        },
-        {
-            threshold: 0.5
-        }
-    );
+    experience:
+        "Previous Experience: NUGS Representative, College of Art and Built Environment (CABE) — KNUST; Deputy Public Relations Officer (PRO), Faculty — KNUST; Course Representative, Publishing Studies — KNUST; Student leadership and representation roles at KNUST. Current Leadership Positions: Youth Member of Parliament, Krachi West Constituency — Youth Parliament Ghana; NUGS Representative, College of Art and Built Environment (CABE) — KNUST; Deputy Public Relations Officer (PRO), Faculty — KNUST; Course Representative, Publishing Studies — KNUST.",
 
-    counters.forEach(function (counter) {
-        observer.observe(counter);
-    });
+    biography:
+        "DENNIS TACHUM is a student of Publishing Studies at the Kwame Nkrumah University of Science and Technology (KNUST) and a Mastercard Foundation Scholar. His leadership journey has been shaped by active participation in student representation, communication, community engagement, and youth leadership. He has served in various representative and leadership roles within the university community, developing experience in advocacy, communication, coordination, and working with diverse groups of young people. He currently serves as the elected Youth Member of Parliament for the Krachi West Constituency under Youth Parliament Ghana, where he represents the interests and concerns of young people within the constituency.",
 
-});
+    image: "images/Dennis Tachum.jpeg",
+    email: "tachumdennis658@gmail.com",
+    phone: "0534506415",
+    website: "#"
+},
+
+  {
+id: "mp003",
+name: "BAADAK DANIEL",
+position: "Member of Parliament",
+constituency: "Atebubu-Amantin Constituency",
+region: "Bono East",
+parliament: "Youth Parliament Ghana",
+committee: "Information to be updated",
+
+
+education:
+    "Primary Education: Saint Martin’s R/C Basic School, Amantin. Junior High School (JHS): Saint Martin’s R/C JHS, Amantin. Senior High School (SHS): Presbyterian Boys’ Secondary School (PRESEC-Legon). Tertiary Education: University of Energy and Natural Resources (UENR). Programme: BSc Computer Engineering.",
+
+profession:
+    "Computer Engineering Student",
+
+experience:
+    "BAADAK DANIEL began his leadership journey from his early education and has served in various leadership and service capacities, including Primary Boys’ Prefect, SHS Class Prefect, Researcher with the Narcotics Control Commission Club, and Member of Parliament, Youth Parliament Ghana. These experiences have contributed to his development as a young leader committed to service, responsibility and community development.",
+
+biography:
+    "BAADAK DANIEL is a Member of Parliament of Youth Parliament Ghana representing the Atebubu-Amantin Constituency in the Bono East Region. He is pursuing a BSc in Computer Engineering at the University of Energy and Natural Resources (UENR), following his education at Saint Martin’s R/C Basic School, Saint Martin’s R/C JHS in Amantin and Presbyterian Boys’ Secondary School (PRESEC-Legon). His leadership journey includes serving as a Primary Boys’ Prefect, SHS Class Prefect and Researcher with the Narcotics Control Commission Club. As a Youth Parliamentarian, he is actively focused on youth engagement, identifying and communicating concerns affecting young people and communities, engaging relevant institutions and stakeholders, promoting youth participation in community development, supporting civic education and responsible citizenship, promoting youth drug education and prevention, and building constructive relationships with community leaders and relevant institutions. He also uses his personal platform, Baadak Talks, to promote ideas, reflection, leadership and personal development.",
+
+vision:
+    "To establish a representation that is accessible, responsible, responsive and connected to the people, while creating an environment where young people can freely raise concerns, participate in constructive dialogue and contribute ideas towards the development of their communities.",
+
+plans:
+    "Strengthen communication between young people and relevant authorities; promote meaningful youth participation in community development; create stronger channels for identifying and reporting youth concerns; encourage civic responsibility and peaceful community engagement; promote education and awareness on substance abuse; build partnerships with relevant institutions and stakeholders; encourage young people to become solution-oriented contributors to their communities; and promote a culture of service, accountability and responsible leadership.",
+
+contribution:
+    "BAADAK DANIEL believes that Ghana’s development requires young people to move beyond being observers of national affairs and become active participants in finding solutions to the challenges facing society. Through his role in Youth Parliament Ghana, he seeks to contribute to national development by promoting youth participation, education, responsible citizenship, community engagement, innovation and constructive dialogue. His long-term aspiration is to help develop a generation of young Ghanaians equipped with the knowledge, confidence and values required to contribute meaningfully to the growth and development of Ghana.",
+
+leadershipStatement:
+    "Leadership is not measured by the position one occupies, but by the lives one touches, the problems one helps solve and the legacy one leaves behind.",
+
+platform:
+    "Baadak Talks — A personal platform through which HON. BAADAK DANIEL shares ideas, reflections and conversations on leadership, philosophy, personal development, society and the realities of life.",
+
+coreValues:
+    "Service • Integrity • Responsibility • Respect • Peace • Accountability • Youth Empowerment • Community Development",
+
+motto:
+    "Youth Leadership. National Development.",
+
+areasOfInterest:
+    "Youth development • Education • Technology and innovation • Community development • Civic participation • Drug education and prevention • Responsible youth leadership • Entrepreneurship and personal development",
+
+image: "images/Hon. Baadak Daniel.png",
+email: "baadakdaniel@gmail.com",
+phone: "0559624663",
+website: "#"
+
+
+},
+{
+    id: "mp004",
+    name: "OSEI KWADWO BLESS",
+    position: "Member of Parliament",
+    constituency: "Bia East Constituency",
+    region: "Western North",
+    parliament: "Youth Parliament Ghana",
+    committee: "Information to be updated",
+
+    education:
+        "Kwadaso Agricultural College — Graduate.",
+
+    profession:
+        "Agricultural Entrepreneur / Self-Employed",
+
+    experience:
+        "OSEI KWADWO BLESS has served in student leadership positions at Kwadaso Agricultural College, including SRC Financial Secretary and Vice President of NUSSA. He currently serves as the Youth Member of Parliament for the Bia East Constituency under Youth Parliament Ghana.",
+
+    biography:
+        "OSEI KWADWO BLESS is the Youth Member of Parliament for the Bia East Constituency under Youth Parliament Ghana. He is a graduate of Kwadaso Agricultural College and has experience in student leadership, having served as SRC Financial Secretary and Vice President of NUSSA at the institution. He is currently self-employed and involved in agricultural production, producing crops including cucumbers, tomatoes and pepper. His leadership focus includes connecting young people to apprenticeships, internships and job opportunities, while creating practical systems to help young people access relevant opportunities.",
+
+    vision:
+        "To connect young people to meaningful opportunities, including apprenticeships, internships, employment, training and entrepreneurship opportunities.",
+
+    plans:
+        "Build a database of young people and their skills, businesses, educational backgrounds and areas of interest to help connect them with relevant opportunities. Regularly share verified information about scholarships, internships, jobs, training programmes and entrepreneurship opportunities with young people in the constituency.",
+
+    contribution:
+        "OSEI KWADWO BLESS seeks to contribute to national development by creating opportunities for young people to learn Agriculture and Agribusiness, recognising the importance of agriculture to Ghana's development.",
+
+    currentActivities:
+        "Currently self-employed and involved in the production of agricultural products including cucumbers, tomatoes and pepper.",
+
+    image:
+        "images/osei bless1.jpeg",
+
+    email:
+        "oseibless15@gmail.com",
+
+    phone:
+        "0530426377",
+
+    website:
+        "#"
+},
+{
+    id: "mp005",
+    name: "ADIZA OSMAN",
+    position: "Member of Parliament",
+    constituency: "Subin Constituency",
+    region: "Ashanti",
+    parliament: "Youth Parliament Ghana",
+    committee: "Information to be updated",
+
+    education:
+        "Kumasi Technical University (KsTU) — BSc in Supply Chain Management.",
+
+    profession:
+        "Supply Chain Management Graduate",
+
+    experience:
+        "ADIZA OSMAN has experience in leadership, administration, youth engagement and community activities. She previously served as the Women's Commissioner of KsTU TEIN, where she worked with young people and women on various activities and programmes. She currently serves as the Subin Constituency Youth MP under Youth Parliament Ghana, representing young people and working towards their development and empowerment.",
+
+    biography:
+        "ADIZA OSMAN is the Youth Member of Parliament for the Subin Constituency in the Ashanti Region under Youth Parliament Ghana. She holds a BSc in Supply Chain Management from Kumasi Technical University (KsTU). Her leadership experience includes serving as the Women's Commissioner of KsTU TEIN, where she engaged with young people and women through various activities and programmes. As the Subin Constituency Youth MP, she represents the concerns and interests of young people and seeks to contribute to their development and empowerment.",
+
+    vision:
+        "To establish a youth office that listens to the concerns of young people and gives them the opportunity to participate meaningfully in the development of the Subin Constituency.",
+
+    plans:
+        "Organise regular engagements with young people and help connect them to skills training, entrepreneurship, education, employment and other opportunities.",
+
+    contribution:
+        "ADIZA OSMAN seeks to contribute to youth development and empowerment by promoting youth engagement and connecting young people with relevant skills, educational, entrepreneurial and employment opportunities.",
+
+    image:
+        "images/Adiza.jpeg",
+
+    email:
+        "adizaosman163@gmail.com",
+
+    phone:
+        "0257995168",
+
+    website:
+        "#"
+},
+{
+    id: "mp006",
+    name: "IMAN IDDRISU",
+    position: "Member of Parliament",
+    constituency: "Kwabre East Constituency",
+    region: "Ashanti",
+    parliament: "Youth Parliament Ghana",
+    committee: "Information to be updated",
+
+    education:
+        "Basic Education: Rock of Ages Int'l School and Buokrom M/A 'A'. Secondary Education: Ejisuman Senior High School. Tertiary Education: Garden City University.",
+
+    profession:
+        "BSc Nursing Student — Garden City University",
+
+    experience:
+        "IMAN IDDRISU has held several leadership positions throughout his educational journey. He served as Senior Boys Prefect at Buokrom M/A 'A' from 2017–2018. He later served as GMSA President at Ejisuman Senior High School from 2020–2021. At Garden City University, he served as TEIN Electoral Commission Chairman from 2024–2025, TEIN Financial Secretary from 2025–2026, and GMSA President from 2026–2027. He currently serves as the Youth Member of Parliament for the Kwabre East Constituency under Youth Parliament Ghana.",
+
+    biography:
+        "IMAN IDDRISU is a BSc Nursing student at Garden City University in the Ashanti Region and currently serves as the Youth Member of Parliament for the Kwabre East Constituency under Youth Parliament Ghana. He began his leadership journey at the basic school level, serving as Senior Boys Prefect at Buokrom M/A 'A'. He continued his leadership development at Ejisuman Senior High School, where he served as GMSA President. At Garden City University, he has held leadership positions including TEIN Electoral Commission Chairman, TEIN Financial Secretary and GMSA President. Through these roles, he has gained experience in student leadership, administration, representation and youth engagement.",
+
+    currentActivities:
+        "Currently pursuing a BSc in Nursing at Garden City University and serving as the Youth Member of Parliament for the Kwabre East Constituency under Youth Parliament Ghana.",
+
+    image:
+        "images/Iman.jpeg",
+
+    email:
+        "iddrisuiman@gmail.com",
+
+    phone:
+        "0249663462",
+
+    website:
+        "#"
+},
+{
+    id: "mp007",
+    name: "OBENG MANU BLESSING",
+    position: "Member of Parliament",
+    constituency: "Kumawu Constituency",
+    region: "Ashanti",
+    parliament: "Youth Parliament Ghana",
+    committee: "Information to be updated",
+
+    education:
+        "University of Energy and Natural Resources (UENR), Sunyani.",
+
+    profession:
+        "Student",
+
+    experience:
+        "OBENG MANU BLESSING currently serves as the Youth Member of Parliament for the Kumawu Constituency under Youth Parliament Ghana. He is actively involved in youth development and has convened youth-focused initiatives, including free educational support programmes aimed at supporting young people in rural communities.",
+
+    biography:
+        "HON. OBENG MANU BLESSING is a young leader and Youth Member of Parliament for the Kumawu Constituency under Youth Parliament Ghana. He is committed to youth development and represents the voice, aspirations and concerns of young people within the constituency. He is an advocate for accessible and quality education as a tool for transformation and has convened youth-focused initiatives, including free educational support programmes aimed at helping bridge educational gaps for young people in rural communities. His leadership approach focuses on serving young people and creating opportunities that can support their development and progress.",
+
+    vision:
+        "To build a Sekyere Kumawu where every young person has the education, skills and support to succeed.",
+
+    mission:
+        "To empower, to educate, and to elevate Sekyere Kumawu.",
+
+    contribution:
+        "OBENG MANU BLESSING seeks to contribute to youth development by promoting accessible education, supporting young people in rural communities and creating opportunities for youth empowerment and development.",
+
+    image:
+        "images/Obeng.jpeg",
+
+    email:
+        "blessingobengmanu1@gmail.com",
+
+    phone:
+        "Official contact to be added",
+
+    website:
+        "https://www.instagram.com/kay_bless77?stkn=dHYxamw1cTNmYTNo"
+},
+{
+    id: "mp008",
+    name: "HKELVIN GBAFFAH BOAKYE YIADOM",
+    position: "Member of Parliament",
+    constituency: "Trobu Constituency",
+    region: "Greater Accra",
+    parliament: "Youth Parliament Ghana",
+    committee: "Information to be updated",
+
+    education:
+        "University of Ghana — Currently pursuing a Bachelor of Education. Also engaged in theological studies.",
+
+    profession:
+        "Educator-in-Training / Student",
+
+    experience:
+        "KELVIN GBAFFAH BOAKYE YIADOM is currently serving as the Youth Member of Parliament for the Trobu Constituency under Youth Parliament Ghana. His interests and activities include youth leadership, civic participation, education, governance and community development.",
+
+    biography:
+        "KELVIN GBAFFAH BOAKYE YIADOM is a young Ghanaian leader, educator-in-training and youth governance advocate. He is currently pursuing a Bachelor of Education at the University of Ghana and is also engaged in theological studies. He is passionate about youth leadership, civic participation, education, governance and community development. He currently serves as the Youth Member of Parliament for the Trobu Constituency under Youth Parliament Ghana, where he seeks to strengthen youth representation, promote grassroots engagement and connect young people with leadership, educational and developmental opportunities.",
+
+    vision:
+        "To strengthen youth representation, promote grassroots engagement and connect young people with leadership, educational and developmental opportunities.",
+
+    plans:
+        "Promote meaningful youth engagement and representation while connecting young people in the Trobu Constituency to leadership, educational and developmental opportunities.",
+
+    contribution:
+        "To contribute to youth development through civic participation, education, grassroots engagement, youth governance and community development.",
+
+    image:
+        "images/Boakye.jpeg",
+
+    email:
+        "Official contact to be added",
+
+    phone:
+        "Official contact to be added",
+
+    website:
+        "#"
+},
+{
+    id: "mp009",
+    name: "EUGENE OFORI-ATTA",
+    position: "Member of Parliament",
+    constituency: "Abuakwa South Constituency",
+    region: "Eastern",
+    parliament: "Youth Parliament Ghana",
+    committee: "Information to be updated",
+
+    education:
+        "University of Ghana, Legon — University of Ghana Business School. BSc Administration. Previous School: St. Luke Senior High School.",
+
+    profession:
+        "BSc Administration Student / Youth Empowerment Advocate",
+
+    experience:
+        "EUGENE OFORI-ATTA has held several leadership and professional roles. He currently serves as the Youth Member of Parliament for the Abuakwa South Constituency under Youth Parliament Ghana and as Minority Leader of the University of Ghana Commonwealth Hall Parliament. He is the Founder and Executive Director of NOAI Foundation, CEO of the Skill to Income Initiative, Creative Director of The Bridge Method (Afrovivo International Ltd), and has served as Special Advisor to the President of Commonwealth Hall. He also previously served as Head-Boy Assistant at Kibi M/A from primary through JHS and as Ironing Floor Supervisor at Lifestyle Textiles and Exports Limited.",
+
+    biography:
+        "EUGENE OFORI-ATTA, also known as Nana Batafour, is a youth empowerment advocate, student leader and community development organiser. He is currently pursuing a BSc Administration at the University of Ghana Business School and serves as the Youth Member of Parliament for the Abuakwa South Constituency under Youth Parliament Ghana. He also serves as the Representative of the Ghana Cocoa Board to Youth Parliament Ghana. Through the NOAI Foundation and the Skill to Income Movement, he has been involved in youth-focused skills development programmes, including training in hard and soft skills. He has also directed and organised initiatives such as the Skill to Income Movement Training Day, From Vision to Venture Entrepreneurship Summit, Youth Energy Bridge Summit and other youth development activities.",
+
+    vision:
+        "To promote youth rights, accountability and economic empowerment while creating practical opportunities that enable young people to develop skills, pursue entrepreneurship and participate meaningfully in community and national development.",
+
+    plans:
+        "Strengthen youth representation and engagement in the Abuakwa South Constituency; expand access to skills training, entrepreneurship and economic opportunities; promote youth participation in civic and community development; and connect young people with programmes that can support their personal and professional development.",
+
+    contribution:
+        "Through the Skill to Income Movement and other youth-focused initiatives, EUGENE OFORI-ATTA has worked to provide young people with practical hard and soft skills. His initiatives include training in Nail Technology, Lash Technology, Beads Making, Soap Making and Make-Up Application, as well as entrepreneurship and youth development programmes.",
+
+    currentActivities:
+        "Currently pursuing BSc Administration at the University of Ghana Business School, serving as Youth MP for Abuakwa South Constituency, representing the Ghana Cocoa Board to Youth Parliament Ghana, and working through NOAI Foundation and The Bridge Method on youth empowerment, creative strategy and community development initiatives.",
+
+    skills:
+        "Youth Program Design & Event Direction • Creative and Brand Strategy • Public Speaking • Partnership Development • Political and Civic Communications",
+
+    communityProjects:
+        "Skill to Income Movement (SIM) Training Day • From Vision to Venture Entrepreneurship Summit • AquaLight Saltwater-Lamp Rural Electrification Project • Youth Energy Bridge Summit (YEBS) 2026 • Youth Democracy Summit 2026",
+
+    awards:
+        "Skill to Income Movement Award • Youth MP of the Year — GYEA",
+
+    organizations:
+        "NOAI Foundation — Founder • The Bridge Method / Afrovivo International Ltd — Creative Director • University of Ghana Business School",
+
+    image:
+        "images/Attah.jpeg",
+
+    email:
+        "voiceofabuakwasouth@gmail.com",
+
+    phone:
+        "0202744117",
+
+    website:
+        "https://www.instagram.com/eugene_nana_batafour_oforiatta?stkn=ang1Yjh1bGtlazZ3&utm_source=qr"
+},
+{
+    id: "mp010",
+    name: "BOSOMTWE JAMES",
+    position: "Member of Parliament",
+    constituency: "Tarkwa Nsuaem Constituency",
+    region: "Western",
+    parliament: "Youth Parliament Ghana",
+    committee: "Information to be updated",
+
+    education:
+        "Takoradi Technical Institute — 2019–2022. Takoradi Technical University — 2022–2026.",
+
+    profession:
+        "Student",
+
+    experience:
+        "BOSOMTWE JAMES is currently serving as the SRC Organizer at Takoradi Technical University. He also serves as the Youth Member of Parliament for the Tarkwa Nsuaem Constituency under Youth Parliament Ghana.",
+
+    biography:
+        "BOSOMTWE JAMES is the Youth Member of Parliament for the Tarkwa Nsuaem Constituency in the Western Region under Youth Parliament Ghana. He attended Takoradi Technical Institute from 2019 to 2022 and continued his education at Takoradi Technical University from 2022 to 2026. He is currently serving as the SRC Organizer at Takoradi Technical University. His youth engagement focuses on outreach and informing young people about Youth Parliament Ghana, while encouraging collective efforts to support the development and wellbeing of the youth.",
+
+    vision:
+        "To create opportunities that can support young people in education, employment, skills development and their transition into meaningful work.",
+
+    plans:
+        "Organise outreach activities to educate young people about Youth Parliament Ghana and help connect them to school opportunities, National Service Scheme (NSS) opportunities, jobs and other relevant opportunities.",
+
+    contribution:
+        "BOSOMTWE JAMES seeks to contribute to youth development by connecting young people with opportunities and creating awareness about Youth Parliament Ghana. He believes that even small contributions can make a meaningful difference in the lives of young people.",
+
+    currentActivities:
+        "Currently serving as SRC Organizer at Takoradi Technical University and as Youth Member of Parliament for the Tarkwa Nsuaem Constituency under Youth Parliament Ghana.",
+
+    image:
+        "images/james.jpeg",
+
+    email:
+        "jamesbosomtwe21@gmail.com",
+
+    phone:
+        "0240931915",
+
+    website:
+        "#"
+},
+{
+    id: "mp011",
+    name: "TEYE ADEPA GRACELOVE",
+    position: "Member of Parliament",
+    constituency: "Tema Central Constituency",
+    region: "Greater Accra",
+    parliament: "Youth Parliament Ghana",
+    committee: "Information to be updated",
+
+    education:
+        "JHS: Sakumono School Complex. SHS: Lashibi Senior High School (Community SHS). University: University of Professional Studies, Accra (UPSA).",
+
+    profession:
+        "Youth Leader / Entrepreneur",
+
+    experience:
+        "TEYE ADEPA GRACELOVE has held leadership positions at both secondary and tertiary levels. She served as Protocol Prefect during her senior high school education and later served as Women Commissioner in her department at the University of Professional Studies, Accra (UPSA). She has also served as a Member of Parliament at UPSA and currently serves as the Youth Member of Parliament for the Tema Central Constituency under Youth Parliament Ghana.",
+
+    biography:
+        "TEYE ADEPA GRACELOVE is a young Ghanaian leader and Youth Member of Parliament for the Tema Central Constituency under Youth Parliament Ghana. She is passionate about serving her constituency with integrity, youth empowerment and community development. Her leadership experience includes serving as Protocol Prefect at the senior high school level, Women Commissioner in her department at UPSA, and a Member of Parliament at UPSA. Through her current role as Youth MP, she is committed to representing and serving young people within the Tema Central Constituency.",
+
+    vision:
+        "To serve the Tema Central Constituency with integrity while promoting youth empowerment and community development.",
+
+    plans:
+        "To promote youth empowerment, strengthen youth participation and support initiatives that contribute to the development of young people and the wider community.",
+
+    contribution:
+        "TEYE ADEPA GRACELOVE seeks to contribute to youth development through leadership, youth empowerment and community-focused engagement.",
+
+    currentActivities:
+        "Currently serving as the Youth Member of Parliament for the Tema Central Constituency under Youth Parliament Ghana and pursuing her studies at the University of Professional Studies, Accra (UPSA).",
+
+    image:
+        "images/Hon. Teye Adepa Gracelove.png",
+
+    email:
+        "gracelovexr@gmail.com",
+
+    phone:
+        "0536736946",
+
+    website:
+        "https://www.instagram.com/mclovereign"
+},
+{
+    id: "mp012",
+    name: "MOHAMMED ZAKARIA IDDRISU",
+    position: "Member of Parliament",
+    constituency: "Wassa Amenfi West Constituency",
+    region: "Western",
+    parliament: "Youth Parliament Ghana",
+    committee: "Composition of Parliament Leadership",
+
+    education:
+        "Currently pursuing Pharmaceutical Sciences at Kumasi Technical University (KsTU), Kumasi, Ashanti Region. Secondary Education: Islamic Senior High School, Kumasi. Basic Education: St. Mary's Catholic Basic School and Samreboi M/A Junior High School, Samreboi, Wassa Amenfi West, Western Region.",
+
+    profession:
+        "Pharmaceutical Sciences Student / Entrepreneur",
+
+    experience:
+        "MOHAMMED ZAKARIA IDDRISU has experience in student leadership, welfare administration, youth development, entrepreneurship and community engagement. He currently serves as Judicial Chairperson of the Faculty of Health and Allied Sciences Students' Association (FHSSA), KsTU, and Welfare Chairperson of PHARM.SSAG-KsTU. He is also the Founder of the Elevate African Youth Foundation and Chief Executive Officer of Lumina Adiel Company Limited. His previous leadership positions include President of NAHSAG-KsTU, Class Representative at KsTU and Dispensary Prefect at Islamic Senior High School.",
+
+    biography:
+        "MOHAMMED ZAKARIA IDDRISU is a Ghanaian youth leader, student and entrepreneur from Samreboi in the Wassa Amenfi West Constituency of the Western Region. He currently serves as the Youth Member of Parliament for the Wassa Amenfi West Constituency under Youth Parliament Ghana, where he contributes to youth representation, dialogue and participation in matters affecting young people and their communities. He is currently pursuing Pharmaceutical Sciences at Kumasi Technical University. Alongside his academic pursuits, he has developed experience in student leadership, welfare administration, youth development, entrepreneurship and community engagement. Through his parliamentary role and wider community engagements, he seeks to listen to young people, understand the challenges they face and contribute to practical conversations and initiatives that support their development.",
+
+    vision:
+        "To contribute to a generation of young Ghanaians who are informed, empowered, responsible and actively involved in shaping their communities and the future of the country.",
+
+    plans:
+        "Promote meaningful youth participation and engagement while contributing to discussions and initiatives concerning education, employment and skills development, entrepreneurship, health, community development, sports, civic participation and youth empowerment.",
+
+    contribution:
+        "MOHAMMED ZAKARIA IDDRISU seeks to connect the voices and aspirations of young people with constructive dialogue, leadership development and national development. His approach to leadership is centred on service, consultation, accountability, inclusion and constructive engagement.",
+
+    parliamentaryRole:
+        "As Youth Member of Parliament for Wassa Amenfi West Constituency, he represents the constituency within Youth Parliament Ghana, contributes to parliamentary deliberations, engages on issues affecting young people and participates constructively in the work and development of the institution.",
+
+    leadershipPhilosophy:
+        "Proactive Leadership",
+
+    organizations:
+        "Elevate African Youth Foundation — Founder • Lumina Adiel Company Limited — Chief Executive Officer • FHSSA-KsTU • PHARM.SSAG-KsTU",
+
+    image:
+        "images/zakaria.jpeg",
+
+    email:
+        "mzakariaiddrisu@gmail.com",
+
+    phone:
+        "0537363388 / 0501279443",
+
+    website:
+        "#"
+},
+{
+    id: "mp013",
+    name: "ABUU DAUDA",
+    position: "Member of Parliament",
+    constituency: "Tain Constituency",
+    region: "Bono",
+    parliament: "Youth Parliament Ghana",
+    committee: "Information to be updated",
+
+    education:
+        "Degree in Political Science Education.",
+
+    profession:
+        "Service Personnel",
+
+    experience:
+        "ABUU DAUDA has experience in student leadership and public service. He previously served as Sanitation Prefect at the JHS level and later served as a member of the Electoral Commission of the Political Science Students' Association (POSSA) at the University of Education, Winneba (UEW). He currently serves as the NASPA President for Wenchi Municipality and is the Youth Member of Parliament for the Tain Constituency under Youth Parliament Ghana.",
+
+    biography:
+        "ABUU DAUDA is the Youth Member of Parliament for the Tain Constituency in the Bono Region under Youth Parliament Ghana. He holds a degree in Political Science Education and is currently a Service Personnel. His leadership journey began at the basic school level, where he served as Sanitation Prefect. At the University of Education, Winneba, he served as a member of the Electoral Commission of the Political Science Students' Association (POSSA). He currently serves as the NASPA President for Wenchi Municipality, bringing experience in student leadership, representation and public service to his role as a Youth Member of Parliament.",
+
+    vision:
+        "To represent the interests and concerns of young people in the Tain Constituency and contribute meaningfully to youth development and community service.",
+
+    plans:
+        "Promote youth participation, representation and engagement while supporting initiatives that contribute to the development and empowerment of young people in the Tain Constituency.",
+
+    contribution:
+        "ABUU DAUDA seeks to contribute to youth development through leadership, public service, youth representation and community engagement.",
+
+    currentActivities:
+        "Currently serving as NASPA President for Wenchi Municipality and as the Youth Member of Parliament for the Tain Constituency under Youth Parliament Ghana.",
+
+    image:
+        "images/Abuu.jpeg",
+
+    email:
+        "abuudauda249@gmail.com",
+
+    phone:
+        "0246204257",
+
+    website:
+        "#"
+},
+
+];
