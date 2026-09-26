@@ -276,7 +276,7 @@ website: "#"
         "OBENG MANU BLESSING seeks to contribute to youth development by promoting accessible education, supporting young people in rural communities and creating opportunities for youth empowerment and development.",
 
     image:
-        "images/Obeng.jpeg",
+        "images/obeng.jpeg",
 
     email:
         "blessingobengmanu1@gmail.com",
