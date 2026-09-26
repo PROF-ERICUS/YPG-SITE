@@ -824,7 +824,7 @@ website: "#"
     website:
         "#"
 },
-  {
+{
     id: "mp019",
     name: "EMMANUEL AWORTWE",
     position: "Member of Parliament",
@@ -967,7 +967,8 @@ website: "#"
 
     website: "#"
 },
-  {
+
+{
     id: "mp022",
     name: "DARKO ASIEDU EBENEZER",
     position: "Member of Parliament",
@@ -1003,7 +1004,8 @@ website: "#"
 
     website: "#"
 },
-  {
+
+{
     id: "mp023",
     name: "MUSTAPHA ISSAH",
     position: "Member of Parliament",
@@ -1253,8 +1255,5 @@ parliament: "Youth Parliament Ghana",
     linkedin: "#",
     tiktok: "#"
 },
-
-
-
 
 ];
