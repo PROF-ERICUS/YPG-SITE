@@ -572,5 +572,258 @@ website: "#"
     website:
         "#"
 },
+  {
+    id: "mp014",
+    name: "BENEDICTA ASANTEWAA AMANKWAH",
+    position: "Member of Parliament",
+    constituency: "Tano North Constituency",
+    region: "Ahafo",
+    parliament: "Youth Parliament Ghana",
+    committee: "Information to be updated",
+
+    education:
+        "Primary: Great Ebenezer Preparatory School — Girls Prefect, 2017/2018 year group. Secondary: Yaa Asantewaa Girls’ Senior High School. Tertiary: University of Professional Studies, Accra (UPSA) — Peer Counseling Team; Organizer and Treasurer, Peer Counseling UPSA, 2024–2025.",
+
+    profession:
+        "Service Personnel / Administrative Assistant",
+
+    experience:
+        "BENEDICTA ASANTEWAA AMANKWAH has experience in student leadership, peer counseling, administration and youth representation. She served as Girls Prefect at Great Ebenezer Preparatory School for the 2017/2018 year group. At the University of Professional Studies, Accra (UPSA), she was part of the Peer Counseling Team and served as Organizer and Treasurer of Peer Counseling UPSA from 2024–2025. She currently serves as General Secretary of the National Service Personnel Association (NASPA) for the Tano North Constituency.",
+
+    biography:
+        "BENEDICTA ASANTEWAA AMANKWAH is a young leader from the Tano North Constituency in the Ahafo Region and a Youth Member of Parliament under Youth Parliament Ghana. She is a graduate of the University of Professional Studies, Accra (UPSA), where she participated in the Peer Counseling Team and served as Organizer and Treasurer of Peer Counseling UPSA from 2024–2025. She currently serves as a service personnel at St. John of God Hospital, Duayaw Nkwanta, as an Administrative Assistant, while also serving as General Secretary of NASPA for the Tano North Constituency for the 2025/2026 year group.",
+
+    vision:
+        "To make Tano North a place where young people have the skills, opportunities and support to grow and reach their full potential.",
+
+    plans:
+        "Work through partnerships to address the priorities of young people in Tano North. She intends to work closely with the sitting MP to channel youth priorities into practical decisions and promote accountable, partnership-driven development rather than making promises without action.",
+
+    contribution:
+        "BENEDICTA ASANTEWAA AMANKWAH intends to make her office a direct channel for the voices of young people in Tano North, ensuring that their concerns and priorities are heard and addressed. By empowering young people with skills, opportunities and a voice in decision-making, she seeks to contribute to building a more capable and engaged generation that can participate in national development.",
+
+    currentActivities:
+        "Currently serving as a Service Personnel and Administrative Assistant at St. John of God Hospital, Duayaw Nkwanta, and as General Secretary of NASPA for the Tano North Constituency for the 2025/2026 year group.",
+
+    image:
+        "images/Benedicta.jpeg",
+
+    email:
+        "benedictaamankwah1998@gmail.com",
+
+    phone:
+        "0547188439",
+
+    website:
+        "#"
+},
+{
+    id: "mp015",
+    name: "FIRDAUS MUMUNI",
+    position: "Member of Parliament",
+    constituency: "Essikado Ketan Constituency",
+    region: "Western",
+    parliament: "Youth Parliament Ghana",
+    committee: "Information to be updated",
+
+    education:
+        "Basic Education: Nkroful M/A JHS. Secondary Education: Axim Girls’ Senior High School. Tertiary Education: Kwame Nkrumah University of Science and Technology (KNUST) — Bachelor of Science in Agriculture. Professional Training: Virtual Assistant training from Affluence Academy.",
+
+    profession:
+        "Agriculture Graduate / Youth Leader",
+
+    experience:
+        "FIRDAUS MUMUNI began his leadership journey by serving as School Prefect during both his primary and junior high school education. At KNUST, he served as Presidential Envoy for the International Association of Students in Agricultural and Related Sciences (IAAS), KNUST Chapter, and Deputy Organizing Secretary for the College of Agriculture and Natural Resources, KNUST. He also received professional training as a Virtual Assistant from Affluence Academy, developing administrative, communication and organizational skills.",
+
+    biography:
+        "FIRDAUS MUMUNI is a young Ghanaian leader and graduate of Kwame Nkrumah University of Science and Technology (KNUST), where he obtained a Bachelor of Science in Agriculture. He is passionate about youth development, leadership, community service and creating practical opportunities for young people to contribute meaningfully to national development. He currently serves as the Youth Member of Parliament for the Essikado Ketan Constituency under Youth Parliament Ghana. His leadership approach focuses on listening to young people, connecting them to useful opportunities and encouraging active participation in community development.",
+
+    vision:
+        "To empower, encourage action and connect young people to the skills, networks and opportunities they need to contribute meaningfully to their communities and national development.",
+
+    agenda:
+        "Empower • Act • Connect",
+
+    plans:
+        "Promote practical youth empowerment, community development, environmental action, networking and career development. Create opportunities for young people to develop practical skills, connect with mentors, professionals, organizations and businesses, and encourage community participation in addressing local challenges.",
+
+    contribution:
+        "FIRDAUS MUMUNI seeks to contribute to national development by encouraging young Ghanaians to become active contributors to their communities rather than merely beneficiaries of development. Through youth empowerment, leadership development, community engagement and stronger connections between young people and opportunities, he seeks to support the development of an active, skilled and responsible generation of young Ghanaian leaders.",
+
+    currentActivities:
+        "Currently serving as the Youth Member of Parliament for the Essikado Ketan Constituency under Youth Parliament Ghana, engaging young people, understanding challenges affecting them and building relationships and partnerships that can create practical opportunities for development.",
+
+    skills:
+        "Youth Leadership • Community Engagement • Administrative Skills • Communication • Organization • Networking • Career Development",
+
+    image:
+        "images/mumuni.jpeg",
+
+    email:
+        "mumunifirdaus10@gmail.com",
+
+    phone:
+        "0207503678",
+
+    website:
+        "#"
+},
+{
+    id: "mp016",
+    name: "SAKIBU ALHASSAN",
+    position: "Member of Parliament",
+    constituency: "Awutu Senya West Constituency",
+    region: "Central",
+    parliament: "Youth Parliament Ghana",
+    committee: "Information to be updated",
+
+    education:
+        "JHS: Kumbe Opeikuma Islamic School. SHS: Africana Senior High School. University: University of Professional Studies, Accra (UPSA).",
+
+    profession:
+        "Student",
+
+    experience:
+        "SAKIBU ALHASSAN has leadership experience at both the JHS and university levels. During his JHS education, he served as a Sectional Leader. At the University of Professional Studies, Accra (UPSA), he is a member of the Sports Committee of his department. He currently serves as the Youth Member of Parliament for the Awutu Senya West Constituency under Youth Parliament Ghana.",
+
+    biography:
+        "SAKIBU ALHASSAN is a young Ghanaian passionate about humanitarian work and leadership. He serves as the Youth Member of Parliament for the Awutu Senya West Constituency under Youth Parliament Ghana. He is committed to serving his constituency with probity, empowering youth voices and contributing to youth resource development. His leadership experience includes serving as a Sectional Leader at the JHS level and as a member of the Sports Committee in his department at UPSA. In his capacity as Youth MP, he is dedicated to championing the voices and interests of young people in his constituency.",
+
+    vision:
+        "To serve the Awutu Senya West Constituency with probity while empowering young people and strengthening youth participation and resource development.",
+
+    plans:
+        "Promote youth participation and ensure that the voices and concerns of young people in the Awutu Senya West Constituency are represented through meaningful engagement and leadership.",
+
+    contribution:
+        "SAKIBU ALHASSAN seeks to contribute to youth development through humanitarian service, youth representation, leadership and the empowerment of young people to participate meaningfully in their communities.",
+
+    currentActivities:
+        "Currently pursuing studies at the University of Professional Studies, Accra (UPSA), serving on the Sports Committee of his department and serving as the Youth Member of Parliament for the Awutu Senya West Constituency under Youth Parliament Ghana.",
+
+    image:
+        "images/sakibu.jpeg",
+
+    email:
+        "sakibalhassan377@gmail.com",
+
+    phone:
+        "0200396902",
+
+    website:
+        "https://www.linkedin.com/in/alhassan-sakibu-703048420?utm_source=share_via&utm_content=profile&utm_medium=member_ios"
+},
+{
+    id: "mp017",
+    name: "IBRAHIM IMORO",
+    position: "Member of Parliament",
+    constituency: "Ayawaso East Constituency",
+    region: "Greater Accra",
+    parliament: "Youth Parliament Ghana",
+    committee: "Information to be updated",
+
+    education:
+        "BSc Information Technology (In Progress) — Accra Institute of Technology (AIT), Accra, Ghana. Coursework includes Project Management, Systems Analysis & Design, and IT Operations. WASSCE — Bawku Senior High/Technical School.",
+
+    profession:
+        "Legal Writer & Constitutional Literacy Advocate / Public Speaker / Author / Founder, ClearLawGh / President, AIT Debate Club",
+
+    experience:
+        "IBRAHIM IMORO founded ClearLawGh, a legal and constitutional literacy initiative, in 2025. He is also President and Founder of the AIT Debate Club, a position he has held since 2024. His previous experience includes serving as an Operations Lead (Intern) from January 2024 to November 2025, Production & Team Coordinator (Intern) from January 2023 to December 2023, and School & Discipline Prefect prior to joining AIT.",
+
+    biography:
+        "IBRAHIM IMORO is a young Ghanaian leader, legal writer, constitutional literacy advocate, public speaker and author. He is the Founder of ClearLawGh, a legal and constitutional literacy initiative, and author of Constitutional Truth (\"FAKE LAW\"), a published work focused on constitutional rights and remedies. He is also the President and Founder of the AIT Debate Club. Ibrahim has been involved in public discussions on constitutional and civic issues and has appeared as a studio guest on Prime Insight (Joy Prime) and as a regular guest on AIT TV and JoyLearning TV. He currently serves as the Youth Member of Parliament for the Ayawaso East Constituency under Youth Parliament Ghana.",
+
+    vision:
+        "To promote legal and constitutional literacy, informed civic participation and meaningful youth engagement in the Ayawaso East Constituency.",
+
+    plans:
+        "Promote constitutional and civic literacy among young people, encourage informed public discussions and create platforms through which young people can engage with issues affecting their communities and national development.",
+
+    contribution:
+        "IBRAHIM IMORO seeks to contribute to youth and national development through constitutional literacy, public speaking, civic education, youth leadership and informed community engagement.",
+
+    currentActivities:
+        "Currently pursuing a BSc in Information Technology at the Accra Institute of Technology, leading ClearLawGh and the AIT Debate Club, engaging in constitutional and civic discussions, and serving as the Youth Member of Parliament for the Ayawaso East Constituency under Youth Parliament Ghana.",
+
+    organizations:
+        "ClearLawGh — Founder • AIT Debate Club — President & Founder",
+
+    publications:
+        "Constitutional Truth (\"FAKE LAW\") — Author",
+
+    mediaExperience:
+        "Studio Guest — Prime Insight (Joy Prime) • Regular Guest — AIT TV • Regular Guest — JoyLearning TV",
+
+    image:
+        "images/imoro.jpeg",
+
+    email:
+        "hon.ibrahimimoro.ypg@gmail.com",
+
+    phone:
+        "0539849882",
+
+    website:
+        "#"
+},
+{
+    id: "mp018",
+    name: "MBIMU TAUFIC",
+    position: "Member of Parliament",
+    constituency: "Salaga North Constituency",
+    region: "Savannah",
+    parliament: "Youth Parliament Ghana",
+    committee: "Information to be updated",
+
+    education:
+        "B.A. Gonja with English Education — University of Education, Winneba (Ajumako Campus), 2022–2026. WASSCE — Kalpohin Senior High School, 2017–2020. BECE — Salaga D/A Junior High School, 2015–2017.",
+
+    profession:
+        "Educator / Student Teacher / Youth Activist & Community Developer",
+
+    experience:
+        "MBIMU TAUFIC has experience in student leadership, public service, electoral activities and community engagement. He served as Verification Officer with the Electoral Commission of Ghana in 2024 and as an Enumerator for the Integrated Business Establishment Survey (IBES) in 2024. At the University of Education, Winneba, he served as Department President of the Gur-Gonja Students' Association (GUGSA), Vice President of the Ghana Muslim Students' Association (GMSA), General Secretary of the National Association of Gonjaland Students (NAGS), and Member of the Local Assembly at the UEW Ajumako Campus, all from 2024–2025.",
+
+    biography:
+        "MBIMU TAUFIC is a dedicated student leader, cultural advocate and public servant from Kabache Kasawurpe in the Savannah Region. He studied Gonja with English Education at the University of Education, Winneba, Ajumako Campus. His leadership journey includes serving in several student government and representative positions, including Department President of GUGSA, Vice President of GMSA, General Secretary of NAGS and Member of the Local Assembly. He is passionate about youth engagement, language preservation and community development and seeks to contribute positively to national development through effective leadership and public service. He currently serves as the Youth Member of Parliament for the Salaga North Constituency under Youth Parliament Ghana.",
+
+    vision:
+        "To promote youth engagement, language preservation, cultural development and community development while contributing to effective leadership and public service.",
+
+    plans:
+        "Promote meaningful youth participation, support cultural and language preservation initiatives, encourage community development and create opportunities for young people to participate constructively in their communities.",
+
+    contribution:
+        "MBIMU TAUFIC seeks to contribute to national development through youth leadership, public service, cultural advocacy, language preservation, community engagement and effective representation of young people.",
+
+    currentActivities:
+        "Currently serving as the Youth Member of Parliament for the Salaga North Constituency under Youth Parliament Ghana and pursuing a B.A. in Gonja with English Education at the University of Education, Winneba, Ajumako Campus.",
+
+    leadershipRoles:
+        "Department President — Gur-Gonja Students' Association (GUGSA), UEW • Vice President — Ghana Muslim Students' Association (GMSA), UEW • General Secretary — National Association of Gonjaland Students (NAGS), UEW • Member of Local Assembly — UEW Ajumako Campus",
+
+    publicService:
+        "Verification Officer — Electoral Commission of Ghana (2024) • Enumerator — Integrated Business Establishment Survey (IBES) (2024)",
+
+    image:
+        "images/mbimu.jpeg",
+
+    email:
+        "mbimutawfic@gmail.com",
+
+    phone:
+        "+233 54 546 1676",
+
+    postalAddress:
+        "N4-30749-6191",
+
+    location:
+        "Kabache Kasawurpe, North East Gonja District, Savannah Region, Ghana",
+
+    website:
+        "#"
+},
+
 
 ];
