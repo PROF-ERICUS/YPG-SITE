@@ -465,7 +465,7 @@ website: "#"
         "Currently serving as the Youth Member of Parliament for the Tema Central Constituency under Youth Parliament Ghana and pursuing her studies at the University of Professional Studies, Accra (UPSA).",
 
     image:
-        "images/adepa.jpeg
+        "images/adepa.jpeg",
 
     email:
         "gracelovexr@gmail.com",
@@ -572,7 +572,7 @@ website: "#"
     website:
         "#"
 },
-  {
+{
     id: "mp014",
     name: "BENEDICTA ASANTEWAA AMANKWAH",
     position: "Member of Parliament",
@@ -824,6 +824,5 @@ website: "#"
     website:
         "#"
 },
-
 
 ];
