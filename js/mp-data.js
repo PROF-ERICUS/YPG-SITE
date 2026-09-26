@@ -1003,6 +1003,258 @@ website: "#"
 
     website: "#"
 },
+  {
+    id: "mp023",
+    name: "MUSTAPHA ISSAH",
+    position: "Member of Parliament",
+    constituency: "Anyaa Sowutuom Constituency",
+    region: "Greater Accra",
+    parliament: "Youth Parliament Ghana",
+
+    committee: "Information to be updated",
+
+    education: "Aspire Leaders Program, Harvard — Completed. E-Jobs4All Program, Queen’s University, Canada — May 2026 to Present. BSc. Electrical and Electronic Engineering, University of Energy and Natural Resources (UENR) — January 2025 to Present, Level 300. Senior High School: Potsin T. I. Ahmadiyya Senior High School — General Science. Junior High School: Best of the Best Academy.",
+
+    profession: "Electrical and Electronic Engineering Student / Entrepreneur / Youth Leader",
+
+    experience: "MUSTAPHA ISSAH is the Youth Member of Parliament for the Anyaa Sowutuom Constituency. He is the Founder and CEO of MI Tutors, a social-impact tutoring business providing affordable tutoring, scholarships, mentorship and internship opportunities to high-potential students. He has also gained professional experience through an internship at the Electricity Company of Ghana and service with the Electoral Commission of Ghana.",
+
+    biography: "MUSTAPHA ISSAH is the Youth Member of Parliament for the Anyaa Sowutuom Constituency, driven by a passion for advocating for the voiceless and a genuine love for helping others. He is currently a Level 300 Electrical and Electronic Engineering student at the University of Energy and Natural Resources (UENR), and is also enrolled in Queen’s University’s E-Jobs4All Program in Canada. He completed the Aspire Leaders Program at Harvard University and holds his secondary education background from Potsin T. I. Ahmadiyya Senior High School. MUSTAPHA ISSAH is the Founder and CEO of MI Tutors, a social-impact tutoring business providing affordable, quality tutoring and scholarships to high-potential students, along with mentorship and internship programs to support their growth. He has gained professional experience through an internship at the Electricity Company of Ghana and service with the Electoral Commission of Ghana, where he worked as a ballot issuer and verification officer. He currently serves as Head of Partnership at the Greater Accra Regional Directorate of Education under Youth Parliament Ghana and has held various leadership positions across youth, education and student organisations.",
+
+    vision: "To represent and uplift the voices of young people in the Anyaa Sowutuom Constituency while promoting opportunities that support their academic, professional and personal development.",
+
+    plans: "Promote youth empowerment through education, mentorship, internships, partnerships and access to opportunities. He also seeks to strengthen youth representation and engagement while connecting young people with relevant institutions, organisations and development opportunities.",
+
+    contribution: "MUSTAPHA ISSAH seeks to contribute to youth development through education, mentorship, entrepreneurship, leadership and community engagement. Through his experience in tutoring, partnerships and youth leadership, he aims to help young people access the knowledge, skills and opportunities needed for their growth.",
+
+    currentActivities: "Currently pursuing a BSc. in Electrical and Electronic Engineering at UENR, participating in the E-Jobs4All Program at Queen’s University, Canada, leading MI Tutors as CEO, and serving as Head of Partnership at the Greater Accra Regional Directorate of Education under Youth Parliament Ghana.",
+
+    leadershipExperience: "Head of Partnership – Greater Accra Regional Directorate of Education, YPG; Volunteer & Head of Partnership – Nova Summit; Country Ambassador – International Leadership Competition; Organizer – Tertiary Minds Ghana; Campus Ambassador – Smoove Ghana; Campus Ambassador – Donorcom; Public Relations Officer – Northern Student Union, UENR; Vice President – Life Palace Hostel; Entertainment Prefect – Potsin T. I. Ahmadiyya Senior High School.",
+
+    professionalExperience: "CEO, MI Tutors (January 2026 – Present); Intern, Electricity Company of Ghana (October 2025); Electoral Commission of Ghana (December 2024) — served as a ballot issuer and verification officer.",
+
+    focusAreas: "Youth Empowerment • Education • Mentorship • Internships • Entrepreneurship • Leadership • Partnerships • Civic Participation • Community Development",
+
+    image: "images/issah.jpeg",
+
+    email: "issah432@icloud.com",
+
+    phone: "0552790667",
+
+    linkedin: "https://www.linkedin.com/in/mustapha-issah-33269b3b7",
+
+    tiktok: "https://www.tiktok.com/@issah_mustapha?_r=1&_t=ZS-9A4Bod23unl",
+
+    website: "#"
+},
+{
+    id: "mp024",
+    name: "BERNARD ATTAH",
+    position: "Member of Parliament",
+    constituency: "Nkwanta South Constituency",
+    region: "Oti",
+    parliament: "Youth Parliament Ghana",
+
+    committee: "Information to be updated",
+
+    education: "University of Cape Coast — Bachelor of Science (BSc.) in Geography and Regional Planning, January 2024 – Present. Nkwanta Senior High School (NKWASEC) — General Secondary Education, WASSCE, September 2019 – September 2022. Nkwanta Redeemer Junior High School — Basic Education, BECE, September 2016 – September 2019.",
+
+    profession: "Student, Youth Leader and Communications/Media Professional",
+
+    experience: "BERNARD ATTAH is the Youth Member of Parliament for the Nkwanta South Constituency under Youth Parliament Ghana. He has experience in student leadership, youth representation, communication, engagement and professional development. He currently serves as Supervisor at Dominion Marketing Link, Obuasi.",
+
+    biography: "BERNARD ATTAH is a Geography and Regional Planning student at the University of Cape Coast with experience in student leadership, youth representation, communication, engagement and professional development. His leadership journey spans secondary school, university and professional settings. He has served in various leadership and representative capacities, including School Prefect, Kwame Nkrumah Hall SRC Representative 1, Media and Publicity Chairperson of the Konkomba Student Union (KONSU-UCC), Deputy Media and Publicity Chairperson of the Geographical Society (GEOSOC-UCC), Member of the Kwame Nkrumah Hall Parliament Council, Deputy Library Committee Organizer at Kwame Nkrumah Hall, and other student leadership and committee positions.",
+
+    leadershipExperience: "Member, Kwame Nkrumah Hall Parliament Council, Kwame Nkrumah Hall, UCC — May 2025 – Present. Deputy Library Committee Organizer, Kwame Nkrumah Hall, UCC — February 2024 – February 2025. School Prefect, Nkwanta Senior High School (NKWASEC) — February 2022 – August 2022. Chaplain, Light House Chapel (LHCP), NKWASEC — February 2022 – August 2022. School Prefect, Nkwanta Redeemer Junior High School — April 2018 – April 2019.",
+
+    professionalExperience: "Supervisor, Dominion Marketing Link, Obuasi — January 2020 – Present.",
+
+    vision: "To build a Youth Parliament office that is accessible, responsive, transparent and focused on meaningful representation, while creating stronger channels of communication between young people and their representatives.",
+
+    plans: "Promote youth representation by creating stronger avenues for young people to express their concerns and contribute ideas. Share educational, scholarship, skills-development and employment opportunities. Encourage young people to develop leadership, entrepreneurial and professional skills. Strengthen communication and engagement with young people across the constituency while providing timely information about activities and initiatives.",
+
+    contribution: "BERNARD ATTAH seeks to contribute to Ghana’s development through youth representation, leadership development, education, community engagement and access to opportunities. His approach is centred on service, representation, collaboration and responsibility, with a focus on developing young people who are informed, responsible, innovative and prepared to participate in national development.",
+
+    currentActivities: "Currently pursuing a BSc. in Geography and Regional Planning at the University of Cape Coast, serving as Youth Member of Parliament for the Nkwanta South Constituency under Youth Parliament Ghana, and working as Supervisor at Dominion Marketing Link, Obuasi.",
+
+    officeChanges: "BERNARD ATTAH intends to contribute to a culture where young people are not merely recipients of decisions but are actively involved in conversations about their communities and future. Through collaboration, communication and youth participation, his office aims to strengthen the connection between young people, leadership structures and development opportunities.",
+
+    focusAreas: "Youth Representation • Education • Scholarships • Skills Development • Employment Opportunities • Youth Empowerment • Community Engagement • Leadership Development • Communication • Accountability",
+
+    leadershipMotto: "SERVICE • REPRESENTATION • RESPONSIBILITY",
+
+    image: "images/bernard.jpeg",
+
+    email: "Official email to be provided",
+
+    phone: "0591784910 / 0594014300",
+
+    website: "https://www.tiktok.com/@phadabernard08?_r=1&_t=ZS-9A4DD677onq",
+
+    facebook: "#",
+
+    twitter: "#",
+
+    instagram: "#",
+
+    linkedin: "#"
+},
+{
+    id: "mp025",
+    name: "COLLINS KLENAM AKPALOO",
+    position: "Member of Parliament",
+    constituency: "Sekondi",
+    region: "Western",
+    parliament: "Parliament of Ghana",
+
+    committee: "Information to be updated",
+
+    education: "University of Ghana — Bachelor of Commerce (B.Com) Management, Distance Education, current. Sekondi College (SHS) — Home Economics/Food, Senior High School Certificate, 2025. Police Basic School — Basic Education Certificate Examination (BECE), 2023.",
+
+    profession: "Sales Executive, Corporate Manager & Youth Advocate",
+
+    experience: "COLLINS KLENAM AKPALOO is a corporate leader, youth advocate and public servant representing the Sekondi Constituency in the Western Region of Ghana. He serves as the Minister for Youth Development and Empowerment within the Youth Parliament and has previously served as a Member of Parliament for the Sekondi Youth Constituency. Professionally, he works with Telecel Ghana and has built experience in telecommunications, enterprise management and social media management.",
+
+    biography: "COLLINS KLENAM AKPALOO is a dynamic corporate leader, youth advocate and public servant representing the Sekondi Constituency in the Western Region of Ghana. He currently serves as the Minister for Youth Development and Empowerment within the Youth Parliament, having previously stood as a Member of Parliament for the Sekondi Youth Constituency. A proud alumnus of Police Basic School, where he served as Compound Overseer, and Sekondi College, Collins developed a strong foundation in student leadership. At Sekondi College, he served in roles including Dining Hall Prefect, Head of Media, Cadet Second-in-Command (2iC), Entertainment Organizer and Handball Captain. He pursued higher education in Bachelor of Commerce (B.Com) Management through distance education. Professionally, Collins has built experience in telecommunications and enterprise management. He works as a Sales Executive at Telecel Ghana, where his leadership and performance earned him a promotion to Area Manager. He also works as a part-time Social Media Manager. As a community development advocate, he is the Founder and Chief Executive Officer of the Success City Foundation, which focuses on youth empowerment, street support and vocational training across Ghana.",
+
+    vision: "To contribute to youth empowerment, community development and the creation of opportunities that support the growth and development of young people.",
+
+    plans: "Promote youth empowerment, vocational training, community support and opportunities for young people while using leadership, corporate experience and digital expertise to support youth and community development.",
+
+    contribution: "COLLINS KLENAM AKPALOO seeks to contribute to youth development through advocacy, vocational training, community support and empowerment initiatives. Through the Success City Foundation and his professional and leadership experience, he supports initiatives focused on young people and community development.",
+
+    currentActivities: "Currently serving as Minister for Youth Development and Empowerment within the Youth Parliament, working as an Area Manager at Telecel Ghana, serving as CEO of Success City Foundation and engaging in part-time social media management.",
+
+    leadershipExperience: "Minister for Youth Development and Empowerment — Youth Parliament. Candidate for Member of Parliament for Sekondi Constituency — Youth Parliament. Founder & Chief Executive Officer — Success City Foundation. Part-Time Social Media Manager — Freelance/Corporate. Compound Overseer — Police Basic School. Dining Hall Prefect, Head of Media, Cadet 2iC, Entertainment Organizer and Handball Captain — Sekondi College.",
+
+    professionalExperience: "Area Manager / Sales Executive — Telecel Ghana. Part-Time Social Media Manager — Freelance/Corporate. Founder & Chief Executive Officer — Success City Foundation.",
+
+    focusAreas: "Youth Empowerment • Vocational Training • Community Development • Youth Advocacy • Corporate Leadership • Telecommunications • Digital Media • Social Support",
+
+    image: "images/collins.jpeg",
+
+    email: "collinsklenam821@gmail.com",
+
+    phone: "0207089672 / 0200230996",
+
+    website: "#",
+
+    tiktok: "Mr_kobina",
+
+    linkedin: "#"
+},
+{
+    id: "mp026",
+    name: "AFRIFA EVANS",
+   position: "Youth Member of Parliament",
+
+constituency: "Atwima Nwabiagya South Constituency",
+
+region: "Ashanti",
+
+parliament: "Youth Parliament Ghana",
+
+    education:
+        "UNIVERSITY OF CAPE COAST (UCC) — BSc LABORATORY TECHNOLOGY, LEVEL 400, CURRENTLY PURSUING. Previous Education: KUMASI ACADEMY — Senior High School Education; TOASE M/A JUNIOR HIGH SCHOOL — Junior High School Education; EFFIDUASE PRESBYTERIAN PRIMARY SCHOOL — Basic Education.",
+
+    profession:
+        "HEALTH PRACTITIONER / LABORATORY TECHNOLOGY STUDENT PRACTITIONER",
+
+    experience:
+        "Electoral Commissioner — CANSAG, University of Cape Coast. Academic Chairperson — LABSTAG, University of Cape Coast. Programs Coordinator — Merbsconnect-UCC. Student Leadership & Academic Development Roles — University of Cape Coast. Youth Member of Parliament — Youth Parliament Ghana, Atwima Nwabiagya South Constituency. Laboratory Intern — Nkawie-Toase Government Hospital. Health Education & Youth Development Advocate — Community/Youth Initiatives.",
+
+    biography:
+        "AFRIFA EVANS is a Ghanaian youth leader, student practitioner and Youth Member of Parliament for the Atwima Nwabiagya South Constituency under Youth Parliament Ghana. He is currently an undergraduate student pursuing a BSc in Laboratory Technology at the University of Cape Coast (UCC) and has developed interests in healthcare, youth development, education, leadership and community service. His leadership experience includes serving in student and youth leadership capacities at the University of Cape Coast, including roles within academic and student associations. He has also been involved in initiatives focused on student mentorship, academic development, health education and youth engagement. As Youth MP for Atwima Nwabiagya South, he seeks to contribute to youth representation, community development, education, health awareness and initiatives that create opportunities for young people within the constituency.",
+
+    vision:
+        "To contribute to youth representation, community development, education, health awareness and initiatives that create opportunities for young people within the constituency.",
+
+    plans:
+        "Support initiatives focused on youth representation, education, health awareness, student mentorship, academic development, community service and youth engagement.",
+
+    contribution:
+        "AFRIFA EVANS seeks to contribute to youth development through his background in laboratory technology, health education, student leadership, academic development and community/youth initiatives.",
+
+    currentActivities:
+        "Currently pursuing a BSc in Laboratory Technology at the University of Cape Coast and serving as Youth Member of Parliament for the Atwima Nwabiagya South Constituency.",
+
+    leadershipExperience:
+        "Electoral Commissioner — CANSAG, University of Cape Coast. Academic Chairperson — LABSTAG, University of Cape Coast. Programs Coordinator — Merbsconnect-UCC. Student Leadership & Academic Development Roles — University of Cape Coast.",
+
+    professionalExperience:
+        "Laboratory Intern — Nkawie-Toase Government Hospital. Health Education & Youth Development Advocate — Community/Youth Initiatives.",
+
+    focusAreas:
+        "HEALTHCARE • LABORATORY TECHNOLOGY • YOUTH DEVELOPMENT • EDUCATION • LEADERSHIP • HEALTH AWARENESS • COMMUNITY SERVICE",
+
+    image: "images/evans.jpeg",
+
+    email: "professordrevans2020@gmail.com",
+    phone: "0599782404",
+    website: "#",
+
+    facebook: "Evans Afrifa",
+    instagram: "https://www.instagram.com/drafrifa?stkn=NHl6eDN3bDJqd3dw",
+    linkedin: "https://www.linkedin.com/in/evansafrifa2002?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+    tiktok: "@Drafrifa"
+},
+{
+    id: "mp027",
+    name: "ISSAHAKU MOHAMMED FUSEINI",
+    position: "Youth Member of Parliament",
+
+constituency: "Kpone Katamanso Constituency",
+
+region: "Greater Accra",
+
+parliament: "Youth Parliament Ghana",
+
+    education:
+        "UNIVERSITY FOR DEVELOPMENT STUDIES (UDS), NYANKPALA CAMPUS — Bachelor of Science (BSc) in Biochemistry, currently pursuing. TAMale SENIOR HIGH SCHOOL (TAMASCO) — Secondary Education.",
+
+    profession:
+        "BIOCHEMISTRY STUDENT / YOUTH ADVOCATE",
+
+    experience:
+        "Youth Member of Parliament for Kpone Katamanso Constituency. Vice President of the National Association of Bioscience Students (NABSS), UDS Chapter. Class Representative from basic school through university level.",
+
+    biography:
+        "ISSAHAKU MOHAMMED FUSEINI is a dedicated student leader and youth advocate currently pursuing a Bachelor of Science in Biochemistry at the University for Development Studies (UDS), Nyankpala Campus. He had his secondary education at Tamale Senior High School (TAMASCO), where his passion for leadership began to take shape. From basic school through to the university, he has consistently served as a Class Representative, building strong leadership, communication, teamwork and organizational skills. He currently serves as the Youth Member of Parliament for the Kpone Katamanso Constituency and Vice President of the National Association of Bioscience Students (NABSS), UDS Chapter. His leadership is driven by service, with a focus on sanitation improvement, environmental cleanliness, public health awareness, youth empowerment and addressing youth unemployment.",
+
+    vision:
+        "To ensure that every young person within the Kpone Katamanso Constituency feels truly represented, heard and empowered, while creating platforms that amplify youth voices in decision-making.",
+
+    plans:
+        "Create platforms that empower the youth, amplify their voices in decision-making, address youth unemployment through skills development and opportunity creation, and drive practical solutions to sanitation challenges.",
+
+    contribution:
+        "Through effective youth representation, grassroots engagement and innovative leadership, ISSAHAKU MOHAMMED FUSEINI is committed to contributing to a cleaner, more empowered and prosperous Ghana.",
+
+    currentActivities:
+        "Currently pursuing a BSc in Biochemistry at the University for Development Studies, Nyankpala Campus; serving as Youth Member of Parliament for Kpone Katamanso Constituency; serving as Vice President of NABSS, UDS Chapter; and championing sanitation improvement and public health awareness initiatives.",
+
+    leadershipExperience:
+        "Youth Member of Parliament — Kpone Katamanso Constituency. Vice President — National Association of Bioscience Students (NABSS), UDS Chapter. Class Representative — consistently from basic school through university level.",
+
+    professionalExperience:
+        "Student leader, youth advocate and community development advocate with a focus on sanitation, environmental cleanliness, public health awareness and youth empowerment.",
+
+    focusAreas:
+        "YOUTH REPRESENTATION • SANITATION • ENVIRONMENTAL CLEANLINESS • PUBLIC HEALTH • YOUTH EMPOWERMENT • SKILLS DEVELOPMENT • EMPLOYMENT OPPORTUNITIES",
+
+    image: "images/fuseini.jpeg",
+
+    email: "missahaku99@gmail.com",
+    phone: "0548194905",
+    website: "#",
+
+    facebook: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+
+
 
 
 ];
