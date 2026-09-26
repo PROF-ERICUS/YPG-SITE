@@ -336,49 +336,57 @@ website:
     // SAMPLE APPOINTEE 6
     // ==========================================
 
-    {
-        id: "app006",
+ {
+    id: "app006",
+    name: "KELVIN GBAFFAH BOAKYE YIADOM",
+    position: "Minority Representative",
 
-        name: "Sample Appointee Six",
+ministry: "Office of Youth, Youth Parliament Ghana",
 
-        position: "Deputy Minister",
+region: "Greater",
 
-        ministry: "Ministry of Education",
+appointmentDate: "Information to be updated.",
 
-        region: "Northern",
+isMP: true,
 
-        appointmentDate:
-            "Information to be updated.",
+constituency: "Trobu Constituency",
 
-        isMP: false,
+    education:
+        "University of Ghana — Currently pursuing a Bachelor of Education. Also engaged in theological studies.",
 
-        mpId: null,
+    profession:
+        "CRIMINOLOGIST",
 
-        constituency: null,
+    experience:
+        "HON. KELVIN GBAFFAH BOAKYE YIADOM is the Youth Member of Parliament for the Trobu Constituency under Youth Parliament Ghana. His interests and activities include youth leadership, civic participation, education, governance and community development.",
 
-        education:
-            "Information to be updated.",
+    biography:
+        "HON. KELVIN GBAFFAH BOAKYE YIADOM is a young Ghanaian leader, educator-in-training and youth governance advocate. He is currently pursuing a Bachelor of Education at the University of Ghana and is also engaged in theological studies. He is passionate about youth leadership, civic participation, education, governance and community development. He serves as the Youth Member of Parliament for the Trobu Constituency and the Minority Representative of Youth Parliament Ghana.",
 
-        profession:
-            "Information to be updated.",
+    vision:
+        "To strengthen youth representation, promote grassroots engagement and connect young people with leadership, educational and developmental opportunities.",
 
-        experience:
-            "Information to be updated.",
+    plans:
+        "Promote meaningful youth engagement and representation while connecting young people in the Trobu Constituency to leadership, educational and developmental opportunities.",
 
-        biography:
-            "This is a sample profile. Verified information about the appointee can be displayed here.",
+    contribution:
+        "To contribute to youth development through civic participation, education, grassroots engagement, youth governance and community development.",
 
-        image:
-            "images/profiles/default.jpg",
+    currentActivities:
+        "Currently serving as the Youth Member of Parliament for the Trobu Constituency and Minority Representative of Youth Parliament Ghana, while pursuing a Bachelor of Education at the University of Ghana.",
 
-        email:
-            "official@email.com",
+    image:
+        "images/Boakye.jpeg",
 
-        phone:
-            "Official contact to be added",
+    email:
+        "Gbaffahkelvin@gmail.com",
 
-        website:
-            "#"
-    }
+    phone:
+        "050 854 9673 / +233 59 937 8872",
+
+    website:
+        "#"
+},
+
 
 ];
