@@ -387,7 +387,7 @@ constituency: "Trobu Constituency",
     website:
         "#"
 },
-    {
+{
     id: "app007",
     name: "FRANCIS ABANGA",
     position: "Deputy Minister of Energy and Green Transition",
@@ -440,6 +440,174 @@ region: "Upper East",
 
     linkedin: "FrancisAbanga"
 },
+{
+    id: "app008",
+    name: "PRINCE BEZALEL OFOSU",
+   position: "Central Regional Director of Education",
+     ministry: "Office of the Ministry of Education",
+     constituency: "Agona West",
+     region: "Central",
+    appointmentDate: "20th September,2026.",
+    isMP: false,
 
+    education:
+        "UNIVERSITY OF CAPE COAST (UCC) — Bachelor of Education (Arts), currently pursuing. Academic interests: Religion & Human Values and History. Previous Education: SWEDRU SECONDARY SCHOOL — WASSCE, 2024. ASSEMBLIES OF GOD PREPARATORY SCHOOL, AGONA SWEDRU — JHS education, completed 2021. SHINING STAR ACADEMY, AGONA SWEDRU — Elementary education.",
+
+    profession:
+        "STUDENT / INTERN TEACHER",
+
+    experience:
+        "President — Red Cross Society, Swedru Secondary School (2023/2024). SRC Representative — Swedru Secondary School (2021/2022, 2022/2023, 2023/2024). House Executive — Swedru Secondary School (2023/2024). Vice President — Trumpet of Christ Choir, Swedru Secondary School (2023/2024). Prayer Secretary — Assemblies of God Campus Ministry, Swedru Secondary School (2023/2024). Media Team Presenter — Swedru Secondary School, Swesco Agenda (2022–2024). Millennium Fellow — Class of 2025, Millennium Fellowship International. Youth Advocate and Education Policy Developer — Youth Parliament Ghana (2025 to date). Member of Parliament — University of Cape Coast, VALCO Hall Parliamentary Council (2025 to date).",
+
+    biography:
+        "PRINCE BEZALEL OFOSU is a young Ghanaian educator, student leader, youth advocate and emerging public-service leader with interests in education, leadership development, civic engagement and youth empowerment. He was born on Monday, 24th July 2006, in Gomoa Obuasi in the Central Region of Ghana. He attended Shining Star Academy in Agona Swedru and Assemblies of God Preparatory School in Agona Swedru before continuing to Swedru Secondary School. He completed his secondary education in 2024 and gained admission to the University of Cape Coast in 2025, where he is pursuing a Bachelor of Education (Arts) with academic interests in Religion & Human Values and History. His leadership journey includes student representation, Red Cross activities, media and public speaking, religious activities and youth development initiatives. He became a Millennium Fellow in the Class of 2025 and worked on Thrive 360, a student-centred initiative addressing academic and career development, mental wellness, and digital citizenship and safety. He has also been involved in Youth Parliament Ghana, focusing on youth participation in education, civic education, leadership development and policy advocacy.",
+
+    vision:
+        "To promote learning, leadership, service and personal development while creating opportunities for young people to participate in education discussions and contribute to solutions affecting their education.",
+
+    plans:
+        "Promote youth participation in education, civic education, leadership development and policy advocacy, including initiatives such as the National Government and History Quiz (NGHQ), Inclusive Education, student empowerment, agricultural education and scholarship-related proposals.",
+
+    contribution:
+        "PRINCE BEZALEL OFOSU seeks to contribute to national development through education, teaching, writing, youth leadership, civic participation and educational initiatives that encourage young people to learn, lead and serve.",
+
+    currentActivities:
+        "Currently pursuing a Bachelor of Education (Arts) at the University of Cape Coast, serving as a Member of Parliament of the UCC VALCO Hall Parliamentary Council, and participating in youth advocacy and education policy development through Youth Parliament Ghana.",
+
+    leadershipExperience:
+        "President — Red Cross Society, Swedru Secondary School. SRC Representative — Swedru Secondary School. House Executive — Swedru Secondary School. Vice President — Trumpet of Christ Choir. Prayer Secretary — Assemblies of God Campus Ministry. Media Team Presenter — Swesco Agenda. Millennium Fellow — Class of 2025. Youth Advocate and Education Policy Developer — Youth Parliament Ghana.",
+
+    professionalExperience:
+        "Student / Intern Teacher with experience in youth advocacy, education policy development, student leadership, media presentation and educational initiatives.",
+
+    focusAreas:
+        "EDUCATION • YOUTH DEVELOPMENT • LEADERSHIP • CIVIC EDUCATION • POLICY ADVOCACY • STUDENT EMPOWERMENT • HISTORY • GOVERNMENT • INCLUSIVE EDUCATION",
+
+    image: "images/prince.jpeg",
+
+    email: "centralregedudirectorate07@gmail.com",
+    phone: "0559597314 / 0598044690",
+    website: "#",
+
+    facebook: "Honourable Prince",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "Prince Bezalel Ofosu"
+},
+{
+    id: "app009",
+    name: "NEREUS MENSAH GYASI",
+   position: "Deputy Minister for Foreign Affairs",
+ministry: "Office of the Ministry of Foreign Affairs",
+constituency: "Atwima-Nwabiagya North",
+region: "Ashanti",
+    appointmentDate: "Information to be updated.",
+    isMP: false,
+
+    education:
+        "KWAME NKRUMAH UNIVERSITY OF SCIENCE AND TECHNOLOGY (KNUST) — Bachelor of Science (BSc.), 2025. The specific programme was not provided.",
+
+    profession:
+        "MENTAL HEALTH & DISABILITY RESEARCHER",
+
+    experience:
+        "Country Director — EduLead Network (UK–Ghana). Project Lead, “Are You Okay?” Mental Health Campaign — Commonwealth Youth Council. Disability Rights Advocacy Lead — Commonwealth Youth Council. Mental Health Program Associate — Discovered Group (UK–Ghana). Project Manager — HyCARES (USA–Ghana). Founder & CEO — Nereus Support Network. Communications & Public Relations Officer — Ghana Baptist Youth Ministry. Member — Global Mental Health Action Network. President — Kufuor Scholars Programme, KNUST Chapter. President — Ghana Association of Disability & Rehabilitation Students (GADRES), KNUST. Chairperson, Research & Skills Committee — HESA-KNUST. President — KASS Old Students Association, KNUST. President — Gospel Explosion, KNUST. Vice President — Kumasi Adehyee Leo Club. Financial Secretary — National Union of Baptist Students–Ghana. Public Relations Officer — KNUST TUM SEED Club. Communications & Marketing Team Member — TEDxKNUST. Founding Youth President — King of Kings Baptist Church.",
+
+    biography:
+        "NEREUS MENSAH GYASI is an emerging African leader, researcher and youth advocate working at the intersection of youth development, mental health, disability inclusion, international cooperation and social impact. He serves as Deputy Minister for Foreign Affairs of the Youth Parliament of Ghana, contributing to youth-led policy dialogue, international engagement, diplomacy and strategic partnerships. A First Class graduate of the Kwame Nkrumah University of Science and Technology (KNUST), he was the Overall Best Graduating Student and Valedictorian of the College of Health Sciences, as well as Best Graduating Student of the School of Public Health and his department. His leadership experience spans more than 30 roles across national, Commonwealth and international platforms. He is the Founder and CEO of the Nereus Support Network, which has reached over 15,000 young people through mental health advocacy, mentorship, research and community programmes. He is also the author of Scars to Strength and Rebuild. Nereus served as Disability Rights Advocacy Lead for the Commonwealth Youth Council, championing disability rights and youth wellbeing across the Commonwealth. He has led and coordinated youth-focused projects and initiatives across Nigeria, Uganda, Kenya and Europe, working with diverse communities and international networks.",
+
+    vision:
+        "To strengthen meaningful youth participation in policy and global affairs while advancing youth diplomacy, mental health awareness, disability inclusion, research and inclusive development.",
+
+    plans:
+        "Support youth-led policy dialogue, international engagement, diplomacy and strategic partnerships, with continued focus on youth development, mental health, disability inclusion, research and inclusive development.",
+
+    contribution:
+        "NEREUS MENSAH GYASI seeks to contribute through youth diplomacy, mental health advocacy, disability rights advocacy, research, mentorship, community programmes and international youth engagement.",
+
+    currentActivities:
+        "Serving as Deputy Minister for Foreign Affairs of the Youth Parliament of Ghana and working as Director of Research & Community Impact at SentraMind.",
+
+    leadershipExperience:
+        "Leadership experience spanning national, Commonwealth and international platforms, including President — Kufuor Scholars Programme, KNUST Chapter; President — Ghana Association of Disability & Rehabilitation Students (GADRES), KNUST; President — KASS Old Students Association, KNUST; President — Gospel Explosion, KNUST; Vice President — Kumasi Adehyee Leo Club; and Founding Youth President — King of Kings Baptist Church.",
+
+    professionalExperience:
+        "Director of Research & Community Impact — SentraMind. Founder & CEO — Nereus Support Network. Country Director — EduLead Network (UK–Ghana). Project Lead — “Are You Okay?” Mental Health Campaign, Commonwealth Youth Council. Disability Rights Advocacy Lead — Commonwealth Youth Council. Mental Health Program Associate — Discovered Group (UK–Ghana). Project Manager — HyCARES (USA–Ghana).",
+
+    focusAreas:
+        "YOUTH DIPLOMACY • MENTAL HEALTH • DISABILITY INCLUSION • YOUTH DEVELOPMENT • INTERNATIONAL COOPERATION • RESEARCH • SOCIAL IMPACT • INCLUSIVE DEVELOPMENT",
+
+    books:
+        "SCARS TO STRENGTH • REBUILD",
+
+    image: "images/Gyasi.jpeg",
+
+    email: "gyasinereusmensah@gmail.com",
+    phone: "+233547582301",
+    website: "https://www.linkedin.com/in/nereus-mensah-gyasi",
+
+    facebook: "https://www.facebook.com/share/1KQPgHRcND/?mibextid=wwXIfr",
+    twitter: "https://x.com/i_am_nereus1?s=11",
+    instagram: "https://www.instagram.com/i_am_nereus1?stkn=YTUyYTNheGVvcGto&utm_source=qr",
+    linkedin: "https://www.linkedin.com/in/nereus-mensah-gyasi"
+},
+{
+    id: "app010",
+    name: "HON. IRENE AYIKU",
+    position: "Representative of Women in Parliament",
+    ministry: "Office of Women's Caucus",
+    constituency: "Ada Constituency",
+    region: "Greater Accra",
+    appointmentDate: "19th September,2026.",
+    isMP: true,
+
+    education:
+        "Accra Technical University — Hospitality Management, Degree in Hospitality, 2024.",
+
+    profession:
+        "Chef",
+
+    experience:
+        "Mother General — Women's Caucus (Women's Cocos), Youth Parliament Ghana. Deputy Chief of Staff — TEIN ATU. Communication Officer — TEIN ATU. Member of Parliament — Ada Constituency. Representative of Women in the Youth Parliament.",
+
+    biography:
+        "IRENE AYIKU is a dedicated youth leader, professional Chef, and Representative of Women in the Youth Parliament. She is a proud alumna of Accra Technical University, where she studied Hospitality Management and completed her degree in 2024. She has served as Deputy Chief of Staff and Communication Officer for TEIN ATU, demonstrating leadership, communication, and organizational skills. She currently serves as the Mother General for the Women's Caucus (Women's Cocos) in Youth Parliament Ghana, where she champions women's empowerment, leadership development, and active youth participation in governance.",
+
+    vision:
+        "To promote women's empowerment, leadership development, and active youth participation in governance.",
+
+    plans:
+        "Support initiatives focused on women's empowerment, youth leadership, leadership development, and meaningful youth participation in governance.",
+
+    contribution:
+        "Contributes through women's empowerment, youth leadership, communication, organizational leadership, and advocacy for active youth participation in governance.",
+
+    currentActivities:
+        "Currently serving as Member of Parliament for Ada Constituency and Mother General for the Women's Caucus (Women's Cocos) in Youth Parliament Ghana, while working as a Professional Chef.",
+
+    leadershipExperience:
+        "Representative of Women in Parliament — Youth Parliament Ghana. Mother General — Women's Caucus (Women's Cocos). Deputy Chief of Staff — TEIN ATU. Communication Officer — TEIN ATU.",
+
+    professionalExperience:
+        "Professional Chef with a Degree in Hospitality from Accra Technical University and experience in youth leadership, communication, women's empowerment, and organizational roles.",
+
+    focusAreas:
+        "Women's Empowerment • Youth Leadership • Youth Participation • Governance • Leadership Development • Communication • Hospitality",
+
+    slogan:
+        "Women First, Future Secured!",
+
+    image: "images/Ayiku.jpegg",
+
+    email: "ayikuirene44@gmail.com",
+    phone: "0544280792",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "https://www.instagram.com/jmba_hon._irene_ayiku?stkn=ZDdwdGc5MDRlNW9v&utm_source=qr",
+    linkedin: "#",
+    tiktok: "https://www.tiktok.com/@chef_firdaus2"
+},
 
 ];
