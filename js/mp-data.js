@@ -3665,5 +3665,285 @@ parliament: "Youth Parliament Ghana",
     linkedin: "#",
     tiktok: "#"
 },
+  {
+    id: "mp071",
+    name: "AFRIFA JOHNSON ABDALLAH",
+    position: "Member of Parliament",
+    constituency: "Asunafo North constituency",
+    region: "Ahafo",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "University of Skills Training and Entrepreneurial Development — Degree in Human Resource Management, currently pursuing.",
+
+    profession:
+        "Student",
+
+    experience:
+        "Youth Leader — Akrodie Youth Association.",
+
+    biography:
+        "AFRIFA JOHNSON ABDALLAH is a young Ghanaian leader, student and youth advocate from the Asunafo North Constituency in the Ahafo Region. He is passionate about youth participation, leadership development, community engagement and creating opportunities for young people to contribute meaningfully to the development of their communities. He is currently pursuing a Degree in Human Resource Management at the University of Skills Training and Entrepreneurial Development. His academic background is helping him develop knowledge and skills in leadership, people management, organizational development and effective engagement. He has demonstrated his commitment to youth leadership through his service as Youth Leader of the Akrodie Youth Association. As a Youth Member of Parliament representing Asunafo North, he seeks to provide a platform for young people to express their views, identify challenges affecting them and participate constructively in discussions on community development and issues affecting the youth.",
+
+    vision:
+        "To promote youth participation, responsible leadership, inclusiveness, education, empowerment and community development.",
+
+    plans:
+        "Support meaningful youth participation, leadership development, education, empowerment and constructive engagement on issues affecting young people and the community.",
+
+    contribution:
+        "Contributes through youth leadership, community engagement, youth advocacy and participation in discussions on community development and issues affecting young people.",
+
+    currentActivities:
+        "Currently pursuing a Degree in Human Resource Management at the University of Skills Training and Entrepreneurial Development and serving as Youth Member of Parliament for Asunafo North.",
+
+    leadershipExperience:
+        "Youth Member of Parliament — Asunafo North, Youth Parliament Ghana. Youth Leader — Akrodie Youth Association.",
+
+    professionalExperience:
+        "Student of Human Resource Management with experience in youth leadership and community-focused activities through the Akrodie Youth Association.",
+
+    focusAreas:
+        "Youth Participation • Leadership Development • Community Engagement • Education • Youth Empowerment • Human Resource Management • Community Development",
+
+    slogan:
+        "Amplifying Youth Voices, Advancing Community Development.",
+
+    image: "images/Afrifa.jpeg",
+
+    email: "afrifaabdallah@gmail.com",
+    phone: "Not provided",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp072",
+    name: "GODWIN TETTEH",
+    position: "Member of Parliament",
+    constituency: "Domeabra Obom Constituency",
+    region: "Greater Accra",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "University of Cape Coast (UCC) — Bachelor of Education in Early Childhood Education, 2026.",
+
+    profession:
+        "Educator / Education Professional",
+
+    experience:
+        "Student Leader — University of Cape Coast. President — Faculty of Educational Foundations Students’ Association (FEFSA), University of Cape Coast. Deputy Majority Whip — UCC SRC Parliament. PRO — Ekumfi Amass Past Student Association (EAPSA UCC). Youth Leadership/Advocacy Role — Youth-oriented initiatives. Program Representative — Early Childhood Education, University of Cape Coast. Educator / Education Trainee — Early Childhood Education.",
+
+    biography:
+        "GODWIN TETTEH is a young Ghanaian leader and the Youth Member of Parliament for the Domeabra Obom Constituency in the Greater Accra Region. He has a background in Early Childhood Education and has gained valuable leadership experience through his involvement in student leadership and youth-oriented activities. His leadership journey has strengthened his passion for education, youth development, community engagement and public service. As a Youth MP, he is committed to representing the voices and concerns of young people within the Domeabra Obom Constituency. His areas of interest include education, youth empowerment, leadership development, employment opportunities, skills development and community development. He believes in creating opportunities for young people to participate meaningfully in decision-making and contribute to the development of their communities.",
+
+    vision:
+        "Empowering the Youth, Amplifying Their Voices, and Building a Better Domeabra Obom.",
+
+    plans:
+        "Support youth development, education, skills development, youth employment, leadership development, community development and meaningful youth participation in governance.",
+
+    contribution:
+        "Contributes through youth representation, student leadership, education advocacy, youth development, community engagement and participation in youth-oriented initiatives.",
+
+    currentActivities:
+        "Serving as Youth Member of Parliament for the Domeabra Obom Constituency and contributing to youth-focused leadership, education and community development activities.",
+
+    leadershipExperience:
+        "Youth Member of Parliament — Domeabra Obom Constituency. President — Faculty of Educational Foundations Students’ Association (FEFSA), University of Cape Coast. Deputy Majority Whip — UCC SRC Parliament. PRO — Ekumfi Amass Past Student Association (EAPSA UCC). Student Leader — University of Cape Coast. Program Representative — Early Childhood Education, University of Cape Coast.",
+
+    professionalExperience:
+        "Educator / Education Professional with a background in Early Childhood Education and experience as an Education Trainee.",
+
+    focusAreas:
+        "Youth Development • Education • Skills Development • Youth Employment • Leadership Development • Community Development • Youth Participation in Governance",
+
+    slogan:
+        "Leadership • Integrity • Service • Accountability • Youth Empowerment • Community Development",
+
+    image: "images/Tetteh.jpeg",
+
+    email: "godwint970@gmail.com",
+    phone: "0247497984 / 0204628116",
+    website: "#",
+
+    facebook: "Godwin Tetteh",
+    twitter: "#",
+    instagram: "godwintetteh3",
+    linkedin: "Godwin Tetteh",
+    tiktok: "#"
+},
+{
+    id: "mp073",
+    name: "RAYMOND KWEKU ATSITSRE",
+    position: "Member of Parliament",
+    constituency: "Afadjato South",
+    region: "Volta",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "University of Cape Coast — Bachelor of Commerce (Management), Degree, 2022–2026. Leklebi Duga L/A Primary School. Leklebi Junior High School. Leklebi Senior High School.",
+
+    profession:
+        "Profession not provided",
+
+    experience:
+        "Third-term Branch Secretary — National Democratic Congress (NDC), Leklebi Dugah E.P. JHS Branch, Afadjato South Constituency. Unit Committee Member — Afadjato South community. Public Relations Officer — Unit Committee, since 2023. Chairman — District Assembly (DA) School Management Committee. Chairman — Parent-Teacher Association (PTA). Choir Leader — Trinity Central Church of Christ. Youth Prayer Secretary — Trinity Central Church of Christ. School Prefect — Leklebi Duga L/A Primary School. School Prefect — Leklebi Junior High School. Assistant School Prefect — Leklebi Senior High School.",
+
+    biography:
+        "RAYMOND KWEKU ATSITSRE was born on 11th October 1995 in Leklebi Agbesia, in the Afadjato South Constituency of the Volta Region, Ghana. He began his education at Leklebi Duga L/A Primary School, where he served as School Prefect, and continued this leadership role at Leklebi Junior High School. At Leklebi Senior High School, he served as Assistant School Prefect before furthering his education at the University of Cape Coast. Raymond has been actively involved in political, civic, educational and community leadership. He is a third-term Branch Secretary of the National Democratic Congress (NDC) Leklebi Dugah E.P. JHS branch within the Afadjato South Constituency. He also serves as a Unit Committee Member and has served as Public Relations Officer for the unit since 2023. His commitment to education and community development is reflected in his roles as Chairman of the District Assembly School Management Committee and Chairman of the Parent-Teacher Association. A committed Christian, he serves Trinity Central Church of Christ as Choir Leader and Youth Prayer Secretary. His leadership journey reflects a continued commitment to service to his church, community and constituency.",
+
+    vision:
+        "To serve the people of Afadjato South through community engagement, education, responsible leadership and grassroots development.",
+
+    plans:
+        "Support community development, improved educational outcomes, effective grassroots engagement and stronger communication between residents and local authorities.",
+
+    contribution:
+        "Contributes through grassroots leadership, community representation, educational advocacy, civic engagement, church leadership and communication between residents and local authorities.",
+
+    currentActivities:
+        "Serving as Member of Parliament for Afadjato South while pursuing a Bachelor of Commerce in Management at the University of Cape Coast and continuing his community, civic and church leadership activities.",
+
+    leadershipExperience:
+        "Member of Parliament — Afadjato South. Third-term Branch Secretary — NDC, Leklebi Dugah E.P. JHS Branch. Unit Committee Member. Public Relations Officer — Unit Committee, since 2023. Chairman — District Assembly School Management Committee. Chairman — Parent-Teacher Association. Choir Leader — Trinity Central Church of Christ. Youth Prayer Secretary — Trinity Central Church of Christ.",
+
+    professionalExperience:
+        "Current professional position not provided. Experience includes grassroots civic leadership, community engagement, educational leadership, public relations and church leadership.",
+
+    focusAreas:
+        "Community Development • Education • Grassroots Leadership • Youth Development • Civic Engagement • Public Service • Community Representation",
+
+    slogan:
+        "Service • Leadership • Community Development",
+
+    image: "images/kweku.jpeg",
+
+    email: "atsiraymond7@gmail.com",
+    phone: "0592452005 / 0554088977",
+    website: "#",
+
+    facebook: "https://www.facebook.com/share/1BbzQyU1vE/?mibextid=wwXIfr",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp074",
+    name: "JOSHUA NARTEY TETTEY",
+    position: "Member of Parliament",
+    constituency: "Ablekuma West Constituency",
+    region: "Greater Accra",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "Emmanuel Presbyterian Preparatory School, Dansoman — Basic Education Certificate Examination (BECE), 2019. Presbyterian Boys' Senior High School (PRESEC), Legon — Science Programme, West African Senior School Certificate Examination (WASSCE), 2019–2022. University of Cape Coast — Bachelor of Medicine, Bachelor of Surgery (MBChB), 2023–2028 (Expected).",
+
+    profession:
+        "Medical Student / Student Leader",
+
+    experience:
+        "Speaker — UCC Medical Students Association (UCCMSA) Senate. Speaker — 2nd University Hall Medical Students Parliamentary Council (2nd UHMSPC). Member — UCC Students' Representative Council (SRC) Parliamentary Board. Leadership Role — Christian Medical Fellowship, UCC. Member/Committee Role — Kyerɛ w'adwen Committee, National Union of Ghana Students (NUGS), UCC. Hall Representative — National Union of Presbyterian Students – Ghana (NUPS-G), UCC. Committee Head — Travelling Projects Committee, 52nd UCC Local [official designation to be confirmed].",
+
+    biography:
+        "JOSHUA NARTEY TETTEY is a Ghanaian youth leader, medical student and student governance advocate with a strong interest in public service, youth representation and community development. He was born in a fishing community and has lived in Dansoman, Accra, for over 15 years. He began his basic education at Emmanuel Presbyterian Preparatory School in Dansoman, completed his BECE in 2019 and subsequently attended Presbyterian Boys' Senior High School (PRESEC), Legon, where he pursued the Science programme from 2019 to 2022. In 2023, he entered the University of Cape Coast, where he is currently pursuing a Bachelor of Medicine, Bachelor of Surgery (MBChB), with an expected completion year of 2028. Joshua has been actively involved in student leadership, parliamentary governance and youth representation. He currently serves as Speaker of the University of Cape Coast Medical Students Association (UCCMSA) Senate and previously served as Speaker of the 2nd University Hall Medical Students Parliamentary Council. His leadership experience also includes service on the UCC Students' Representative Council Parliamentary Board, the National Union of Presbyterian Students – Ghana and the Christian Medical Fellowship. He has also served on the Kyerɛ w'adwen Committee of the National Union of Ghana Students, contributing to initiatives focused on student engagement and feedback.",
+
+    vision:
+        "To promote youth representation, effective student governance, community development and meaningful participation of young people in decision-making.",
+
+    plans:
+        "Support youth representation, effective parliamentary practice, student governance, community development and platforms that enable young people to participate meaningfully in decision-making.",
+
+    contribution:
+        "Contributes through youth representation, student parliamentary governance, community engagement, leadership activities and initiatives focused on student participation and feedback.",
+
+    currentActivities:
+        "Serving as Youth Member of Parliament for Ablekuma West Constituency and pursuing a Bachelor of Medicine, Bachelor of Surgery (MBChB) at the University of Cape Coast.",
+
+    leadershipExperience:
+        "Youth Member of Parliament — Ablekuma West Constituency. Speaker — UCC Medical Students Association (UCCMSA) Senate. Speaker — 2nd University Hall Medical Students Parliamentary Council. Member — UCC SRC Parliamentary Board. Hall Representative — National Union of Presbyterian Students – Ghana (NUPS-G), UCC. Leadership Role — Christian Medical Fellowship, UCC. Member/Committee Role — Kyerɛ w'adwen Committee, NUGS, UCC.",
+
+    professionalExperience:
+        "Medical student and student leader with experience in parliamentary governance, student representation, committee activities and youth leadership.",
+
+    focusAreas:
+        "Youth Representation • Student Governance • Community Development • Parliamentary Practice • Youth Participation • Public Service • Leadership Development",
+
+    slogan:
+        "Leadership • Representation • Service • Community Development",
+
+    image: "images/joshua.jpeg",
+
+    email: "narteytettey13@gmail.com",
+    phone: "0572771003",
+    website: "#",
+
+    facebook: "#",
+    twitter: "@primesharka",
+    instagram: "@primesharka",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp075",
+    name: "MAGDALENE NANA ADWOA KONADU AGYEMANG",
+    position: "Member of Parliament",
+    constituency: "Sekyere Central constituency",
+    region: "Ashanti",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "University of Media, Arts and Communication (UniMAC-IJ) — Bachelor of Arts in Development Communication, 2026. UniMAC-IJ — Diploma in Communication Studies. National Film and Television Institute (NAFTI) — Diploma in Broadcast Journalism. Ongoing postgraduate programme in Development Communication.",
+
+    profession:
+        "Development Communication Specialist",
+
+    experience:
+        "Church Youth President — FGCC. Gender Affairs Officer — UniMAC SRC. Journalist and media professional — Class FM, EP Radio and Diaspora Network Television. Client Relations and Sales — Proptis Ghana. National Service Teacher — Woodfield Manor Autism School. First Gender Affairs Officer — UniMAC SRC.",
+
+    biography:
+        "MAGDALENE NANA ADWOA KONADU AGYEMANG is a journalist, development communicator, and public relations and strategic communication specialist with seven years of experience spanning media, education and student leadership. She holds a Bachelor of Arts in Development Communication from the University of Media, Arts and Communication (UniMAC-IJ), as well as diplomas in Communication Studies from UniMAC-IJ and Broadcast Journalism from NAFTI, and is pursuing a postgraduate programme in Development Communication. As the first Gender Affairs Officer of the UniMAC Students' Representative Council, she developed the office's identity and systems, including an operational manual for institutional continuity, a Sexual and Reproductive Health and Rights (SRHR) education programme, and a Pad Bank and Condom Initiative. Her student-focused programmes also included a Tie & Dye Making Workshop that trained over 200 students, an Entrepreneurial Skills & Ventures Workshop, a Content Creation Masterclass and Men's Health Observation activities. Her media career includes on-air and production roles at Class FM, EP Radio and Diaspora Network Television, alongside client relationship and sales experience at Proptis Ghana and a national service placement at Woodfield Manor Autism School. She is fluent in English, Twi and Ga and has been recognized as a Most Versatile Youth Awardee (2025) and 3rd Runner-Up Top Intern at TV3.",
+
+    vision:
+        "To promote youth development, effective communication, gender empowerment, education and meaningful community participation.",
+
+    plans:
+        "Support youth development, gender-focused initiatives, education, communication, skills development and programmes that create meaningful opportunities for young people and communities.",
+
+    contribution:
+        "Contributes through development communication, journalism, public relations, strategic communication, gender advocacy, youth leadership, education and community-focused programmes.",
+
+    currentActivities:
+        "Serving as Member of Parliament for Sekyere Central District while continuing her work and development in communication, youth leadership and community-focused initiatives.",
+
+    leadershipExperience:
+        "Member of Parliament — Sekyere Central District. Gender Affairs Officer — UniMAC SRC. Church Youth President — FGCC. First Gender Affairs Officer — UniMAC SRC.",
+
+    professionalExperience:
+        "Development Communication Specialist, journalist, public relations and strategic communication specialist with experience at Class FM, EP Radio, Diaspora Network Television, Proptis Ghana and Woodfield Manor Autism School.",
+
+    focusAreas:
+        "Development Communication • Youth Development • Gender Empowerment • Education • Public Relations • Strategic Communication • Journalism • Community Development",
+
+    slogan:
+        "Communication • Leadership • Empowerment • Service",
+
+    image: "images/konadu.jpeg",
+
+    email: "speaktokonadu@gmail.com",
+    phone: "0242938490",
+    website: "#",
+
+    facebook: "https://www.facebook.com/share/19h7Ny7c1A/?mibextid=wwXIww",
+    twitter: "https://x.com/missnnuro?s=11",
+    instagram: "https://www.instagram.com/nanakonadu_theorthoepist_?stkn=MWhmMWNvNWF5YTdyeg%3D%3D&utm_source=qr",
+    linkedin: "https://www.linkedin.com/in/magdalene-nana-adwoa-konadu-agyemang-hls-38b1b01b9?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+    tiktok: "#"
+},
 
 ];
