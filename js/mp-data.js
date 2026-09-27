@@ -1982,4 +1982,60 @@ parliament: "Youth Parliament Ghana",
     linkedin: "#",
     tiktok: "#"
 },
+  {
+    id: "mp041",
+    name: "DOREEN QUARMYNE",
+    position: "Youth Member of Parliament",
+    constituency: "Okaikwei North Constituency",
+    region: "Greater Accra Region",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "University of Cape Coast — BSc Nursing, Level 300. College of Accountancy — Senior High School, completed 2021.",
+
+    profession:
+        "Nursing Student",
+
+    experience:
+        "Member of Parliament — Okaikwei North Constituency. Course Representative — Supported students and shared their concerns. Intern — Cape Coast Metro Hospital. Usher — Success Africa Summit. Member — Rotary Club.",
+
+    biography:
+        "DOREEN QUARMYNE is a Ghanaian leader and Youth Member of Parliament for the Okaikwei North Constituency in the Greater Accra Region. She cares about young people, her community, and good leadership. She values listening to people and helping them. She is currently pursuing a BSc in Nursing at the University of Cape Coast and is a Level 300 student. She has gained experience through student representation, an internship at Cape Coast Metro Hospital, ushering at the Success Africa Summit, and participation in Rotary Club community activities.",
+
+    vision:
+        "To support young people and communities through good leadership, active listening, service, and meaningful representation.",
+
+    plans:
+        "Support initiatives focused on youth development, community service, leadership, student concerns, and meaningful youth participation.",
+
+    contribution:
+        "Contributes through youth representation, student leadership, community activities, healthcare training, and service to young people and the wider community.",
+
+    currentActivities:
+        "Currently pursuing a BSc in Nursing at the University of Cape Coast as a Level 300 student and serving as Youth Member of Parliament for the Okaikwei North Constituency.",
+
+    leadershipExperience:
+        "Youth Member of Parliament — Okaikwei North Constituency. Course Representative — Student representation and advocacy. Member — Rotary Club.",
+
+    professionalExperience:
+        "Nursing Student with practical experience through an internship at Cape Coast Metro Hospital, alongside experience in student representation, community activities, and event support.",
+
+    focusAreas:
+        "Youth Development • Community Service • Leadership • Student Representation • Healthcare • Community Engagement",
+
+    slogan:
+        "Leadership • Service • Representation",
+
+    image: "images/Doreen Quarmyne.png",
+
+    email: "doreenquarmyne1@gmail.com",
+    phone: "#",
+    website: "#",
+
+    facebook: "Renomyne",
+    twitter: "#",
+    instagram: "Reenomyne",
+    linkedin: "Doreen Quarmyne",
+    tiktok: "#"
+},
 ];
