@@ -505,7 +505,7 @@ region: "Ashanti",
     isMP: false,
 
     education:
-        "KWAME NKRUMAH UNIVERSITY OF SCIENCE AND TECHNOLOGY (KNUST) — Bachelor of Science (BSc.), 2025. The specific programme was not provided.",
+        "KWAME NKRUMAH UNIVERSITY OF SCIENCE AND TECHNOLOGY (KNUST) — Bachelor of Science (BSc.) in Disability and Rehabilitation Studies, 2025.",
 
     profession:
         "MENTAL HEALTH & DISABILITY RESEARCHER",
