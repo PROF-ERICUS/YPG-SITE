@@ -3441,7 +3441,7 @@ parliament: "Youth Parliament Ghana",
     linkedin: "#",
     tiktok: "#"
 },
-  {
+{
     id: "mp067",
     name: "OSMAN MOHAMMED",
     position: "Member of Parliament",
@@ -3495,6 +3495,62 @@ parliament: "Youth Parliament Ghana",
     twitter: "#",
     instagram: "Osman Mohammed",
     linkedin: "https://www.linkedin.com/in/osman-mohammed45",
+    tiktok: "#"
+},
+{
+    id: "mp068",
+    name: "YOMBEI JABEZ BIYEMBIDAM",
+    position: "Member of Parliament",
+    constituency: "Tatale-Sanguli Constituency",
+    region: "Northern",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "University for Development Studies (UDS) — Bachelor of Laws (LL.B), currently pursuing.",
+
+    profession:
+        "Student / Law Student / Youth Leader / Advocate",
+
+    experience:
+        "Youth Member of Parliament — Tatale-Sanguli Constituency. General Secretary — Association of Christian and Gospel Ministers (AGCM), Kpando Senior High School. Youth advocacy, leadership, community development and service activities.",
+
+    biography:
+        "YOMBEI JABEZ BIYEMBIDAM is a young Ghanaian leader, law student, advocate and passionate supporter of youth development. He hails from Tassando in the Tatale-Sanguli Constituency of the Northern Region of Ghana. Yombei is currently pursuing a Bachelor of Laws (LL.B) at the University for Development Studies (UDS), where he is developing his knowledge and understanding of the law with the aspiration of using his legal education to contribute meaningfully to society. He has a strong passion for advocacy, leadership, service and supporting others, particularly young people. His interest in advocacy is driven by a desire to speak for those whose voices may not always be heard and to promote fairness, equal opportunities and positive social development. His leadership journey began during his time at Kpando Senior High School, where he served as the General Secretary of the Association of Christian and Gospel Ministers (AGCM). Beyond academics, he is passionate about youth empowerment and community development and seeks opportunities to support young people and promote their active participation in matters affecting their communities.",
+
+    vision:
+        "To promote advocacy, service, leadership, justice, youth empowerment and meaningful youth participation in community and national development.",
+
+    plans:
+        "Support youth empowerment, advocacy, equal opportunities, community development and active participation of young people in matters affecting their communities.",
+
+    contribution:
+        "Contributes through youth representation, advocacy, leadership, community development, service and support for young people.",
+
+    currentActivities:
+        "Currently pursuing a Bachelor of Laws (LL.B) at the University for Development Studies (UDS) and serving as Youth Member of Parliament for the Tatale-Sanguli Constituency.",
+
+    leadershipExperience:
+        "Youth Member of Parliament — Tatale-Sanguli Constituency. General Secretary — Association of Christian and Gospel Ministers (AGCM), Kpando Senior High School.",
+
+    professionalExperience:
+        "Law student and youth advocate with experience in student leadership, advocacy, communication, organisation, teamwork, community development and youth empowerment.",
+
+    focusAreas:
+        "Youth Development • Advocacy • Leadership • Service • Justice • Equal Opportunities • Community Development • Youth Empowerment",
+
+    slogan:
+        "Advocacy • Service • Leadership",
+
+    image: "images/jabez.jpeg",
+
+    email: "#",
+    phone: "025641119",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
     tiktok: "#"
 },
 
