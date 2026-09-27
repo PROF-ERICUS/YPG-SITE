@@ -783,5 +783,237 @@ region: "Ashanti",
     linkedin: "#",
     tiktok: "@joet_900"
 },
+    {
+    id: "app014",
+    name: "AKANSALE PROSPER AWINONYGA",
+    position: "Upper East Regional Minister",
+    ministry: "Office of the Regional Coordinating Council",
+    constituency: "Bongo Constituency",
+    region: "Upper East",
+    appointmentDate: "23rd September,2026.",
+    isMP: false,
+
+    education:
+        "University of Ghana (UG), Legon — Political Science and Information Studies, Degree.",
+
+    profession:
+        "Student",
+
+    experience:
+        "Deputy Organizing Secretary — BONABOTO (UG). Responsible for organizing, managing and directing programmes of the organization, while also assisting other sectors when required. Ranking Member — Departmental parliamentary activities.",
+
+    biography:
+        "AKANSALE PROSPER AWINONYGA is a Ghanaian student from the Upper East Region pursuing Political Science and Information Studies at the University of Ghana. He has gained leadership experience through his role as Deputy Organizing Secretary of BONABOTO (UG), where he was responsible for organizing, managing and directing programmes of the organization. He also serves as a ranking member of his department, which leads in Ghana parliamentary activities.",
+
+    vision:
+        "To contribute to effective leadership, organisation and meaningful participation in public and parliamentary activities.",
+
+    plans:
+        "Support effective organisation of programmes, leadership activities and meaningful participation in parliamentary and public affairs.",
+
+    contribution:
+        "Contributes through organisational leadership, programme coordination, student leadership and participation in parliamentary activities.",
+
+    currentActivities:
+        "Currently pursuing a degree in Political Science and Information Studies at the University of Ghana and engaging in student leadership activities.",
+
+    leadershipExperience:
+        "Deputy Organizing Secretary — BONABOTO (UG). Ranking Member — Departmental parliamentary activities.",
+
+    professionalExperience:
+        "Student with experience in organisational leadership, programme coordination, student representation and parliamentary activities.",
+
+    focusAreas:
+        "Leadership • Organisation • Parliamentary Activities • Student Development • Public Service • Youth Engagement",
+
+    slogan:
+        "Leadership • Organisation • Service",
+
+    image: "images/prosper.jpeg",
+
+    email: "prosperakansale11@gmail.com",
+    phone: "0539226670",
+    website: "#",
+
+    facebook: "prosperaddibosskid",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "app015",
+    name: "EMMANUEL ADJEI ALLOTEY",
+    position: "Minister for Lands and Natural Resources",
+    ministry: "Office of the Lands and Natural Resources",
+    constituency: "Prestea Huni Valley Constituency",
+    region: "Western",
+    appointmentDate: "20th September,2026.",
+    isMP: false,
+
+    education:
+        "University of Mines and Technology (UMaT) — BSc Mechanical Engineering, Bachelor of Science, expected 2028. Asare Oppong School Complex, Takoradi — Basic Education. Dunkwa Senior High Technical School (DSHTS), Dunkwa-On-Offin — Secondary Education. Advanced Diploma in Occupational Health and Safety (Adv.Dip.).",
+
+    profession:
+        "Student",
+
+    experience:
+        "Public Relations Officer — Association of Mechanical Engineering Students (AMES), UMaT, 2026/2027 academic year. SRC President — Dunkwa Senior High Technical School. Senior Boys Prefect — Dunkwa Senior High Technical School. General Secretary — GHAMSU-DSHTS. Prep Prefect — Asare Oppong School Complex. Youth Governance and Public Service — Youth Parliament Ghana. Environment, Occupational Health and Safety, Mining and Natural Resources Management activities and interests.",
+
+    biography:
+        "EMMANUEL ADJEI ALLOTEY is a Mechanical Engineering student at the University of Mines and Technology (UMaT), Tarkwa, with interests in engineering, natural resources, safety, leadership and public service. He was raised by Matilda Boateng and Solomon Laryea Allotey. He completed his basic education at Asare Oppong School Complex, Takoradi, and proceeded to Dunkwa Senior High Technical School, where he served as SRC President, Senior Boys Prefect and General Secretary of GHAMSU-DSHTS. At UMaT, he currently serves as Public Relations Officer of the Association of Mechanical Engineering Students, contributing to student engagement, communication, publicity and organisational activities. He has developed interests in natural resources management, occupational health and safety, mining and sustainable development, with exposure to the natural resources sector through mentorship and guidance from Nana Kojo Adansi III, Chief of Twenda, Huni Valley. His involvement in youth parliamentary activities reflects his interest in public policy, governance, environmental sustainability, natural resource management and youth participation in national development.",
+
+    vision:
+        "To combine engineering knowledge, leadership experience and interest in natural resources to contribute to practical solutions for national development.",
+
+    plans:
+        "Support responsible mining, environmental sustainability, natural resources governance, community development, youth participation and occupational health and safety.",
+
+    contribution:
+        "Contributes through student leadership, public relations, youth advocacy, communication, administration, stakeholder engagement, teamwork and interests in environment, health and safety, mining and natural resources management.",
+
+    currentActivities:
+        "Currently pursuing BSc Mechanical Engineering at the University of Mines and Technology (UMaT) and serving as Public Relations Officer of the Association of Mechanical Engineering Students (AMES), UMaT, for the 2026/2027 academic year.",
+
+    leadershipExperience:
+        "Public Relations Officer — Association of Mechanical Engineering Students (AMES), UMaT. SRC President — Dunkwa Senior High Technical School. Senior Boys Prefect — Dunkwa Senior High Technical School. General Secretary — GHAMSU-DSHTS. Prep Prefect — Asare Oppong School Complex. Youth Governance and Public Service — Youth Parliament Ghana.",
+
+    professionalExperience:
+        "Mechanical Engineering student with experience in public relations, student governance, administration, youth advocacy, communication, organisational development and Environment, Health and Safety management.",
+
+    focusAreas:
+        "Engineering • Natural Resources • Responsible Mining • Environmental Sustainability • Occupational Health and Safety • Youth Leadership • Public Service • Community Development",
+
+    slogan:
+        "Integrity • Service • Responsibility • Innovation",
+
+    image: "images/allotey.jpeg",
+
+    email: "emmaallotey362@gmail.com",
+    phone: "0535373153 / 0532998666",
+    website: "#",
+
+    facebook: "#",
+    twitter: "https://x.com/emmaallotey362?s=11",
+    instagram: "https://www.instagram.com/pgm_manuel?stkn=MXAwd3ZmNWlhcHJwMA%3D%3D&utm_source=qr",
+    linkedin: "https://www.linkedin.com/in/allotey-emmanuel-adjei-115638372",
+    tiktok: "#"
+},
+{
+    id: "app016",
+    name: "ISSAHAK ABDUL-KARIM",
+    position: "Minister for Sports",
+    ministry: "Office of the Sports Ministry",
+    constituency: "Ashaiman",
+    region: "Greater Accra",
+    appointmentDate: "27th September,2026.",
+    isMP: false,
+
+    education:
+        "Islamic University of Ghana — Education, Early Childhood, Degree. Year not provided.",
+
+    profession:
+        "Educator",
+
+    experience:
+        "Unit Committee Member — Local Level. Speaker of Parliament — School Parliamentary Activities. Tutor and Mentor — Student Academic Support and Youth Development.",
+
+    biography:
+        "ISSAHAK ABDUL-KARIM is a Ghanaian education enthusiast, student leader, youth advocate, tutor and emerging public-service leader with a strong interest in education, youth development, leadership and national development. He is currently pursuing a degree in Early Childhood Education at the Islamic University of Ghana, where he has developed an interest in educational leadership and the development of young people. His involvement in parliamentary leadership has provided experience in public speaking, debate, representation, policy discussions and responsible leadership. He has served as Speaker of Parliament within his school, gaining practical experience in presiding over parliamentary proceedings and engaging students on issues of importance. He is also passionate about supporting students academically through tutoring and mentorship. His long-term vision is to contribute to Ghana’s development, particularly in education, and to support policies and initiatives that create better opportunities for young people.",
+
+    vision:
+        "To contribute to a Ghana where every child has access to quality education, young people have opportunities to develop their potential, and leadership is driven by service and responsibility.",
+
+    plans:
+        "Support education, youth development, academic mentorship, leadership development and opportunities that help young people develop their potential.",
+
+    contribution:
+        "Contributes through education, tutoring, mentorship, student leadership, parliamentary activities, youth advocacy and community-level service.",
+
+    currentActivities:
+        "Currently pursuing Early Childhood Education at the Islamic University of Ghana and working as an educator while engaging in youth leadership and public-service activities.",
+
+    leadershipExperience:
+        "Minister for Sports — Youth Parliament Ghana. Speaker of Parliament — School Parliamentary Activities. Unit Committee Member — Local Level. Student Leadership and Youth Advocacy activities.",
+
+    professionalExperience:
+        "Educator with experience in tutoring, student mentorship, parliamentary leadership, youth advocacy and community-level service.",
+
+    focusAreas:
+        "Education • Youth Development • Sports • Leadership • Student Mentorship • Public Service • Youth Advocacy • Community Development",
+
+    slogan:
+        "Service • Discipline • Knowledge • Integrity",
+
+    image: "images/karim.jpeg",
+
+    email: "ki9600334@gmail.com",
+    phone: "0247504141",
+    website: "#",
+
+    facebook: "https://www.facebook.com/share/1C4Uxf86zt/",
+    twitter: "Karim Ishak",
+    instagram: "Karim Ishak",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "app017",
+    name: "ISAAC TEYE",
+    position: "Minister of Transport (YPG)",
+    ministry: "Office of the Ministry of Transport (YPG)",
+    constituency: "Ada constituency",
+    region: "Greater Accra",
+    appointmentDate: "20th September,2026.",
+    isMP: false,
+
+    education:
+        "Accra Institute of Management Science — Logistics Management in Oil and Gas. Dannaks Senior High School — Business.",
+
+    profession:
+        "Logistics & Supply Chain Professional / Transport Manager / Shipping & Port Operations Professional",
+
+    experience:
+        "Logistics Manager — Centenary Logistics. Head of Procurement and Logistics — Arise Ghana Youth Foundation. Transport Manager — Eskel Travel and Tour. Delivery Clerk — Psalmist Shipping. Delivery Clerk — His Excellency Shipping and Logistics. Customs Clearing Agent — Port Operations.",
+
+    biography:
+        "ISAAC TEYE is a Ghanaian logistics and transport professional with extensive experience in shipping, port operations, customs clearing, procurement, transportation and logistics management. He is committed to improving Ghana's transport sector through effective leadership, efficient logistics systems, modern transportation infrastructure and stronger coordination across the country's road, rail, maritime and aviation sectors. With practical experience in port operations and customs clearing, as well as leadership experience in logistics, procurement and transportation management, he brings professional expertise and hands-on industry knowledge to public service.",
+
+    vision:
+        "To support a modern, efficient, safe and well-integrated transport system that connects communities, facilitates trade, strengthens Ghana's economy and creates opportunities for sustainable national development.",
+
+    plans:
+        "Support effective transport and logistics management, modern transportation infrastructure, efficient logistics systems and stronger coordination across road, rail, maritime and aviation sectors.",
+
+    contribution:
+        "Contributes through professional experience in logistics, shipping, port operations, customs clearing, procurement, supply chain management, transportation and public service.",
+
+    currentActivities:
+        "Serving as Minister of Transport (YPG), with responsibility for Transport, Logistics, Maritime, Rail and Aviation Coordination.",
+
+    leadershipExperience:
+        "Minister of Transport (YPG) — Youth Parliament Ghana. Head of Procurement and Logistics — Arise Ghana Youth Foundation. Logistics Manager — Centenary Logistics. Transport Manager — Eskel Travel and Tour.",
+
+    professionalExperience:
+        "Logistics Manager — Centenary Logistics. Head of Procurement and Logistics — Arise Ghana Youth Foundation. Transport Manager — Eskel Travel and Tour. Delivery Clerk — Psalmist Shipping. Delivery Clerk — His Excellency Shipping and Logistics. Customs Clearing Agent — Port Operations.",
+
+    focusAreas:
+        "Transport & Logistics Management • Shipping & Port Operations • Customs Clearing • Import & Export Operations • Procurement & Supply Chain Management • Warehousing & Distribution • Transportation Management • Team Leadership & Administration",
+
+    slogan:
+        "Efficient Transport • Stronger Logistics • National Development",
+
+    image: "images/isaac.jpeg",
+
+    email: "isaacteye8047@gmail.com",
+    phone: "0245897360",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
 
 ];
