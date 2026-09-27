@@ -3441,4 +3441,61 @@ parliament: "Youth Parliament Ghana",
     linkedin: "#",
     tiktok: "#"
 },
+  {
+    id: "mp067",
+    name: "OSMAN MOHAMMED",
+    position: "Member of Parliament",
+    constituency: "Wassa East Constituency",
+    region: "Western",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "Kwame Nkrumah University of Science and Technology (KNUST) — Bachelor of Arts (BA) in Communication Design, recent graduate. T.I. Ahmadiyya Senior High School (T.I. AMASS), Kumasi — Visual Art, West African Senior School Certificate (WASSCE), 2018–2021.",
+
+    profession:
+        "Communication Designer / Entrepreneur / Project Manager / Youth Leader",
+
+    experience:
+        "Founder & Project Manager — Grade A Finishing Agency. Head of Electoral Commission — Department of Communication Design, KNUST. Youth Member of Parliament — Wassa East Constituency, Youth Model Parliament of Ghana. Visual Art Department President — T.I. Ahmadiyya Senior High School (T.I. AMASS), Kumasi.",
+
+    biography:
+        "OSMAN MOHAMMED is a dedicated youth leader, entrepreneur, project manager and advocate representing the Wassa East Constituency in the Western Region under the Youth Model Parliament of Ghana. He completed his secondary education at T.I. Ahmadiyya Senior High School (T.I. AMASS) in Kumasi from 2018 to 2021 before pursuing higher education at the Kwame Nkrumah University of Science and Technology (KNUST), where he recently graduated with a Bachelor of Arts in Communication Design. During his tenure at KNUST, he demonstrated administrative leadership and integrity by serving as the Head of the Electoral Commission for the Department of Communication Design. In his professional career, he is the Founder and Project Manager at Grade A Finishing Agency, where he leverages his background in communication design and strategic management to drive creative projects and agency operations. As a Youth Member of Parliament, he is passionate about combining his creative, entrepreneurial and leadership experience to champion youth empowerment, educational reform and sustainable development across Wassa East.",
+
+    vision:
+        "To champion youth empowerment, educational reform and sustainable development across the Wassa East Constituency.",
+
+    plans:
+        "Support youth empowerment, educational reform and sustainable development while using creative, entrepreneurial and leadership experience to engage young people.",
+
+    contribution:
+        "Contributes through communication design, entrepreneurship, project management, electoral administration, youth leadership and advocacy for youth empowerment and sustainable development.",
+
+    currentActivities:
+        "Serving as Youth Member of Parliament for the Wassa East Constituency while working as Founder and Project Manager at Grade A Finishing Agency.",
+
+    leadershipExperience:
+        "Youth Member of Parliament — Wassa East Constituency, Youth Model Parliament of Ghana. Head of Electoral Commission — Department of Communication Design, KNUST. Visual Art Department President — T.I. Ahmadiyya Senior High School (T.I. AMASS), Kumasi.",
+
+    professionalExperience:
+        "Founder & Project Manager — Grade A Finishing Agency. Communication Designer with experience in creative projects, strategic management and agency operations.",
+
+    focusAreas:
+        "Youth Empowerment • Educational Reform • Sustainable Development • Communication Design • Entrepreneurship • Project Management • Youth Leadership",
+
+    slogan:
+        "Creativity • Leadership • Youth Empowerment",
+
+    image: "images/Mohammed.jpeg",
+
+    email: "kophiosman4945@gmail.com",
+    phone: "0555224945",
+    website: "#",
+
+    facebook: "Osman Mohammed",
+    twitter: "#",
+    instagram: "Osman Mohammed",
+    linkedin: "https://www.linkedin.com/in/osman-mohammed45",
+    tiktok: "#"
+},
+
 ];
