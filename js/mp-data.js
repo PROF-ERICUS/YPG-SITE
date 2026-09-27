@@ -2038,4 +2038,678 @@ parliament: "Youth Parliament Ghana",
     linkedin: "Doreen Quarmyne",
     tiktok: "#"
 },
+  {
+    id: "mp042",
+    name: "GIDEON DADZIE",
+    position: "Member of Parliament ",
+    constituency: "Cape Coast North",
+    region: "Central",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "Cape Coast Technical University (CCTU) — Bachelor of Technology in Procurement and Supply Chain Management (BTech), 2025–Present. Mfantsipim — General Arts, WASSCE, 2019–2022.",
+
+    profession:
+        "Student / Youth Advocate",
+
+    experience:
+        "Youth Member of Parliament — Cape Coast North Constituency. Financial Officer — Redemption Christos Gathering.",
+
+    biography:
+        "GIDEON DADZIE is the Youth Member of Parliament for the Cape Coast North Constituency. He is a dedicated youth leader, student advocate, and community development enthusiast committed to championing the interests of the youth in Cape Coast and beyond. With a strong background in youth leadership, student politics, and community service, he continues to advocate for education, youth empowerment, and good governance.",
+
+    vision:
+        "To champion the interests of young people through education, youth empowerment, community development, and good governance.",
+
+    plans:
+        "Support initiatives focused on education, youth empowerment, community development, student advocacy, and good governance.",
+
+    contribution:
+        "Contributes through youth leadership, student advocacy, community service, and initiatives focused on education and youth empowerment.",
+
+    currentActivities:
+        "Currently pursuing a Bachelor of Technology in Procurement and Supply Chain Management at Cape Coast Technical University and serving as Youth Member of Parliament for the Cape Coast North Constituency.",
+
+    leadershipExperience:
+        "Youth Member of Parliament — Cape Coast North Constituency. Financial Officer — Redemption Christos Gathering.",
+
+    professionalExperience:
+        "Student and Youth Advocate with experience in youth leadership, student advocacy, community service, and financial administration.",
+
+    focusAreas:
+        "Youth Development • Education • Youth Empowerment • Student Advocacy • Community Development • Good Governance",
+
+    slogan:
+        "Youth • Education • Empowerment",
+
+    image: "images/Gideon.jpeg",
+
+    email: "gideondadzie.official@gmail.com",
+    phone: "0531292345",
+    website: "#",
+
+    facebook: "Gideon Dadzie",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "Hon. Gideon Youth MP"
+},
+{
+    id: "mp043",
+    name: "ZOTTOR JULIUS MAWUNYO",
+    position: "Member of Parliament",
+    constituency: "Kwesimintsim Constituency",
+    region: "Western",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "University of Mines and Technology (UMaT), Tarkwa — B.Sc. Robotics Engineering and Artificial Intelligence, currently pursuing. Ideal College, Takoradi — Secondary Education. King Solomon International School, SCC — Basic Education.",
+
+    profession:
+        "Student / Youth Leader / Civic & Community Mobilizer",
+
+    experience:
+        "Youth Member of Parliament — Kwesimintsim Constituency. KT Hall Entertainment Chairman — UMaT. Assistant Head Boy — King Solomon International School. Civic & Community Mobilizer — Youth forums, community cleanup campaigns, and educational outreach in Kwesimintsim and the Western Region.",
+
+    biography:
+        "ZOTTOR JULIUS MAWUNYO is a youth leader, student, and civic and community mobilizer serving as Youth MP Elect for the Kwesimintsim Constituency in the Western Region. He is currently pursuing a B.Sc. in Robotics Engineering and Artificial Intelligence at the University of Mines and Technology (UMaT), Tarkwa. He completed his secondary education at Ideal College, Takoradi, and his basic education at King Solomon International School, SCC. His leadership experience includes serving as KT Hall Entertainment Chairman at UMaT and Assistant Head Boy at King Solomon International School. He has also been involved in organizing youth forums, community cleanup campaigns, and educational outreach activities in Kwesimintsim and the Western Region.",
+
+    vision:
+        "To transform Kwesimintsim into a benchmark constituency for youth innovation, active civic participation, digital literacy, and sustainable community empowerment.",
+
+    plans:
+        "Implement youth skills and STEM initiatives, youth civic engagement and advocacy forums, youth empowerment centres, legislative advocacy for practical TVET and STEM education, and youth mentorship and incubation programmes.",
+
+    contribution:
+        "Contributes through youth representation, policy advocacy, community mobilization, STEM and technology advocacy, student leadership, civic engagement, educational outreach, and community development.",
+
+    currentActivities:
+        "Currently pursuing a B.Sc. in Robotics Engineering and Artificial Intelligence at UMaT, serving as KT Hall Entertainment Chairman, and serving as Youth MP Elect for the Kwesimintsim Constituency.",
+
+    leadershipExperience:
+        "Member of Parliament — Kwesimintsim Constituency. KT Hall Entertainment Chairman — UMaT. Assistant Head Boy — King Solomon International School. Civic & Community Mobilizer — Kwesimintsim and the Western Region.",
+
+    professionalExperience:
+        "Student and civic and community mobilizer with experience in student engagement, event management, creative arts, welfare initiatives, youth forums, community cleanup campaigns, and educational outreach.",
+
+    focusAreas:
+        "YOUTH INNOVATION • STEM EDUCATION • ROBOTICS • ARTIFICIAL INTELLIGENCE • DIGITAL LITERACY • CIVIC PARTICIPATION • YOUTH EMPOWERMENT • TECHNICAL SKILLS • COMMUNITY DEVELOPMENT",
+
+    slogan:
+        "Innovation • Participation • Empowerment",
+
+    image: "images/julius.jpeg",
+
+    email: "juliusmawunyo84@gmail.com",
+    phone: "0257035120",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp044",
+    name: "OWUSU WILLIAM",
+    position: "Member of Parliament",
+    constituency: "Manhyia North Constituency",
+    region: "Ashanti",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "University of Cape Coast (UCC) — BSc Laboratory Technology, Bachelor of Science. Year of completion not provided.",
+
+    profession:
+        "Laboratory Technology / Public Service",
+
+    experience:
+        "Youth Member of Parliament — Manhyia North Constituency. Vice President — Superannuation Hall, University of Cape Coast. Majority Chief Whip — Superannuation Hall Parliament, UCC. Sports Chairperson — Superannuation Hall, UCC. PRO/Secretary — CANSSAG. Deputy Sponsorship and Scholarship Chair — CANSSAG. Intern — Ghana Water Company. Marketing Specialist — Student Entrepreneurship/Business Projects.",
+
+    biography:
+        "OWUSU WILLIAM is a young Ghanaian leader and public servant representing the Manhyia North Constituency as a Member of Parliament. He is passionate about youth development, leadership, education, public service, and community engagement. His leadership experience includes active participation in student governance, youth representation, and community-oriented initiatives. Through his public service and leadership activities, he seeks to create platforms that enable young people to communicate their concerns, participate meaningfully in governance, and contribute to the development of their communities. His leadership approach is centred on inclusive representation, youth empowerment, accountability, development, and service to the community.",
+
+    vision:
+        "To promote inclusive representation, youth empowerment, accountability, development, and meaningful participation in governance.",
+
+    plans:
+        "Support initiatives focused on youth development, leadership, education, public service, community engagement, accountability, and youth participation in governance.",
+
+    contribution:
+        "Contributes through youth representation, student leadership, public service, community engagement, entrepreneurship-related activities, and initiatives focused on youth empowerment and development.",
+
+    currentActivities:
+        "Currently serving as Member of Parliament for the Manhyia North Constituency and pursuing professional development in Laboratory Technology and public service.",
+
+    leadershipExperience:
+        "Member of Parliament — Manhyia North Constituency. Youth Member of Parliament — Manhyia North Constituency. Vice President — Superannuation Hall, UCC. Majority Chief Whip — Superannuation Hall Parliament, UCC. Sports Chairperson — Superannuation Hall, UCC. PRO/Secretary — CANSSAG. Deputy Sponsorship and Scholarship Chair — CANSSAG.",
+
+    professionalExperience:
+        "Laboratory Technology and Public Service. Intern — Ghana Water Company. Marketing Specialist — Student Entrepreneurship/Business Projects.",
+
+    focusAreas:
+        "Youth Development • Leadership • Education • Public Service • Community Engagement • Youth Empowerment • Accountability • Development",
+
+    slogan:
+        "Leadership • Representation • Youth Empowerment • Development",
+
+    image: "images/owusu.jpeg",
+
+    email: "#",
+    phone: "0548833353 / 0503546312",
+    website: "#",
+
+    facebook: "William Owusu",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "Owusu William",
+    tiktok: "@Mr_billy07",
+    snapchat: "@mrbilly770"
+},
+{
+    id: "mp045",
+    name: "FRANCIS NDATI",
+    position: "Member of Parliament",
+    constituency: "Nsuta Kwamang Beposo Constituency",
+    region: "Ashanti",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "Sekondi Nursing and Midwifery College — Registered General Nursing, completed in 2026. Kumasi Senior High School — Senior High School Education. Oku R/C Basic School — Basic Education.",
+
+    profession:
+        "Health Practitioner / Registered General Nurse / Farmer",
+
+    experience:
+        "Youth Member of Parliament — Nsuta Kwamang Beposo Constituency, Youth Parliament Ghana. Male Disciplinary Commissioner — Sekondi Nursing and Midwifery College SRC, 2025/2026. Boys Prefect — Oku R/C Basic School, 2018/2019. Health Education & Agribusiness Mentorship Programme — Farming methods mentorship and youth development advocacy.",
+
+    biography:
+        "FRANCIS NDATI is a Ghanaian youth leader, student practitioner, and Youth Member of Parliament for the Nsuta Kwamang Beposo Constituency under Youth Parliament Ghana. He recently completed his nursing education at Sekondi Nursing and Midwifery College, where he pursued a Diploma in General Nursing. He has developed interests in healthcare, youth development, education, leadership, and community service. His leadership experience includes serving in student and youth leadership capacities at Sekondi Nursing and Midwifery College, including roles within academic and student associations. He has also been involved in initiatives focused on student mentorship, academic development, health education, and youth engagement. As Youth MP for Nsuta Kwamang Beposo Constituency, he seeks to contribute to youth representation, community development, education, health awareness, and farming initiatives that create opportunities for young people within the constituency and Ghana.",
+
+    vision:
+        "To promote youth representation, healthcare awareness, education, community development, and opportunities for young people through leadership and service.",
+
+    plans:
+        "Support initiatives focused on youth development, health awareness, education, farming, agribusiness, mentorship, community development, and meaningful youth participation.",
+
+    contribution:
+        "Contributes through youth representation, healthcare knowledge, health education, student leadership, agribusiness mentorship, farming initiatives, and community engagement.",
+
+    currentActivities:
+        "Currently serving as Youth Member of Parliament for the Nsuta Kwamang Beposo Constituency under Youth Parliament Ghana and working as a registered general nurse and farmer.",
+
+    leadershipExperience:
+        "Youth Member of Parliament — Nsuta Kwamang Beposo Constituency. Male Disciplinary Commissioner — Sekondi Nursing and Midwifery College SRC, 2025/2026. Boys Prefect — Oku R/C Basic School, 2018/2019. Youth Development Advocate — Community and Youth Initiatives.",
+
+    professionalExperience:
+        "Registered General Nurse and Farmer with experience in healthcare education, student leadership, youth development, agribusiness mentorship, farming methods mentorship, and community engagement.",
+
+    focusAreas:
+        "Healthcare • Youth Development • Education • Leadership • Community Service • Health Awareness • Farming • Agribusiness • Youth Empowerment",
+
+    slogan:
+        "Health • Youth • Agriculture • Service",
+
+    image: "images/ndati.jpeg",
+
+    email: "ndatikwakufrancis@gmail.com",
+    phone: "0552884254",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp046",
+    name: "KWEGYIR VALERIE AMOASIWA",
+    position: "Member of Parliament",
+    constituency: "Anyaa Sowutuom constituency",
+    region: "Greater Accra",
+    parliament: "Parliament of Ghana",
+
+    education:
+        "Kwame Nkrumah University of Science and Technology (KNUST) — BSc Agricultural Biotechnology, 2026. Pentecost Senior High School — General Science, WASSCE, 2022. Nichobeth Preparatory School — BECE, 2019.",
+
+    profession:
+        "Agricultural Biotechnologist",
+
+    experience:
+        "Compound Prefect — Nichobeth Preparatory School, 2018/19. Prep Prefect — Pentecost Senior High School, 2021/22. Deputy Health Commissioner — CANARSA, 2023/24. Deputy PRO — CANARSA, 2024/25. Head of Sanitation and Health — FASA, 2024/25. Sponsorship Committee Chairperson — CANARSA, 2025/26.",
+
+    biography:
+        "KWEGYIR VALERIE AMOASIWA is a graduate of Kwame Nkrumah University of Science and Technology (KNUST) with a BSc in Agricultural Biotechnology. She is a dedicated young leader with a strong background in student leadership and community service, having served in various capacities including health, sanitation, communication and sponsorship roles. She is an alumna of Pentecost Senior High School and Nichobeth Preparatory School. She is currently a graduate preparing for her National Service Scheme (NSS) and is recognized for her discipline, leadership and passion for community health and youth advocacy.",
+
+    vision:
+        "To promote youth advocacy, community health, sanitation, leadership and meaningful community service.",
+
+    plans:
+        "Support initiatives focused on youth advocacy, community health, sanitation, education, leadership, community service and opportunities for young people.",
+
+    contribution:
+        "Contributes through student leadership, community health and sanitation activities, youth advocacy, communication, sponsorship coordination and community service.",
+
+    currentActivities:
+        "Currently a graduate of KNUST preparing for National Service Scheme (NSS) and serving as Member of Parliament for Anyaa Sowutuom.",
+
+    leadershipExperience:
+        "Member of Parliament — Anyaa Sowutuom. Compound Prefect — Nichobeth Preparatory School. Prep Prefect — Pentecost Senior High School. Deputy Health Commissioner — CANARSA. Deputy PRO — CANARSA. Head of Sanitation and Health — FASA. Sponsorship Committee Chairperson — CANARSA.",
+
+    professionalExperience:
+        "Agricultural Biotechnologist and graduate with experience in student leadership, community health, sanitation, communication, sponsorship coordination and youth advocacy.",
+
+    focusAreas:
+        "Agricultural Biotechnology • Youth Advocacy • Community Health • Sanitation • Leadership • Education • Community Service",
+
+    slogan:
+        "Leadership • Service • Youth Advocacy",
+
+    image: "images/valerie.jpeg",
+
+    email: "Kwegyirvalerie92@gmail.com",
+    phone: "0550447676",
+    website: "#",
+
+    facebook: "Ridicul gh",
+    twitter: "https://x.com/kwegyirvalerie?s=11",
+    instagram: "https://www.instagram.com/ridiculgh",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp047",
+    name: "INUSAH RAHMAN",
+    position: "Member of Parliament",
+    constituency: "Binduri Constituency",
+    region: "Upper East Region",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "Tamale Senior High School — General Science, WASSCE, 2022. Nursing and Midwifery Training College, Zuarungu — Registered General Nursing, Diploma, Year 300.",
+
+    profession:
+        "Nursing Student / Trainee",
+
+    experience:
+        "Youth Member of Parliament — National Youth Parliament of Ghana, Binduri Constituency. Health Prefect — Zuarungu SRC/GNMT[A]. Secretary — GMSA, Nursing and Midwifery Training College, Zuarungu. Youth and Student Leadership Roles — Nursing and Midwifery Training College, Zuarungu.",
+
+    biography:
+        "INUSAH RAHMAN is a Ghanaian youth leader from the Binduri Constituency in the Upper East Region. He was elected as Health Prefect during his second-cycle education at Tamale Senior High School. He was appointed as the GMSA Secretary of the Nursing and Midwifery Training College, Zuarungu, and currently serves as the Health Prefect of the school SRC/GNMT[A] board. He was also elected as the Youth Member of Parliament for Binduri Constituency under the National Youth Parliament of Ghana on 5th September 2026. He has a background in health-related education and has been actively involved in student and youth leadership. He is passionate about youth development, health education, community development and effective representation.",
+
+    vision:
+        "To promote youth development, health education, community development and effective representation through meaningful youth leadership.",
+
+    plans:
+        "Support initiatives focused on youth development, health education, community development, student leadership and effective representation.",
+
+    contribution:
+        "Contributes through youth representation, health education, student leadership, community engagement and advocacy for youth development.",
+
+    currentActivities:
+        "Currently pursuing Registered General Nursing at the Nursing and Midwifery Training College, Zuarungu, as a Year 300 student, while serving as Youth Member of Parliament for Binduri Constituency.",
+
+    leadershipExperience:
+        "Youth Member of Parliament — Binduri Constituency, National Youth Parliament of Ghana. Health Prefect — Zuarungu SRC/GNMT[A]. Secretary — GMSA, Nursing and Midwifery Training College, Zuarungu. Health Prefect — Tamale Senior High School.",
+
+    professionalExperience:
+        "Nursing student and trainee with experience in student leadership, health-related education, youth representation, health advocacy and community development.",
+
+    focusAreas:
+        "Youth Development • Health Education • Nursing • Community Development • Student Leadership • Youth Representation",
+
+    slogan:
+        "Health • Leadership • Youth Development",
+
+    image: "images/Rahman.jpeg",
+
+    email: "rahmaninusah12@gmail.com",
+    phone: "0546227426",
+    website: "#",
+
+    facebook: "Fastbrain",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp048",
+    name: "EUGENE WALKER OPPONG",
+    position: "Member of Parliament",
+    constituency: "ODOTOBIRI Constituency",
+    region: "Ashanti",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "College of Health and Well-being, Kintampo — BSc Mental Health, Degree, 2026.",
+
+    profession:
+        "Media Sports Analyst",
+
+    experience:
+        "Marketing Manager — Mabesh FM/TV. SRC General Secretary — College of Health and Well-being, Kintampo. SRC Academic Representative — College of Health and Well-being, Kintampo.",
+
+    biography:
+        "EUGENE WALKER OPPONG is a Ghanaian by birth and serves as the Member of Parliament for the ODOTOBIRI Constituency in the Ashanti Region. He holds a BSc in Mental Health from the College of Health and Well-being, Kintampo, completed in 2026. His professional background includes media and sports analysis, marketing, and student leadership. He has served as Marketing Manager at Mabesh FM/TV and held student leadership positions at the College of Health and Well-being, Kintampo.",
+
+    vision:
+        "To contribute to youth representation, leadership, community development, and meaningful public service.",
+
+    plans:
+        "Support initiatives focused on youth development, community engagement, leadership, education, and public service.",
+
+    contribution:
+        "Contributes through media and sports analysis, marketing, student leadership, public representation, and community engagement.",
+
+    currentActivities:
+        "Currently serving as Member of Parliament for the ODOTOBIRI Constituency and working in media, sports analysis, and marketing.",
+
+    leadershipExperience:
+        "Member of Parliament — ODOTOBIRI Constituency. SRC General Secretary — College of Health and Well-being, Kintampo. SRC Academic Representative — College of Health and Well-being, Kintampo.",
+
+    professionalExperience:
+        "Media Sports Analyst. Marketing Manager — Mabesh FM/TV. Experience in student leadership and public representation.",
+
+    focusAreas:
+        "Media • Sports Analysis • Marketing • Leadership • Youth Development • Community Engagement • Public Service",
+
+    slogan:
+        "Leadership • Service • Representation",
+
+    image: "images/walker.jpeg",
+
+    email: "Oppongeugene024@gmail.com",
+    phone: "0559186282",
+    website: "#",
+
+    facebook: "Eugene Walker",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp049",
+    name: "IBRAHIM ADAMS",
+    position: "Member of Parliament",
+    constituency: "Bibiani Anhwiaso Bekwai Constituency",
+    region: "Western North",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "University of Mines and Technology (UMaT), Tarkwa — BSc Geological Engineering, currently pursuing.",
+
+    profession:
+        "Student",
+
+    experience:
+        "Assistant Manager — Encounter Food Hub. General Hand — Mawums Limited. School Prefect. Sectional Leader.",
+
+    biography:
+        "IBRAHIM ADAMS is a young and ambitious Ghanaian with a background in Geological Engineering and a strong passion for leadership, service, and community development. He is a graduate of Bibiani Senior High and Technical School and is currently pursuing a BSc in Geological Engineering at the University of Mines and Technology (UMaT), Tarkwa. Ibrahim has demonstrated leadership through roles such as School Prefect and Sectional Leader, while also gaining practical work experience as an Assistant Manager at Encounter Food Hub and a General Hand at Mawums Limited. He is passionate about youth development, organizational growth, financial accountability, and community service. Through his leadership and service-oriented approach, Ibrahim seeks to create meaningful opportunities for young people and contribute positively to the development of his community and Ghana.",
+
+    vision:
+        "To create meaningful opportunities for young people and contribute positively to community development and Ghana.",
+
+    plans:
+        "Support youth development, organizational growth, financial accountability, community service, and opportunities for young people.",
+
+    contribution:
+        "Contributes through leadership, service, community development, youth development, organizational support, and practical work experience.",
+
+    currentActivities:
+        "Currently pursuing a BSc in Geological Engineering at the University of Mines and Technology (UMaT), Tarkwa, while serving as a Member of Parliament for the Bibiani Anhwiaso Bekwai Constituency.",
+
+    leadershipExperience:
+        "Member of Parliament — Bibiani Anhwiaso Bekwai Constituency. School Prefect. Sectional Leader.",
+
+    professionalExperience:
+        "Assistant Manager — Encounter Food Hub. General Hand — Mawums Limited.",
+
+    focusAreas:
+        "Youth Development • Leadership • Community Service • Organizational Growth • Financial Accountability • Community Development",
+
+    slogan:
+        "Leadership • Service • Development",
+
+    image: "images/Adams.jpeg",
+
+    email: "#",
+    phone: "#",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp050",
+    name: "JOSHUA TEYE TORGBOR",
+    position: "Member of Parliament",
+    constituency: "Sege Constituency",
+    region: "Greater Accra",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "Sege Presbyterian Primary Number One — Basic Education. Sege Community JHS Number Two — Junior High School Education. Tema Technical Institute — Technical/Vocational Education, Technical Certificate. Accra Technical University — Automobile Engineering, Higher National Diploma (HND), 2023–2025. Accra Technical University — Automobile Engineering, Bachelor of Technology (B.Tech) Top-Up, in progress.",
+
+    profession:
+        "Automobile Engineering / Youth Leadership",
+
+    experience:
+        "SRC Maintenance Officer — Accra Technical University. TEIN Member — Accra Technical University. Planning Committee Member — TEIN, Accra Technical University. Organising Committee Member — TEIN, Accra Technical University. TEIN Electoral Commission Member — Accra Technical University. Contestant, TEIN Vice President — Accra Technical University, 2024. Departmental Prefect — Tema Technical Institute, 2022. Compound Overseer — Sege JHS Number 1, 2016–2017. Community/Electoral Engagement Volunteer — Youth and civic education initiatives.",
+
+    biography:
+        "JOSHUA TEYE TORGBOR is a youth leader, emerging public servant and elected Youth Member of Parliament for the Sege Constituency under Youth Parliament Ghana. He has developed his leadership experience through educational, institutional, community and youth-focused engagements. Joshua began his education at Sege Presbyterian Primary Number One and continued to Sege Community JHS Number Two before proceeding to Tema Technical Institute, where he pursued his technical education. He later continued his studies at Accra Technical University, completing an HND programme and currently pursuing a B.Tech in Automobile Engineering. At Accra Technical University, Joshua served as an SRC Maintenance Officer, contributing to student leadership and institutional activities. He has also been actively involved in youth and organisational leadership, including membership and committee participation within TEIN at Accra Technical University. His leadership experience also includes community and electoral engagement, with involvement in youth mobilisation, civic education, community development and initiatives aimed at strengthening participation and leadership among young people. As the elected Youth Member of Parliament for Sege Constituency, Joshua is focused on youth education, leadership development, skills development, economic empowerment and creating platforms through which young people can contribute to the development of their communities.",
+
+    vision:
+        "To promote youth education, leadership development, skills development, economic empowerment and meaningful youth participation in community development.",
+
+    plans:
+        "Support youth education, leadership development, skills development, economic empowerment, civic education and platforms for young people to contribute to community development.",
+
+    contribution:
+        "Contributes through youth leadership, civic education, community engagement, youth mobilisation, institutional leadership and initiatives focused on skills development and youth empowerment.",
+
+    currentActivities:
+        "Currently pursuing a B.Tech in Automobile Engineering at Accra Technical University and serving as the elected Youth Member of Parliament for the Sege Constituency. He also serves as Chairman of the Appointment Committee.",
+
+    leadershipExperience:
+        "Member of Parliament — Sege Constituency. Chairman — Appointment Committee. SRC Maintenance Officer — Accra Technical University. Planning Committee Member — TEIN, Accra Technical University. Organising Committee Member — TEIN, Accra Technical University. TEIN Electoral Commission Member — Accra Technical University. Contestant, TEIN Vice President — Accra Technical University, 2024. Departmental Prefect — Tema Technical Institute. Compound Overseer — Sege JHS Number 1.",
+
+    professionalExperience:
+        "Automobile Engineering student and youth leader with experience in student leadership, institutional activities, youth mobilisation, civic education, community engagement and electoral initiatives.",
+
+    focusAreas:
+        "Youth Education • Leadership Development • Skills Development • Economic Empowerment • Civic Education • Youth Mobilisation • Community Development • Automobile Engineering",
+
+    slogan:
+        "Leadership • Service • Youth Empowerment",
+
+    image: "images/Teye.jpeg",
+
+    email: "joshuateye8833@gmail.com",
+    phone: "0544978833 / 0557030363",
+    website: "#",
+
+    facebook: "Joshua Teye Torgbor",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "@joet_900"
+},
+{
+    id: "mp051",
+    name: "BAMAN YENNUPINI BENEDICTA",
+    position: "Member of Parliament",
+    constituency: "Nalerigu Gambaga Constituency",
+    region: "North East",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "University for Development Studies (UDS) — Bachelor of Laws (LLB), ongoing, Year 200.",
+
+    profession:
+        "Student",
+
+    experience:
+        "Judicial Board Member. General Secretary — Cathsu, Wenchi Sector.",
+
+    biography:
+        "BAMAN YENNUPINI BENEDICTA is a 20-year-old Ghanaian and a native of Bunkpurugu in the North East Region of Ghana. She is currently pursuing a Bachelor of Laws (LLB) at the University for Development Studies (UDS). Benedicta is a young and passionate individual with a strong interest in leadership, law, youth development and community service. Her academic journey in law has strengthened her interest in justice, governance and the importance of empowering young people to participate actively in society. She previously served as the Cathsu General Secretary of the Wenchi Sector, where she gained valuable experience in leadership, coordination, communication and working with others towards common goals. As a young leader, Benedicta believes in inclusive leadership, accountability, teamwork and giving young people a voice. She is committed to using her knowledge, experience and leadership skills to contribute positively to her community and the development of Ghana. Her aspiration is to become a responsible and impactful leader who serves with integrity, dedication and a genuine commitment to people.",
+
+    vision:
+        "To promote inclusive leadership, accountability, teamwork, youth participation, justice and community service.",
+
+    plans:
+        "Support youth development, leadership participation, community service, civic engagement and initiatives that give young people a voice.",
+
+    contribution:
+        "Contributes through student leadership, youth representation, coordination, communication, community service and participation in institutional leadership.",
+
+    currentActivities:
+        "Currently pursuing a Bachelor of Laws (LLB) at the University for Development Studies (UDS) and serving as a Judicial Board Member and Member of Parliament for the Nalerigu Gambaga Constituency.",
+
+    leadershipExperience:
+        "Member of Parliament — Nalerigu Gambaga Constituency. Judicial Board Member. General Secretary — Cathsu, Wenchi Sector.",
+
+    professionalExperience:
+        "Law student with experience in youth leadership, coordination, communication, institutional participation and community service.",
+
+    focusAreas:
+        "Law • Youth Development • Leadership • Justice • Governance • Community Service • Accountability • Youth Participation",
+
+    slogan:
+        "Leadership • Integrity • Service",
+
+    image: "images/baman.jpeg",
+
+    email: "davera036@gmail.com",
+    phone: "0257755738",
+    website: "whatsapp",
+
+    facebook: "#",
+    twitter: "https://x.com/benedicta22551?s=11",
+    instagram: "https://www.instagram.com/emrys3787?stkn=aGZ3YXIzeWdrYTVy&utm_source=qr",
+    linkedin: "https://www.linkedin.com/in/benedicta-baman-0ba243430?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+    tiktok: "#"
+},
+{
+    id: "mp052",
+    name: "IBRAHIM SALAMATU",
+    position: "Member of Parliament",
+    constituency: "Asante Akim South constituency",
+    region: "Ashanti",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "University for Development Studies (UDS), Tamale Campus — BSc Public Health (Disease Control), Degree, 4 years.",
+
+    profession:
+        "Public Health Student",
+
+    experience:
+        "Youth Member of Parliament — Asante Akim South Constituency. Vice Secretary — Students' Representative Council (SRC), UDS Tamale Campus. First Deputy Sports Committee Chair — Ghana Association of Public Health Students (GAPHS), UDS. TEIN WOCOM — Public Health, UDS Tamale Campus.",
+
+    biography:
+        "IBRAHIM SALAMATU is a young, dynamic and results-oriented leader serving as the Youth Member of Parliament for Asante Akim South Constituency. She hails from Asante Akim Adomfe in the Ashanti Region and is a proud product of the University for Development Studies (UDS), Tamale Campus, where she is pursuing BSc Public Health (Disease Control). A passionate advocate for youth development and public health, she has distinguished herself in student leadership and service. She served as the First Deputy Committee Chair for Sports under the Ghana Association of Public Health Students (GAPHS), UDS, and is currently serving as the Vice Secretary of the Students' Representative Council (SRC), Tamale Campus. Her leadership journey reflects resilience, humility and a deep commitment to the welfare of young people. Her vision as Youth MP is to champion quality education, youth empowerment, entrepreneurship, preventive healthcare and active youth participation in governance for the people of Asante Akim South. She believes in leading by example and is dedicated to amplifying the voices of the youth and ensuring their development remains a national priority.",
+
+    vision:
+        "To champion quality education, youth empowerment, entrepreneurship, preventive healthcare and active youth participation in governance.",
+
+    plans:
+        "Support initiatives focused on quality education, youth empowerment, entrepreneurship, preventive healthcare and meaningful youth participation in governance.",
+
+    contribution:
+        "Contributes through youth representation, public health advocacy, student leadership, preventive healthcare awareness and initiatives focused on youth development.",
+
+    currentActivities:
+        "Currently pursuing BSc Public Health (Disease Control) at the University for Development Studies, Tamale Campus, serving as Youth Member of Parliament for Asante Akim South Constituency and Vice Secretary of the SRC, Tamale Campus.",
+
+    leadershipExperience:
+        "Youth Member of Parliament — Asante Akim South Constituency. Vice Secretary — Students' Representative Council (SRC), UDS Tamale Campus. First Deputy Sports Committee Chair — Ghana Association of Public Health Students (GAPHS), UDS. TEIN WOCOM — Public Health, UDS Tamale Campus.",
+
+    professionalExperience:
+        "Public Health student with experience in student leadership, youth representation, public health advocacy and community-focused service.",
+
+    focusAreas:
+        "Public Health • Youth Development • Education • Youth Empowerment • Entrepreneurship • Preventive Healthcare • Youth Participation • Leadership",
+
+    slogan:
+        "Education • Empowerment • Health • Participation",
+
+    image: "images/Ibrahim.jpeg",
+
+    email: "salamatuibrahim814@gmail.com",
+    phone: "0596769750",
+    website: "#",
+
+    facebook: "Salamatu Ibrahim",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp053",
+    name: "MANU EBENEZER",
+    position: "Member of Parliament",
+    constituency: "Upper Denkyira West",
+    region: "Central",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "Adumasa All Saints Presby JHS — Junior High School Education. Ofoase Kokoben SHS — Senior High School Education, served as School Chaplain and Debate President. University of Cape Coast (UCC), School of Business — Bachelor of Commerce, Level 300, 2024–Present. Motivational Speaker Award — UCC.",
+
+    profession:
+        "Student / Youth Leader / Motivational Speaker / Christian Minister",
+
+    experience:
+        "School Chaplain — Ofoase Kokoben SHS. Debate President — Ofoase Kokoben SHS. Vice Program Representative — UCC School of Business L300. Organizer — Jesus Theatre, UCC. Mission & Conference Director — The Navigators, UCC. Motivational Speaker — UCC. Youth Leader & Community Volunteer — Diaso/Adeade, Central Region.",
+
+    biography:
+        "MANU EBENEZER is a youth leader, student activist and public servant from Diaso/Adeade in the Upper Denkyira West District of the Central Region. Born on 20th July 2004, he is a Level 300 student at the University of Cape Coast (UCC), School of Business. He had his Junior High School education at Adumasa All Saints Presby JHS and his Senior High School education at Ofoase Kokoben SHS, where he served as School Chaplain and Debate President, demonstrating early leadership, eloquence and spiritual commitment. He is currently pursuing his bachelor's degree at UCC and has been recognized with an Award as Motivational Speaker at UCC for his impact on youth and student development. He is a Christian leader serving as Organizer for Jesus Theatre, UCC and Mission & Conference Director for The Navigators, UCC. He also serves as Vice Program Representative for UCC School of Business L300. Hon. Ebenezer is passionate about youth empowerment, education, reading culture and community development. He believes in discipline, integrity and service to humanity.",
+
+    vision:
+        "To promote youth empowerment, education, reading culture, community development, discipline, integrity and service to humanity.",
+
+    plans:
+        "Support youth empowerment, education, reading culture, student development and community-focused initiatives.",
+
+    contribution:
+        "Contributes through youth leadership, student activism, motivational speaking, Christian ministry, community volunteering and student representation.",
+
+    currentActivities:
+        "Currently pursuing a Bachelor of Commerce at the University of Cape Coast, School of Business, as a Level 300 student, while serving as Member of Parliament for Upper Denkyira West under Youth Parliament Ghana.",
+
+    leadershipExperience:
+        "Member of Parliament — Upper Denkyira West. Vice Program Representative — UCC School of Business L300. Organizer — Jesus Theatre, UCC. Mission & Conference Director — The Navigators, UCC. School Chaplain — Ofoase Kokoben SHS. Debate President — Ofoase Kokoben SHS. Youth Leader & Community Volunteer — Diaso/Adeade.",
+
+    professionalExperience:
+        "Student, youth leader, motivational speaker and Christian minister with experience in student leadership, public speaking, youth development, community volunteering and Christian ministry.",
+
+    focusAreas:
+        "Youth Empowerment • Education • Reading Culture • Leadership • Student Development • Community Development • Motivational Speaking • Christian Ministry",
+
+    slogan:
+        "Discipline • Integrity • Service",
+
+    image: "images/manu.jpeg",
+
+    email: "www.nicky2.com@gmail.com",
+    phone: "0535926756",
+    website: "Youth Parliament Ghana Official Website",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#",
+    whatsapp: "https://whatsapp.com/biz/"
+},
 ];
