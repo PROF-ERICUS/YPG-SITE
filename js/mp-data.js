@@ -2712,4 +2712,733 @@ parliament: "Youth Parliament Ghana",
     tiktok: "#",
     whatsapp: "https://whatsapp.com/biz/"
 },
+  {
+    id: "mp054",
+    name: "KYEI-BAFFOUR GODBLESS JNR",
+    position: "Member of Parliament",
+    constituency: "Bantama",
+    region: "Ashanti",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "Hariom International School — JHS. Methodist Senior High School — SHS. NIIT — Diploma in Network Administration. Holik Media School — HND. Ghana Communication Technology University — Degree, 2026.",
+
+    profession:
+        "Student / Graphic and Web Designer / AI Automation / Video Editor",
+
+    experience:
+        "Chaplain Prefect — JHS. Chaplain Prefect — SHS. Projects Leader — NIIT. Member of SCR Judicial Council — Ghana Communication Technology University. Active community and political engagement.",
+
+    biography:
+        "KYEI-BAFFOUR GODBLESS JNR is a young Ghanaian student and emerging leader representing the Bantama Constituency. He has developed leadership experience through educational institutions and community engagement. He served as Chaplain Prefect at both JHS and SHS and later served as a Projects Leader at NIIT. He is currently serving as a member of the SCR Judicial Council at Ghana Communication Technology University. He is also actively involved in community and political activities and has engaged with members of Parliament. His professional interests include graphic and web design, AI automation and video editing.",
+
+    vision:
+        "To contribute through leadership, technology, creative design and meaningful community engagement.",
+
+    plans:
+        "Support youth participation, leadership development, technology, creative skills and community engagement.",
+
+    contribution:
+        "Contributes through student leadership, technology, graphic and web design, AI automation, video editing and community engagement.",
+
+    currentActivities:
+        "Currently pursuing a degree at Ghana Communication Technology University and serving as a member of the SCR Judicial Council.",
+
+    leadershipExperience:
+        "Member of Parliament — Bantama. Member — SCR Judicial Council, Ghana Communication Technology University. Projects Leader — NIIT. Chaplain Prefect — JHS. Chaplain Prefect — SHS.",
+
+    professionalExperience:
+        "Graphic and Web Designer. AI Automation. Video Editor. Student at Ghana Communication Technology University.",
+
+    focusAreas:
+        "Leadership • Technology • Graphic Design • Web Design • AI Automation • Video Editing • Youth Development • Community Engagement",
+
+    slogan:
+        "Leadership • Technology • Service",
+
+    image: "images/kyei.jpeg",
+
+    email: "godblesskyei22@gmail.com",
+    phone: "0544639305 / WhatsApp: 0200421879",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "God of melodies"
+},
+{
+    id: "mp055",
+    name: "KELVIN ASANTE BOATENG",
+    position: "Member of Parliament",
+    constituency: "Abetifi Constituency",
+    region: "Eastern",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "University for Development Studies — Biochemistry, Bachelor of Science (B.Sc.), 2026.",
+
+    profession:
+        "Biochemist / Researcher",
+
+    experience:
+        "Biochemistry Researcher — Laboratory & Food Phytochemistry Studies. Youth President and Local Secretary.",
+
+    biography:
+        "KELVIN ASANTE BOATENG is a dedicated public servant, researcher and youth advocate from the Eastern Region of Ghana. Holding a background in Biochemistry, he has demonstrated a strong commitment to evidence-based policy, community development and public service. He engages in public leadership, grassroots organising and academic research, with a focus on youth empowerment, educational growth and local development.",
+
+    vision:
+        "To empower young people and contribute to socio-economic development within Kwahu and beyond.",
+
+    plans:
+        "Support sustainable youth empowerment, educational growth, community development and the strengthening of local infrastructure.",
+
+    contribution:
+        "Contributes through biochemistry research, public leadership, grassroots organising, youth advocacy and community development.",
+
+    currentActivities:
+        "Serving as Youth Member of Parliament for the Abetifi Constituency and engaging in public leadership, youth advocacy and research.",
+
+    leadershipExperience:
+        "Youth President. Local Secretary. Youth Member of Parliament — Abetifi Constituency.",
+
+    professionalExperience:
+        "Biochemistry Researcher with experience in laboratory and food phytochemistry studies, alongside public leadership and youth advocacy.",
+
+    focusAreas:
+        "Youth Empowerment • Education • Biochemistry Research • Community Development • Public Service • Grassroots Organising • Local Infrastructure",
+
+    slogan:
+        "Youth Empowerment • Research • Service",
+
+    image: "images/asante.jpeg",
+
+    email: "kelvinboatengasante5@gmail.com",
+    phone: "0598744386",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp056",
+    name: "IBRAHIM AYINZOUYA FIDAUS",
+    position: "Youth Member of Parliament",
+    constituency: "Zebilla Constituency",
+    region: "Upper East",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "Accra College of Education — Bachelor of Education in Junior High School Education, Social Studies. Currently pursuing, expected completion 2027.",
+
+    profession:
+        "Student / Educator / Youth Leader",
+
+    experience:
+        "Tutor — Both Memorial Basic School, July 2023 – December 2023. Course Representative — Accra College of Education, 2023–2024, 2024–2025 and 2025–2026. Deputy Women’s Commissioner — TEIN, Accra College of Education, 2025–2026. Women’s Commissioner — TEIN, Accra College of Education, 2026. Student Leader & Youth Advocate — Accra College of Education, 2023–Present.",
+
+    biography:
+        "IBRAHIM AYINZOUYA FIDAUS is a young Ghanaian educator, student leader, youth advocate and Youth Member of Parliament for the Zebilla Constituency under Youth Parliament Ghana. Born on 6 October 2002 and raised in Zebilla in the Upper East Region, she comes from the Alumah family. Her upbringing and family values have shaped her understanding of service, responsibility, resilience and the importance of creating opportunities for others. Fidaus is currently pursuing a Bachelor of Education in Junior High School Education, with a specialism in Social Studies, at the Accra College of Education and is expected to complete her programme in 2027. Her leadership experience includes serving as a Course Representative, Deputy Women’s Commissioner and Women’s Commissioner. She is passionate about education, youth empowerment, women’s leadership, skills development, digital opportunities, student welfare, agriculture and youth development.",
+
+    vision:
+        "To help young people discover their potential and create meaningful opportunities for youth participation, education, leadership and empowerment.",
+
+    plans:
+        "Support education, youth empowerment, women’s leadership, skills development, digital opportunities, student welfare, agriculture and youth development.",
+
+    contribution:
+        "Contributes through education, student representation, youth advocacy, women’s empowerment, leadership initiatives, skills development and student welfare activities.",
+
+    currentActivities:
+        "Currently serving as Youth Member of Parliament for the Zebilla Constituency under Youth Parliament Ghana and pursuing a Bachelor of Education at the Accra College of Education.",
+
+    leadershipExperience:
+        "Youth Member of Parliament — Zebilla Constituency. Women’s Commissioner — TEIN, Accra College of Education. Deputy Women’s Commissioner — TEIN, Accra College of Education. Course Representative — Accra College of Education. Student Leader & Youth Advocate — Accra College of Education.",
+
+    professionalExperience:
+        "Student and educator with teaching experience as a Tutor at Both Memorial Basic School and leadership experience in student representation, youth advocacy and women’s empowerment initiatives.",
+
+    focusAreas:
+        "Education • Youth Empowerment • Women’s Leadership • Skills Development • Digital Opportunities • Student Welfare • Agriculture • Youth Development",
+
+    slogan:
+        "Education • Empowerment • Leadership",
+
+    image: "images/Ayinzouya.jpeg",
+
+    email: "fidausibrahim065@gmail.com",
+    phone: "0598668016",
+    website: "#",
+
+    facebook: "https://www.facebook.com/share/1Ms7NtyckT/?mibextid=wwXIfr",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "https://www.linkedin.com/in/fidaus-ayinzouya-ibrahim-49836742",
+    tiktok: "https://www.tiktok.com/@fidaus728"
+},
+
+{
+    id: "mp057",
+    name: "AMIRATU UNUS SANDOW",
+    position: "Member of Parliament",
+    constituency: "Afigya Sekyere East",
+    region: "Ashanti",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "T.I. Ahmadiyya Senior High School, Kumasi — Senior High School Education.",
+
+    profession:
+        "Teacher / Youth Leader",
+
+    experience:
+        "Teacher — Educating, encouraging and empowering young people and the girl child. Leadership and community activities.",
+
+    biography:
+        "AMIRATU UNUS SANDOW is a Ghanaian teacher, youth advocate and Youth Member of Parliament for the Afigya Sekyere East Constituency in the Ashanti Region. She attended T.I. Ahmadiyya Senior High School, Kumasi, and has experience in leadership and community activities. As a teacher, she is involved in educating, encouraging and empowering young people and the girl child.",
+
+    vision:
+        "To empower young people, listen to their concerns and help create opportunities for the development of the constituency.",
+
+    plans:
+        "Educate and connect young people to job opportunities, skills training and other opportunities that can support their development.",
+
+    contribution:
+        "Contributes through teaching, youth empowerment, girl-child empowerment, community activities and youth advocacy.",
+
+    currentActivities:
+        "Currently working as a teacher while serving as a Youth Member of Parliament for the Afigya Sekyere East Constituency.",
+
+    leadershipExperience:
+        "Experience in leadership and community activities, alongside teaching and youth empowerment.",
+
+    professionalExperience:
+        "Teacher with experience in educating, encouraging and empowering young people and the girl child.",
+
+    focusAreas:
+        "Youth Empowerment • Girl-Child Empowerment • Education • Skills Training • Employment Opportunities • Community Development",
+
+    slogan:
+        "Education • Empowerment • Opportunity",
+
+    image: "images/Amina.jpeg",
+
+    email: "#",
+    phone: "0596189425",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp058",
+    name: "RAYMOND BOATENG",
+    position: "Member of Parliament",
+    constituency: "Ahanta West",
+    region: "Western",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "University of Mines and Technology (UMaT), Tarkwa — BSc Chemical Engineering, Degree, 2026.",
+
+    profession:
+        "Chemical Engineer",
+
+    experience:
+        "Member of the Organizing Committee — Petroleum Engineering Student Association (PESA-UMaT). Publicity Committee Member — Australasian Institute of Mining and Metallurgy (AuSIMM-UMaT). President — Lovely Home Academy Old Students Association. General Supervisor — Ebiradze House, Adisadel College. Vice President — Tertiary Student Network of Ahanta (TERSNA-UMaT). Member of the Membership Committee — Society of Petroleum Engineers (SPE-UMaT). Ambassador — Ghana Tertiary Awards. Founder & CEO — Fie Nhyira Charity Foundation. Student Mentor — Society of Petroleum Engineers Mentorship Program. Coordinator — Society of Petroleum Engineers (SPE-UMaT Chapter). Programs and Project Committee Member — SantaMoga National Tertiary Chapter. Campus Director (UMaT) — Millennium Campus Network and United Nations Academic Impact.",
+
+    biography:
+        "RAYMOND BOATENG is a Ghanaian youth leader, community advocate, Chemical Engineering graduate and development enthusiast committed to youth empowerment, education, leadership and sustainable community development. He holds a Bachelor of Science in Chemical Engineering from the University of Mines and Technology (UMaT). During his university education, he engaged in student leadership, professional development and community-oriented initiatives, including leadership and coordination roles within the Society of Petroleum Engineers UMaT Chapter. He is the Founder and Chief Executive Officer of Fie Nhyira Charity Foundation, a youth-focused community initiative supporting vulnerable groups, promoting education and creating opportunities for young people. He has also participated in youth leadership, development and international initiatives including the Millennium Fellowship. His interests include the Sustainable Development Goals, youth leadership, climate action, skills development, education and boy-child empowerment. In 2026, he was elected as the National Youth Member of Parliament for the Ahanta West Constituency under the National Youth Parliament Ghana.",
+
+    vision:
+        "To promote youth empowerment, education, leadership and sustainable community development while creating meaningful opportunities for young people.",
+
+    plans:
+        "Support education, employment, skills development, health, entrepreneurship and meaningful youth participation in governance.",
+
+    contribution:
+        "Contributes through youth leadership, community advocacy, education initiatives, mentorship, charity activities, professional development and youth-focused community outreach.",
+
+    currentActivities:
+        "Currently serving as Youth Member of Parliament for the Ahanta West Constituency and working through youth leadership, community development and advocacy initiatives.",
+
+    leadershipExperience:
+        "Youth Member of Parliament — Ahanta West Constituency. Founder & CEO — Fie Nhyira Charity Foundation. Vice President — Tertiary Student Network of Ahanta (TERSNA-UMaT). President — Lovely Home Academy Old Students Association. Coordinator — Society of Petroleum Engineers (SPE-UMaT Chapter). Campus Director (UMaT) — Millennium Campus Network and United Nations Academic Impact. General Supervisor — Ebiradze House, Adisadel College.",
+
+    professionalExperience:
+        "Chemical Engineer with experience in student leadership, professional development, youth advocacy, community development, mentorship, charity initiatives and organisational coordination.",
+
+    focusAreas:
+        "Youth Empowerment • Education • Skills Development • Entrepreneurship • Community Development • Youth Leadership • Climate Action • Sustainable Development",
+
+    slogan:
+        "Service • Integrity • Collaboration • Opportunity",
+
+    image: "images/Raymond.jpeg",
+
+    email: "raymondboateng998@gmail.com",
+    phone: "0592806129 / 0599946689",
+    website: "https://www.fienhyiracharityfoundation.com",
+
+    facebook: "https://www.facebook.com/braymond.23",
+    twitter: "https://x.com/heisray25?s=11",
+    instagram: "https://www.instagram.com/braymond.23?stkn=OHdvOGpkejN3ZXd2&utm_source=qr",
+    linkedin: "https://www.linkedin.com/in/raymond-boateng044a23284",
+    tiktok: "#"
+},
+{
+    id: "mp059",
+    name: "SUMAILA MUSTAPHA",
+    position: "Member of Parliament",
+    constituency: "Atwima Mponua Constituency",
+    region: "Ashanti",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "Akrokerri College of Education — Bachelor of Education in Social Studies and Religious and Moral Education, currently pursuing.",
+
+    profession:
+        "Student / Entrepreneur / Youth Leader",
+
+    experience:
+        "President — Ghana Muslim Students Association (GMSA), Akrokerri College of Education. Founder — SM ABILITY Tech Hub. Youth Member of Parliament — Atwima Mponua under Youth Parliament Ghana.",
+
+    biography:
+        "SUMAILA MUSTAPHA, popularly known as SM ABILITY, is a Ghanaian student, entrepreneur, youth leader and public servant. He is currently pursuing a Bachelor of Education in Social Studies and Religious and Moral Education at Akrokerri College of Education. He is passionate about youth development, education, entrepreneurship, community service and leadership. He currently serves as President of the Ghana Muslim Students Association (GMSA) at Akrokerri College of Education and as the Youth Member of Parliament for Atwima Mponua under Youth Parliament Ghana. He is also the founder of SM ABILITY Tech Hub, a business focused on mobile phones, accessories, repairs and related services.",
+
+    vision:
+        "To empower young people through education, entrepreneurship, leadership and meaningful community service.",
+
+    plans:
+        "Support youth development, education, entrepreneurship, community service and leadership opportunities for young people.",
+
+    contribution:
+        "Contributes through student leadership, youth advocacy, entrepreneurship, community service and technology-related business activities.",
+
+    currentActivities:
+        "Currently pursuing a Bachelor of Education at Akrokerri College of Education, serving as President of GMSA and serving as Youth Member of Parliament for Atwima Mponua under Youth Parliament Ghana.",
+
+    leadershipExperience:
+        "President — Ghana Muslim Students Association (GMSA), Akrokerri College of Education. Youth Member of Parliament — Atwima Mponua. Youth leadership and community service activities.",
+
+    professionalExperience:
+        "Student and entrepreneur with experience in youth leadership, education, community service and the operation of SM ABILITY Tech Hub, focused on mobile phones, accessories, repairs and related services.",
+
+    focusAreas:
+        "Youth Development • Education • Entrepreneurship • Community Service • Leadership • Technology • Student Development",
+
+    slogan:
+        "Education • Entrepreneurship • Service",
+
+    image: "images/Sumaila.jpeg",
+
+    email: "#",
+    phone: "#",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp060",
+    name: "PHILIP FELIX OTOO",
+    position: "Member of Parliament",
+    constituency: "Abura Asebu Kwamankese",
+    region: "Central Region",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "St. John's Basic / Ghana National Basic School — JHS. Mfantsipim School — SHS. University of Cape Coast (UCC) — Economics and Geography.",
+
+    profession:
+        "Student & Entrepreneur",
+
+    experience:
+        "Section Leader — JHS, St. John's Basic / Ghana National Basic School. Hall Parliamentarian — University of Cape Coast (UCC). SRC Member — University of Cape Coast. Youth Advocate — Moree / Abura Asebu Kwamankese District. Welfare Officer — Youth Parliament Ghana.",
+
+    biography:
+        "PHILIP FELIX OTOO hails from Moree in the Central Region. He is a dedicated youth advocate and community-oriented leader passionate about representing people and finding sustainable solutions to community challenges. His leadership journey started in Junior High School, where he served as a Section Leader at St. John's Basic and later Ghana National Basic School. He further developed his leadership experience at Mfantsipim School and the University of Cape Coast through active participation in the SRC and Hall Parliament. He currently serves as a Youth Member of Parliament and Welfare Officer, with a focus on youth empowerment and grassroots development.",
+
+    vision:
+        "To represent young people and contribute to sustainable solutions to community challenges while promoting youth empowerment and grassroots development.",
+
+    plans:
+        "Support youth empowerment, community development, grassroots engagement and initiatives that address community challenges.",
+
+    contribution:
+        "Contributes through youth advocacy, student leadership, community engagement, welfare activities and grassroots development initiatives.",
+
+    currentActivities:
+        "Currently serving as Youth Member of Parliament for the Abura Asebu Kwamankese Constituency and as a Welfare Officer.",
+
+    leadershipExperience:
+        "Youth Member of Parliament — Abura Asebu Kwamankese. Welfare Officer — Youth Parliament Ghana. Hall Parliamentarian — University of Cape Coast. SRC Member — University of Cape Coast. Section Leader — St. John's Basic / Ghana National Basic School.",
+
+    professionalExperience:
+        "Student and entrepreneur with experience in youth advocacy, student governance, community engagement and welfare activities.",
+
+    focusAreas:
+        "Youth Empowerment • Community Development • Grassroots Development • Youth Advocacy • Student Leadership • Community Welfare",
+
+    slogan:
+        "Youth Empowerment • Service • Development",
+
+    image: "images/felix.jpeg",
+
+    email: "philipfelixotoo2006@gmail.com",
+    phone: "#",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp061",
+    name: "KLINSMAN NANA ASARE",
+    position: "Member of Parliament",
+    constituency: "Juaboso Constituency",
+    region: "Western North",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "University of Energy and Natural Resources (UENR) — BSc Medical Laboratory Sciences, Degree, Year 4. Prempeh College, Kumasi — General Science. St. Joseph’s R/C JHS, Suame — Junior High School Education. Adventist Preparatory School, South Suntreso, Kumasi — Basic Education. Agyemandiem R/C Primary — Basic Education.",
+
+    profession:
+        "Medical Laboratory Science Student / Youth Leader",
+
+    experience:
+        "Welfare Committee Secretary — Federation of Ghana Medical Laboratory Students Association (FG-MELSA). Member of Parliament — UENR SRC 13th Parliamentary Council. Ranking Member, Budget Committee — UENR SRC 13th Parliamentary Council. Chairperson, Legal Affairs Committee — UENR SRC 13th Parliamentary Council. President — Discovery and Innovation Science Club, UENR, 2025/2026. Speaker of Senate — School of Sciences, UENR, 2026/2027. Judicial Committee Chairperson — MELSA UENR, 2026/2027. Legal Affairs Commissioner — MELSA UENR, 2025/2026. College Choir PRO — Prempeh College. Presbyterian and Methodist Students Union Organizer — Prempeh College, 2022. Discipline Prefect — St. Joseph’s R/C JHS, Suame. Boys Prefect — Agyemandiem R/C Primary.",
+
+    biography:
+        "KLINSMAN NANA ASARE is the elected Youth Member of Parliament for the Juaboso Constituency. Born on October 2, 2004, and hailing from Agyemandiem in the Western North Region, he is a youth leader focused on grassroots empowerment and national development. His academic journey began in Agyemandiem before continuing at Adventist Preparatory School at South Suntreso in Kumasi and St. Joseph’s R/C JHS at Suame, where he served as Discipline Prefect. He later attended Prempeh College to pursue General Science, serving as Public Relations Officer for the college choir and as Organizer for the Presbyterian and Methodist Students Union. He proceeded to the University of Energy and Natural Resources in Sunyani to pursue Medical Laboratory Sciences and is currently in his fourth year. His leadership experience spans student governance, science clubs, medical laboratory student organisations, parliamentary activities and school leadership. His areas of focus include digital and technical literacy, modern agripreneurship, grassroots leadership, youth participation, educational reforms and equitable resource distribution.",
+
+    vision:
+        "To promote grassroots empowerment, digital and technical literacy, modern agripreneurship, inclusive leadership and sustainable development in the Juaboso Constituency.",
+
+    plans:
+        "Support digital and technical literacy, modern agripreneurship, mentorship programmes, grassroots leadership, youth participation and open dialogue with stakeholders.",
+
+    contribution:
+        "Contributes through youth parliamentary governance, student leadership, science and innovation activities, medical laboratory student leadership, community engagement and grassroots advocacy.",
+
+    currentActivities:
+        "Currently pursuing BSc Medical Laboratory Sciences at the University of Energy and Natural Resources and serving in student parliamentary and leadership roles while representing the Juaboso Constituency as a Youth Member of Parliament.",
+
+    leadershipExperience:
+        "Member of Parliament — UENR SRC 13th Parliamentary Council. Speaker of Senate — School of Sciences, UENR. Ranking Member, Budget Committee — UENR SRC 13th Parliamentary Council. Chairperson, Legal Affairs Committee — UENR SRC 13th Parliamentary Council. President — Discovery and Innovation Science Club, UENR. Judicial Committee Chairperson — MELSA UENR. Legal Affairs Commissioner — MELSA UENR. Discipline Prefect — St. Joseph’s R/C JHS. Boys Prefect — Agyemandiem R/C Primary.",
+
+    professionalExperience:
+        "Medical Laboratory Sciences student with experience in student governance, parliamentary activities, science and innovation leadership, medical laboratory student organisations, public relations and community leadership.",
+
+    focusAreas:
+        "Digital Literacy • Technical Literacy • Agripreneurship • Youth Empowerment • Grassroots Leadership • Education • Science & Innovation • Community Development",
+
+    slogan:
+        "Innovation • Leadership • Development",
+
+    image: "images/Asare.jpeg",
+
+    email: "klinsmannanaasare727@gmail.com",
+    phone: "0246783900 / 0509179938",
+    website: "#",
+
+    facebook: "NANA QUAMI ASARE KLINSMAN",
+    twitter: "https://x.com/nanakwamea8ejk?s=11",
+    instagram: "https://www.instagram.com/dr_kan19?stkn=Y3hobGttajVvem15",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp062",
+    name: "ABABIO KWARTENG RICHARD",
+    position: "Member of Parliament",
+    constituency: "Bodi Constituency",
+    region: "Western North",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "University of Energy and Natural Resources (UENR). Kumasi Senior High School Technical. Juaboso D/A JHS ‘C’. Ken’s School Complex Primary School.",
+
+    profession:
+        "Student / Youth Leader",
+
+    experience:
+        "Member of Parliament — Fiapre North Constituency, UENR SRC Parliament. Ranking Member, Budget Committee — UENR SRC Parliament. Compound Prefect — Juaboso D/A JHS ‘C’. Student Intern — Akontombra Hospital.",
+
+    biography:
+        "ABABIO KWARTENG RICHARD is a committed and visionary young leader from Bodi in the Bodi Constituency of the Western North Region of Ghana. His background in the constituency has given him insight into the challenges, aspirations and potential of the people, particularly the youth. He is passionate about politics, leadership and community development and views leadership as an opportunity for service, responsibility and meaningful change. His leadership experience includes serving in the UENR SRC Parliament, where he was a Member of Parliament and Ranking Member of the Budget Committee. He has also served as Compound Prefect at Juaboso D/A JHS ‘C’ and as a Student Intern at Akontombra Hospital. He is committed to promoting youth participation in governance, expanding access to quality education and advocating for sustainable opportunities that can transform livelihoods.",
+
+    vision:
+        "To contribute to building a more inclusive, empowered and progressive Bodi Constituency while promoting youth participation, education and sustainable community development.",
+
+    plans:
+        "Promote active youth participation in governance, support access to quality education and advocate for sustainable opportunities that can improve livelihoods.",
+
+    contribution:
+        "Contributes through youth leadership, student governance, community advocacy, grassroots engagement and participation in parliamentary activities.",
+
+    currentActivities:
+        "Currently serving as a Youth Member of Parliament for the Bodi Constituency and engaging in youth leadership, governance and community development activities.",
+
+    leadershipExperience:
+        "Member of Parliament — Fiapre North Constituency, UENR SRC Parliament. Ranking Member, Budget Committee — UENR SRC Parliament. Compound Prefect — Juaboso D/A JHS ‘C’. Youth Member of Parliament — Bodi Constituency.",
+
+    professionalExperience:
+        "Student and youth leader with experience in student governance, parliamentary activities, community advocacy and practical exposure through an internship at Akontombra Hospital.",
+
+    focusAreas:
+        "Youth Participation • Education • Community Development • Grassroots Leadership • Governance • Youth Empowerment • Sustainable Development",
+
+    slogan:
+        "Empowering Youth • Transforming Communities • Building Our Future",
+
+    image: "images/Ababio.jpeg",
+
+    email: "Kwartengrichard899@gmail.com",
+    phone: "#",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp063",
+    name: "KELVIN AFFUM",
+    position: "Member of Parliament",
+    constituency: "Sefwi Akontombra Constituency",
+    region: "Western North",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "University for Development Studies (UDS) — BSc Agricultural Engineering, Bachelor of Science in Agricultural Engineering, 2025. Classification: Second Class Lower.",
+
+    profession:
+        "National Service Personnel",
+
+    experience:
+        "Privilege Committee Chair — SRC Administration, 2024/25. NASPA Vice President — Sefwi Wiawso Municipality. National Service Personnel — Department of Agriculture, Sefwi Wiawso. Intern — Asante Gold Chirano Limited.",
+
+    biography:
+        "KELVIN AFFUM is a young Ghanaian leader and Agricultural Engineering graduate serving as the elected Youth Member of Parliament for the Sefwi Akontombra Constituency under Youth Parliament Ghana. He holds a Bachelor of Science in Agricultural Engineering from the University for Development Studies (UDS), where he graduated in 2025 with a Second Class Lower. Kelvin has gained leadership and public-service experience through various roles, including serving as Privilege Committee Chair during the 2024/25 SRC Administration and as NASPA Vice President for Sefwi Wiawso Municipality. He has also gained professional experience through an internship at Asante Gold Chirano Limited and his National Service at the Department of Agriculture, Sefwi Wiawso. He currently serves as the Youth Member of Parliament for the Sefwi Akontombra Constituency and has been appointed as a Representative on the Security Council of Youth Parliament Ghana.",
+
+    vision:
+        "To promote youth representation, leadership development, community development and opportunities for young people.",
+
+    plans:
+        "Support youth representation, leadership development, community development and initiatives that promote opportunities for young people.",
+
+    contribution:
+        "Contributes through youth representation, leadership, community development, agricultural knowledge, public service and participation in the Security Council of Youth Parliament Ghana.",
+
+    currentActivities:
+        "Serving as Youth Member of Parliament for the Sefwi Akontombra Constituency and Representative on the Security Council of Youth Parliament Ghana.",
+
+    leadershipExperience:
+        "Youth Member of Parliament — Sefwi Akontombra Constituency. Representative — Security Council, Youth Parliament Ghana. Privilege Committee Chair — SRC Administration, 2024/25. NASPA Vice President — Sefwi Wiawso Municipality.",
+
+    professionalExperience:
+        "National Service Personnel — Department of Agriculture, Sefwi Wiawso. Intern — Asante Gold Chirano Limited.",
+
+    focusAreas:
+        "Youth Representation • Leadership Development • Community Development • Agriculture • Public Service • Youth Opportunities",
+
+    slogan:
+        "Youth Representation • Leadership • Community Development",
+
+    image: "images/Affum.jpeg",
+
+    email: "levelsquartsin06@gmail.com",
+    phone: "0544099617 / 0257640653",
+    website: "#",
+
+    facebook: "Levelx Reigns",
+    twitter: "#",
+    instagram: "Levels Reigns",
+    linkedin: "Kelvin Affum",
+    tiktok: "#"
+},
+{
+    id: "mp064",
+    name: "GODFRED YEDU ABBAN",
+    position: "Member of Parliament",
+    constituency: "Odododiodio Constituency",
+    region: "Greater Accra",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "Susan Owusu Memorial Methodist International School (SOMMIS) — Basic Education Certificate Examination (BECE). Adisadel College — West African Senior School Certificate Examination (WASSCE). Ghana Communication Technology University (GCTU) — Bachelor of Science in Software Engineering, currently pursuing.",
+
+    profession:
+        "Software Engineering Student / Fashion Model",
+
+    experience:
+        "Youth Member of Parliament — Odododiodio Constituency, Youth Parliament of Ghana. Youth public representation and community engagement. Public and political activities since 2024.",
+
+    biography:
+        "GODFRED YEDU ABBAN is a Ghanaian student, fashion model, software engineering student and youth public representative. He is currently pursuing a Bachelor of Science in Software Engineering at the Ghana Communication Technology University (GCTU). He received his basic education at Susan Owusu Memorial Methodist International School (SOMMIS) before continuing his secondary education at Adisadel College, where he obtained his West African Senior School Certificate Examination (WASSCE). Godfred became involved in public and political activities in 2024, with a growing interest in youth development, leadership, education, skills development and community engagement. He currently serves as the Youth Member of Parliament representing the Odododiodio Constituency in the Youth Parliament of Ghana.",
+
+    vision:
+        "To promote meaningful youth participation, representation, development and constructive engagement on issues affecting young people.",
+
+    plans:
+        "Support youth development, education, skills development, entrepreneurship, innovation, technology, community engagement and meaningful youth participation.",
+
+    contribution:
+        "Contributes through youth representation, public service, community engagement, advocacy and participation in initiatives focused on creating opportunities for young people within the Odododiodio Constituency.",
+
+    currentActivities:
+        "Currently pursuing a Bachelor of Science in Software Engineering at Ghana Communication Technology University (GCTU) and serving as Youth Member of Parliament for the Odododiodio Constituency in the Youth Parliament of Ghana.",
+
+    leadershipExperience:
+        "Youth Member of Parliament — Odododiodio Constituency, Youth Parliament of Ghana. Youth public representative with interests in youth development, leadership, education, skills development and community engagement.",
+
+    professionalExperience:
+        "Software Engineering Student with professional interests in fashion, modelling, technology and digital innovation.",
+
+    focusAreas:
+        "Youth Development • Leadership • Education • Skills Development • Entrepreneurship • Innovation • Technology • Digital Development • Community Development • Public Service",
+
+    slogan:
+        "Youth Participation • Innovation • Development",
+
+    image: "images/Godfred.jpeg",
+
+    email: "godfredabban812@gmail.com",
+    phone: "+233 53 398 9239",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp065",
+    name: "KINGSLEY DAVIS",
+    position: "Member of Parliament",
+    constituency: "Akim Swedru Constituency",
+    region: "Eastern",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "University of Cape Coast — Bachelor of Arts in Economics and Geography. University of Cape Coast — Master of Philosophy (MPhil) in Geography, currently pursuing.",
+
+    profession:
+        "Researcher / Entrepreneur",
+
+    experience:
+        "Sports Chairperson — Atlantic Hall, UCC. Men's and Women's Team Coach — Atlantic Hall, UCC. Examination Malpractice Committee Member — College of Distance Education (CoDE), UCC. Researcher and Research Assistant — contributed to over 15 research projects on social, economic, environmental and community issues.",
+
+    biography:
+        "KINGSLEY DAVIS is a Ghanaian researcher, problem solver and youth leader with a strong passion for education, sports and community development. He began his education at AME Zion D Primary School in Cape Coast and later attended Apewosika M/A Basic School. He pursued his secondary education at Academy of Christ the King and Adisadel College. He holds a Bachelor of Arts degree in Economics and Geography from the University of Cape Coast and is currently pursuing an MPhil in Geography at the same university. He is a researcher and research assistant who has contributed to over 15 research projects on social, economic, environmental and community issues. Kingsley previously served as the Sports Chairperson of Atlantic Hall, UCC, where he promoted sports and youth participation. He has also influenced and encouraged young people in his community to pursue tertiary education and appreciate the value of education. As a strong Pan-Africanist, he is committed to youth empowerment, education, leadership and the development of Africa.",
+
+    vision:
+        "To promote youth empowerment, education, leadership, sports and community development while contributing to the development of Africa.",
+
+    plans:
+        "Support education, youth empowerment, sports participation, community development, leadership and initiatives that encourage young people to pursue tertiary education.",
+
+    contribution:
+        "Contributes through research, youth leadership, sports development, education advocacy, community engagement and encouragement of young people to pursue tertiary education.",
+
+    currentActivities:
+        "Serving as Member of Parliament for the Akim Swedru Constituency while pursuing an MPhil in Geography at the University of Cape Coast and continuing his work as a researcher.",
+
+    leadershipExperience:
+        "Member of Parliament — Akim Swedru Constituency. Sports Chairperson — Atlantic Hall, UCC. Men's and Women's Team Coach — Atlantic Hall, UCC. Examination Malpractice Committee Member — College of Distance Education (CoDE), UCC.",
+
+    professionalExperience:
+        "Researcher / Research Assistant with experience contributing to over 15 research projects covering social, economic, environmental and community issues. Entrepreneur and youth leader with interests in education, sports and community development.",
+
+    focusAreas:
+        "Education • Youth Empowerment • Sports • Research • Leadership • Community Development • Pan-Africanism",
+
+    slogan:
+        "Education • Leadership • Community Development",
+
+    image: "images/Davis.jpeg",
+
+    email: "kwamenakingsley45@gmail.com",
+    phone: "+233555619889",
+    website: "#",
+
+    facebook: "#",
+    twitter: "kwamena_davis",
+    instagram: "kwamena_davis",
+    linkedin: "Kingsley Davis",
+    tiktok: "#"
+},
+{
+    id: "mp066",
+    name: "BASHIRU AYISHA",
+    position: "Member of Parliament",
+    constituency: "Walewale Constituency",
+    region: "North East",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "University for Development Studies (UDS) — Doctor of Medical Laboratory Science, undergraduate student, Level 300.",
+
+    profession:
+        "Student / Youth Leader / Advocate",
+
+    experience:
+        "Youth Member of Parliament — Women Empowerment and Girl-Child Education, Youth Parliament of Ghana. Participant — British High Commission's Ambassador for a Day Programme. Volunteer — Tamale Youth Summit (TYS). Engagement in affirmative-action and women's leadership initiatives with the African Women Leaders Network (AWLN), Ghana Chapter. Youth advocacy and gender-equality engagements. Women empowerment and girl-child education initiatives. Community development and fieldwork through the TTFPP programme at UDS. Participation in youth leadership, empowerment and networking programmes. Engagement in community-focused and social-impact activities.",
+
+    biography:
+        "BASHIRU AYISHA is an undergraduate Doctor of Medical Laboratory Science student at the University for Development Studies (UDS), a young leader and advocate passionate about women empowerment, girl-child education, youth leadership and community development. Her leadership journey includes participating in the British High Commission's Ambassador for a Day programme, volunteering with the Tamale Youth Summit, engaging in youth advocacy and affirmative-action initiatives, and participating in women empowerment, gender-equality, leadership and community-development activities. She has also gained practical community experience through the TTFPP programme at UDS. As a Youth Member of Parliament for Women Empowerment and Girl-Child Education, she is committed to creating opportunities for young women and girls, encouraging leadership, building confidence and supporting meaningful youth participation in community and national development.",
+
+    vision:
+        "To promote women empowerment, girl-child education, youth leadership, confidence building and meaningful youth participation in community and national development.",
+
+    plans:
+        "Support initiatives that create opportunities for young women and girls, promote girl-child education, encourage leadership, build confidence and advance meaningful youth participation.",
+
+    contribution:
+        "Contributes through youth advocacy, women empowerment, girl-child education, gender-equality engagements, community development, leadership initiatives and social-impact activities.",
+
+    currentActivities:
+        "Currently serving as Youth Member of Parliament for Women Empowerment and Girl-Child Education in the Youth Parliament of Ghana while pursuing a Doctor of Medical Laboratory Science at the University for Development Studies (UDS).",
+
+    leadershipExperience:
+        "Youth Member of Parliament — Women Empowerment and Girl-Child Education, Youth Parliament of Ghana. Participant — British High Commission's Ambassador for a Day Programme. Volunteer — Tamale Youth Summit. Youth advocacy and gender-equality engagements. Participation in women empowerment, leadership and community-development initiatives.",
+
+    professionalExperience:
+        "Undergraduate Doctor of Medical Laboratory Science student with experience in youth advocacy, women empowerment, girl-child education, community development, leadership programmes and social-impact activities.",
+
+    focusAreas:
+        "Women Empowerment • Girl-Child Education • Youth Leadership • Gender Equality • Youth Advocacy • Community Development • Leadership • Social Impact",
+
+    slogan:
+        "Empowerment • Education • Leadership",
+
+    image: "images/bashiru.jpeg",
+
+    email: "bashiruayisha764@gmail.com",
+    phone: "0559016550",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
 ];
