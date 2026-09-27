@@ -961,7 +961,7 @@ website: "#"
 
     image: "images/david.jpeg",
 
-    email: "Official contact to be added",
+    email: " dorgaradavid@gmail.com",
 
     phone: "+233547411539",
 
@@ -1255,5 +1255,731 @@ parliament: "Youth Parliament Ghana",
     linkedin: "#",
     tiktok: "#"
 },
+{
+    id: "mp028",
+    name: "OSMAN NADIA",
+   position: "Member of Parliament",
 
+constituency: "Tema West Constituency",
+
+region: "Greater Accra",
+
+parliament: "Youth Parliament Ghana",
+
+    education:
+        "UNIVERSITY OF CAPE COAST (UCC) — Bachelor of Laws (LLB), currently pursuing. GHANATA SENIOR HIGH SCHOOL, DODOWA — Secondary Education. AGAPE SCHOOL COMPLEX, ASHIAMAN-LEBANON — Primary and Junior High School Education.",
+
+    profession:
+        "LAW STUDENT",
+
+    experience:
+        "SHS Class Representative. Youth Parliamentarian — Youth Parliament Ghana, Tema West Constituency.",
+
+    biography:
+        "OSMAN NADIA is a Member of Parliament of the Youth Parliament Ghana representing the Tema West Constituency in the Greater Accra Region. She is currently pursuing a Bachelor of Laws (LLB) at the University of Cape Coast (UCC), following her background education at Agape School Complex in Ashaiman-Lebanon and Ghanata Senior High School in Dodowa. Her leadership journey began with serving as an SHS Class Representative. As a Youth Parliamentarian, she is actively focused on engaging the youth, identifying their problems through effective communication and finding better solutions to them. Nadia represents the voice of the youth and the hopes of her community, with a focus on strong youth representation and service.",
+
+    vision:
+        "To ensure that young people are effectively represented, heard and involved in decisions that affect their communities.",
+
+    plans:
+        "Engage the youth, identify their concerns through effective communication, and work collaboratively toward practical solutions to issues affecting young people.",
+
+    contribution:
+        "OSMAN NADIA seeks to contribute through youth representation, community service, effective communication, listening to youth concerns and working together to address community challenges.",
+
+    currentActivities:
+        "Currently pursuing a Bachelor of Laws (LLB) at the University of Cape Coast and serving as a Member of Parliament of the Youth Parliament Ghana representing the Tema West Constituency.",
+
+    leadershipExperience:
+        "SHS Class Representative. Youth Parliamentarian — Youth Parliament Ghana, Tema West Constituency.",
+
+    professionalExperience:
+        "Law Student with leadership and community service experience.",
+
+    focusAreas:
+        "YOUTH REPRESENTATION • LEADERSHIP • LAW • YOUTH ENGAGEMENT • COMMUNITY SERVICE • COMMUNICATION • ADVOCACY",
+
+    image: "images/osman.jpeg",
+
+    email: "osmannadia992@gmail.com",
+    phone: "0534670809",
+    website: "#",
+
+    facebook: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp029",
+   name: "MASHKURAT NYEFIANOTO ABUBAKARI",
+position: "Youth Member of Parliament",
+constituency: "Damongo Constituency",
+region: "Savannah",
+parliament: "Youth Parliament Ghana",
+
+    education:
+        "UNIVERSITY OF PROFESSIONAL STUDIES, ACCRA (UPSA) — Bachelor of Arts in Public Relations Management, currently pursuing. TAMALE GIRLS SENIOR HIGH SCHOOL — Senior High School, General Arts. YABUM JUNIOR HIGH SCHOOL — Junior High School Education. ALMANARA ENGLISH AND ARABIC PRIMARY SCHOOL — Basic Education.",
+
+    profession:
+        "STUDENT / YOUTH LEADER / PUBLIC RELATIONS PRACTITIONER-IN-TRAINING",
+
+    experience:
+        "Youth Member of Parliament-elect — National Youth Parliament of Ghana, Damongo Constituency. Second Vice President — UPSA Leos Club. Second Runner-Up — Savannah Heritage Queen Pageant. Member — Ghana Red Cross Society. Youth Advocate & Community Volunteer — Various youth and community initiatives. Poet & Spoken-Word Artist — Youth and community platforms. Student Leadership Roles — Various educational institutions and student organisations.",
+
+    biography:
+        "MASHKURAT NYEFIANOTO ABUBAKARI is a young Ghanaian student, youth leader, public speaker and advocate for youth development from the Damongo Constituency in the Savannah Region. She is currently pursuing a Bachelor of Arts in Public Relations Management at the University of Professional Studies, Accra (UPSA), where she has developed a strong interest in communication, leadership, public relations and community development. Mashkurat is passionate about education, mentorship, youth empowerment, entrepreneurship and skills development. Through her involvement in student leadership, youth advocacy and community activities, she continues to champion opportunities that enable young people to participate meaningfully in society. She currently serves as the Second Vice President of the UPSA Leos Club and is the Youth Member of Parliament-elect for the Damongo Constituency under the National Youth Parliament of Ghana. She is also a poet and spoken-word artist and has participated in youth-focused initiatives and community development activities. She was the Second Runner-Up of the Savannah Heritage Queen Pageant, where she used the platform to promote themes including education, mentorship and youth development.",
+
+    vision:
+        "To promote service, representation and meaningful opportunities for young people through youth empowerment, education, mentorship, entrepreneurship and skills development.",
+
+    plans:
+        "Support initiatives focused on education, mentorship, youth empowerment, entrepreneurship, skills development, community development and meaningful youth participation.",
+
+    contribution:
+        "MASHKURAT NYEFIANOTO ABUBAKARI seeks to contribute through youth leadership, advocacy, public speaking, community engagement and initiatives that create opportunities for young people.",
+
+    currentActivities:
+        "Currently pursuing a Bachelor of Arts in Public Relations Management at UPSA, serving as Second Vice President of the UPSA Leos Club and serving as Youth Member of Parliament-elect for the Damongo Constituency.",
+
+    leadershipExperience:
+        "Youth Member of Parliament-elect — National Youth Parliament of Ghana. Second Vice President — UPSA Leos Club. Youth Advocate & Community Volunteer. Student Leadership Roles across educational institutions and student organisations.",
+
+    professionalExperience:
+        "Student, youth leader and public relations practitioner-in-training with experience in youth advocacy, community volunteering, public speaking, poetry and spoken-word performance.",
+
+    focusAreas:
+        "YOUTH DEVELOPMENT • EDUCATION • MENTORSHIP • YOUTH EMPOWERMENT • ENTREPRENEURSHIP • SKILLS DEVELOPMENT • PUBLIC RELATIONS • COMMUNITY DEVELOPMENT",
+
+    slogan:
+        "BORN TO SERVE",
+
+    image: "images/Abubakari.jpeg",
+
+    email: "amashkurat@gmail.com",
+    phone: "0552786730",
+    website: "#",
+
+    facebook: "Mashkurat Abubakari",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "Abubakari Mashkurat",
+    tiktok: "Nyefianoto"
+},
+{
+    id: "mp030",
+    name: "ALHASSAN ABDUL-RAUF",
+    position: "Member of Parliament",
+     constituency: "Tamale South Constituency",
+    region: "Northern",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "UNIVERSITY FOR DEVELOPMENT STUDIES — BSC PUBLIC HEALTH (OCCUPATIONAL HEALTH AND SAFETY), LEVEL 400, AWAITING DEGREE 2027. BUSINESS SENIOR HIGH SCHOOL, TAMALE — 2021–2023. RAJIA E/A JUNIOR HIGH SCHOOL, ZABZUGU. RAJIA E/A PRIMARY SCHOOL, ZABZUGU.",
+
+    profession:
+        "STUDENT / PUBLIC HEALTH ENTHUSIAST",
+
+    experience:
+        "FINANCIAL SECRETARY — GHANA ASSOCIATION OF PUBLIC HEALTH STUDENTS (GAPHS), UDS. PUBLIC RELATIONS OFFICER — DAGBON STUDENTS ASSOCIATION, UDS. GENERAL ASSEMBLY REPRESENTATIVE FOR PUBLIC HEALTH L200, 2024–2025. ASSISTANT GROUNDS PREFECT — BUSINESS SENIOR HIGH SCHOOL, TAMALE. SENIOR PREFECT — RAJIA E/A JUNIOR HIGH SCHOOL. SENIOR PREFECT — RAJIA E/A PRIMARY SCHOOL.",
+
+    biography:
+        "ALHASSAN ABDUL-RAUF is a young Ghanaian student leader, public health enthusiast, and emerging youth parliamentarian with a strong passion for leadership, public service, youth development, and community engagement. He was born in Zabzugu in the Northern Region of Ghana, where his early education and leadership journey began. He had his primary education at Rajia E/A Primary School, Zabzugu, where he served as Senior Prefect from 2016 to 2017. He continued his education at Rajia E/A Junior High School, Zabzugu, and served as Senior Prefect from 2019 to 2020. He proceeded to Business Senior High School, Tamale, where he studied from 2021 to 2023 and served as Assistant Grounds Prefect from 2022 to 2023. He is currently a Level 400 student at the University for Development Studies (UDS), pursuing a Bachelor of Science in Public Health, specializing in Occupational Health and Safety. At the university, he has served as a General Assembly Representative at Level 200 and currently serves as the Public Relations Officer of the Dagbon Students Association and Financial Secretary of the Ghana Association of Public Health Students. He is passionate about youth empowerment, leadership, governance, public health, accountability, and community development.",
+
+    vision:
+        "TO PROMOTE SERVICE, INTEGRITY, ACCOUNTABILITY, INCLUSIVENESS, YOUTH EMPOWERMENT, PUBLIC HEALTH, AND MEANINGFUL YOUTH PARTICIPATION IN DECISION-MAKING.",
+
+    plans:
+        "SUPPORT INITIATIVES FOCUSED ON YOUTH EMPOWERMENT, LEADERSHIP, GOVERNANCE, PUBLIC HEALTH, ACCOUNTABILITY, COMMUNITY DEVELOPMENT, AND YOUTH PARTICIPATION.",
+
+    contribution:
+        "ALHASSAN ABDUL-RAUF SEEKS TO CONTRIBUTE THROUGH YOUTH LEADERSHIP, PUBLIC HEALTH ADVOCACY, REPRESENTATION, COMMUNITY ENGAGEMENT, ACCOUNTABILITY, AND INITIATIVES THAT CREATE OPPORTUNITIES FOR YOUNG PEOPLE.",
+
+    currentActivities:
+        "CURRENTLY PURSUING A BACHELOR OF SCIENCE IN PUBLIC HEALTH AT THE UNIVERSITY FOR DEVELOPMENT STUDIES, SERVING AS PUBLIC RELATIONS OFFICER OF THE DAGBON STUDENTS ASSOCIATION, FINANCIAL SECRETARY OF THE GHANA ASSOCIATION OF PUBLIC HEALTH STUDENTS, AND MEMBER OF PARLIAMENT FOR TAMALE SOUTH CONSTITUENCY UNDER THE YOUTH PARLIAMENT OF GHANA.",
+
+    leadershipExperience:
+        "MEMBER OF PARLIAMENT — YOUTH PARLIAMENT OF GHANA. PUBLIC RELATIONS OFFICER — DAGBON STUDENTS ASSOCIATION, UDS. FINANCIAL SECRETARY — GHANA ASSOCIATION OF PUBLIC HEALTH STUDENTS, UDS. GENERAL ASSEMBLY REPRESENTATIVE FOR PUBLIC HEALTH L200. ASSISTANT GROUNDS PREFECT — BUSINESS SENIOR HIGH SCHOOL. SENIOR PREFECT — RAJIA E/A JUNIOR HIGH SCHOOL. SENIOR PREFECT — RAJIA E/A PRIMARY SCHOOL.",
+
+    professionalExperience:
+        "STUDENT AND PUBLIC HEALTH ENTHUSIAST WITH EXPERIENCE IN STUDENT LEADERSHIP, PUBLIC RELATIONS, PUBLIC HEALTH ADVOCACY, YOUTH REPRESENTATION, AND COMMUNITY ENGAGEMENT.",
+
+    focusAreas:
+        "YOUTH DEVELOPMENT • PUBLIC HEALTH • LEADERSHIP • GOVERNANCE • ACCOUNTABILITY • COMMUNITY DEVELOPMENT • YOUTH EMPOWERMENT • PUBLIC SERVICE",
+
+    slogan:
+        "SERVICE, INTEGRITY AND ACCOUNTABILITY",
+
+    image: "images/Rauf.jpeg",
+
+    email: "alhassanabdulrauf2004@gamail.com",
+    phone: "0553715137 / 0537622471",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp031",
+    name: "OSEI KWABENA DAVID",
+   position: "Member of Parliament",
+constituency: "Afigya Kwabre South",
+region: "Ashanti",
+parliament: "Youth Parliament Ghana",
+
+    education:
+        "UNIVERSITY OF MINES AND TECHNOLOGY (UMaT) — BSC CYBER SECURITY, YEAR 3.",
+
+    profession:
+        "STUDENT / IT PERSONNEL / YOUTH LEADER",
+
+    experience:
+        "DEPUTY EC — GOLD REFINERY HALL, UMaT. PUBLIC RELATIONS OFFICER — AKATASLOPSA, UMaT. SPORTS PREFECT — SSNIT PRESBYTERIAN MODEL SCHOOL. YOUTH MEMBER OF PARLIAMENT — AFIGYA KWABRE SOUTH.",
+
+    biography:
+        "HON. OSEI KWABENA DAVID IS A YOUNG LEADER WITH THE AMBITION OF INSPIRING THE YOUTH AND DEVELOPING THE CAPABILITIES OF YOUNG PEOPLE. HE IS AN IT PERSONNEL WITH EXPERIENCE IN COMPUTER NETWORKING, GRAPHIC DESIGNING, AND WEBSITE AND MOBILE APP DEVELOPMENT. HE IS SKILLED IN COMMUNICATION, PROJECT PLANNING, RISK TRACKING, AND DELIVERY GOVERNANCE ACROSS COMPLEX ENVIRONMENTS. HE IS KNOWN FOR BUILDING PRACTICAL WORKFLOWS, IMPROVING TEAM ALIGNMENT, AND KEEPING PRIORITIES MOVING UNDER TIGHT DEADLINES. HE CURRENTLY SERVES AS THE YOUTH MP FOR AFIGYA KWABRE SOUTH.",
+
+    vision:
+        "TO INSPIRE THE YOUTH AND DEVELOP THE CAPABILITIES OF YOUNG PEOPLE THROUGH LEADERSHIP, SKILLS DEVELOPMENT, AND MEANINGFUL YOUTH PARTICIPATION.",
+
+    plans:
+        "PROMOTE YOUTH DEVELOPMENT, SKILLS DEVELOPMENT, LEADERSHIP, TECHNOLOGY, EFFECTIVE COMMUNICATION, AND OPPORTUNITIES THAT BUILD THE CAPABILITIES OF YOUNG PEOPLE.",
+
+    contribution:
+        "CONTRIBUTES THROUGH YOUTH LEADERSHIP, IT SKILLS, COMMUNICATION, PROJECT PLANNING, TEAM ALIGNMENT, AND YOUTH REPRESENTATION.",
+
+    currentActivities:
+        "CURRENTLY PURSUING A BSC IN CYBER SECURITY AT THE UNIVERSITY OF MINES AND TECHNOLOGY (UMaT) AND SERVING AS THE YOUTH MEMBER OF PARLIAMENT FOR AFIGYA KWABRE SOUTH.",
+
+    leadershipExperience:
+        "YOUTH MEMBER OF PARLIAMENT — AFIGYA KWABRE SOUTH. DEPUTY EC — GOLD REFINERY HALL, UMaT. PUBLIC RELATIONS OFFICER — AKATASLOPSA, UMaT. SPORTS PREFECT — SSNIT PRESBYTERIAN MODEL SCHOOL.",
+
+    professionalExperience:
+        "IT PERSONNEL WITH EXPERIENCE IN COMPUTER NETWORKING, GRAPHIC DESIGNING, WEBSITE AND MOBILE APP DEVELOPMENT, COMMUNICATION, PROJECT PLANNING, RISK TRACKING, AND DELIVERY GOVERNANCE.",
+
+    focusAreas:
+        "YOUTH DEVELOPMENT • TECHNOLOGY • LEADERSHIP • SKILLS DEVELOPMENT • COMMUNICATION • PROJECT PLANNING • COMMUNITY DEVELOPMENT",
+
+    slogan:
+        "INSPIRING THE YOUTH • DEVELOPING CAPABILITIES",
+
+    image: "images/kwabena.jpeg",
+
+    email: "iamtheking852@gmail.com",
+    phone: "0595410497",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "https://www.tiktok.com/@hon.oluwa?_r=1&_t=ZS-9A4EH5xgk1I"
+},
+{
+    id: "mp032",
+    name: "ABLERNARH RAPHAEL",
+    position: "Member of Parliament",
+    constituency: "Sege Constituency",
+    region: "Greater Accra",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "Ada Senior High School. Currently not in university.",
+
+    profession:
+        "Teacher / Graphic Designer / Farmer",
+
+    experience:
+        "Teacher — First Class Achievers Academy. Graphic Designer. House Prefect — Ada Senior High School. Farming — Practical experience in farming activities.",
+
+    biography:
+        "Ablernarh Raphael is a 22-year-old Ghanaian teacher, graphic designer, and young leader from the Sege Constituency in the Greater Accra Region. He is also involved in farming and has knowledge of leadership from his experience serving as a House Prefect at Ada Senior High School. He is currently not in university. He currently serves as the Member of Parliament for the Sege Constituency under Youth Parliament Ghana.",
+
+    vision:
+        "To inspire and support young people through leadership, education, skills development, and community engagement.",
+
+    plans:
+        "Promote youth development, leadership, education, graphic design skills, farming, and community development.",
+
+    contribution:
+        "Contributes through teaching, graphic design, youth leadership, community engagement, and practical knowledge of farming.",
+
+    currentActivities:
+        "Currently serving as Member of Parliament for the Sege Constituency under Youth Parliament Ghana and working as a teacher at First Class Achievers Academy while also engaging in graphic design and farming.",
+
+    leadershipExperience:
+        "Member of Parliament — Sege Constituency, Youth Parliament Ghana. House Prefect — Ada Senior High School.",
+
+    professionalExperience:
+        "Teacher — First Class Achievers Academy. Graphic Designer. Farming — Practical experience in farming activities.",
+
+    focusAreas:
+        "Youth Development • Education • Leadership • Graphic Design • Skills Development • Farming • Community Development",
+
+    slogan:
+        "Youth • Leadership • Service",
+
+    image: "images/Rapheal.jpeg",
+
+    email: "raphaelablernarh100@gmail.com",
+    phone: "0536924806",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "A.R.K ABLERNARH",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp033",
+    name: "TETTEH DAVID ANGMORTEH",
+    position: "Member of Parliament",
+    constituency: "Lower Manya Krobo",
+    region: "Eastern",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "Mount Mary College of Education, Somanya — RME and Music, Degree, four years. Yilo Krobo Senior High School (YIKROSEC). Asesewa D/A Pentecost JHS. Yonguase M/A Basic School.",
+
+    profession:
+        "Teaching",
+
+    experience:
+        "Trainee Teacher — Mount Mary College of Education. Vice President — Student Political Wing, Mount Mary College of Education. Cadet RSM — Yilo Krobo Senior High School. Section Leader — Asesewa D/A Pentecost JHS. School Prefect — Yonguase M/A Basic School.",
+
+    biography:
+        "TETTEH DAVID ANGMORTEH is a dedicated youth leader and student born on 2nd November, 2002. He is 23 years old and hails from Agomanya in the Yilo Krobo Municipality, Eastern Region, and currently lives in Kpong. He had his basic education at Yonguase M/A Basic School, where he served as School Prefect. He continued to Asesewa D/A Pentecost JHS, where he served as Section Leader, and completed his Senior High School education at Yilo Krobo Senior High School (YIKROSEC), where he served as Cadet RSM. He is currently a student at Mount Mary College of Education, Somanya, pursuing RME and Music. At Mount Mary College of Education, he currently serves as Vice President of the student political wing on campus, where he mobilizes students and advocates for student welfare. Tetteh David Angmorteh is passionate about Youth Employment and Youth Empowerment and believes that when the youth have jobs and skills, the community develops.",
+
+    vision:
+        "To promote youth employment and youth empowerment by supporting opportunities for young people to gain jobs, skills and meaningful participation in community development.",
+
+    plans:
+        "Support initiatives focused on youth employment, youth empowerment, skills development, student welfare, leadership and community development.",
+
+    contribution:
+        "Contributes through youth leadership, student mobilization, advocacy for student welfare, teaching, and initiatives focused on youth employment and empowerment.",
+
+    currentActivities:
+        "Currently pursuing a degree in RME and Music at Mount Mary College of Education, Somanya, serving as Vice President of the student political wing, and working as a Trainee Teacher.",
+
+    leadershipExperience:
+        "Member of Parliament — Lower Manya Krobo. Vice President — Student Political Wing, Mount Mary College of Education. Cadet RSM — Yilo Krobo Senior High School. Section Leader — Asesewa D/A Pentecost JHS. School Prefect — Yonguase M/A Basic School.",
+
+    professionalExperience:
+        "Trainee Teacher with experience in student leadership, youth mobilization, student welfare advocacy, teaching and community engagement.",
+
+    focusAreas:
+        "Youth Employment • Youth Empowerment • Leadership • Skills Development • Student Welfare • Teaching • Community Development",
+
+    slogan:
+        "THE SERVANT LEADER",
+
+    image: "images/Angmorteh.jpeg",
+
+    email: "davidtetteh838@gmail.com",
+    phone: "0257007989",
+    website: "#",
+
+    facebook: "https://www.facebook.com/share/1FBYpgfwBy/?mibextid=wwXIfr",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp034",
+    name: "IRENE AYIKU",
+    position: "Member of Parliament",
+    constituency: "Ada Constituency",
+    region: "Greater Accra",
+    parliament: "Parliament of Ghana",
+
+    education:
+        "Accra Technical University — Hospitality Management, Degree in Hospitality, 2024.",
+
+    profession:
+        "Chef",
+
+    experience:
+        "Deputy Chief of Staff — TEIN ATU. Communication Officer — TEIN ATU. Mother General — Women's Caucus (Women's Cocos), Youth Parliament Ghana. Representative of Women in Parliament.",
+
+    biography:
+        "Irene Ayiku is the Member of Parliament for Ada Constituency and the Representative of Women in the Youth Parliament. She is a proud alumna of Accra Technical University, where she studied Hospitality Management and completed her degree in 2024. She is a professional Chef by training and a dedicated youth leader. She has served as Deputy Chief of Staff and Communication Officer for TEIN ATU, demonstrating leadership, communication, and organizational skills. She currently serves as the Mother General for the Women's Caucus (Women's Cocos) in Youth Parliament Ghana, championing women's empowerment, leadership development, and active youth participation in governance.",
+
+    vision:
+        "To promote women's empowerment, leadership development, and active youth participation in governance.",
+
+    plans:
+        "Support initiatives focused on women's empowerment, youth leadership, active youth participation in governance, and leadership development.",
+
+    contribution:
+        "Contributes through youth leadership, women's empowerment, communication, organizational leadership, and advocacy for active youth participation in governance.",
+
+    currentActivities:
+        "Currently serving as Member of Parliament for Ada Constituency and Mother General for the Women's Caucus (Women's Cocos) in Youth Parliament Ghana, while working as a Professional Chef.",
+
+    leadershipExperience:
+        "Member of Parliament — Ada Constituency. Mother General — Women's Caucus (Women's Cocos), Youth Parliament Ghana. Deputy Chief of Staff — TEIN ATU. Communication Officer — TEIN ATU.",
+
+    professionalExperience:
+        "Professional Chef with a degree in Hospitality from Accra Technical University and experience in youth leadership, communication, and organizational roles.",
+
+    focusAreas:
+        "Women's Empowerment • Youth Leadership • Youth Participation • Governance • Leadership Development • Communication • Hospitality",
+
+    slogan:
+        "Women First, Future Secured!",
+
+    image: "images/Ayiku.jpeg",
+
+    email: "ayikuirene44@gmail.com",
+    phone: "0544280792",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "https://www.instagram.com/jmba_hon._irene_ayiku?stkn=ZDdwdGc5MDRlNW9v&utm_source=qr",
+    linkedin: "#",
+    tiktok: "https://www.tiktok.com/@chef_firdaus2"
+},
+{
+    id: "mp035",
+    name: "JOSEPH NYARKO",
+    position: "Member of Parliament",
+    constituency: "Asene Manso Akroso",
+    region: "Eastern",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "Accra Institute of Technology (AIT), Accra, Ghana — Bachelor of Science in Information Technology, in progress. Coursework includes Project Management, Systems Analysis & Design, UI & UX Design, and IT Operations. Oyoko Methodist Senior High School — Senior High School Certificate. Nyamekye Educational Complex — Junior High School.",
+
+    profession:
+        "Investor / Public Speaker",
+
+    experience:
+        "Youth Member of Parliament — Asene Manso Akroso Constituency. Website and UI Designer — 2025–Present. Intern — Gitplus Ltd — 2025–2026. Customer Service Representative — 2024–2025. Syrup Technician — 2021–2026. Regular Guest — AIT Studio and Joy Prime TV.",
+
+    biography:
+        "JOSEPH NYARKO hails from the Asene Manso Akroso Constituency in the Eastern Region of Ghana and serves as its Youth Member of Parliament. He is passionate about youth empowerment, education, employment, leadership, and community development. Through youth advocacy and grassroots engagement, he is committed to inspiring young people, promoting civic participation, and contributing to sustainable national development. He is also a regular guest at AIT Studio and Joy Prime TV. Joseph is currently pursuing a Bachelor of Science in Information Technology at the Accra Institute of Technology, with coursework in Project Management, Systems Analysis & Design, UI & UX Design, and IT Operations.",
+
+    vision:
+        "To empower young people through education, employment, leadership, civic participation, and community development.",
+
+    plans:
+        "Support initiatives focused on youth empowerment, education, employment, leadership, civic participation, skills development, and community development.",
+
+    contribution:
+        "Contributes through youth advocacy, grassroots engagement, public speaking, technology, community engagement, and promotion of civic participation.",
+
+    currentActivities:
+        "Currently pursuing a Bachelor of Science in Information Technology at the Accra Institute of Technology, serving as Youth Member of Parliament for the Asene Manso Akroso Constituency, and working as a Website and UI Designer.",
+
+    leadershipExperience:
+        "Youth Member of Parliament — Asene Manso Akroso Constituency. Youth advocacy and grassroots engagement focused on youth empowerment, education, employment, leadership, civic participation, and community development.",
+
+    professionalExperience:
+        "Investor and Public Speaker. Website and UI Designer — 2025–Present. Intern — Gitplus Ltd — 2025–2026. Customer Service Representative — 2024–2025. Syrup Technician — 2021–2026.",
+
+    focusAreas:
+        "Youth Empowerment • Education • Employment • Leadership • Community Development • Civic Participation • Information Technology • Public Speaking",
+
+    slogan:
+        "Youth Empowerment • Leadership • Community Development",
+
+    image: "images/Joseph Nyarko.png",
+
+    email: "nyarkoj304@gmail.com",
+    phone: "0597620256 / 0205954545",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp036",
+    name: "BERTIN KOUROUMA",
+    position: "Member of Parliament",
+    constituency: "Manhyia South",
+    region: "Ashanti",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "Komfo Anokye Educational Complex. Passion International School. Aduman Senior High School — Senior High School education. University of Professional Studies, Accra (UPSA) — Bachelor’s degree in Business Administration, currently pursuing.",
+
+    profession:
+        "Student and Youth Member of Parliament",
+
+    experience:
+        "SRC Welfare Chairman — University of Professional Studies, Accra (UPSA). Assistant Boys’ Prefect — Aduman Senior High School. Youth Member of Parliament — Manhyia South Constituency.",
+
+    biography:
+        "BERTIN KOUROUMA is a young leader, student, and aspiring public servant with a strong interest in youth development, education, business, and community service. He had his primary and Junior High School education at Komfo Anokye Educational Complex and Passion International School before proceeding to Aduman Senior High School, where he served as Assistant Boys’ Prefect. He is currently pursuing a Bachelor’s degree in Business Administration at the University of Professional Studies, Accra (UPSA), where he serves as the SRC Welfare Chairman and advocates for student welfare and initiatives that improve the student experience. Bertin is passionate about youth empowerment, leadership, education, entrepreneurship, and public service, and seeks to contribute meaningfully to the development of Ghana.",
+
+    vision:
+        "To contribute to youth development through education, empowerment, leadership, entrepreneurship, and meaningful community service.",
+
+    plans:
+        "Support initiatives focused on youth empowerment, education, entrepreneurship, leadership development, student welfare, and community development.",
+
+    contribution:
+        "Contributes through student leadership, youth representation, advocacy for student welfare, leadership development, and community engagement.",
+
+    currentActivities:
+        "Currently pursuing a Bachelor’s degree in Business Administration at the University of Professional Studies, Accra (UPSA), serving as SRC Welfare Chairman, and serving as Youth Member of Parliament for the Manhyia South Constituency.",
+
+    leadershipExperience:
+        "Youth Member of Parliament — Manhyia South Constituency. SRC Welfare Chairman — University of Professional Studies, Accra (UPSA). Assistant Boys’ Prefect — Aduman Senior High School.",
+
+    professionalExperience:
+        "Student and youth leader with experience in student welfare advocacy, leadership, youth representation, education, and community service.",
+
+    focusAreas:
+        "Youth Development • Education • Youth Empowerment • Leadership • Entrepreneurship • Student Welfare • Community Service",
+
+    slogan:
+        "Youth Empowerment • Leadership • Service",
+
+    image: "images/bertin.jpeg",
+
+    email: "kouroumabertin155@gmail.com",
+    phone: "0551892873",
+    website: "#",
+
+    facebook: "https://www.facebook.com/share/17oXScRzAR/?mibextid=wwXIfr",
+    twitter: "https://x.com/bertinkourouma?s=11",
+    instagram: "#",
+    linkedin: "https://www.linkedin.com/in/kourouma-bertin-45b11030b?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+    tiktok: "#"
+},
+{
+    id: "mp037",
+    name: "ISAAC KWAO",
+    position: "Member of Parliament",
+    constituency: "Buem Constituency",
+    region: "Oti",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "Jasikan College of Education — B.Ed Primary Education (Religious and Moral Education), Degree, 2026.",
+
+    profession:
+        "Student-Teacher",
+
+    experience:
+        "Youth Member of Parliament — Buem Constituency. Assistant Course Representative — Jasikan College of Education. Secretary — Debating Club, Jasikan College of Education.",
+
+    biography:
+        "ISAAC KWAO is a resilient and committed young man from Jasikan in the Oti Region of Ghana. He is a Christian by faith and believes in equality and social inclusion for all regardless of background, religion, ethnicity, or economic background. He is passionate about youth empowerment and development and believes that the youth are central to national development. He attended Jasikan College of Education, where he studied B.Ed Primary Education (Religious and Moral Education). He successfully completed the programme in 2026 and is currently waiting to undertake his national service. During his time on campus, he served as Assistant Course Representative for his department and Secretary of the Debating Club. He currently serves as the Youth MP elected for the Buem Constituency.",
+
+    vision:
+        "To promote equality, social inclusion, youth empowerment, and youth development as part of national development.",
+
+    plans:
+        "Support initiatives focused on youth empowerment, youth development, equality, social inclusion, education, and meaningful youth participation.",
+
+    contribution:
+        "Contributes through youth representation, student leadership, education, debate, advocacy for equality, and promotion of social inclusion.",
+
+    currentActivities:
+        "Currently serving as the Youth MP for the Buem Constituency after completing a B.Ed in Primary Education (Religious and Moral Education) at Jasikan College of Education and awaiting national service.",
+
+    leadershipExperience:
+        "Youth Member of Parliament — Buem Constituency. Assistant Course Representative — Jasikan College of Education. Secretary — Debating Club, Jasikan College of Education.",
+
+    professionalExperience:
+        "Student-Teacher with experience in student leadership, debating, youth representation, education, and advocacy for equality and social inclusion.",
+
+    focusAreas:
+        "Youth Empowerment • Youth Development • Education • Equality • Social Inclusion • Leadership • Community Development",
+
+    slogan:
+        "Equality • Inclusion • Youth Empowerment",
+
+    image: "images/kwao.jpeg",
+
+    email: "isaackwaoike1958@gmail.com",
+    phone: "0592787745",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp038",
+    name: "BOATENG THEODORE",
+    position: "Member of Parliament",
+    constituency: "Biakoye Constituency",
+    region: "Oti",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "University of Mines and Technology (UMaT), Tarkwa — Logistics and Transport Management, Degree, Year 400 (Final Year). Dambai — Secondary Education. Worawora Secondary School — Secondary Education. Worawora Primary and JHS — Basic Education.",
+
+    profession:
+        "Youth MP",
+
+    experience:
+        "Oti Regional Director of Education — Current Role. Secretary — Tarkwa Diocese, Church of the Lord Brotherhood.",
+
+    biography:
+        "BOATENG THEODORE is a 24-year-old young leader from Worawora in the Oti Region of Ghana. He was born and raised in Worawora and comes from the Oyoko clan. He is described as calm, respectful, obedient, and well regarded by those around him. He began his education at Worawora Primary and continued through JHS before completing his education at Worawora Secondary School. He later proceeded to Dambai to complete his secondary education. In 2024, he continued his tertiary education at the University of Mines and Technology (UMaT) in Tarkwa, where he is currently pursuing Logistics and Transport Management and is in his final year. He currently serves as the Youth MP for the Biakoye Constituency and as Oti Regional Director of Education.",
+
+    vision:
+        "To contribute to youth development, education, leadership, and community service in the Oti Region.",
+
+    plans:
+        "Support initiatives focused on youth development, education, leadership, community service, and opportunities for young people.",
+
+    contribution:
+        "Contributes through youth representation, education, leadership, community engagement, and service-oriented activities.",
+
+    currentActivities:
+        "Currently pursuing Logistics and Transport Management at the University of Mines and Technology (UMaT) in Tarkwa as a final-year student and serving as the Youth MP for Biakoye Constituency and Oti Regional Director of Education.",
+
+    leadershipExperience:
+        "Youth Member of Parliament — Biakoye Constituency. Oti Regional Director of Education. Secretary — Tarkwa Diocese, Church of the Lord Brotherhood.",
+
+    professionalExperience:
+        "Youth leader and final-year Logistics and Transport Management student with experience in youth representation, education-related leadership, church administration, and community service.",
+
+    focusAreas:
+        "Youth Development • Education • Leadership • Community Service • Youth Representation • Community Development",
+
+    slogan:
+        "Leadership • Service • Youth Development",
+
+    image: "images/Theodore.jpeg",
+
+    email: "boatengtheodore139@gmail.com",
+    phone: "0532840632",
+    website: "#",
+
+    facebook: "Asare Boateng Theodore",
+    twitter: "Boateng Theodore",
+    instagram: "Asare Boateng Theodore",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp039",
+    name: "PAUL AZOUKOU",
+    position: "Youth Member of Parliament",
+    constituency: "Jomoro Constituency",
+    region: "Western",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "University of Cape Coast (UCC) — Chemical Engineering, currently pursuing.",
+
+    profession:
+        "Student / Youth Leader / Community Advocate",
+
+    experience:
+        "Youth Member of Parliament — Jomoro Constituency, Youth Parliament Ghana. Founder — Youth Societal Impact. Founder — A-PLUS Movement. Intern — GHACEM Ltd (Heidelberg Materials). Founder/Initiator — A+ Academic Aid. Founder/Initiator — Engineers Unity Cup. Student Leadership — Various secondary-school leadership positions.",
+
+    biography:
+        "PAUL AZOUKOU is a Ghanaian youth leader, student, and community advocate currently serving as the Youth Member of Parliament for the Jomoro Constituency under Youth Parliament Ghana. He is a Chemical Engineering student at the University of Cape Coast (UCC), where he has developed a strong interest in leadership, innovation, youth development, and community service. His leadership journey began during his secondary-school years, where he served in various student leadership positions and became actively involved in advocacy, public speaking, debate, and youth engagement. He is the founder of Youth Societal Impact, a youth-led initiative that brings young people together to contribute to communities through outreach programmes, environmental awareness, health and safety education, and other social-impact activities. He is also the founder of the A-PLUS Movement, built around the values of Advocacy, Progress, Leadership, Unity, and Service. Through the movement, he has initiated youth-oriented projects including A+ Academic Aid, which supports students academically, and the Engineers Unity Cup, which promotes unity and interaction among engineering students through sports and community engagement. Paul has also gained industrial exposure through his internship with GHACEM Ltd (Heidelberg Materials) and has participated in educational and professional activities within Ghana’s engineering and industrial sectors. As the Youth MP for Jomoro, he is committed to representing the interests and aspirations of young people, promoting meaningful youth participation in public affairs, encouraging leadership development, and creating opportunities for young people to contribute to the development of their communities.",
+
+    vision:
+        "To promote youth empowerment, leadership development, meaningful youth participation, education, innovation, and community development.",
+
+    plans:
+        "Support initiatives focused on youth empowerment, education, leadership development, community service, innovation, academic support, environmental awareness, health and safety education, and youth participation in public affairs.",
+
+    contribution:
+        "Contributes through youth advocacy, community engagement, public speaking, student leadership, social-impact initiatives, academic support, environmental awareness, and engineering-related youth activities.",
+
+    currentActivities:
+        "Currently pursuing Chemical Engineering at the University of Cape Coast and serving as the Youth Member of Parliament for the Jomoro Constituency under Youth Parliament Ghana.",
+
+    leadershipExperience:
+        "Youth Member of Parliament — Jomoro Constituency. Founder — Youth Societal Impact. Founder — A-PLUS Movement. Founder/Initiator — A+ Academic Aid. Founder/Initiator — Engineers Unity Cup. Student Leadership — Various secondary-school leadership positions.",
+
+    professionalExperience:
+        "Chemical Engineering student with industrial exposure through an internship at GHACEM Ltd (Heidelberg Materials), alongside experience in youth advocacy, community development, public speaking, student leadership, and social-impact initiatives.",
+
+    focusAreas:
+        "Youth Empowerment • Leadership Development • Education • Innovation • Community Development • Youth Participation • Engineering • Social Impact",
+
+    slogan:
+        "Advocacy • Progress • Leadership • Unity • Service",
+
+    image: "images/paul.jpeg",
+
+    email: "azoukoupaul100@gmail.com",
+    phone: "0256845095",
+    website: "Coming soon",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "Paul Azoukou",
+    linkedin: "Paul Azoukou",
+    tiktok: "@azoukoupaul"
+},
+{
+    id: "mp040",
+    name: "MOHAMMED ABDUL FATAWU",
+   position: "Youth Member of Parliament",
+    constituency: "Yendi Constituency",
+    region: "Northern",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "Paramedic and Emergency Care Training School — Emergency Medical Responder, Certificate, 2025. St. Charles JHS — 2001–2003. Tamale Senior High School — 2003–2006.",
+
+    profession:
+        "Medical Responder / Youth Leader",
+
+    experience:
+        "Youth Member of Parliament — Yendi Constituency, Youth Parliament Ghana. Medical Responder — Emergency Medical Response. Youth Leadership and Community Service — Youth and community development activities.",
+
+    biography:
+        "MOHAMMED ABDUL FATAWU is a Ghanaian youth leader and individual from the Northern Region. He is passionate about youth development, community service, leadership, and creating opportunities for young people to contribute meaningfully to society. He began his education at St. Charles JHS, where he studied from 2001 to 2003, and later attended Tamale Senior High School from 2003 to 2006. In 2025, he furthered his career at the Paramedic and Emergency Care Training School, where he completed his training as an Emergency Medical Responder. He is committed to serving the youth and vulnerable members of society by promoting unity, empowerment, and sustainable community development. Through his leadership and service, he seeks to inspire young people to take an active role in the development of their communities and Ghana as a whole.",
+
+    vision:
+        "To promote youth development, unity, empowerment, community service, and meaningful participation of young people in the development of Ghana.",
+
+    plans:
+        "Support initiatives focused on youth development, community service, leadership, empowerment, unity, opportunities for young people, and sustainable community development.",
+
+    contribution:
+        "Contributes through youth leadership, community service, emergency medical response, advocacy for vulnerable members of society, and initiatives that promote youth empowerment and community development.",
+
+    currentActivities:
+        "Currently serving as the Youth MP for the Yendi Constituency under Youth Parliament Ghana and working as a Medical Responder.",
+
+    leadershipExperience:
+        "Youth Member of Parliament — Yendi Constituency, Youth Parliament Ghana. Youth leadership and community service focused on youth development, empowerment, unity, and community development.",
+
+    professionalExperience:
+        "Medical Responder with training from the Paramedic and Emergency Care Training School, with an interest in youth leadership, community service, and supporting vulnerable members of society.",
+
+    focusAreas:
+        "Youth Development • Community Service • Leadership • Youth Empowerment • Emergency Medical Response • Unity • Community Development",
+
+    slogan:
+        "Unity • Empowerment • Service",
+
+    image: "images/fatawu.jpeg",
+
+    email: "abdulfatawu7373@gmail.com",
+    phone: "0241254424",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
 ];
