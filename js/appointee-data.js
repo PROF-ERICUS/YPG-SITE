@@ -1132,6 +1132,298 @@ region: "Ashanti",
     linkedin: "GORDON AFARI-SACKEY",
     tiktok: "#"
 },
+    {
+    id: "app020",
+    name: "DERY ELIJAH",
+    position: "Minister for Foreign Affairs",
+    ministry: "Office of the Foreign Affairs",
+    constituency: "Dome-Kwabenya",
+    region: "Greater Accra",
+    appointmentDate: "25th September,2026.",
+    isMP: false,
+
+    education:
+        "Kwame Nkrumah University of Science and Technology (KNUST) — BSc in Agriculture. Mfantsipim School, Cape Coast — secondary education.",
+
+    profession:
+        "Youth Leader / Communicator / Strategist / Entrepreneur / Public-Service Advocate",
+
+    experience:
+        "Protocol Prefect — Mfantsipim School. SRC General Secretary — Mfantsipim School. Head of Supervisors — Mfantsipim School. Class Councillor — Mfantsipim School. Course Representative — KNUST. Deputy Head of International Relations — KNUST SRC. Active involvement in student leadership.",
+
+    biography:
+        "DERY ELIJAH is a purpose-driven youth leader, communicator, strategist, entrepreneur and public-service advocate passionate about leadership, diplomacy, youth development, innovation, media and community impact. He is a graduate of Kwame Nkrumah University of Science and Technology (KNUST), where he obtained a BSc in Agriculture. He previously attended Mfantsipim School in Cape Coast, where he demonstrated strong leadership and organizational abilities. His leadership experience includes serving as Protocol Prefect, SRC General Secretary, Head of Supervisors and Class Councillor at Mfantsipim School. At KNUST, he served as a Course Representative and Deputy Head of International Relations for the KNUST SRC and has been actively involved in student leadership.",
+
+    vision:
+        "To contribute to youth development, diplomacy, leadership, innovation, media and community impact through public service.",
+
+    plans:
+        "Support youth development, diplomatic engagement, leadership, innovation, media initiatives and community-focused programmes.",
+
+    contribution:
+        "Contributes through youth leadership, communication, strategic engagement, diplomacy, student leadership, innovation and community-focused activities.",
+
+    currentActivities:
+        "Serving as Minister for Foreign Affairs of the National Youth Parliament Ghana and engaging in youth leadership and public-service activities.",
+
+    leadershipExperience:
+        "Minister for Foreign Affairs — National Youth Parliament Ghana. Deputy Head of International Relations — KNUST SRC. Course Representative — KNUST. Protocol Prefect — Mfantsipim School. SRC General Secretary — Mfantsipim School. Head of Supervisors — Mfantsipim School. Class Councillor — Mfantsipim School.",
+
+    professionalExperience:
+        "Youth leader, communicator, strategist, entrepreneur and public-service advocate with experience in student leadership, international relations and public engagement.",
+
+    focusAreas:
+        "Diplomacy • Youth Development • Leadership • Innovation • Media • Public Service • International Relations • Community Impact",
+
+    slogan:
+        "Leadership • Diplomacy • Impact",
+
+    image: "images/Dery.jpeg",
+
+    email: "#",
+    phone: "+233 59 375 8700",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "app021",
+    name: "ISSAHAKU ABDUL BASIT GBEDASEY",
+    position: "Minister for Food and Agriculture",
+    ministry: "Office of the Food and Agriculture",
+    constituency: "Salaga North",
+    region: "Savanna",
+    appointmentDate: "20th September,2026.",
+    isMP: false,
+
+    education:
+        "University for Development Studies (UDS) — Bachelor of Arts (BA) in Development Education Studies, 2025.",
+
+    profession:
+        "National Service Personnel",
+
+    experience:
+        "Deputy Youth Minister for Food and Agriculture — National Youth Parliament Ghana. Youth Parliament Member — Northern Regional Youth Parliament. Student Parliament Participant — University for Development Studies. Participated in Enactus National Competitions for 3 years. Participated in the Third Trimester Field Practical Programme (TTFPP) for 2 years. Participated in the World Shea Expo twice. Led a team to contest for the Momo Fintech Lab. Group Leader for final year project. Volunteer — Zaada Solar Systems. Participated in the launch of WOYO (Women and Youth Active Participation in Local Governance).",
+
+    biography:
+        "ISSAHAKU ABDUL BASIT GBEDASEY is a young Ghanaian leader with a strong interest in youth development, education, agriculture and public service. He holds a Bachelor of Arts degree in Development Education Studies from the University for Development Studies (UDS). His leadership journey includes participation in student parliamentary activities, Enactus National Competitions at UDS, the Northern Regional Youth Parliament and the National Youth Parliament Ghana. He is passionate about positive youth activities, agricultural development, youth empowerment, educational advancement and sustainable development in Ghana. He has served as Deputy Youth Minister for Food and Agriculture and has also been appointed Youth Minister for Food and Agriculture in the National Youth Parliament Ghana.",
+
+    vision:
+        "To support agricultural development, youth empowerment, educational advancement and sustainable development in Ghana.",
+
+    plans:
+        "Support youth participation in agriculture, education, community development and sustainable development initiatives while promoting meaningful youth engagement.",
+
+    contribution:
+        "Contributes through youth leadership, agricultural development activities, student parliamentary participation, community engagement, project work, volunteering and youth-focused initiatives.",
+
+    currentActivities:
+        "Serving as Minister for Food and Agriculture in the National Youth Parliament Ghana and as a National Service Personnel at NSS Savanna Farms. He also volunteers at Zaada Solar Systems as an Administrator.",
+
+    leadershipExperience:
+        "Minister for Food and Agriculture — National Youth Parliament Ghana. Deputy Youth Minister for Food and Agriculture — National Youth Parliament Ghana. Youth Parliament Member — Northern Regional Youth Parliament. Student Parliament Participant — University for Development Studies. Group Leader — Final Year Project.",
+
+    professionalExperience:
+        "National Service Personnel at NSS Savanna Farms. Volunteer Administrator — Zaada Solar Systems. Experience in youth activities, agricultural development, student parliamentary activities, project leadership and community participation.",
+
+    focusAreas:
+        "Agriculture • Youth Development • Education • Youth Empowerment • Sustainable Development • Public Service • Community Development",
+
+    slogan:
+        "Youth • Agriculture • Development",
+
+    image: "images/Basit.jpeg",
+
+    email: "gbedaseyabdulbasit@gmail.com",
+    phone: "0549616087",
+    website: "#",
+
+    facebook: "Issahaku Abdul Basit",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "abdulbasitgh1",
+    whatsapp: "0549616087"
+},
+{
+    id: "app022",
+    name: "BOAKYE MOHAMMED NAZIFA ANIMA",
+    position: "Representative to All Senior High Schools Across Ghana",
+    ministry: "Youth Parliament Ghana",
+    constituency: "Tamale Metro constituency",
+    region: "Northern",
+    appointmentDate: "2026",
+    isMP: false,
+
+    education:
+        "University for Development Studies (UDS) — BSc Computer Science, currently in progress, expected 2028.",
+
+    profession:
+        "Computer Science Student / Technology Enthusiast",
+
+    experience:
+        "Representative to All Senior High Schools Across Ghana — Youth Parliament Ghana. Vice President — Computer Science Society, UDS. Founder/Lead — Women Space. Co-founder & Project Lead — Binary7. PSSA GA Clerk — UDS, 2025/26.",
+
+    biography:
+        "BOAKYE MOHAMMED NAZIFA ANIMA is a Computer Science student at the University for Development Studies with a strong interest in technology, youth development, leadership, women’s empowerment and education. She is the Founder of Women Space, a youth-led initiative focused on women’s empowerment, technology, leadership, mentorship and personal development. She also serves as Co-founder and Project Lead of Binary7, a student-led technology team engaged in developing practical digital solutions and strengthening collaborative technology skills among young people. With experience in student leadership, programme coordination and community-focused initiatives, she is committed to using her skills and leadership experience to contribute positively to youth development. She currently serves as the Representative to All Senior High Schools Across Ghana under Youth Parliament Ghana, supporting youth engagement, representation and leadership development among Senior High School students.",
+
+    vision:
+        "To create meaningful opportunities for young people, particularly girls and young women, to learn, participate, develop their skills and contribute to national development.",
+
+    plans:
+        "Support youth engagement, representation and leadership development among Senior High School students while promoting technology, education, mentorship, women’s empowerment and skills development.",
+
+    contribution:
+        "Contributes through youth representation, technology initiatives, women’s empowerment, mentorship, student leadership, programme coordination and youth-focused community activities.",
+
+    currentActivities:
+        "Serving as Representative to All Senior High Schools Across Ghana under Youth Parliament Ghana and Vice President of the Computer Science Society at UDS while pursuing a BSc in Computer Science.",
+
+    leadershipExperience:
+        "Representative to All Senior High Schools Across Ghana — Youth Parliament Ghana. Vice President — Computer Science Society, UDS. Founder/Lead — Women Space. Co-founder & Project Lead — Binary7. PSSA GA Clerk — UDS, 2025/26.",
+
+    professionalExperience:
+        "Computer Science student and technology enthusiast with experience in technology initiatives, programme coordination, student leadership, youth engagement and women’s empowerment.",
+
+    focusAreas:
+        "Technology • Youth Development • Leadership • Women’s Empowerment • Education • Mentorship • Student Leadership • Digital Skills",
+
+    slogan:
+        "Technology • Leadership • Empowerment • Education",
+
+    image: "images/Nazifa.jpeg",
+
+    email: "mohammednazifa431@gmail.com",
+    phone: "0592933716",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "https://www.linkedin.com/in/boakye-mohammed-nazifa-anima-",
+    tiktok: "#"
+},
+{
+    id: "app023",
+    name: "EVANS KANKAM",
+    position: "Minister of Fisheries and Aquaculture",
+    ministry: "Fisheries and Aquaculture",
+    constituency: "Evalue-Ajomoro-Gwira",
+    region: "Western",
+    appointmentDate: "26th September,2026.",
+    isMP: false,
+
+    education:
+        "University for Development Studies (UDS), Tamale — Bachelor of Education (BEd) in Health Science Education, 2018. Food and Agriculture Organization — Certificate in Aquaculture Production, Farm Management and Biosecurity, 2025. World Health Organization — Certificate Training in Epidemiology and Biostatistics, 2024.",
+
+    profession:
+        "Aquaculture Agribusiness Manager / Public Health Educator / Development Planner",
+
+    experience:
+        "General Manager — AICA Agribusiness Ltd. Founding Director — Omankrapa Foundation, a youth environmental and health advocacy NGO. Assistant Development Planning Officer — Ministry of Environment, Science, Technology and Innovation (MESTI). Field Researcher — Trachoma Pre-validation Survey, Yendi Municipality — Ghana Health Service. Organizing Secretary — UDS Pax Romana, St. Benedict Chaplaincy, Tamale Dungu. Executive, Head of Planning and Organizing — Health Science Students Association. Volunteer — Blood and Genotype Awareness Foundation.",
+
+    biography:
+        "EVANS KANKAM is a youth aquaculture entrepreneur, public health professional and agribusiness manager from the Western Region. With over 4 years managing a sustainable commercial fish farm and 7 years of experience in youth health NGOs, he combines health promotion, development planning and aquaculture business to promote food security and youth employment. He currently serves as General Manager of AICA Agribusiness Ltd, an aquaculture farm focused on catfish production, poultry and feed innovation, and as Founding Director of Omankrapa Foundation, a youth environmental and health advocacy NGO. He previously served as Assistant Development Planning Officer at the Ministry of Environment, Science, Technology and Innovation (MESTI) and as Field Researcher for the Trachoma Pre-validation Survey in Yendi under Ghana Health Service.",
+
+    vision:
+        "From Fish for Food to Fish for Wealth — Making Every Youth an Aqua-Entrepreneur.",
+
+    plans:
+        "Promote fisheries and aquaculture as profitable youth-led enterprises, improve the marketing system for smallholder fish farmers, promote low-cost backyard fish farming and establish the Race Course Kumasi Structured Fish Market Model.",
+
+    contribution:
+        "Contributes through aquaculture entrepreneurship, agribusiness management, public health education, development planning, youth environmental advocacy and initiatives aimed at food security and youth employment.",
+
+    currentActivities:
+        "Serving as Minister of Fisheries and Aquaculture under the Youth Parliament Ghana Shadow Cabinet and as General Manager of AICA Agribusiness Ltd.",
+
+    leadershipExperience:
+        "Minister of Fisheries and Aquaculture — Youth Parliament Ghana. Founding Director — Omankrapa Foundation. General Manager — AICA Agribusiness Ltd. Organizing Secretary — UDS Pax Romana, St. Benedict Chaplaincy, Tamale Dungu. Executive, Head of Planning and Organizing — Health Science Students Association.",
+
+    professionalExperience:
+        "General Manager — AICA Agribusiness Ltd. Founding Director — Omankrapa Foundation. Assistant Development Planning Officer — Ministry of Environment, Science, Technology and Innovation (MESTI). Field Researcher — Trachoma Pre-validation Survey, Yendi Municipality — Ghana Health Service.",
+
+    focusAreas:
+        "Aquaculture • Fisheries • Agribusiness • Food Security • Youth Employment • Public Health • Development Planning • Environmental Advocacy",
+
+    slogan:
+        "From Fish for Food to Fish for Wealth — Making Every Youth an Aqua-Entrepreneur.",
+
+    image: "images/Evans Kankam.png",
+
+    email: "kankamevans2001@gmail.com",
+    phone: "+233534431171",
+    website: "www.aicaagribusiness.com",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "Evans Kankam",
+    tiktok: "#"
+},
+{
+    id: "app024",
+    name: "MAGDALENE NANA ADWOA KONADU AGYEMANG",
+    position: "Representative to the Chief of Staff",
+    ministry: "Office of the Chief of Staff",
+    constituency: "Sekyere Central constituency",
+    region: "Ashanti",
+    appointmentDate: "19th September,2026.",
+    isMP: true,
+
+    education:
+        "University of Media, Arts and Communication (UniMAC-IJ) — Bachelor of Arts in Development Communication, 2026. UniMAC-IJ — Diploma in Communication Studies. National Film and Television Institute (NAFTI) — Diploma in Broadcast Journalism. Ongoing postgraduate programme in Development Communication.",
+
+    profession:
+        "Development Communication Specialist",
+
+    experience:
+        "YPG Representative to the Chief of Staff. Gender Affairs Officer — UniMAC SRC. Church Youth President — FGCC. Journalist and media professional — Class FM, EP Radio and Diaspora Network Television. Client Relations and Sales — Proptis Ghana. National Service Teacher — Woodfield Manor Autism School.",
+
+    biography:
+        "MAGDALENE NANA ADWOA KONADU AGYEMANG is a journalist, development communicator, and public relations and strategic communication specialist with seven years of experience spanning media, education and student leadership. She holds a Bachelor of Arts in Development Communication from the University of Media, Arts and Communication (UniMAC-IJ), alongside diplomas in Communication Studies and Broadcast Journalism, and is pursuing a postgraduate programme in Development Communication. She served as the first Gender Affairs Officer of the UniMAC Students' Representative Council, where she developed systems and programmes focused on gender affairs, student welfare, sexual and reproductive health education, skills development and entrepreneurship. Her professional experience includes media, public relations, client relations, education and community-focused activities.",
+
+    vision:
+        "To strengthen communication, youth engagement, gender empowerment and meaningful representation in public service.",
+
+    plans:
+        "Support effective communication, youth engagement, gender-focused initiatives, stakeholder coordination and meaningful representation between the Youth Parliament Ghana and the Office of the Chief of Staff.",
+
+    contribution:
+        "Contributes through development communication, strategic communication, youth leadership, gender advocacy, stakeholder engagement, public relations and community-focused initiatives.",
+
+    currentActivities:
+        "Serving as the YPG Representative to the Chief of Staff while continuing her professional and academic development in communication and related fields.",
+
+    leadershipExperience:
+        "YPG Representative to the Chief of Staff. Gender Affairs Officer — UniMAC SRC. Church Youth President — FGCC. First Gender Affairs Officer — UniMAC SRC.",
+
+    professionalExperience:
+        "Development Communication Specialist, journalist, public relations and strategic communication specialist with experience at Class FM, EP Radio, Diaspora Network Television, Proptis Ghana and Woodfield Manor Autism School.",
+
+    focusAreas:
+        "Development Communication • Youth Engagement • Gender Empowerment • Public Relations • Strategic Communication • Youth Leadership • Education • Public Service",
+
+    slogan:
+        "Communication • Leadership • Representation • Service",
+
+    image: "images/konadu.jpeg",
+
+    email: "speaktokonadu@gmail.com",
+    phone: "0242938490",
+    website: "#",
+
+    facebook: "https://www.facebook.com/share/19h7Ny7c1A/?mibextid=wwXIww",
+    twitter: "https://x.com/missnnuro?s=11",
+    instagram: "https://www.instagram.com/nanakonadu_theorthoepist_?stkn=MWhmMWNvNWF5YTdyeg%3D%3D&utm_source=qr",
+    linkedin: "https://www.linkedin.com/in/magdalene-nana-adwoa-konadu-agyemang-hls-38b1b01b9?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+    tiktok: "#"
+},
+
 
 
 ];
