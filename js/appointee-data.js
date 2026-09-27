@@ -609,5 +609,179 @@ region: "Ashanti",
     linkedin: "#",
     tiktok: "https://www.tiktok.com/@chef_firdaus2"
 },
+    {
+    id: "app011",
+    name: "KWEGYIR VALERIE AMOASIWA",
+    position: "National PRO",
+    ministry: "Office of the Public Relations",
+    constituency: "Anyaa Sowutuom constituency",
+    region: "Greater Accra",
+    appointmentDate: "21st September,2026.",
+    isMP: true,
+
+    education:
+        "Kwame Nkrumah University of Science and Technology (KNUST) — BSc Agricultural Biotechnology, 2026. Pentecost Senior High School — General Science, WASSCE, 2022. Nichobeth Preparatory School — BECE, 2019.",
+
+    profession:
+        "Agricultural Biotechnologist",
+
+    experience:
+        "National PRO — Parliament of Ghana. Deputy PRO — CANARSA, 2024/25. Deputy Health Commissioner — CANARSA, 2023/24. Head of Sanitation and Health — FASA, 2024/25. Sponsorship Committee Chairperson — CANARSA, 2025/26. Prep Prefect — Pentecost Senior High School, 2021/22. Compound Prefect — Nichobeth Preparatory School, 2018/19.",
+
+    biography:
+        "KWEGYIR VALERIE AMOASIWA is a graduate of Kwame Nkrumah University of Science and Technology (KNUST) with a BSc in Agricultural Biotechnology and serves as National PRO. She is a dedicated young leader with experience in student leadership, community service, health, sanitation, communication and sponsorship activities. She is an alumna of Pentecost Senior High School and Nichobeth Preparatory School. She is currently preparing for her National Service Scheme (NSS) and has a strong interest in community health, youth advocacy, leadership and public service.",
+
+    vision:
+        "To promote effective communication, youth advocacy, community health, leadership and meaningful participation in public service.",
+
+    plans:
+        "Support effective public communication, youth advocacy, community health and sanitation initiatives, leadership development and meaningful youth participation.",
+
+    contribution:
+        "Contributes through public relations, communication, student leadership, community health and sanitation activities, sponsorship coordination, youth advocacy and community service.",
+
+    currentActivities:
+        "Currently a graduate of KNUST preparing for National Service Scheme (NSS), serving as National PRO and serving as Member of Parliament for Anyaa Sowutuom.",
+
+    leadershipExperience:
+        "National PRO — Parliament of Ghana. Member of Parliament — Anyaa Sowutuom. Deputy PRO — CANARSA. Deputy Health Commissioner — CANARSA. Head of Sanitation and Health — FASA. Sponsorship Committee Chairperson — CANARSA. Prep Prefect — Pentecost Senior High School. Compound Prefect — Nichobeth Preparatory School.",
+
+    professionalExperience:
+        "Agricultural Biotechnologist and graduate with experience in public relations, communication, community health, sanitation, sponsorship coordination, student leadership and youth advocacy.",
+
+    focusAreas:
+        "Public relations • Youth advocacy • Community health • Sanitation • Leadership • Communication • Community service • Agricultural biotechnology",
+
+    slogan:
+        "Leadership • Communication • Service",
+
+    image: "images/valerie.jpeg",
+
+    email: "Kwegyirvalerie92@gmail.com",
+    phone: "0550447676",
+    website: "#",
+
+    facebook: "Ridicul gh",
+    twitter: "https://x.com/kwegyirvalerie?s=11",
+    instagram: "https://www.instagram.com/ridiculgh",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "app012",
+    name: "ADDISON SELASSIE",
+    position: "Head of Communications",
+    ministry: "Office of the Ministry for Communications, Innovation and Digitization",
+    constituency: "Awutu Senya East Constituency",
+    region: "Central",
+    appointmentDate: "20th September,2026.",
+    isMP: false,
+
+    education:
+        "Kwame Nkrumah University of Science and Technology (KNUST) — Agricultural Engineering, Year 300.",
+
+    profession:
+        "Agricultural Engineering Student / Multimedia Designer / Digital Media Professional",
+
+    experience:
+        "Head of Information and Digital Media — Addison International Center for Emotional Intelligence. CEO — InfoGhana 360. Ayeduase South Project Coordinator — KNUST. Deputy Head of Media — Ghana Engineering Students Association (GESA). Former Deputy Media Head — Ghana Agricultural Engineering Students Association. Multimedia Designer — Professional and digital media projects.",
+
+    biography:
+        "ADDISON SELASSIE (born 11th June 2005) is an agricultural engineering student at Kwame Nkrumah University of Science and Technology (KNUST) from Enyan Denkyira, Ghana. He serves as the Ayeduase South Project Coordinator at KNUST and the Deputy Head of Media for the Ghana Engineering Students Association (GESA), having previously served as Deputy Media Head for the Ghana Agricultural Engineering Students Association. Professionally, he serves as the Head of Information and Digital Media at the Addison International Center for Emotional Intelligence, manages InfoGhana 360, and works as a multimedia designer. He has worked with Addison International for more than six years in information and media-related activities.",
+
+    vision:
+        "To promote effective communication, digital media engagement, innovation and meaningful public information through technology and creative communication.",
+
+    plans:
+        "Support initiatives focused on effective communication, digital media, innovation, information dissemination, youth engagement and the use of technology to connect communities.",
+
+    contribution:
+        "Contributes through communication, information management, digital media, multimedia design, student leadership, project coordination and youth engagement.",
+
+    currentActivities:
+        "Currently pursuing Agricultural Engineering at KNUST as a Year 300 student, serving as Ayeduase South Project Coordinator, Deputy Head of Media for GESA, CEO of InfoGhana 360, and Head of Information and Digital Media at the Addison International Center for Emotional Intelligence.",
+
+    leadershipExperience:
+        "Head of Communications — Ministry for Communications, Innovation and Digitization. Ayeduase South Project Coordinator — KNUST. Deputy Head of Media — Ghana Engineering Students Association (GESA). Former Deputy Media Head — Ghana Agricultural Engineering Students Association.",
+
+    professionalExperience:
+        "Head of Information and Digital Media — Addison International Center for Emotional Intelligence. CEO — InfoGhana 360. Multimedia Designer. Information and media professional with over six years of experience with Addison International.",
+
+    focusAreas:
+        "Communications • Digital Media • Innovation • Information Management • Multimedia Design • Technology • Youth Engagement • Agricultural Engineering",
+
+    slogan:
+        "Communication • Innovation • Digital Transformation",
+
+    image: "images/Addison.PNG",
+
+    email: "infoghana360@gmail.com",
+    phone: "0256961409",
+    website: "https://addisoninternational.org",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "INFOGHANA360",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "app013",
+    name: "JOSHUA TEYE TORGBOR",
+    position: "Chairman, Appointment Committee",
+    ministry: "Office of the Appointment Committee",
+    constituency: "Sege Constituency",
+    region: "Greater Accra",
+    appointmentDate: "15th September,2026.",
+    isMP: true,
+
+    education:
+        "Sege Presbyterian Primary Number One — Basic Education. Sege Community JHS Number Two — Junior High School Education. Tema Technical Institute — Technical/Vocational Education, Technical Certificate. Accra Technical University — Automobile Engineering, Higher National Diploma (HND), 2023–2025. Accra Technical University — Automobile Engineering, Bachelor of Technology (B.Tech) Top-Up, in progress.",
+
+    profession:
+        "Automobile Engineering / Youth Leadership",
+
+    experience:
+        "Chairman — Appointment Committee, Youth Parliament Ghana. SRC Maintenance Officer — Accra Technical University. TEIN Member — Accra Technical University. Planning Committee Member — TEIN, Accra Technical University. Organising Committee Member — TEIN, Accra Technical University. TEIN Electoral Commission Member — Accra Technical University. Contestant, TEIN Vice President — Accra Technical University, 2024. Departmental Prefect — Tema Technical Institute, 2022. Compound Overseer — Sege JHS Number 1, 2016–2017. Community/Electoral Engagement Volunteer — Youth and civic education initiatives.",
+
+    biography:
+        "JOSHUA TEYE TORGBOR is a youth leader, emerging public servant and elected Youth Member of Parliament for the Sege Constituency under Youth Parliament Ghana. He has developed his leadership experience through educational, institutional, community and youth-focused engagements. He currently serves as Chairman of the Appointment Committee. Joshua has experience in student leadership, youth mobilisation, civic education, community development and organisational activities.",
+
+    vision:
+        "To promote transparent leadership, youth participation, leadership development, skills development and meaningful community engagement.",
+
+    plans:
+        "Support effective appointment processes, youth leadership development, civic education, skills development and meaningful participation of young people in institutional and community affairs.",
+
+    contribution:
+        "Contributes through appointment committee leadership, youth representation, student leadership, civic education, community engagement and youth mobilisation.",
+
+    currentActivities:
+        "Currently serving as Member of Parliament for the Sege Constituency and Chairman of the Appointment Committee of Youth Parliament Ghana, while pursuing a B.Tech in Automobile Engineering at Accra Technical University.",
+
+    leadershipExperience:
+        "Chairman — Appointment Committee, Youth Parliament Ghana. Member of Parliament — Sege Constituency. SRC Maintenance Officer — Accra Technical University. Planning Committee Member — TEIN, Accra Technical University. Organising Committee Member — TEIN, Accra Technical University. TEIN Electoral Commission Member — Accra Technical University. Departmental Prefect — Tema Technical Institute. Compound Overseer — Sege JHS Number 1.",
+
+    professionalExperience:
+        "Automobile Engineering student and youth leader with experience in student leadership, institutional activities, youth mobilisation, civic education, community engagement and electoral initiatives.",
+
+    focusAreas:
+        "Appointment Committee • Youth Leadership • Civic Education • Skills Development • Youth Empowerment • Community Development • Institutional Leadership",
+
+    slogan:
+        "Leadership • Service • Accountability",
+
+    image: "images/Teye.jpeg",
+
+    email: "joshuateye8833@gmail.com",
+    phone: "0544978833 / 0557030363",
+    website: "#",
+
+    facebook: "Joshua Teye Torgbor",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "@joet_900"
+},
 
 ];
