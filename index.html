@@ -21,9 +21,78 @@
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="css/style.css">
+
+    <style>
+/* ================= GREETING ANIMATION ================= */
+
+/* ================= SMALL GREETING BADGE ================= */
+
+#greeting-popup {
+    position: fixed !important;
+    top: 100px !important;
+    left: 50% !important;
+
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    gap: 7px !important;
+
+    padding: 8px 16px !important;
+
+    background: rgba(255, 255, 255, 0.96) !important;
+    color: #111827 !important;
+
+    border-radius: 25px !important;
+
+    font-size: 14px !important;
+    font-weight: 700 !important;
+
+    box-shadow: 0 5px 18px rgba(0, 0, 0, 0.15) !important;
+
+    z-index: 99999999 !important;
+
+    opacity: 0 !important;
+    visibility: hidden !important;
+
+    transform: translate(-50%, -25px) scale(0.9) !important;
+
+    transition:
+        opacity 1.2s ease,
+        transform 1.2s cubic-bezier(0.22, 1, 0.36, 1),
+        visibility 1.2s ease !important;
+}
+
+#greeting-popup.show {
+    opacity: 1 !important;
+    visibility: visible !important;
+
+    transform: translate(-50%, 0) scale(1) !important;
+}
+
+#greeting-icon {
+    font-size: 17px !important;
+}
+
+@media (max-width: 600px) {
+
+    #greeting-popup {
+        top: 80px !important;
+        padding: 7px 14px !important;
+        font-size: 13px !important;
+    }
+
+    #greeting-icon {
+        font-size: 16px !important;
+    }
+}
+</style>
 </head>
 
-<body>
+
+<div id="greeting-popup">
+    <span id="greeting-icon">🌙</span>
+    <span id="greeting-text">Good Evening</span>
+</div>
 
 <!-- ================= NAVBAR ================= -->
 
@@ -750,6 +819,52 @@
 <!-- Custom JS -->
 
 <script src="js/main.js"></script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+    const popup = document.getElementById("greeting-popup");
+    const text = document.getElementById("greeting-text");
+    const icon = document.getElementById("greeting-icon");
+
+    if (!popup || !text || !icon) return;
+
+    const hour = new Date().getHours();
+
+    if (hour >= 5 && hour < 12) {
+
+        text.textContent = "Good Morning";
+        icon.textContent = "🌅";
+
+    } else if (hour >= 12 && hour < 18) {
+
+        text.textContent = "Good Afternoon";
+        icon.textContent = "☀️";
+
+    } else if (hour >= 18 && hour < 22) {
+
+        text.textContent = "Good Evening";
+        icon.textContent = "🌆";
+
+    } else {
+
+        text.textContent = "Good Night";
+        icon.textContent = "🌙";
+
+    }
+
+    /* SHOW AFTER 0.3 SECONDS */
+    setTimeout(function () {
+        popup.classList.add("show");
+    }, 300);
+
+    /* START DISAPPEARING AFTER 4.5 SECONDS */
+    setTimeout(function () {
+        popup.classList.remove("show");
+    }, 4500);
+
+});
+</script>
 
 </body>
 </html>
