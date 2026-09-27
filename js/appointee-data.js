@@ -501,7 +501,7 @@ region: "Upper East",
 ministry: "Office of the Ministry of Foreign Affairs",
 constituency: "Atwima-Nwabiagya North",
 region: "Ashanti",
-    appointmentDate: "Information to be updated.",
+    appointmentDate: "25th September,2026.",
     isMP: false,
 
     education:
