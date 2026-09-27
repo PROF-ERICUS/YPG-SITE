@@ -3945,5 +3945,61 @@ parliament: "Youth Parliament Ghana",
     linkedin: "https://www.linkedin.com/in/magdalene-nana-adwoa-konadu-agyemang-hls-38b1b01b9?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
     tiktok: "#"
 },
+  {
+    id: "mp076",
+    name: "CHESSMAN AYESU FRIMPONG",
+    position: "Member of Parliament",
+    constituency: "Agona West Constituency",
+    region: "Central",
+    parliament: "Youth Parliament Ghana ",
+
+    education:
+        "University of Cape Coast — BSc Water and Public Health Engineering, Bachelor of Science, expected 2027.",
+
+    profession:
+        "Water and Public Health Engineer (in training)",
+
+    experience:
+        "Organizing Secretary — Water and Public Health Engineering, UCC. Youth MP — Agona West Constituency.",
+
+    biography:
+        "CHESSMAN AYESU FRIMPONG is a youth representative and emerging Water and Public Health Engineer serving as Youth MP for the Agona West Constituency. He is currently pursuing a BSc in Water and Public Health Engineering at the University of Cape Coast, with interests in youth development, water, sanitation and public health.",
+
+    vision:
+        "To contribute to youth development while promoting awareness and meaningful engagement in water, sanitation and public health.",
+
+    plans:
+        "Support youth development initiatives and contribute to discussions and activities related to water, sanitation and public health.",
+
+    contribution:
+        "Contributes through youth representation, student leadership and advocacy in water, sanitation and public health.",
+
+    currentActivities:
+        "Currently serving as Youth Member of Parliament for Agona West Constituency and pursuing a BSc in Water and Public Health Engineering at the University of Cape Coast.",
+
+    leadershipExperience:
+        "Youth MP — Agona West Constituency. Organizing Secretary — Water and Public Health Engineering, UCC.",
+
+    professionalExperience:
+        "Water and Public Health Engineer in training with experience in student leadership and youth representation.",
+
+    focusAreas:
+        "Youth Development • Water • Sanitation • Public Health • Student Leadership",
+
+    slogan:
+        "Youth • Service • Public Health",
+
+    image: "images/Ayesu.jpeg",
+
+    email: "ChessmanFrimpong6@gmail.com",
+    phone: "0547990098",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
 
 ];
