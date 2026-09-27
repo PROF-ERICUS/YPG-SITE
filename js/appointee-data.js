@@ -597,7 +597,7 @@ region: "Ashanti",
     slogan:
         "Women First, Future Secured!",
 
-    image: "images/Ayiku.jpegg",
+    image: "images/Ayiku.jpeg",
 
     email: "ayikuirene44@gmail.com",
     phone: "0544280792",
