@@ -1015,5 +1015,123 @@ region: "Ashanti",
     linkedin: "#",
     tiktok: "#"
 },
+    {
+    id: "app018",
+    name: "ANIM EMMANUEL OSAFO",
+    position: "Representative of African Countries",
+    ministry: "Office of the Representative of African Countries",
+    constituency: "Asuogyaman constituency",
+    region: "Eastern",
+    appointmentDate: "21st September,2026.",
+    isMP: false,
+
+    education:
+        "Peki College of Education — Bachelor of Education (History and Geography), Degree, 2026.",
+
+    profession:
+        "Student / Teacher",
+
+    experience:
+        "SRC President — Peki College of Education. Assistant Head of Academics — Konad International School. Constitutional Review Committee Chairman — Peki College of Education SRC. Teacher — Private School, Aboasa.",
+
+    biography:
+        "ANIM EMMANUEL OSAFO is a native of Boso in the Asuogyaman District in the Eastern Region. He is a student of Peki College of Education in the Volta Region and a former SRC President of Peki College of Education. He currently resides in Juapong in the Volta Region and teaches in a private school in Aboasa. His experience includes student leadership, academic administration and constitutional review activities.",
+
+    vision:
+        "To contribute through leadership, education and representation while supporting meaningful engagement across African countries.",
+
+    plans:
+        "Support effective representation, education, leadership and constructive engagement on issues relating to African countries.",
+
+    contribution:
+        "Contributes through student leadership, teaching, academic administration, constitutional review and representation.",
+
+    currentActivities:
+        "Currently teaching in a private school in Aboasa while serving as Representative of African Countries.",
+
+    leadershipExperience:
+        "Representative of African Countries. Former SRC President — Peki College of Education. Constitutional Review Committee Chairman — Peki College of Education SRC.",
+
+    professionalExperience:
+        "Teacher — Private School, Aboasa. Assistant Head of Academics — Konad International School.",
+
+    focusAreas:
+        "African Affairs • Education • Leadership • Representation • Academic Development • Youth Engagement",
+
+    slogan:
+        "Leadership • Education • Representation",
+
+    image: "images/Anim.jpeg",
+
+    email: "eanim349@gmail.com",
+    phone: "0242516994",
+    website: "#",
+
+    facebook: "https://www.facebook.com/share/1BvrSPHZgG/",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+
+{
+    id: "app019",
+    name: "GORDON AFARI-SACKEY",
+    position: "Minister for Local Government, Chieftaincy and Religious Affairs",
+    ministry: "Office of the Local Government, Chieftaincy and Religious Affairs",
+    constituency: "Ajumako Enyan Essiam  constituency",
+    region: "Central",
+    appointmentDate: "Information to be updated.",
+    isMP: false,
+
+    education:
+        "University of Professional Studies, Accra (UPSA) — Public Relations, currently pursuing. University Practice Senior High School — Senior High School education. Heritage Academy — Junior High School education.",
+
+    profession:
+        "Student / Public Relations / Political Communication",
+
+    experience:
+        "Minister for Local Government, Chieftaincy and Religious Affairs — Youth Parliament Ghana. Executive Director — Echoes of the Umbrella. Three-term Member — UPSA Student Parliament House. Member — Financial Committee, UPSA Student Parliament House. Member — Constitutional, Legal and Standing Orders Committee, UPSA Student Parliament House. Secretary — Campus News Network, University Practice Senior High School. Assistant Head Prefect — Heritage Academy.",
+
+    biography:
+        "GORDON AFARI-SACKEY is a Ghanaian Public Relations student, youth leader and emerging public affairs and political communication practitioner with interests in leadership, strategic communication, youth participation, governance and national development. He began his leadership journey during his basic and secondary education, serving as Assistant Head Prefect of Heritage Academy and later as Secretary of the Campus News Network at University Practice Senior High School. He is currently pursuing Public Relations at the University of Professional Studies, Accra (UPSA), where he continues to develop his knowledge and skills in communication, public speaking, research, media relations and strategic communication. Gordon has gained leadership and parliamentary experience through the UPSA Student Parliament House, where he has served as a three-term member, previously serving on the Financial Committee and currently serving on the Constitutional, Legal and Standing Orders Committee. He currently serves as Minister for Local Government, Chieftaincy and Religious Affairs of Youth Parliament Ghana, participating in youth-led governance and leadership activities. He is also the Executive Director of Echoes of the Umbrella, a youth-focused political communication initiative focused on research, public speaking, media engagement, digital communication, policy analysis, persuasive communication and responsible political communication.",
+
+    vision:
+        "To promote effective leadership, responsible communication, youth participation, good governance and national development.",
+
+    plans:
+        "Support youth participation, public administration, responsible political communication, leadership development, community development and initiatives that create opportunities for young people and support vulnerable members of society.",
+
+    contribution:
+        "Contributes through public relations, political communication, parliamentary participation, research, public speaking, media engagement, youth leadership and community-focused initiatives.",
+
+    currentActivities:
+        "Currently pursuing Public Relations at the University of Professional Studies, Accra (UPSA), serving as Minister for Local Government, Chieftaincy and Religious Affairs of Youth Parliament Ghana, and working as Executive Director of Echoes of the Umbrella.",
+
+    leadershipExperience:
+        "Minister for Local Government, Chieftaincy and Religious Affairs — Youth Parliament Ghana. Three-term Member — UPSA Student Parliament House. Member — Financial Committee, UPSA Student Parliament House. Member — Constitutional, Legal and Standing Orders Committee, UPSA Student Parliament House. Executive Director — Echoes of the Umbrella. Secretary — Campus News Network. Assistant Head Prefect — Heritage Academy.",
+
+    professionalExperience:
+        "Public Relations student and emerging public affairs and political communication practitioner with experience in parliamentary affairs, strategic communication, research, public speaking, media engagement, policy analysis and youth leadership.",
+
+    focusAreas:
+        "Public Relations • Political Communication • Governance • Parliamentary Affairs • Youth Leadership • Strategic Communication • Research • Public Affairs • Community Development • Public Service",
+
+    slogan:
+        "Leadership • Communication • Youth Participation",
+
+    image: "images/Afari.jpeg",
+
+    email: "gordonafarisackey@gmail.com",
+    phone: "0532845282",
+    website: "#",
+
+    facebook: "GORDON AFARI-SACKEY",
+    twitter: "#",
+    instagram: "GORDON AFARI-SACKEY",
+    linkedin: "GORDON AFARI-SACKEY",
+    tiktok: "#"
+},
+
 
 ];
