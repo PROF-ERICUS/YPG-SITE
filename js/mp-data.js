@@ -3553,5 +3553,117 @@ parliament: "Youth Parliament Ghana",
     linkedin: "#",
     tiktok: "#"
 },
+  {
+    id: "mp069",
+    name: "CANDY ESABA OHIN",
+    position: "Member of Parliament",
+    constituency: "Amenfi East Constituency",
+    region: "Western",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "Kwame Nkrumah University of Science and Technology (KNUST) — Bachelor of Science (BSc) Degree in Biochemistry, 2025.",
+
+    profession:
+        "Biochemistry Graduate",
+
+    experience:
+        "General Secretary — National Service Personnel, Amenfi West, Western Region. Organizer — Women's Commission, GHABSA-KNUST. Cell Leader — AGCM-KNUST. General Secretary — Kutukrom AG. Youth Leadership & Community Engagement — Various youth and community initiatives.",
+
+    biography:
+        "CANDY ESABA OHIN is a young Ghanaian leader and youth advocate committed to promoting youth participation, empowerment and community development. She holds a Bachelor of Science (BSc) degree in Biochemistry from Kwame Nkrumah University of Science and Technology (KNUST), which she obtained in 2025. Candy has developed leadership experience through her involvement in student, professional, religious and community organizations. She served as the General Secretary for National Service Personnel in Amenfi West, Western Region, where she contributed to the coordination of national service personnel and supported programmes focused on their welfare and development. At KNUST, she served as the Organizer of the Women's Commission of GHABSA-KNUST and as a Cell Leader with AGCM-KNUST, gaining experience in leadership, organization, teamwork and mentorship. She also served as the General Secretary of Kutukrom AG, further developing her experience in administration, coordination and organizational leadership. As the Youth Member of Parliament-Elect for Amenfi East Constituency, Candy is committed to contributing to initiatives focused on youth empowerment, skills development, education, entrepreneurship, employment opportunities and meaningful youth participation in community development.",
+
+    vision:
+        "To promote youth participation, empowerment, skills development, education, entrepreneurship, employment opportunities and community development.",
+
+    plans:
+        "Support initiatives focused on youth empowerment, skills development, education, entrepreneurship, employment opportunities and meaningful youth participation in community development.",
+
+    contribution:
+        "Contributes through youth leadership, community engagement, organizational coordination, mentorship, administration and advocacy for youth empowerment and development.",
+
+    currentActivities:
+        "Serving as Youth Member of Parliament-Elect for the Amenfi East Constituency and contributing to youth and community development initiatives.",
+
+    leadershipExperience:
+        "Youth Member of Parliament-Elect — Amenfi East Constituency. General Secretary — National Service Personnel, Amenfi West. Organizer — Women's Commission, GHABSA-KNUST. Cell Leader — AGCM-KNUST. General Secretary — Kutukrom AG.",
+
+    professionalExperience:
+        "Biochemistry graduate with leadership and organizational experience in national service coordination, student organizations, religious organizations, mentorship and community engagement.",
+
+    focusAreas:
+        "Youth Empowerment • Skills Development • Education • Entrepreneurship • Employment Opportunities • Community Development • Youth Participation • Leadership",
+
+    slogan:
+        "Empowerment • Opportunity • Participation",
+
+    image: "images/Candy.PNG",
+
+    email: "candyohin0@gmail.com",
+    phone: "0553320183",
+    website: "#",
+
+    facebook: "Candy Ohin",
+    twitter: "#",
+    instagram: "Candy Esaba Ohin",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp070",
+    name: "RAPHAEL KONYAN",
+    position: "Member of Parliament",
+    constituency: "Nkwanta North",
+    region: "Oti",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "University of Ghana — B.A Political Science and Classics. University of Professional Studies, Accra (UPSA) — LLB, currently pursuing. Institute of Paralegal Training and Legal Studies (IPLS), Accra — Professional Executive Masters in Alternative Dispute Resolution.",
+
+    profession:
+        "Legal Advisor / Internal Audit and Compliance Officer",
+
+    experience:
+        "President — University of Ghana Konkomba Students Union. President — Nkwanta North Tertiary Students Wing. Financial Secretary — University of Ghana Parliamentary Committee. Marshal — Possa Parliament. SRC President — Kpassa Senior High School. School Prefect — Kpassa Senior High School and Sibi Central Junior High School. Internal Audit and Compliance Officer — United Actuaries & Consultants Ltd.",
+
+    biography:
+        "RAPHAEL KONYAN is a native of Sibi Central in the Nkwanta North Constituency, Oti Region, with interests in politics, education and justice. He holds a First Degree in Political Science and Classics from the University of Ghana. He is currently a Level 300 LLB student at the University of Professional Studies, Accra (UPSA), and is also pursuing a Professional Executive Masters in Alternative Dispute Resolution at the Institute of Paralegal Training and Legal Studies (IPLS), Accra. He currently works at United Actuaries & Consultants Ltd as an Internal Audit and Compliance Officer. He has gained leadership experience through various roles, including President of the University of Ghana Konkomba Students Union, President of the Nkwanta North Tertiary Students Wing, Financial Secretary of the University of Ghana Parliamentary Committee, Marshal of Possa Parliament, SRC President of Kpassa Senior High School, and School Prefect at Kpassa Senior High School and Sibi Central Junior High School.",
+
+    vision:
+        "To contribute to politics, education, justice, leadership and community development through public representation and service.",
+
+    plans:
+        "Support education, justice, youth leadership, community development and meaningful representation of constituents.",
+
+    contribution:
+        "Contributes through political engagement, legal studies, compliance and audit work, student leadership, parliamentary activities and community representation.",
+
+    currentActivities:
+        "Serving as Member of Parliament for the Nkwanta North Constituency while working as Internal Audit and Compliance Officer at United Actuaries & Consultants Ltd and pursuing an LLB at UPSA.",
+
+    leadershipExperience:
+        "Member of Parliament — Nkwanta North Constituency. President — University of Ghana Konkomba Students Union. President — Nkwanta North Tertiary Students Wing. Financial Secretary — University of Ghana Parliamentary Committee. Marshal — Possa Parliament. SRC President — Kpassa Senior High School. School Prefect — Kpassa Senior High School and Sibi Central Junior High School.",
+
+    professionalExperience:
+        "Internal Audit and Compliance Officer — United Actuaries & Consultants Ltd. Legal studies and professional training in Political Science, Classics and Alternative Dispute Resolution.",
+
+    focusAreas:
+        "Politics • Education • Justice • Legal Studies • Leadership • Youth Development • Community Development • Public Service",
+
+    slogan:
+        "Justice • Leadership • Education",
+
+    image: "images/Konyan.jpeg",
+
+    email: "konyanraphael7@gmail.com",
+    phone: "#",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
 
 ];
