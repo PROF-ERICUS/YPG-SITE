@@ -488,28 +488,19 @@ a {
 .news-image,
 .news-card-image {
     width: 100%;
-
-    height: 210px;
-
+    height: auto;
     background: var(--light);
-
-    display: flex;
-
-    align-items: center;
-    justify-content: center;
-
+    display: block;
     overflow: hidden;
 }
 
 .news-image img,
 .news-card-image img {
     width: 100%;
-    height: 100%;
-
-    object-fit: contain;
-
+    height: auto;
+    max-width: 100%;
     display: block;
-
+    object-fit: contain;
     transition: transform 0.4s ease;
 }
 
@@ -1279,12 +1270,12 @@ a {
     }
 
 
-    /* News */
+  /* News */
 
-    .news-image,
-    .news-card-image {
-        height: 220px;
-    }
+.news-image,
+.news-card-image {
+    height: auto;
+}
 
 
     /* President */
@@ -2079,5 +2070,171 @@ a {
     }
 
 }
+/* ================= GREETING POPUP ================= */
 
+.greeting-popup {
+    position: fixed;
+    top: 90px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 9999;
+
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+    padding: 14px 25px;
+
+    background: #ffffff;
+    color: #0b1f3a;
+
+    border-radius: 50px;
+
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.15);
+
+    font-size: 18px;
+    font-weight: 700;
+
+    animation: greetingIn 0.6s ease;
+}
+
+.greeting-popup.hide {
+    animation: greetingOut 0.6s ease forwards;
+}
+
+#greeting-icon {
+    font-size: 22px;
+}
+
+/* Slide in */
+
+@keyframes greetingIn {
+    from {
+        opacity: 0;
+        transform: translate(-50%, -25px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translate(-50%, 0);
+    }
+}
+
+/* Slide out */
+
+@keyframes greetingOut {
+    from {
+        opacity: 1;
+        transform: translate(-50%, 0);
+    }
+
+    to {
+        opacity: 0;
+        transform: translate(-50%, -25px);
+    }
+}
+
+/* Mobile */
+
+@media (max-width: 600px) {
+
+    .greeting-popup {
+        top: 75px;
+        padding: 12px 20px;
+        font-size: 15px;
+    }
+
+    #greeting-icon {
+        font-size: 19px;
+    }
+
+}
+/* ================= GREETING ANIMATION ================= */
+
+#greeting-popup {
+    position: fixed !important;
+    top: 100px !important;
+    left: 50% !important;
+
+    display: flex !important;
+    align-items: center !important;
+    gap: 10px !important;
+
+    padding: 15px 28px !important;
+
+    background: #ffffff !important;
+    color: #111827 !important;
+
+    border-radius: 50px !important;
+
+    font-size: 19px !important;
+    font-weight: 700 !important;
+
+    box-shadow: 0 8px 30px rgba(0,0,0,0.20) !important;
+
+    z-index: 99999999 !important;
+
+    opacity: 0 !important;
+    visibility: hidden !important;
+
+    /* Start position */
+    transform: translate(-50%, -35px) scale(0.92) !important;
+
+    transition:
+        opacity 1.2s ease,
+        transform 1.2s cubic-bezier(0.22, 1, 0.36, 1),
+        visibility 1.2s ease !important;
+}
+
+
+/* SHOW */
+
+#greeting-popup.show {
+    opacity: 1 !important;
+    visibility: visible !important;
+
+    transform: translate(-50%, 0) scale(1) !important;
+}
+
+
+/* ICON */
+
+#greeting-icon {
+    font-size: 25px !important;
+
+    animation: greetingIcon 1.5s ease-in-out infinite alternate;
+}
+
+
+/* ICON GENTLE MOVEMENT */
+
+@keyframes greetingIcon {
+
+    from {
+        transform: translateY(0);
+    }
+
+    to {
+        transform: translateY(-3px);
+    }
+
+}
+
+
+/* MOBILE */
+
+@media (max-width: 600px) {
+
+    #greeting-popup {
+        top: 85px !important;
+        padding: 12px 22px !important;
+        font-size: 16px !important;
+        white-space: nowrap !important;
+    }
+
+    #greeting-icon {
+        font-size: 21px !important;
+    }
+
+}
 }
