@@ -3387,59 +3387,60 @@ parliament: "Youth Parliament Ghana",
 },
 {
     id: "mp066",
-    name: "BASHIRU AYISHA",
+    name: "ASANTE VYAS",
     position: "Member of Parliament",
-    constituency: "Walewale Constituency",
-    region: "North East",
+    constituency: "Suhum Constituency",
+    region: "Eastern",
     parliament: "Youth Parliament Ghana",
 
     education:
-        "University for Development Studies (UDS) — Doctor of Medical Laboratory Science, undergraduate student, Level 300.",
+        "Kwame Nkrumah University of Science and Technology (KNUST) — Aerospace Engineering, Bachelor's Degree in progress, Third Year. Mfantsipim School — Secondary Education. St. Mary's Preparatory School, Koforidua — Basic Education.",
 
     profession:
-        "Student / Youth Leader / Advocate",
+        "Student",
 
     experience:
-        "Youth Member of Parliament — Women Empowerment and Girl-Child Education, Youth Parliament of Ghana. Participant — British High Commission's Ambassador for a Day Programme. Volunteer — Tamale Youth Summit (TYS). Engagement in affirmative-action and women's leadership initiatives with the African Women Leaders Network (AWLN), Ghana Chapter. Youth advocacy and gender-equality engagements. Women empowerment and girl-child education initiatives. Community development and fieldwork through the TTFPP programme at UDS. Participation in youth leadership, empowerment and networking programmes. Engagement in community-focused and social-impact activities.",
+        "Youth Member of Parliament — Youth Parliament of Ghana, Suhum Constituency. House Prefect — Brandful Dontwi House, Mfantsipim School. Best Prefect of the Year Award Recipient — Mfantsipim School. Head Boy — St. Mary's Preparatory School, Koforidua.",
 
     biography:
-        "BASHIRU AYISHA is an undergraduate Doctor of Medical Laboratory Science student at the University for Development Studies (UDS), a young leader and advocate passionate about women empowerment, girl-child education, youth leadership and community development. Her leadership journey includes participating in the British High Commission's Ambassador for a Day programme, volunteering with the Tamale Youth Summit, engaging in youth advocacy and affirmative-action initiatives, and participating in women empowerment, gender-equality, leadership and community-development activities. She has also gained practical community experience through the TTFPP programme at UDS. As a Youth Member of Parliament for Women Empowerment and Girl-Child Education, she is committed to creating opportunities for young women and girls, encouraging leadership, building confidence and supporting meaningful youth participation in community and national development.",
+        "ASANTE VYAS is a Youth Member of Parliament representing the Suhum Constituency in the Eastern Region under the Youth Parliament of Ghana. He is currently a third-year Aerospace Engineering student at Kwame Nkrumah University of Science and Technology (KNUST), where he is developing technical and analytical skills in the field of aerospace engineering. His leadership journey began at the secondary and basic school levels. He previously served as Head Boy of St. Mary's Preparatory School, Koforidua, where he developed an early interest in leadership, responsibility and service. At Mfantsipim School, he served as House Prefect of Brandful Dontwi House and was recognized for his leadership by receiving the Best Prefect of the Year Award. As a Youth Member of Parliament for Suhum Constituency, he seeks to contribute to youth representation, constructive parliamentary debate, community development and initiatives that create meaningful opportunities for young people.",
 
     vision:
-        "To promote women empowerment, girl-child education, youth leadership, confidence building and meaningful youth participation in community and national development.",
+        "To promote meaningful youth representation, constructive parliamentary debate, community development and opportunities for young people.",
 
     plans:
-        "Support initiatives that create opportunities for young women and girls, promote girl-child education, encourage leadership, build confidence and advance meaningful youth participation.",
+        "Support youth representation, constructive parliamentary engagement, community development and initiatives that create meaningful opportunities for young people.",
 
     contribution:
-        "Contributes through youth advocacy, women empowerment, girl-child education, gender-equality engagements, community development, leadership initiatives and social-impact activities.",
+        "Contributes through youth representation, parliamentary debate, leadership, community development and youth-focused initiatives.",
 
     currentActivities:
-        "Currently serving as Youth Member of Parliament for Women Empowerment and Girl-Child Education in the Youth Parliament of Ghana while pursuing a Doctor of Medical Laboratory Science at the University for Development Studies (UDS).",
+        "Currently serving as Youth Member of Parliament for the Suhum Constituency in the Youth Parliament of Ghana while pursuing a third-year Bachelor's Degree in Aerospace Engineering at KNUST.",
 
     leadershipExperience:
-        "Youth Member of Parliament — Women Empowerment and Girl-Child Education, Youth Parliament of Ghana. Participant — British High Commission's Ambassador for a Day Programme. Volunteer — Tamale Youth Summit. Youth advocacy and gender-equality engagements. Participation in women empowerment, leadership and community-development initiatives.",
+        "Youth Member of Parliament — Youth Parliament of Ghana, Suhum Constituency. House Prefect — Brandful Dontwi House, Mfantsipim School. Best Prefect of the Year Award Recipient — Mfantsipim School. Head Boy — St. Mary's Preparatory School, Koforidua.",
 
     professionalExperience:
-        "Undergraduate Doctor of Medical Laboratory Science student with experience in youth advocacy, women empowerment, girl-child education, community development, leadership programmes and social-impact activities.",
+        "Third-year Aerospace Engineering student at KNUST with leadership experience in student and youth representation.",
 
     focusAreas:
-        "Women Empowerment • Girl-Child Education • Youth Leadership • Gender Equality • Youth Advocacy • Community Development • Leadership • Social Impact",
+        "Youth Representation • Parliamentary Debate • Community Development • Youth Leadership • Education • Youth Opportunities • Aerospace Engineering",
 
     slogan:
-        "Empowerment • Education • Leadership",
+        "Leadership • Service • Opportunity",
 
-    image: "images/bashiru.jpeg",
+    image: "images/Vyas.jpeg",
 
-    email: "bashiruayisha764@gmail.com",
-    phone: "0559016550",
+    email: "asantevyas45@gmail.com",
+    phone: "0538497794",
     website: "#",
 
     facebook: "#",
-    twitter: "#",
-    instagram: "#",
+    twitter: "@sonoftheskies24",
+    instagram: "@_hisexcellency367",
     linkedin: "#",
-    tiktok: "#"
+    tiktok: "@_hisexcellency",
+    snapchat: "v.asante"
 },
 {
     id: "mp067",
