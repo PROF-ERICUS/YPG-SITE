@@ -4002,5 +4002,621 @@ parliament: "Youth Parliament Ghana",
     linkedin: "#",
     tiktok: "#"
 },
+  {
+    id: "mp077",
+    name: "ABOAGYE KINGSLEY KYEREMEH",
+    position: "Member of Parliament",
+    constituency: "Bekwai Constituency",
+    region: "Ashanti",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "Kwame Nkrumah University of Science and Technology (KNUST) — Physician Assistant, Graduate. Currently enrolled in KNUST Medical School.",
+
+    profession:
+        "Physician Assistant / Medical Student",
+
+    experience:
+        "Health Officer — PASAG, KNUST. Welfare Chairman — KNUST. Financial Secretary — KNUST. Senator — Medical School Senate Committee. Organizer — Adisadel Old Boys’ Association (SANTAMOGA-KNUST). Youth Member of Parliament — Bekwai Constituency.",
+
+    biography:
+        "ABOAGYE KINGSLEY KYEREMEH is a physician assistant graduate from Kwame Nkrumah University of Science and Technology (KNUST) and is currently enrolled in KNUST Medical School. He has experience in health-related leadership, student welfare, financial administration and institutional representation. He has served as Health Officer in PASAG-KNUST, Welfare Chairman, Financial Secretary and currently serves as a Senator in the Medical School Senate Committee. He has also served as Organizer for the Adisadel Old Boys’ Association (SANTAMOGA-KNUST).",
+
+    vision:
+        "To help reduce school dropout, contribute to job creation and employment, and reduce substance abuse among the youth in the Bekwai Constituency.",
+
+    plans:
+        "Engage stakeholders on issues affecting young people, support efforts to reduce school dropout and substance abuse, and contribute to discussions around job creation and employment opportunities.",
+
+    contribution:
+        "Contributes through health-related leadership, student representation, stakeholder engagement and advocacy on issues affecting the youth.",
+
+    currentActivities:
+        "Currently undertaking stakeholder engagements, establishing rapport with stakeholders, introducing Youth Parliament to them and discussing issues affecting the youth in the Bekwai Constituency.",
+
+    leadershipExperience:
+        "Health Officer — PASAG, KNUST. Welfare Chairman — KNUST. Financial Secretary — KNUST. Senator — Medical School Senate Committee. Organizer — Adisadel Old Boys’ Association (SANTAMOGA-KNUST). Youth Member of Parliament — Bekwai Constituency.",
+
+    professionalExperience:
+        "Physician Assistant graduate currently enrolled in KNUST Medical School, with leadership experience in health, student welfare, finance, institutional representation and youth engagement.",
+
+    focusAreas:
+        "Education • Employment • Job Creation • Substance Abuse Prevention • Youth Development • Public Health • Stakeholder Engagement",
+
+    slogan:
+        "Education • Employment • Youth Development",
+
+    image: "images/kyeremeh.jpeg",
+
+    email: "aboagyekingsley58@gmail.com",
+    phone: "0591646581",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp078",
+    name: "YAHAYA MAHAMA",
+    position: "Member of Parliament",
+    constituency: "Asutifi South constituency",
+    region: "Ahafo",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "Kwame Nkrumah University of Science and Technology (KNUST) — Construction Technology and Management, Level 400, in progress.",
+
+    profession:
+        "Student",
+
+    experience:
+        "Deputy Chairperson — Construction Technology and Management Programme. Financial Secretary — Construction Technology and Management Students' Society (CTMSS). Member of Parliament — Asutifi South Youth Parliament.",
+
+    biography:
+        "YAHAYA MAHAMA is a student at Kwame Nkrumah University of Science and Technology (KNUST), pursuing studies in the Department of Construction Technology and Management. Alongside his academic work, he has taken on notable leadership roles, including Financial Secretary of the Construction Technology and Management Students' Society (CTMSS) and previously Deputy Chairperson for his department's programme. Hailing from Mehami in the Asutifi South District, with family roots also tied to Tepa in the Ahafo Region, he successfully contested and won the Asutifi South Youth Parliament seat, representing the youth of his constituency in matters that feed into the collective parliamentary process.",
+
+    vision:
+        "To represent the youth of Asutifi South and contribute meaningfully to issues affecting young people within the constituency.",
+
+    plans:
+        "To engage with young people in the constituency and contribute their concerns to the collective parliamentary process.",
+
+    contribution:
+        "Contributes through youth representation, student leadership and participation in the Asutifi South Youth Parliament.",
+
+    currentActivities:
+        "Currently pursuing Construction Technology and Management at KNUST at Level 400, serving as Financial Secretary of CTMSS and Member of Parliament for Asutifi South Youth Parliament.",
+
+    leadershipExperience:
+        "Member of Parliament — Asutifi South Youth Parliament. Financial Secretary — Construction Technology and Management Students' Society (CTMSS). Deputy Chairperson — Construction Technology and Management Programme.",
+
+    professionalExperience:
+        "Student of Construction Technology and Management at KNUST with experience in student leadership and youth parliamentary representation.",
+
+    focusAreas:
+        "Youth Representation • Student Leadership • Construction Technology • Community Development • Youth Participation",
+
+    slogan:
+        "Representation • Leadership • Service",
+
+    image: "images/Yahaya.jpeg",
+
+    email: "mahamayahayal373@gmail.com",
+    phone: "0552991947",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp079",
+    name: "NOAH GYAMESI",
+    position: "Member of Parliament",
+    constituency: "Krachi East constituency",
+    region: "Oti",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "University for Professional Studies — Education ICT and Mathematics, Degree/Certificate, 2021. Dambai College of Education — Teacher Education.",
+
+    profession:
+        "Teaching",
+
+    experience:
+        "Headmaster — Ayirafie Battor JHS. Catechist — Catholic Church. Member of Parliament — Krachi East Youths. Teaching experience — 8 years. Headship experience — 3 years.",
+
+    biography:
+        "NOAH GYAMESI is from Akyem Ntrubo in the Nkwanta South Municipality of the Oti Region. He is a professional teacher and Headmaster of Ayirafie Battor JHS. He holds a BEd in Mathematics and ICT and has eight years of experience in the teaching field, including three years of headship. He completed his teacher education at Dambai College of Education and furthered his studies at the University for Development Studies. He is currently based at Tokuroano in Krachi East and serves as a Member of Parliament representing the youth of Krachi East.",
+
+    vision:
+        "To represent the youth of Krachi East and contribute meaningfully to issues affecting young people in the constituency.",
+
+    plans:
+        "To represent the concerns of the youth of Krachi East and contribute to discussions and initiatives that support their development.",
+
+    contribution:
+        "Contributes through professional teaching, educational leadership, youth representation and participation in parliamentary activities.",
+
+    currentActivities:
+        "Currently serving as Headmaster of Ayirafie Battor JHS and as a Member of Parliament representing Krachi East Youths.",
+
+    leadershipExperience:
+        "Headmaster — Ayirafie Battor JHS. Catechist — Catholic Church. Member of Parliament — Krachi East Youths.",
+
+    professionalExperience:
+        "Professional teacher and educational leader with eight years of teaching experience and three years of headship experience.",
+
+    focusAreas:
+        "Education • Youth Development • Teacher Leadership • Community Development • Youth Representation",
+
+    slogan:
+        "Education • Leadership • Service",
+
+    image: "images/Noah Gyamesi.png",
+
+    email: "gyamesinoah@gmail.com",
+    phone: "0546652425 / 0539700297",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp080",
+    name: "FOMENYO GODSWAY",
+    position: "Member of Parliament",
+    constituency: "Central Tongu constituency",
+    region: "Volta",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "Peki College of Education — Social Science, Bachelor of JHS Education, 2023–2026.",
+
+    profession:
+        "Teacher",
+
+    experience:
+        "Youth Member of Parliament — Central Tongu, Youth Parliament of Ghana. Course Representative — Peki College of Education, 2023–2024. Member of the Judicial Council — Peki College of Education, 2023–2025. Academic Prefect — Peki College of Education, 2025–2026.",
+
+    biography:
+        "FOMENYO GODSWAY is a graduate of Peki College of Education, where he studied History and Geography Education. He is a trained teacher, youth leader, mentor and community-focused servant leader with a strong passion for education, youth development, leadership and community service. At Peki College of Education, he served as a Course Representative from 2023 to 2024, a Member of the Judicial Council from 2023 to 2025, and an Academic Prefect from 2025 to 2026. He currently serves as the Youth Member of Parliament for Central Tongu in the Youth Parliament of Ghana, representing the concerns, aspirations and interests of young people within the constituency. His leadership vision is centred on youth representation, education and opportunity, community development, accountable leadership, unity and inclusion. He is passionate about mentoring young people, helping teenagers discover their potential, developing responsible future leaders and encouraging young people to contribute positively to their communities and Ghana. His leadership is guided by service, integrity, humility, faith and patriotism.",
+
+    vision:
+        "To promote youth representation, education and opportunity, community development, accountable leadership, unity and inclusion in Central Tongu.",
+
+    plans:
+        "To support meaningful youth participation, education and mentorship while contributing to community development and creating opportunities for young people.",
+
+    contribution:
+        "Contributes through youth representation, education, mentorship, student leadership, community service and advocacy for meaningful youth participation.",
+
+    currentActivities:
+        "Currently serving as Youth Member of Parliament for Central Tongu in the Youth Parliament of Ghana and engaging in youth representation, mentorship and community-focused leadership.",
+
+    leadershipExperience:
+        "Youth Member of Parliament — Central Tongu, Youth Parliament of Ghana. Course Representative — Peki College of Education, 2023–2024. Member of the Judicial Council — Peki College of Education, 2023–2025. Academic Prefect — Peki College of Education, 2025–2026.",
+
+    professionalExperience:
+        "Trained teacher and graduate of Peki College of Education with experience in student governance, youth leadership, mentorship and community service.",
+
+    focusAreas:
+        "Youth Representation • Education • Youth Development • Mentorship • Community Development • Accountable Leadership • Unity • Inclusion",
+
+    slogan:
+        "Service • Integrity • Unity • Inclusion",
+
+    image: "images/Fomenyo Godsway.png",
+
+    email: "godswayfomenyo@gmail.com",
+    phone: "0540780958",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp081",
+    name: "BADZI SELORM",
+    position: "Member of Parliament",
+    constituency: "Akatsi South constituency",
+    region: "Volta",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "University of Professional Studies, Accra (UPSA) — Business Administration, Degree.",
+
+    profession:
+        "Student",
+
+    experience:
+        "Justice Azu Crabbe Hall President — University of Professional Studies, Accra. Youth Member of Parliament — Akatsi South Constituency. Business Department President — AKAST.",
+
+    biography:
+        "BADZI SELORM is a Business Administration student at the University of Professional Studies, Accra (UPSA), with a strong interest in leadership, entrepreneurship and youth development. He currently serves as the Justice Azu Crabbe Hall President and Youth Member of Parliament for Akatsi South Constituency. He is passionate about empowering young people, creating opportunities and contributing positively to his community.",
+
+    vision:
+        "To empower young people, create opportunities and contribute positively to the development of the Akatsi South Constituency.",
+
+    plans:
+        "To support youth empowerment, entrepreneurship, leadership development and opportunities that contribute to the growth of young people in the constituency.",
+
+    contribution:
+        "Contributes through youth representation, student leadership, entrepreneurship advocacy and youth development initiatives.",
+
+    currentActivities:
+        "Currently serving as Justice Azu Crabbe Hall President and Youth Member of Parliament for Akatsi South Constituency while pursuing Business Administration at UPSA.",
+
+    leadershipExperience:
+        "Justice Azu Crabbe Hall President — University of Professional Studies, Accra. Youth Member of Parliament — Akatsi South Constituency. Business Department President — AKAST.",
+
+    professionalExperience:
+        "Business Administration student with experience in student leadership, youth representation, entrepreneurship and community-focused activities.",
+
+    focusAreas:
+        "Youth Development • Entrepreneurship • Leadership • Youth Empowerment • Education • Community Development",
+
+    slogan:
+        "Leadership • Opportunity • Youth Empowerment",
+
+    image: "images/Badzi.jpeg",
+
+    email: "selormbadzi@gmail.com",
+    phone: "0536418966 / 0501066756",
+    website: "#",
+
+    facebook: "https://www.facebook.com/share/1ByNmq9z8j/?mibextid=wwXIfr",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp082",
+    name: "JUSTICE AFADA",
+    position: "Member of Parliament",
+    constituency: "Ho West Constituency",
+    region: "Volta",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "Accra College of Education — Bachelor of Education in History and Social Studies, 2024. Tsito Awudome Senior High School — completed 2019. Dodome Awuiasu D.A. Nursery through Primary School and Junior High School — completed JHS in 2016. Cambridge teaching certificate. Teacher Licensure Examination — passed. Certificate from Boston for participating in a film-building project.",
+
+    profession:
+        "Professional Teacher • Historian • Graphic Designer • Videographer",
+
+    experience:
+        "Member of Parliament — Ho West Constituency, Youth Parliament Ghana. Branch Communication Officer — Attraco, Ayawaso West Wuogon. Manager — Akpini News and Tour Channel. Manager — College Desk Ghana Channel. Founder — J.A. Media. Founder — J.A. Base, a foundation for education. WAEC Examiner and Invigilator. Executive Member — TEIN. Estate Prefect. Leader — Volta Students Association (VoRSA), Accra College of Education Chapter, 2023–2024. School Prefect — Dodome Awuiasu D.A. Primary School. School Prefect — Dodome Awuiasu D.A. JHS. Mentee — Madina SDA, Adenta JHS, Madina Cluster of Schools and Accra Demonstration School, 2020–2024. Teacher — Madina Estate JHS National Service. Palace Restaurant — 2019. Max Mart Shopping Mall — 2020–2022. Taste Arcadia — 2023–2025.",
+
+    biography:
+        "JUSTICE AFADA was born on 24th March 2001 to Emmanuel Afada and Doris Klutse, both from Dodome Awuiasu / Dogblome in the Volta Region of Ghana. He began his education at Dodome Awuiasu D.A. Nursery through Primary School, where he served as School Prefect, and continued to Junior High School, completing in 2016 and again serving as School Prefect. He later attended Tsito Awudome Senior High School, completing in 2019, where he participated in the Scripture Union and Debaters Club. He graduated as a professional teacher from Accra College of Education, passed his Teacher Licensure Examination and completed his mandatory one-year National Service at Madina Estate JHS. He holds a Bachelor of Education in History and Social Studies and has Cambridge teaching experience and certification. He is the Manager of Akpini News and Tour Channel and College Desk Ghana Channel, Founder of J.A. Media and J.A. Base, a foundation for education. He has undertaken humanitarian projects and currently serves as Branch Communication Officer at Attraco, Ayawaso West Wuogon. He is also a WAEC examiner and invigilator, graphic designer, videographer and writer whose poems have been published in the TTAG Journal. He has also given accounts on historical figures and subjects including Prof. Kofi Awoonor, former President Jerry John Rawlings, Dr. Kwame Nkrumah and the trans-Atlantic slave trade.",
+
+    vision:
+        "To contribute to youth development, education, community service and meaningful representation of young people in Ho West Constituency.",
+
+    plans:
+        "To support education, youth development, humanitarian initiatives, media engagement and community-focused activities that create opportunities for young people.",
+
+    contribution:
+        "Contributes through teaching, historical education, youth representation, media, humanitarian activities, graphic design, videography and community service.",
+
+    currentActivities:
+        "Currently serving as a Member of Parliament for Ho West Constituency in Youth Parliament Ghana and as Branch Communication Officer at Attraco, Ayawaso West Wuogon.",
+
+    leadershipExperience:
+        "Member of Parliament — Ho West Constituency, Youth Parliament Ghana. Leader — Volta Students Association (VoRSA), Accra College of Education Chapter, 2023–2024. Executive Member — TEIN. Estate Prefect. School Prefect — Dodome Awuiasu D.A. Primary School. School Prefect — Dodome Awuiasu D.A. JHS.",
+
+    professionalExperience:
+        "Professional teacher, historian, media manager, graphic designer and videographer with experience in teaching, media management, communication, humanitarian activities and educational initiatives.",
+
+    focusAreas:
+        "Youth Development • Education • History • Media • Community Service • Humanitarian Activities • Communication • Leadership",
+
+    slogan:
+        "Education • Service • Representation",
+
+    image: "images/Afada.jpeg",
+
+    email: "afadajustice@gmail.com",
+    phone: "0204558000 / 0504662204 / 0551876494",
+    website: "#",
+
+    facebook: "Ourfada / J.A Media",
+    twitter: "Justice Afada",
+    instagram: "Justice Afada",
+    linkedin: "Justice Afada",
+    tiktok: "Ourfada 3 / J.A Media"
+},
+{
+    id: "mp083",
+    name: "SAMUEL EWUSI MUNKO",
+    position: "Member of Parliament",
+    constituency: "Takoradi constituency",
+    region: "Western",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "University of Cape Coast (UCC) — BSc Population and Health, Undergraduate.",
+
+    profession:
+        "Student Leader / Digital Creator",
+
+    experience:
+        "Youth Member of Parliament — Takoradi Constituency. Student Leadership — University of Cape Coast. Digital Media Production and Content Creation.",
+
+    biography:
+        "SAMUEL EWUSI MUNKO is a student leader, digital creator and Youth Member of Parliament for the Takoradi Constituency. He is currently pursuing a BSc in Population and Health at the University of Cape Coast (UCC) and is committed to youth advocacy, public health and community development. Samuel combines his public service and leadership with a passion for digital media production, student leadership, fitness and personal styling, guided by a commitment to excellence and impactful work.",
+
+    vision:
+        "To contribute to youth advocacy, public health and community development while promoting excellence and impactful work.",
+
+    plans:
+        "To support youth advocacy, public health initiatives and community development while encouraging meaningful youth participation.",
+
+    contribution:
+        "Contributes through youth representation, student leadership, digital media production, public health advocacy and community-focused activities.",
+
+    currentActivities:
+        "Currently pursuing a BSc in Population and Health at the University of Cape Coast and serving as Youth Member of Parliament for the Takoradi Constituency.",
+
+    leadershipExperience:
+        "Youth Member of Parliament — Takoradi Constituency. Student Leader — University of Cape Coast.",
+
+    professionalExperience:
+        "Student leader and digital creator with interests in digital media production, public health, fitness and personal styling.",
+
+    focusAreas:
+        "Youth Advocacy • Public Health • Community Development • Student Leadership • Digital Media • Fitness",
+
+    slogan:
+        "Excellence • Leadership • Impact",
+
+    image: "images/Ewusi.jpeg",
+
+    email: "#",
+    phone: "#",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp084",
+    name: "ISHAQ BALMA YAKUBU",
+    position: "Member of Parliament",
+    constituency: "Mion Constituency",
+    region: "Northern",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "St. James Seminary Senior High School — Senior High School Education.",
+
+    profession:
+        "Youth Leader / Technology and Innovation Enthusiast",
+
+    experience:
+        "Youth Member of Parliament — Mion Constituency, Youth Parliament Ghana. Senior Prefect — Junior High School. Junior Prefect — Primary School. Member — Aenics Robotics Club, St. James Seminary Senior High School. Community Service Volunteer — community clean-up exercises, disease-awareness initiatives, computer literacy programmes and computer support activities.",
+
+    biography:
+        "ISHAQ BALMA YAKUBU is the Youth Member of Parliament for the Mion Constituency under Youth Parliament Ghana. He is passionate about leadership, technology, artificial intelligence, robotics, innovation and youth development. He developed a strong interest in science, technology and innovation during his education at St. James Seminary Senior High School, where he was actively involved in the Aenics Robotics Club. His leadership journey began as a Junior Prefect at the primary level and continued as Senior Prefect at the Junior High School level. He has also participated in community clean-up exercises, disease-awareness initiatives, computer literacy programmes and computer support activities. As Youth Member of Parliament for Mion, he is focused on understanding the challenges facing young people and working towards practical solutions in areas including youth employment, entrepreneurship, technology, digital skills, artificial intelligence, innovation, leadership, civic participation, skills development, career opportunities, mentorship, sports and community development.",
+
+    vision:
+        "To see a more empowered, skilled and opportunity-driven youth population in Mion, where young people have access to the knowledge, skills, networks and opportunities they need to build meaningful futures.",
+
+    plans:
+        "Promote employment seminars, career guidance, internships, mentorship opportunities and partnerships with businesses and institutions. Encourage technology, artificial intelligence, robotics, entrepreneurship and practical skills development, while helping tertiary students and graduates identify opportunities such as internships, national service placements, scholarships and career-development programmes.",
+
+    contribution:
+        "Contributes through youth representation, technology and innovation advocacy, community service, leadership, digital skills development, mentorship and promotion of entrepreneurship and youth opportunities.",
+
+    currentActivities:
+        "Currently serving as Youth Member of Parliament for the Mion Constituency and engaging with young people on employment, entrepreneurship, technology, skills development, career opportunities, mentorship, sports and community development.",
+
+    leadershipExperience:
+        "Youth Member of Parliament — Mion Constituency, Youth Parliament Ghana. Senior Prefect — Junior High School. Junior Prefect — Primary School. Member — Aenics Robotics Club, St. James Seminary Senior High School. Community Service Volunteer — community clean-up exercises, disease-awareness initiatives, computer literacy programmes and computer support activities.",
+
+    professionalExperience:
+        "Youth leader and technology and innovation enthusiast with interests in artificial intelligence, robotics, digital skills, entrepreneurship, community development and youth leadership.",
+
+    focusAreas:
+        "Youth Employment • Entrepreneurship • Technology • Artificial Intelligence • Robotics • Innovation • Digital Skills • Leadership • Career Development • Mentorship • Community Development",
+
+    slogan:
+        "Innovation • Opportunity • Youth Development",
+
+    image: "images/yakubu.jpeg",
+
+    email: "#",
+    phone: "#",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp085",
+    name: "INUSAH ABDUL-NASIR",
+    position: "Member of Parliament",
+    constituency: "Tolon",
+    region: "Northern",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "University for Development Studies (UDS), Tamale — Information and Communication Technology, in progress. Ghana Senior High School (GHANASCO), Tamale — General Arts, 2021–2024. Tali E/A Junior High School — 2018–2021. Tali R/C Primary School — 2011–2018.",
+
+    profession:
+        "Student",
+
+    experience:
+        "Member of Parliament — Tolon Constituency. Youth Member of Parliament-elect — Tolon Constituency, 2026 Youth Parliament elections. Assistant School Prefect — Primary School. Main School Prefect — Junior High School. Course Representative — Senior High School SRC. Group Leader — University project works.",
+
+    biography:
+        "INUSAH ABDUL-NASIR is a Ghanaian student, young entrepreneur and emerging youth leader with an interest in education, technology, entrepreneurship, community development and youth participation in decision-making. He is currently pursuing Information and Communication Technology (ICT) at the University for Development Studies (UDS), Tamale, and is committed to developing practical skills that can contribute to the advancement of young people and his community. He was elected as the Youth Member of Parliament-elect for the Tolon Constituency in the 2026 Youth Parliament elections. Through this position, he seeks to contribute meaningfully to youth representation, constructive dialogue, leadership development and community-oriented initiatives.",
+
+    vision:
+        "To contribute to youth representation, leadership development, education, technology, entrepreneurship and community development in the Tolon Constituency.",
+
+    plans:
+        "Support constructive dialogue, youth participation in decision-making, leadership development, education, technology and entrepreneurship initiatives within the constituency.",
+
+    contribution:
+        "Contributes through youth representation, student leadership, entrepreneurship, technology interests, community engagement and participation in youth-focused initiatives.",
+
+    currentActivities:
+        "Currently studying Information and Communication Technology at the University for Development Studies, Tamale, and serving as Member of Parliament for the Tolon Constituency.",
+
+    leadershipExperience:
+        "Member of Parliament — Tolon Constituency. Youth Member of Parliament-elect — Tolon Constituency. Assistant School Prefect — Primary School. Main School Prefect — Junior High School. Course Representative — Senior High School SRC. Group Leader — University project works.",
+
+    professionalExperience:
+        "Student and emerging youth leader with interests in ICT, entrepreneurship, education, community development and youth participation.",
+
+    focusAreas:
+        "Youth Representation • Education • ICT • Entrepreneurship • Leadership Development • Community Development • Youth Participation",
+
+    slogan:
+        "Leadership • Innovation • Youth Development",
+
+    image: "images/Nasir.jpeg",
+
+    email: "abdulnasirinusah241@gmail.com",
+    phone: "0597362852",
+    website: "#",
+
+    facebook: "https://www.facebook.com/profile.php?id=61579442604290",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "https://www.linkedin.com/in/abdul-nasir-inusah-a795b8435",
+    tiktok: "#"
+},
+{
+    id: "mp086",
+    name: "BRIGHT KWESI ODOOM",
+    position: "Member of Parliament",
+    constituency: "Prestea Huni Valley Constituency",
+    region: "Western",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "Cape Coast Technical University — Bachelor’s Degree in Mechanical Engineering, expected 2030. Ghana National College — General Science, 2023.",
+
+    profession:
+        "Student, Youth Leader and Public Servant",
+
+    experience:
+        "Minister for Tourism, Culture and Creative Arts — Youth Parliament Ghana. Youth Member of Parliament — Prestea Huni Valley Constituency. President — Model Group, Ghana National College. Main Prep Coordinator — Ghana National College. House Secretary — Ghana National College. Class Prefect — Ghana National College. Main Prep Coordinator — Ghana National College, 2022–2023. Deacon — Church of Pentecost, Bogoso Adwenpa District. Professional Model — Modelling and Creative Arts.",
+
+    biography:
+        "BRIGHT KWESI ODOOM is a young Ghanaian leader and public servant from the Prestea Huni Valley Constituency in the Western Region. He has demonstrated a strong commitment to youth leadership, community development, education, empowerment and national development. He has served in various student and youth leadership capacities, developing experience in representation, coordination, public engagement and community initiatives. His leadership journey includes serving as a Youth Member of Parliament and participating in youth parliamentary activities aimed at giving young people a stronger voice in governance and national development. He has also been involved in community-based initiatives, including youth engagement programmes, educational support initiatives, sports activities and campaigns focused on preventing drug abuse among young people. He is passionate about creating opportunities for young people, promoting education and skills development, supporting community development and encouraging active youth participation in leadership and civic affairs.",
+
+    vision:
+        "To promote youth leadership, education, skills development, community development and active youth participation in leadership and civic affairs.",
+
+    plans:
+        "Support youth engagement, educational opportunities, skills development, community initiatives, sports activities and campaigns focused on preventing drug abuse among young people.",
+
+    contribution:
+        "Contributes through youth representation, student leadership, community engagement, educational support initiatives, sports activities and youth development programmes.",
+
+    currentActivities:
+        "Currently serving as Minister for Tourism, Culture and Creative Arts and Youth Member of Parliament for the Prestea Huni Valley Constituency under Youth Parliament Ghana while pursuing Mechanical Engineering at Cape Coast Technical University.",
+
+    leadershipExperience:
+        "Minister for Tourism, Culture and Creative Arts — Youth Parliament Ghana. Youth Member of Parliament — Prestea Huni Valley Constituency. President — Model Group, Ghana National College. Main Prep Coordinator — Ghana National College. House Secretary — Ghana National College. Class Prefect — Ghana National College. Deacon — Church of Pentecost, Bogoso Adwenpa District.",
+
+    professionalExperience:
+        "Student, youth leader and public servant with experience in student leadership, youth representation, community engagement, educational support, sports activities and creative arts.",
+
+    focusAreas:
+        "Youth Development • Education • Skills Development • Community Development • Youth Leadership • Sports • Drug Abuse Prevention • Creative Arts",
+
+    slogan:
+        "Youth • Leadership • Development",
+
+    image: "images/bright.jpeg",
+
+    email: "brightodoom61@gmail.com",
+    phone: "0504840513",
+    website: "google",
+
+    facebook: "dwamena640_",
+    twitter: "#",
+    instagram: "dwamena640_",
+    linkedin: "Bright Kwesi Odoom",
+    tiktok: "#"
+},
+{
+    id: "mp087",
+    name: "GYASI PHILIP MAWUFEMOR",
+    position: "Member of Parliament",
+    constituency: "Adaklu",
+    region: "Volta",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "Accra Technical University — Public Relations, Level 200. WASSCE, 2025.",
+
+    profession:
+        "Student",
+
+    experience:
+        "Intern. Assistant Boys Prefect — Adjetey Ansah JHS. Vice President — PREDDEC, St. Paul's SHS and Minor Seminary. President — N.C.C.E SPACO.",
+
+    biography:
+        "GYASI PHILIP MAWUFEMOR is a Level 200 Public Relations student at Accra Technical University with a strong passion for communication and content creation. Over the past year, he has built a platform that amplifies student voices and fosters dialogue on leadership issues within his school community. He is skilled in public speaking, storytelling and digital engagement.",
+
+    vision:
+        "To use communication, content creation and digital engagement to amplify youth voices and foster meaningful dialogue on leadership issues.",
+
+    plans:
+        "Support youth communication, leadership dialogue, digital engagement and platforms that amplify student and community voices.",
+
+    contribution:
+        "Contributes through public speaking, storytelling, content creation, digital engagement and youth leadership.",
+
+    currentActivities:
+        "Currently serving as an intern while pursuing Public Relations at Accra Technical University.",
+
+    leadershipExperience:
+        "Assistant Boys Prefect — Adjetey Ansah JHS. Vice President — PREDDEC, St. Paul's SHS and Minor Seminary. President — N.C.C.E SPACO.",
+
+    professionalExperience:
+        "Public Relations student and intern with experience in communication, content creation, public speaking, storytelling and digital engagement.",
+
+    focusAreas:
+        "Public Relations • Communication • Content Creation • Youth Leadership • Public Speaking • Digital Engagement",
+
+    slogan:
+        "Communication • Leadership • Youth Voices",
+
+    image: "images/philip.jpeg",
+
+    email: "gyasiphilipmawufemor@gmail.com",
+    phone: "0257349584",
+    website: "#",
+
+    facebook: "https://www.facebook.com/profile.php?id=100090806540986",
+    twitter: "#",
+    instagram: "https://www.instagram.com/gyasi_philip_mawufemor?igsh=MXY3YnZobWFvMDJ1dQ==",
+    linkedin: "https://www.linkedin.com/in/gyasi-philip-mawufemor-2183b4402?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+    tiktok: "#"
+},
 
 ];
