@@ -4618,5 +4618,173 @@ parliament: "Youth Parliament Ghana",
     linkedin: "https://www.linkedin.com/in/gyasi-philip-mawufemor-2183b4402?utm_source=share_via&utm_content=profile&utm_medium=member_android",
     tiktok: "#"
 },
+  {
+    id: "mp088",
+    name: "ABDULAI YUSSIF",
+    position: "Member of Parliament",
+    constituency: "Wulensi Constituency",
+    region: "Northern",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "University for Development Studies (UDS) — Diploma and Degree in Early Childhood Care and Education, 2021–2025. Tahiriya E/A Primary and Junior High School — Basic Education. Prestige College International, Yendi — Secondary Education.",
+
+    profession:
+        "Teacher",
+
+    experience:
+        "Youth Member of Parliament — Wulensi Constituency. 1st Deputy Electoral Commission Chairperson — ECSA, UDS. Organiser — ECSA, UDS. President — ECSA, UDS. Senior Prefect — Tahiriya E/A Junior High School. Assistant Senior Prefect — Prestige College International.",
+
+    biography:
+        "ABDULAI YUSSIF is a Ghanaian educationist, youth leader and advocate for youth empowerment and community development. He began his education at Tahiriya E/A Primary and Junior High School in Wulensi, where his leadership journey started as the School Prefect. He later attended Prestige College International, Yendi, where he served as the Assistant Senior Prefect. Abdulai pursued tertiary education at the University for Development Studies (UDS), obtaining both a Diploma and a Degree in Early Childhood Care and Education. During his time at UDS, he served in various leadership capacities, including 1st Deputy Electoral Commission Chairperson, Organiser and President of the Early Childhood Students Association (ECSA). Currently, Abdulai Yussif serves as the Youth Member of Parliament for Wulensi Constituency. In this role, he is committed to promoting youth participation, leadership, empowerment and development.",
+
+    vision:
+        "To promote youth participation, leadership, empowerment, education and community development.",
+
+    plans:
+        "Support youth participation, leadership development, education, empowerment and community advancement within Wulensi Constituency.",
+
+    contribution:
+        "Contributes through education, youth leadership, student leadership, community development and youth empowerment.",
+
+    currentActivities:
+        "Currently serving as Youth Member of Parliament for Wulensi Constituency and working as an unemployed teacher.",
+
+    leadershipExperience:
+        "Youth Member of Parliament — Wulensi Constituency. 1st Deputy Electoral Commission Chairperson — ECSA, UDS. Organiser — ECSA, UDS. President — ECSA, UDS. Senior Prefect — Tahiriya E/A Junior High School. Assistant Senior Prefect — Prestige College International.",
+
+    professionalExperience:
+        "Teacher with an academic background in Early Childhood Care and Education and experience in youth and student leadership.",
+
+    focusAreas:
+        "Youth Empowerment • Youth Leadership • Education • Community Development • Youth Participation • Student Leadership",
+
+    slogan:
+        "Service • Leadership • Empowerment",
+
+    image: "images/yussif.jpeg",
+
+    email: "abdulaiy755@gmail.com",
+    phone: "0547196666",
+    website: "#",
+
+    facebook: "Yussif Abdulai Humble",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp089",
+    name: "BAZUBAYIRA RUBABATU",
+    position: "Member of Parliament - Leader of Majority Caucus",
+    constituency: "Navrongo Central constituency",
+    region: "Upper East",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "Buipe Senior High School — Home Science, WASSCE, 2020. Tamale Technical University — Marketing, admission arranging, distance/weekend programme.",
+
+    profession:
+        "General Manager / Parliamentary Leader",
+
+    experience:
+        "Leader of the Majority Caucus — Youth Parliament Ghana, Upper East Region. General Manager — PRIMETECH INTEGRATED SERVICES LIMITED. Ladies Organiser — Dagbon Students Association (DASA), Buipe SHS Chapter. Ladies Disciplinarian — Fire Cadet Corps, Buipe Senior High School.",
+
+    biography:
+        "BAZUBAYIRA RUBABATU is the Youth Member of Parliament for Navrongo Central Constituency and the Leader of the Majority Caucus of the Upper East Regional Youth Parliament. She is also the General Manager of PRIMETECH INTEGRATED SERVICES LIMITED. A Home Science student of Buipe Senior High School, Class of 2020, she distinguished herself as Ladies Disciplinarian of the Fire Cadet Corps and as Ladies Organiser of the Dagbon Students Association (DASA), Buipe SHS Chapter. As Leader of the Majority Caucus, she provides leadership in coordinating government business on the floor of the Youth Parliament, mobilizing majority support and advancing youth-focused legislative priorities. As General Manager of PRIMETECH INTEGRATED SERVICES LIMITED, she brings managerial and organisational leadership to governance. She is currently arranging admission to Tamale Technical University to pursue Marketing. She is passionate about youth empowerment, girls' education and community development.",
+
+    vision:
+        "To promote youth empowerment, girls' education, community development and meaningful youth participation in leadership.",
+
+    plans:
+        "Support youth empowerment, girls' education, community development and youth-focused legislative priorities.",
+
+    contribution:
+        "Contributes through parliamentary leadership, youth mobilisation, managerial leadership, girls' education advocacy and community development.",
+
+    currentActivities:
+        "Currently serving as Youth Member of Parliament for Navrongo Central and Leader of the Majority Caucus of the Upper East Regional Youth Parliament, while serving as General Manager of PRIMETECH INTEGRATED SERVICES LIMITED.",
+
+    leadershipExperience:
+        "Leader of the Majority Caucus — Youth Parliament Ghana, Upper East Region. Ladies Organiser — Dagbon Students Association (DASA), Buipe SHS Chapter. Ladies Disciplinarian — Fire Cadet Corps, Buipe Senior High School.",
+
+    professionalExperience:
+        "General Manager — PRIMETECH INTEGRATED SERVICES LIMITED. Parliamentary leader with experience in youth mobilisation, organisational leadership and community-focused activities.",
+
+    focusAreas:
+        "Youth Empowerment • Girls' Education • Community Development • Parliamentary Leadership • Youth Representation • Organisational Leadership",
+
+    slogan:
+        "Empowerment • Leadership • Development",
+
+    image: "images/Rubabatu.jpeg",
+
+    email: "bazubayira.rubabatu.ypg@gmail.com",
+    phone: "0539695194",
+    website: "https://youthparliamentghana.com",
+
+    facebook: "https://www.facebook.com/ruby.bazurebayira",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "https://www.tiktok.com/@hon..bazubayira.r"
+},
+{
+    id: "mp090",
+    name: "ALHASSAN NAZIRU",
+    position: "Member of Parliament",
+    constituency: "Ejura-Sekyedumase constituency",
+    region: "Ashanti",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "Kumasi Technical University — Diploma in Information Technology, 2020–2022. Bankoman Senior High School — Senior High School Certificate, 2016–2018. Ejura Model M/A JHS — Junior High School Education, 2011–2013. Additional professional training: Foundation of Cybersecurity. Tool of the Trade: Linux and SQL. Asset, Threat, and Vulnerabilities.",
+
+    profession:
+        "Information Technology / Digital Technology Professional",
+
+    experience:
+        "District Coordinator — Ghana Investment Fund for Electronic Communications (GIFEC), Ejura-Sekyedumase. Youth Member of Parliament — Youth Parliament, Ejura-Sekyedumase Constituency. Youth Leadership and Community Development — Ejura-Sekyedumase Constituency. Programme Coordination — One Million Coders Programme, Ejura-Sekyedumase.",
+
+    biography:
+        "ALHASSAN NAZIRU is a youth leader and technology professional from the Ejura-Sekyedumase Constituency in the Ashanti Region of Ghana. He currently serves as the Youth Member of Parliament for Ejura-Sekyedumase, where he is committed to representing the interests, concerns and aspirations of young people and promoting meaningful youth participation in community development. He has experience in leadership, digital technology and community-based initiatives. He serves as the District Coordinator for the Ghana Investment Fund for Electronic Communications (GIFEC) in Ejura-Sekyedumase, where he has been involved in coordinating digital skills and technology-related programmes, including the One Million Coders Programme. His leadership experience also includes organising and coordinating young people through the Youth Parliament platform. He has an academic background in Information Technology and has undertaken additional training in cybersecurity, Linux, SQL, asset and vulnerability management and related areas of technology.",
+
+    vision:
+        "To promote youth empowerment, digital skills, leadership development, community participation and opportunities for young people in Ejura-Sekyedumase.",
+
+    plans:
+        "Support digital skills development, youth participation, leadership development, community engagement and technology-related opportunities for young people.",
+
+    contribution:
+        "Contributes through digital technology, youth leadership, programme coordination, community development, digital skills initiatives and youth representation.",
+
+    currentActivities:
+        "Currently serving as District Coordinator for GIFEC in Ejura-Sekyedumase and as Youth Member of Parliament for the Ejura-Sekyedumase Constituency.",
+
+    leadershipExperience:
+        "Youth Member of Parliament — Youth Parliament, Ejura-Sekyedumase Constituency. Youth Leadership and Community Development — Ejura-Sekyedumase Constituency. Programme Coordination — One Million Coders Programme, Ejura-Sekyedumase.",
+
+    professionalExperience:
+        "District Coordinator — Ghana Investment Fund for Electronic Communications (GIFEC), Ejura-Sekyedumase. Information Technology and digital technology professional with additional training in cybersecurity, Linux, SQL, asset management, threat management and vulnerability management.",
+
+    focusAreas:
+        "Youth Empowerment • Digital Skills • Information Technology • Leadership Development • Community Development • Technology • Youth Participation",
+
+    slogan:
+        "Technology • Leadership • Empowerment",
+
+    image: "images/naziru.jpeg",
+
+    email: "naziralhassan751@gmail.com",
+    phone: "0247268473",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
 
 ];
