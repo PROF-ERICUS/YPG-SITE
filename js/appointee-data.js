@@ -1353,7 +1353,7 @@ region: "Ashanti",
     slogan:
         "From Fish for Food to Fish for Wealth — Making Every Youth an Aqua-Entrepreneur.",
 
-    image: "images/Evans Kankam.png",
+    image: "images/kankam.jpeg",
 
     email: "kankamevans2001@gmail.com",
     phone: "+233534431171",
