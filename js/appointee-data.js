@@ -1423,7 +1423,286 @@ region: "Ashanti",
     linkedin: "https://www.linkedin.com/in/magdalene-nana-adwoa-konadu-agyemang-hls-38b1b01b9?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
     tiktok: "#"
 },
+    {
+    id: "app025",
+    name: "MOHAMMED SHARIF YAKOOB",
+    position: "Minister for Local Government, Chieftaincy and Religious Affairs",
+    ministry: "Local Government, Chieftaincy and Religious Affairs",
+    constituency: "Kwabre East Constituency",
+    region: "Ashanti",
+    appointmentDate: "20th September,2026.",
+    isMP: false,
 
+    education:
+        "University of Ghana — Computer Engineering, Degree.",
+
+    profession:
+        "Computer Engineering Student / Entrepreneur",
+
+    experience:
+        "Minister for Local Government, Chieftaincy and Religious Affairs — Parliament of Youth, Ghana. Chief Executive Officer — Pinnaclenova Enterprise. Islamic Leader. Entrepreneur — Agency Banking and Mobile Money Services. Youth Leadership and Community Engagement.",
+
+    biography:
+        "MOHAMMED SHARIF YAKOOB is a young, ambitious and community-minded Ghanaian with interests in youth leadership, public service, entrepreneurship, information and communication technology (ICT) and community development. He is currently pursuing a Bachelor of Science in Computer Engineering at the University of Ghana, where he is developing technical knowledge and practical understanding of computing systems and technology. He is particularly interested in using technology to create solutions and opportunities in education, entrepreneurship, communication, financial services and youth development. Mohammed has demonstrated leadership through his involvement as an Islamic Leader, developing skills in communication, responsibility, teamwork, organisation and community engagement. He is also the Chief Executive Officer of Pinnaclenova Enterprise, where he has gained experience in business management, agency banking, mobile money services, customer relations, entrepreneurship and organisational leadership. He communicates in English, Hausa and Twi and is passionate about youth empowerment, entrepreneurship, digital skills development, innovation, education, leadership development and greater opportunities for young Ghanaians.",
+
+    vision:
+        "To use technology, entrepreneurship, ethical leadership and community service to create opportunities for young people and contribute to the sustainable development of Ghana.",
+
+    plans:
+        "Promote youth empowerment, entrepreneurship, digital skills development, innovation, education and leadership development while encouraging young people to embrace technology and entrepreneurship.",
+
+    contribution:
+        "Contributes through ICT, entrepreneurship, leadership, community engagement, communication and advocacy for youth empowerment and economic opportunities.",
+
+    currentActivities:
+        "Currently pursuing Computer Engineering at the University of Ghana, serving as Chief Executive Officer of Pinnaclenova Enterprise and serving as Minister for Local Government, Chieftaincy and Religious Affairs in the Parliament of Youth, Ghana.",
+
+    leadershipExperience:
+        "Minister for Local Government, Chieftaincy and Religious Affairs — Parliament of Youth, Ghana. Islamic Leader. Chief Executive Officer — Pinnaclenova Enterprise. Youth and Community Leadership.",
+
+    professionalExperience:
+        "Computer Engineering student and entrepreneur with experience in business management, agency banking, mobile money services, customer relations, ICT, communication and organisational leadership.",
+
+    focusAreas:
+        "Youth Empowerment • Entrepreneurship • ICT • Digital Skills • Innovation • Education • Leadership Development • Community Development",
+
+    books:
+        "None provided.",
+
+    image: "images/yakoob.jpeg",
+
+    email: "#",
+    phone: "#",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#"
+},
+{
+    id: "app026",
+    name: "AKOBTA PETER",
+    position: "Representative of the five northern Regions to All DCEs",
+    ministry: "District Chief Executives",
+    constituency: "Five Northern Regions",
+    region: "Northern",
+    appointmentDate: "26th September,2026.",
+    isMP: false,
+
+    education:
+        "Zuarungu Nursing Training College — Certificate in Nursing, 2016–2018. Fumbisi Senior High/Agric School — WASSCE, 2012–2015. Fumbisi Preparatory JHS — BECE, 2009–2012.",
+
+    profession:
+        "Nurse",
+
+    experience:
+        "Nurse In-Charge — Kyereyawkr om CHPS Compound, Ghana Health Service. District President — UPNMG, Berekum Municipality. Deacon & Local Secretary — C.O.P Estate Assembly. Assistant Manager — Fumbisi Anankpieng ICT Centre. Senior Waiter — Noble House Chinese & India Restaurant, Accra. Voluntary Teacher — Naadema Primary School, 2015–2016.",
+
+    biography:
+        "AKOBTA PETER is a Ghanaian nurse and community leader currently serving as Nurse In-Charge at Kyereyawkr om CHPS Compound under the Ghana Health Service. He has experience in clinical care, reporting, logistics, union management, teaching, customer service and community leadership. He also serves as District President of UPNMG in Berekum Municipality and as a Deacon and Local Secretary at C.O.P Estate Assembly.",
+
+    vision:
+        "To contribute to effective community engagement, leadership, healthcare delivery and development across the five northern Regions.",
+
+    plans:
+        "Support meaningful engagement with District Chief Executives, strengthen community representation and contribute to development initiatives across the five northern Regions.",
+
+    contribution:
+        "Contributes through nursing and healthcare service, community leadership, union management, teaching, community engagement and coordination.",
+
+    currentActivities:
+        "Currently serving as Nurse In-Charge at Kyereyawkr om CHPS Compound under the Ghana Health Service, District President of UPNMG in Berekum Municipality, and Deacon and Local Secretary at C.O.P Estate Assembly.",
+
+    leadershipExperience:
+        "District President — UPNMG, Berekum Municipality. Deacon & Local Secretary — C.O.P Estate Assembly. Nurse In-Charge — Kyereyawkr om CHPS Compound, Ghana Health Service.",
+
+    professionalExperience:
+        "Nurse In-Charge — Kyereyawkr om CHPS Compound, Ghana Health Service. Assistant Manager — Fumbisi Anankpieng ICT Centre. Voluntary Teacher — Naadema Primary School. Senior Waiter — Noble House Chinese & India Restaurant, Accra.",
+
+    focusAreas:
+        "Healthcare • Community Development • Leadership • Youth Engagement • Union Management • Education • Community Service",
+
+    image: "images/Akobta Peter.png",
+
+    email: "akobtapeter@gmail.com",
+    phone: "0502245970 / 0556814775",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "app027",
+    name: "BAFFOUR KYEI KUSI DAPAAH",
+    position: "Ashanti Regional Minister",
+    ministry: "Ashanti Regional Minister",
+    constituency: "Asokwa",
+    region: "Ashanti Region",
+    appointmentDate: "Information to be updated.",
+    isMP: false,
+
+    education:
+        "Kwame Nkrumah University of Science and Technology (KNUST) — MSc Health Entrepreneurship, January 2026 to present. University of Ghana — BSc Biomedical Engineering.",
+
+    profession:
+        "Biomedical Engineer / Health Entrepreneur / STEM Educator / Youth Leader",
+
+    experience:
+        "Science Tutor — PRESEC Legon-Madina. Biomedical Engineer — Machine Medics.",
+
+    biography:
+        "BAFFOUR KYEI KUSI DAPAAH is a Ghanaian Biomedical Engineer, health entrepreneur, STEM educator and youth leader. He holds a BSc in Biomedical Engineering from the University of Ghana and is currently pursuing an MSc in Health Entrepreneurship at KNUST. He has professional experience as a Biomedical Engineer with Machine Medics, where he supported healthcare facilities with medical equipment, technical guidance, demonstrations and training. He also served as a Science Tutor at PRESEC Legon-Madina, supporting students in Biology, Health Science, laboratory practice and applied STEM. He is passionate about healthcare innovation, entrepreneurship, technology and youth development, with a particular interest in improving access to healthcare solutions in underserved communities.",
+
+    vision:
+        "To promote healthcare innovation, entrepreneurship, technology and youth development while improving access to healthcare solutions in underserved communities.",
+
+    plans:
+        "Support healthcare innovation, youth development, STEM education, entrepreneurship and improved access to healthcare solutions.",
+
+    contribution:
+        "Contributes through biomedical engineering, healthcare support, STEM education, health entrepreneurship, youth leadership and technology-focused initiatives.",
+
+    currentActivities:
+        "Currently pursuing an MSc in Health Entrepreneurship at KNUST and serving as Ashanti Regional Minister of Youth Parliament Ghana, representing the Asokwa Constituency.",
+
+    leadershipExperience:
+        "Ashanti Regional Minister — Youth Parliament Ghana. Youth leadership and community engagement through the Youth Parliament Ghana.",
+
+    professionalExperience:
+        "Biomedical Engineer — Machine Medics. Science Tutor — PRESEC Legon-Madina. Current MSc student in Health Entrepreneurship at KNUST.",
+
+    focusAreas:
+        "Healthcare Innovation • Health Entrepreneurship • Biomedical Engineering • STEM Education • Technology • Youth Development",
+
+    image: "images/Baffour Kyei Kusi Dapaah.png",
+
+    email: "baffourkyeikusidapaah@gmail.com",
+    phone: "0502111091",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "https://www.linkedin.com/in/baffour-kyei-kusi-dapaah?utm_source=share_via&utm_content=profile&utm_medium=member_ios"
+},
+
+{
+    id: "app028",
+    name: "BASHIRU AYISHA",
+    position: "Youth Member of Parliament — Women Empowerment and Girl-Child Education",
+    ministry: "Women Empowerment and Girl-Child Education",
+    constituency: "Walewale Constituency",
+    region: "North East",
+    appointmentDate: "22nd September,2026.",
+    isMP: false,
+
+    education:
+        "University for Development Studies (UDS) — Doctor of Medical Laboratory Science, undergraduate student, Level 300.",
+
+    profession:
+        "Student / Youth Leader / Advocate",
+
+    experience:
+        "Youth Member of Parliament — Women Empowerment and Girl-Child Education, Youth Parliament of Ghana. Participant — British High Commission's Ambassador for a Day Programme. Volunteer — Tamale Youth Summit (TYS). Engagement in affirmative-action and women's leadership initiatives with the African Women Leaders Network (AWLN), Ghana Chapter. Youth advocacy and gender-equality engagements. Women empowerment and girl-child education initiatives. Community development and fieldwork through the TTFPP programme at UDS. Participation in youth leadership, empowerment and networking programmes. Engagement in community-focused and social-impact activities.",
+
+    biography:
+        "BASHIRU AYISHA is an undergraduate Doctor of Medical Laboratory Science student at the University for Development Studies (UDS), a young leader and advocate passionate about women empowerment, girl-child education, youth leadership and community development. Her leadership journey includes participating in the British High Commission's Ambassador for a Day programme, volunteering with the Tamale Youth Summit, engaging in youth advocacy and affirmative-action initiatives, and participating in women empowerment, gender-equality, leadership and community-development activities. She has also gained practical community experience through the TTFPP programme at UDS. As a Youth Member of Parliament for Women Empowerment and Girl-Child Education, she is committed to creating opportunities for young women and girls, encouraging leadership, building confidence and supporting meaningful youth participation in community and national development.",
+
+    vision:
+        "To promote women empowerment, girl-child education, youth leadership, confidence building and meaningful youth participation in community and national development.",
+
+    plans:
+        "Support initiatives that create opportunities for young women and girls, promote girl-child education, encourage leadership, build confidence and advance meaningful youth participation.",
+
+    contribution:
+        "Contributes through youth advocacy, women empowerment, girl-child education, gender-equality engagements, community development, leadership initiatives and social-impact activities.",
+
+    currentActivities:
+        "Currently serving as Youth Member of Parliament for Women Empowerment and Girl-Child Education in the Youth Parliament of Ghana while pursuing a Doctor of Medical Laboratory Science at the University for Development Studies (UDS).",
+
+    leadershipExperience:
+        "Youth Member of Parliament — Women Empowerment and Girl-Child Education, Youth Parliament of Ghana. Participant — British High Commission's Ambassador for a Day Programme. Volunteer — Tamale Youth Summit. Youth advocacy and gender-equality engagements. Participation in women empowerment, leadership and community-development initiatives.",
+
+    professionalExperience:
+        "Undergraduate Doctor of Medical Laboratory Science student with experience in youth advocacy, women empowerment, girl-child education, community development, leadership programmes and social-impact activities.",
+
+    focusAreas:
+        "Women Empowerment • Girl-Child Education • Youth Leadership • Gender Equality • Youth Advocacy • Community Development • Leadership • Social Impact",
+
+    image: "images/bashiru.jpeg",
+
+    email: "bashiruayisha764@gmail.com",
+    phone: "0559016550",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "app029",
+    name: "ASANTE VYAS",
+    position: "Deputy Minister for Defence Ministry",
+    ministry: "Office of the Defence Ministry - Youth Parliament Ghana",
+    constituency: "Suhum Constituency",
+    region: "Eastern",
+    appointmentDate: "26th September,2026.",
+    isMP: true,
+
+    education:
+        "Kwame Nkrumah University of Science and Technology (KNUST) — Aerospace Engineering, Bachelor's Degree in progress, Third Year. Mfantsipim School — Secondary Education. St. Mary's Preparatory School, Koforidua — Basic Education.",
+
+    profession:
+        "Student",
+
+    experience:
+        "House Prefect — Brandful Dontwi House, Mfantsipim School. Best Prefect of the Year Award Recipient — Mfantsipim School. Head Boy — St. Mary's Preparatory School, Koforidua.",
+
+    biography:
+        "ASANTE VYAS is a third-year Aerospace Engineering student at Kwame Nkrumah University of Science and Technology (KNUST) with a background in student leadership and youth engagement. He previously served as House Prefect of Brandful Dontwi House at Mfantsipim School, where he received the Best Prefect of the Year Award, and as Head Boy of St. Mary's Preparatory School, Koforidua. As a representative of the Suhum Constituency, he seeks to contribute to youth representation, community development and initiatives that create meaningful opportunities for young people.",
+
+    vision:
+        "To support youth representation, community development and meaningful opportunities for young people.",
+
+    plans:
+        "Support youth engagement, community development, constructive dialogue and initiatives that create opportunities for young people.",
+
+    contribution:
+        "Contributes through youth representation, student leadership, community engagement and youth-focused initiatives.",
+
+    currentActivities:
+        "Currently pursuing a third-year Bachelor's Degree in Aerospace Engineering at KNUST and serving in a youth representation role for the Suhum Constituency.",
+
+    leadershipExperience:
+        "House Prefect — Brandful Dontwi House, Mfantsipim School. Best Prefect of the Year Award Recipient — Mfantsipim School. Head Boy — St. Mary's Preparatory School, Koforidua.",
+
+    professionalExperience:
+        "Third-year Aerospace Engineering student at KNUST with experience in student leadership and youth engagement.",
+
+    focusAreas:
+        "Youth Representation • Youth Leadership • Community Development • Education • Youth Opportunities • Aerospace Engineering",
+
+    image: "images/Vyas.jpeg",
+
+    email: "asantevyas45@gmail.com",
+    phone: "0538497794",
+    website: "#",
+
+    facebook: "#",
+    twitter: "@sonoftheskies24",
+    instagram: "@_hisexcellency367",
+    linkedin: "#",
+    tiktok: "@_hisexcellency",
+    snapchat: "v.asante"
+},
+
+    
 
 
 ];
