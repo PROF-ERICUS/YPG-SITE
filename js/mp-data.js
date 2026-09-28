@@ -4158,7 +4158,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Education • Leadership • Service",
 
-    image: "images/Noah Gyamesi.png",
+    image: "images/gyamesi.jpeg",
 
     email: "gyamesinoah@gmail.com",
     phone: "0546652425 / 0539700297",
@@ -4214,7 +4214,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Service • Integrity • Unity • Inclusion",
 
-    image: "images/Fomenyo Godsway.png",
+    image: "images/fomenyo.jpeg",
 
     email: "godswayfomenyo@gmail.com",
     phone: "0540780958",
