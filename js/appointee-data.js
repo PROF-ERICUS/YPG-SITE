@@ -671,14 +671,14 @@ region: "Ashanti",
     id: "app012",
     name: "ADDISON SELASSIE",
     position: "Head of Communications",
-    ministry: "Office of the Ministry for Communications, Innovation and Digitization",
+    ministry: "Office of the Youth Parliament Ghana",
     constituency: "Awutu Senya East Constituency",
     region: "Central",
     appointmentDate: "20th September,2026.",
     isMP: false,
 
     education:
-        "Kwame Nkrumah University of Science and Technology (KNUST) — Agricultural Engineering, Year 300.",
+        "Kwame Nkrumah University of Science and Technology (KNUST) — Agricultural Engineering.",
 
     profession:
         "Agricultural Engineering Student / Multimedia Designer / Digital Media Professional",
