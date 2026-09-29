@@ -4786,5 +4786,397 @@ parliament: "Youth Parliament Ghana",
     linkedin: "#",
     tiktok: "#"
 },
+  {
+    id: "mp091",
+    name: "AGYEMANG PROPHET KWAME",
+    position: "Member of Parliament",
+    constituency: "Ablekuma Central Constituency",
+    region: "Greater Accra",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "Ghana Communication Technology University (GCTU) — BSc Software Engineering, currently pursuing.",
+
+    profession:
+        "Software Engineering Student / Emerging Technology Professional",
+
+    experience:
+        "Youth Member of Parliament — Ablekuma Central Constituency, Youth Parliament Ghana. SRC Vice President — Ghana Communication Technology University. SRC Representative — Ghana Communication Technology University. Deputy Chair, Media & Communications Committee — GCTU SRC. School Prefect — Osino Presbyterian Senior High School.",
+
+    biography:
+        "AGYEMANG PROPHET KWAME is a Ghanaian Software Engineering student, emerging technology professional and youth leader with a growing commitment to leadership, innovation and community development. He is currently pursuing a BSc in Software Engineering at Ghana Communication Technology University (GCTU), with an interest in software development, technology and practical digital solutions. Prophet has been actively involved in student leadership and youth development. He currently serves as the SRC Vice President of Ghana Communication Technology University, where he contributes to student representation, welfare, development initiatives and institutional engagement. Beyond campus leadership, he has been involved in youth-focused initiatives and community development through projects aimed at education, technology, leadership and social impact. In September 2026, he was elected as the Youth Member of Parliament for the Ablekuma Central Constituency under Youth Parliament Ghana, providing him with a platform to represent young people, contribute to youth-focused discussions and participate in initiatives aimed at addressing issues affecting young people.",
+
+    vision:
+        "To combine technology, leadership and community impact to contribute meaningfully to Ghana's development.",
+
+    plans:
+        "Support youth representation, technology initiatives, education, leadership development, community engagement and practical digital solutions.",
+
+    contribution:
+        "Contributes through software engineering, student leadership, youth representation, technology initiatives, community development and social-impact activities.",
+
+    currentActivities:
+        "Currently pursuing a BSc in Software Engineering at GCTU, serving as SRC Vice President and serving as Youth Member of Parliament for the Ablekuma Central Constituency.",
+
+    leadershipExperience:
+        "Youth Member of Parliament — Ablekuma Central Constituency, Youth Parliament Ghana. SRC Vice President — Ghana Communication Technology University. SRC Representative — Ghana Communication Technology University. Deputy Chair, Media & Communications Committee — GCTU SRC. School Prefect — Osino Presbyterian Senior High School.",
+
+    professionalExperience:
+        "Software Engineering student and emerging technology professional with experience in student representation, media and communications, youth leadership and community-focused initiatives.",
+
+    focusAreas:
+        "Software Engineering • Technology • Youth Leadership • Student Representation • Innovation • Community Development • Digital Solutions • Social Impact",
+
+    slogan:
+        "Technology • Leadership • Impact",
+
+    image: "images/prof.jpeg",
+
+    email: "agyemangkwamep@gmail.com",
+    phone: "0268705994",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "https://www.linkedin.com/in/agyemang-kwame-prophet-b00803258?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+    tiktok: "#"
+},
+{
+    id: "mp092",
+    name: "KWESI BUABENG BORTEI",
+    position: "Member of Parliament",
+    constituency: "Ajumako Enyan Essiam constituency",
+    region: "Central Region",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "Kwame Nkrumah University of Science and Technology (KNUST) — BSc Computer Science, expected 2028. Mfantsipim School — Secondary Education. Cambridge International School — Basic Education.",
+
+    profession:
+        "CEO & Founder at Eukora / Co-Founder of SKETech / Software Developer / Student",
+
+    experience:
+        "Youth Member of Parliament — Ajumako Enyan Essiam Constituency. Head Prefect — Cambridge International School. SRC Representative and Class Councillor — Mfantsipim School. Lane Representative and Founder — KNUST.",
+
+    biography:
+        "KWESI BUABENG BORTEI is the Youth Member of Parliament for the Ajumako Enyan Essiam Constituency and hails from Ajumako Bisease. He is a Computer Science student at KNUST and a technology entrepreneur, AI advocate and full-stack developer building AI-powered educational tools for African learners. He is the Founder of Eukora, an AI-powered BECE/WASSCE exam preparation platform for Ghanaian JHS and SHS students, and the Founder of AssetShield GH, a property documentation platform. He is Co-Founder and Software Lead of SKETech, a software engineering and mentorship venture, and Head of Engineering at Chopa, a smart payment platform. Trained in responsible AI and AI fluency, he has hands-on skills in prompt engineering, integrating large language models into real products and explaining complex concepts to diverse audiences. He is a strong communicator, public speaker and team leader passionate about empowering students and advancing responsible AI adoption across Ghana. He is President-elect of the KNUST Computer Open Source Society and a member of the Computer Mentorship Society, the KNUST Claude Builders Club and AIESEC in KNUST.",
+
+    vision:
+        "To empower young people through technology, responsible AI adoption, education, youth advocacy and inclusive community development.",
+
+    plans:
+        "Support youth advocacy, technology education, responsible AI adoption, digital innovation, mentorship and opportunities for young people.",
+
+    contribution:
+        "Contributes through software development, AI advocacy, technology entrepreneurship, educational technology, youth mentorship, public speaking and community engagement.",
+
+    currentActivities:
+        "Currently pursuing a BSc in Computer Science at KNUST while serving as Youth Member of Parliament for Ajumako Enyan Essiam and working on technology and software development ventures.",
+
+    leadershipExperience:
+        "Youth Member of Parliament — Ajumako Enyan Essiam Constituency. President-elect — KNUST Computer Open Source Society. Member — Computer Mentorship Society. Member — KNUST Claude Builders Club. Member — AIESEC in KNUST. Head Prefect — Cambridge International School. SRC Representative and Class Councillor — Mfantsipim School.",
+
+    professionalExperience:
+        "CEO & Founder — Eukora. Founder — AssetShield GH. Co-Founder & Software Lead — SKETech. Head of Engineering — Chopa. Software Developer and technology entrepreneur.",
+
+    focusAreas:
+        "Artificial Intelligence • Software Development • Educational Technology • Youth Advocacy • Technology Entrepreneurship • Digital Innovation • Mentorship • Responsible AI",
+
+    slogan:
+        "Technology • Innovation • Youth Empowerment",
+
+    image: "images/bortei.jpeg",
+
+    email: "officialkingbee2@gmail.com",
+    phone: "0599598288",
+    website: "kbbortei1.vercel.app",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp093",
+    name: "OWUSU ELISHA",
+    position: "Member of Parliament",
+    constituency: "Kintampo South Constituency",
+    region: "Bono East",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "Kwadaso Agricultural College — Diploma in General Agriculture, 2025/2026. Amoma Methodist School — Basic Education. Methodist B — Basic Education. Jema Senior High School — Secondary Education. University of Cape Coast (UCC) — Admitted for a degree top-up programme.",
+
+    profession:
+        "Agriculturist",
+
+    experience:
+        "Founder & Chairman — AKUAFOUR NKITIWA. Prefect — Kwadaso Agricultural College (KAC). Agriculture Engineering & Mechanization Attaché — Kwadaso Agricultural College (KAC). Tractor Operator — Agricultural/Farm Operations. Agricultural Practitioner / Farm Worker — Agricultural and Farming Activities. Community Agriculture & Beekeeping Project Lead — Amoma Community.",
+
+    biography:
+        "OWUSU ELISHA is a young Ghanaian agriculturist, community leader and Youth Member of Parliament for the Kintampo South Constituency in the Bono East Region. He began his basic education at Amoma Methodist School and completed at Methodist B before proceeding to Jema Senior High School. He later pursued a Diploma in General Agriculture at Kwadaso Agricultural College and has gained admission to the University of Cape Coast to pursue a degree top-up programme. He has practical experience in crop production, livestock management, farming and agricultural mechanization. He is the Founder and Chairman of AKUAFOUR NKITIWA, an organization focused on promoting agriculture and empowering young people. He has demonstrated leadership through his service as a Prefect at Kwadaso Agricultural College, his community involvement and his role as a Youth Member of Parliament. He is passionate about youth development, agriculture, entrepreneurship and community service, and is committed to contributing positively to the development of young people and his community.",
+
+    vision:
+        "To promote youth development, agriculture, entrepreneurship and community service while contributing to the development of young people and his community.",
+
+    plans:
+        "Support agricultural development, youth empowerment, entrepreneurship, community agriculture initiatives and opportunities for young people.",
+
+    contribution:
+        "Contributes through agricultural practice, farming, agricultural mechanization, community agriculture and beekeeping initiatives, youth empowerment and community leadership.",
+
+    currentActivities:
+        "Currently serving as Youth Member of Parliament for the Kintampo South Constituency and pursuing a degree top-up programme at the University of Cape Coast.",
+
+    leadershipExperience:
+        "Youth Member of Parliament — Kintampo South Constituency. Founder & Chairman — AKUAFOUR NKITIWA. Prefect — Kwadaso Agricultural College (KAC). Community Agriculture & Beekeeping Project Lead — Amoma Community.",
+
+    professionalExperience:
+        "Agriculturist with practical experience in crop production, livestock management, farming, agricultural mechanization, tractor operation and agricultural field activities.",
+
+    focusAreas:
+        "Agriculture • Youth Development • Entrepreneurship • Agricultural Mechanization • Farming • Beekeeping • Community Development",
+
+    slogan:
+        "Agriculture • Youth Empowerment • Community Service",
+
+    image: "images/elisha.jpeg",
+
+    email: "elishaowusu484@gmail.com",
+    phone: "+233 240 53 1429",
+    website: "#",
+
+    facebook: "https://www.facebook.com/share/1CAg1D7Eew/?mibextid=wwXIfr",
+    twitter: "https://x.com/yungmessia24214?s=11",
+    instagram: "https://www.instagram.com/owusuelisha1?stkn=MTlkdzl1YmFnaG00Nw%3D%3D&utm_source=qr",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp094",
+    name: "BAAH-BROWN SOLOMON",
+    position: "Member of Parliament",
+    constituency: "Ahafo Ano-North Constituency",
+    region: "Ashanti",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "St. Joseph's College of Education, Bechem — Bachelor of Education (B.Ed.) in Mathematics and Information and Communication Technology (ICT), currently a student. Tepa Senior High School — General Arts, WASSCE.",
+
+    profession:
+        "Student / Educator in Training",
+
+    experience:
+        "Member of Parliament — Youth Parliament Ghana, Ahafo Ano-North Constituency. Financial Secretary — St. Joseph's College of Education. Catholic Charismatic Coordinator — St. Joseph's College of Education. Main Boy Prefect — Abrahamkrom D/A School. Compound Overseer — Bronikrom D/A School.",
+
+    biography:
+        "BAAH-BROWN SOLOMON is a student leader, youth advocate and emerging civic leader representing the Ahafo Ano-North Constituency in Youth Parliament Ghana. He is currently a student at St. Joseph's College of Education, Bechem, pursuing a Bachelor of Education (B.Ed.) in Mathematics and Information and Communication Technology (ICT). He has demonstrated leadership through various roles, including serving as Financial Secretary and Catholic Charismatic Coordinator. His interests include youth development, education, accountability, responsible leadership and community development.",
+
+    vision:
+        "To promote youth development, quality education, accountability, responsible leadership and community development.",
+
+    plans:
+        "Support youth development, education, accountability, responsible leadership and initiatives that contribute to community development.",
+
+    contribution:
+        "Contributes through student leadership, youth advocacy, education, community engagement and responsible leadership.",
+
+    currentActivities:
+        "Currently serving as Member of Parliament for the Ahafo Ano-North Constituency in Youth Parliament Ghana while pursuing a Bachelor of Education (B.Ed.) in Mathematics and Information and Communication Technology at St. Joseph's College of Education, Bechem.",
+
+    leadershipExperience:
+        "Financial Secretary — St. Joseph's College of Education. Catholic Charismatic Coordinator — St. Joseph's College of Education. Main Boy Prefect — Abrahamkrom D/A School. Compound Overseer — Bronikrom D/A School.",
+
+    professionalExperience:
+        "Student and educator in training with experience in student leadership, youth advocacy and school leadership.",
+
+    focusAreas:
+        "Youth Development • Education • Accountability • Responsible Leadership • Community Development • ICT • Mathematics",
+
+    slogan:
+        "Education • Accountability • Responsible Leadership",
+
+    image: "images/brown.jpeg",
+
+    email: "Baahbrownsolomon956@gmail.com",
+    phone: "0557654820",
+    website: "#",
+
+    facebook: "Baah-Brown Solomon",
+    twitter: "Baah-Brown Solomon",
+    instagram: "Baah-Brown Solomon",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp095",
+    name: "ZOELYNN BAABA HAMMAH",
+    position: "Member of Parliament",
+    constituency: "Ledzokuku Constituency",
+    region: "Greater Accra ",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "University of Ghana, Legon — Public Administration, Sociology and French, Undergraduate Degree in progress, 2026–Present. Wesley Girls' High School, Cape Coast — General Arts, WASSCE, 2023–2025.",
+
+    profession:
+        "Undergraduate Student / Youth Leader / Public Speaker and Advocate",
+
+    experience:
+        "Youth Member of Parliament — Ledzokuku Constituency, Youth Parliament Ghana. Deputy Youth Parliament Representative. Team Member — Ghana National Debate Team. Founder & App Developer — Equichore. Floor Representative — University of Ghana, Mensah Sarbah Hall, 2026. Student Teaching Assistant & Group Study Leader — Wesley Girls' High School, 2025. Assistant Logistics Officer — Team Igboya, Steering Ahead Leadership Conference (SALC) 2025.",
+
+    biography:
+        "ZOELYNN BAABA HAMMAH is a Youth Member of Parliament representing the Ledzokuku Constituency in Youth Parliament Ghana. She is an undergraduate student at the University of Ghana studying Public Administration, Sociology and French, with experience in student leadership, public speaking, debate and youth advocacy. Zoelynn is also the founder and developer of Equichore, a social-impact web application promoting gender equality through the equitable sharing of household responsibilities. She has represented Ghana in national debate tournaments as a member of the Ghana National Debate Team and has held various leadership positions in both secondary school and university. Her interests include policy, development, advocacy, social research and technology and social-impact innovation.",
+
+    vision:
+        "To contribute to youth advocacy, gender equality, public policy, development and social-impact innovation.",
+
+    plans:
+        "Support youth advocacy, policy engagement, gender equality, social research, public speaking and technology-driven social-impact initiatives.",
+
+    contribution:
+        "Contributes through youth representation, public speaking, debate, advocacy, social-impact technology and student leadership.",
+
+    currentActivities:
+        "Currently serving as Youth Member of Parliament for the Ledzokuku Constituency in Youth Parliament Ghana and pursuing an undergraduate degree in Public Administration, Sociology and French at the University of Ghana.",
+
+    leadershipExperience:
+        "Youth Member of Parliament — Ledzokuku Constituency. Deputy Youth Parliament Representative. Floor Representative — University of Ghana, Mensah Sarbah Hall. Student Teaching Assistant & Group Study Leader — Wesley Girls' High School. Assistant Logistics Officer — Team Igboya, Steering Ahead Leadership Conference (SALC) 2025.",
+
+    professionalExperience:
+        "Undergraduate student, youth leader, public speaker and advocate with experience in debate, student leadership, social-impact technology and youth advocacy.",
+
+    focusAreas:
+        "Youth Advocacy • Gender Equality • Public Policy • Development • Debate • Public Speaking • Social Research • Technology & Social Impact",
+
+    slogan:
+        "Youth Advocacy • Equality • Innovation",
+
+    image: "images/baaba.jpeg",
+
+    email: "hammahzoelynn1@gmail.com",
+    phone: "050 326 2702",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "Zoelynn Baaba Hammah",
+    tiktok: "#"
+},
+{
+    id: "mp096",
+    name: "RASHID NAJILAWU WUNITIRA",
+    position: "Member of Parliament",
+    constituency: "Zabzugu Constituency",
+    region: "Northern",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "University for Development Studies (UDS) — BSc Nutrition.",
+
+    profession:
+        "Student / Youth Leader / Advocate / Entrepreneur",
+
+    experience:
+        "Youth Member of Parliament — Zabzugu District Youth Parliament. Personal Assistant to the President — Youth Parliament Ghana. Youth Advocate/Volunteer — Youth and community-focused initiatives.",
+
+    biography:
+        "RASHID NAJILAWU WUNITIRA is a young Ghanaian leader, youth advocate and community volunteer from the Northern Region of Ghana. She is an elected Youth Member of Parliament for the Zabzugu Constituency under the Zabzugu District Youth Parliament, where she represents the interests and concerns of young people and promotes meaningful youth participation in community development and decision-making. She is a BSc Nutrition student at the University for Development Studies. Her leadership experience includes serving as a Youth Member of Parliament and Personal Assistant to the President of Youth Parliament Ghana. She has also been involved in youth advocacy, volunteering, girls' empowerment, community engagement and leadership activities. She is passionate about youth development, women's and girls' empowerment, education, leadership, advocacy and creating opportunities for young people to contribute positively to their communities.",
+
+    vision:
+        "To promote youth development, women's and girls' empowerment, education, leadership, advocacy and meaningful youth participation in community development.",
+
+    plans:
+        "Support youth advocacy, girls' empowerment, community engagement, education, leadership development and opportunities for young people.",
+
+    contribution:
+        "Contributes through youth representation, advocacy, volunteering, girls' empowerment, community engagement and youth-focused initiatives.",
+
+    currentActivities:
+        "Currently serving as an elected Youth Member of Parliament for the Zabzugu Constituency while pursuing a BSc in Nutrition at the University for Development Studies.",
+
+    leadershipExperience:
+        "Youth Member of Parliament — Zabzugu District Youth Parliament. Personal Assistant to the President — Youth Parliament Ghana. Youth Advocate/Volunteer — Youth and community-focused initiatives.",
+
+    professionalExperience:
+        "BSc Nutrition student with experience in youth leadership, advocacy, volunteering, community engagement and youth-focused initiatives.",
+
+    focusAreas:
+        "Youth Development • Women's Empowerment • Girls' Empowerment • Education • Leadership • Advocacy • Community Development • Youth Participation",
+
+    slogan:
+        "Youth Development • Empowerment • Community Service",
+
+    image: "images/rashid.jpeg",
+
+    email: "rashidnajilaw@gmail.com",
+    phone: "0591907869",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "https://www.linkedin.com/in/rashid-najilawu-b9426b341",
+    tiktok: "#"
+},
+{
+    id: "mp097",
+    name: "ABDUL SHAKUR BRAIMAH",
+    position: "Member of Parliament",
+    constituency: "Adenta Constituency",
+    region: "Greater Accra",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "University for Development Studies (UDS) — BSc Biotechnology and Molecular Biology, four-year programme, currently Level 200.",
+
+    profession:
+        "Student",
+
+    experience:
+        "PRO — Biotechnology Students Association of Ghana (BIOSAG), UDS Nyankpala Campus. Deputy Sports Chairperson — GMSA, UDS Nyankpala Campus. Global Opportunity Desk Ambassador. Welfare Committee Member — BIOSAG, 2025/26 Academic Year. Group Leader — Third Trimester Field Practical Project (TTFPP), UDS Nyankpala Campus. Course Representative — Biotechnology and Molecular Biology, current year batch.",
+
+    biography:
+        "ABDUL SHAKUR BRAIMAH is a student leader, public advocate and elected Youth Member of Parliament for the Adenta Constituency under Youth Parliament Ghana. He combines academic training in Biotechnology and Molecular Biology with experience in student leadership, executive governance, public advocacy and community engagement. He currently serves as PRO for the Biotechnology Students Association of Ghana (BIOSAG) at the UDS Nyankpala Campus and as Deputy Sports Chairperson for GMSA at the same campus. He has also served as a Global Opportunity Desk Ambassador, a member of the BIOSAG Welfare Committee and a Group Leader for the Third Trimester Field Practical Project (TTFPP). His leadership interests include STEM education, global professional opportunities, civic engagement and structured representation.",
+
+    vision:
+        "To promote STEM education, civic engagement, accountable representation and access to global professional opportunities for young people.",
+
+    plans:
+        "Support STEM education, youth development, civic engagement, professional opportunities and accountable representation across the Adenta Constituency.",
+
+    contribution:
+        "Contributes through student leadership, public advocacy, STEM engagement, youth representation, community participation and academic leadership.",
+
+    currentActivities:
+        "Currently serving as Youth Member of Parliament for the Adenta Constituency while pursuing a BSc in Biotechnology and Molecular Biology at the University for Development Studies, where he is a Level 200 student.",
+
+    leadershipExperience:
+        "PRO — Biotechnology Students Association of Ghana (BIOSAG), UDS Nyankpala Campus. Deputy Sports Chairperson — GMSA, UDS Nyankpala Campus. Global Opportunity Desk Ambassador. Welfare Committee Member — BIOSAG, 2025/26 Academic Year. Group Leader — Third Trimester Field Practical Project (TTFPP). Course Representative — Biotechnology and Molecular Biology, current year batch.",
+
+    professionalExperience:
+        "Biotechnology and Molecular Biology student with experience in student leadership, public advocacy, organizational representation, STEM engagement and community-oriented academic projects.",
+
+    focusAreas:
+        "STEM Education • Youth Development • Civic Engagement • Public Advocacy • Professional Opportunities • Student Leadership • Biotechnology • Community Development",
+
+    slogan:
+        "STEM • Leadership • Opportunity",
+
+    image: "images/shakur.jpeg",
+
+    email: "ishaku356@gmail.com",
+    phone: "0592215381",
+    website: "#",
+
+    facebook: "https://www.facebook.com/share/1FeCXxcH4h/?mibextid=wwXIfr",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
 
 ];
