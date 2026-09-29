@@ -1867,7 +1867,115 @@ region: "Ashanti",
     linkedin: "https://www.linkedin.com/in/prince-aboagye-8b9281229",
     tiktok: "#"
 },
+    {
+    id: "app033",
+    name: "HON. AKOBTA ROSEMARY",
+    position: "Representative to the Vice President of the Republic of Ghana",
+    ministry: "Office of the Vice President",
+    constituency: "Builsa South Constituency",
+    region: "Upper East",
+    appointmentDate: "Information to be updated.",
+    isMP: true,
+    mpId: "mp100",
 
+    education:
+        "MPhil in Mathematics — University of Technology and Applied Sciences (January 2025). Masters in Mathematics Education — University of Cape Coast (December 2023 – May 2024). Bachelor of Education in Psychology and Foundations of Education (Mathematics) — University of Cape Coast. Diploma in Basic Education — St. John Bosco’s College of Education, Navrongo (September 2012 – July 2015). WASSCE — Sandema Senior High / Technical School (September 2007 – June 2011). JHS — Fumbisi Zongo Preparatory School (September 2004 – April 2007). Primary Education — Naadema Primary School (September 1997 – September 2004).",
+
+    profession:
+        "Professional Teacher / Mathematics Educator",
+
+    experience:
+        "Form Mistress & Examination Committee Member — Adakuru Junior High School, Zuarungu. Form Mistress, Examination Committee Member & Welfare Officer — Sokabisi Junior High School, Bolgatanga. General Advisor and President — Builsa Students Union (2009 – 2011). Treasurer — Scripture Union, St. John Bosco’s College. SRC Representative — St. John Bosco’s College (2013 – 2014). Vice President — Pentecost Students and Associates (PENSA), St. John Bosco’s College. Organizer — Scripture Union, St. John Bosco’s College.",
+
+    biography:
+        "HON. AKOBTA ROSEMARY is a dedicated educator, youth leader, and public servant serving as the Youth Member of Parliament for Builsa South Constituency in the Upper East Region. She currently serves as the Representative to the Vice President of the Republic of Ghana under Youth Parliament Ghana, where she champions youth inclusion in governance, education development, and civic leadership.",
+
+    vision:
+        "To promote quality education, youth empowerment, and inclusive governance while inspiring young people, especially young women from rural communities, to aspire to leadership and academic excellence.",
+
+    plans:
+        "Promote practical, career-focused technical education, youth empowerment, civic leadership and greater opportunities for young people, particularly young women and those from rural communities.",
+
+    contribution:
+        "HON. AKOBTA ROSEMARY seeks to contribute through education advocacy, youth leadership, community engagement, mathematics education and initiatives that promote academic excellence and inclusive governance.",
+
+    currentActivities:
+        "Serving as Representative to the Vice President of the Republic of Ghana under Youth Parliament Ghana and as Youth Member of Parliament for Builsa South Constituency.",
+
+    leadershipExperience:
+        "General Advisor and President — Builsa Students Union (2009 – 2011). Treasurer — Scripture Union, St. John Bosco’s College. SRC Representative — St. John Bosco’s College (2013 – 2014). Vice President — Pentecost Students and Associates (PENSA), St. John Bosco’s College. Organizer — Scripture Union, St. John Bosco’s College.",
+
+    professionalExperience:
+        "Professional teacher with experience as Form Mistress and Examination Committee Member at Adakuru Junior High School, Zuarungu, and Form Mistress, Examination Committee Member and Welfare Officer at Sokabisi Junior High School, Bolgatanga. She has also completed professional development programmes in teaching practice, classroom management, learning disabilities, ICT, lesson preparation and delivery, continuous professional development and leadership.",
+
+    focusAreas:
+        "QUALITY EDUCATION • YOUTH EMPOWERMENT • MATHEMATICS EDUCATION • CIVIC LEADERSHIP • WOMEN EMPOWERMENT • RURAL YOUTH DEVELOPMENT • INCLUSIVE GOVERNANCE",
+
+    image: "images/ROSEMARY.jpeg",
+
+    email: "#",
+    phone: "#",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#"
+},
+{
+    id: "app034",
+    name: "ERIC ISAAC MENSAH",
+    position: "Deputy Finance Minister",
+    ministry: "Office of the Finance",
+    constituency: "Essikado-Ketan Constituency",
+    region: "Western",
+    appointmentDate: "Information to be updated.",
+    isMP: false,
+
+    education:
+        "Takoradi Technical University — Procurement, Logistics and Supply Chain Management, Degree in Procurement, Logistics and Supply Chain Management, 2026.",
+
+    profession:
+        "Procurement / Logistics and Supply Chain Management",
+
+    experience:
+        "Chief Warrior — GETFund Traditional Council. Academic background in Procurement, Logistics and Supply Chain Management — Takoradi Technical University.",
+
+    biography:
+        "ERIC ISAAC MENSAH is associated with the Essikado-Ketan Constituency in the Western Region. He has an academic background in Procurement, Logistics and Supply Chain Management from Takoradi Technical University. He serves as Deputy Finance Minister in Youth Parliament Ghana, with an interest in finance, youth development, procurement and public service.",
+
+    vision:
+        "To contribute to youth development, financial responsibility, procurement and public service through effective leadership and service.",
+
+    plans:
+        "Support initiatives relating to youth development, finance, procurement, logistics and public service within Youth Parliament Ghana.",
+
+    contribution:
+        "ERIC ISAAC MENSAH seeks to contribute through his background in procurement, logistics and supply chain management, with a focus on finance, youth development and public service.",
+
+    currentActivities:
+        "Serving as Deputy Finance Minister in Youth Parliament Ghana.",
+
+    leadershipExperience:
+        "Chief Warrior — GETFund Traditional Council.",
+
+    professionalExperience:
+        "Deputy Finance Minister — Youth Parliament Ghana. Academic background in Procurement, Logistics and Supply Chain Management — Takoradi Technical University.",
+
+    focusAreas:
+        "FINANCE • YOUTH DEVELOPMENT • PROCUREMENT • LOGISTICS • SUPPLY CHAIN MANAGEMENT • PUBLIC SERVICE",
+
+    image: "images/eric.jpeg",
+
+    email: "Ikukumensah4940@gmail.com",
+    phone: "0551631187",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "Ikuku thegodsarewise",
+    linkedin: "#"
+},
     
 
 
