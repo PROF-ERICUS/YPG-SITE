@@ -1701,6 +1701,117 @@ region: "Ashanti",
     tiktok: "@_hisexcellency",
     snapchat: "v.asante"
 },
+    {
+    id: "app030",
+    name: "MICHAEL AYAABA",
+    position: "Ahafo Regional Minister",
+    ministry: "Ahafo Regional Ministry",
+    constituency: "Asunafo South Constituency",
+    region: "Ahafo",
+    appointmentDate: "Information to be updated.",
+    isMP: false,
+
+    education:
+        "University for Development Studies (UDS) — Doctor of Medical Laboratory Science, Undergraduate. Mim Senior High School — General Science.",
+
+    profession:
+        "Medical Laboratory Science Student",
+
+    experience:
+        "Ahafo Regional Minister — Youth Parliament Ghana. Head Prefect — Mim Senior High School. SRC President — Mim Senior High School. Health Committee Representative — University for Development Studies. Group Leader, Third Trimester Field Practical Programme (TTFPP) — University for Development Studies. Community Health & Youth Engagement Volunteer.",
+
+    biography:
+        "MICHAEL AYAABA is a young Ghanaian leader, student and community development advocate serving as the Ahafo Regional Minister under Youth Parliament Ghana. He is currently pursuing a Doctor of Medical Laboratory Science at the University for Development Studies (UDS). His interest in leadership and community service began during his secondary school education, where he served as Head Prefect and SRC President at Mim Senior High School. During his tenure as Head Prefect, he worked with school leadership, the SRC Patron and other stakeholders to support initiatives aimed at improving the school environment, including the development of a 3D signpost at the school entrance and the provision of dustbins to promote sanitation. At the University for Development Studies, Michael has served as a Health Committee Representative, representing students on health-related matters and participating in health education and community health activities. He has been involved in initiatives including menstrual hygiene education and support, Hepatitis B and C screening, and other community health engagements. He also served as a Group Leader during the Third Trimester Field Practical Programme (TTFPP), where he led his team in their assigned community to identify community challenges, address basic needs within their capacity and develop proposals for further support from NGOs and other stakeholders. His leadership interests extend to youth development, community engagement, health advocacy, education, entrepreneurship, stakeholder collaboration and regional development.",
+
+    vision:
+        "To promote youth participation, community development, health advocacy, partnerships, innovation and opportunities for young people across the Ahafo Region.",
+
+    plans:
+        "Support youth participation, community engagement, health advocacy, education, entrepreneurship, stakeholder collaboration, innovation and regional development initiatives.",
+
+    contribution:
+        "Contributes through youth leadership, community health engagement, health advocacy, education, stakeholder collaboration and initiatives focused on identifying and addressing community challenges.",
+
+    currentActivities:
+        "Currently serving as Ahafo Regional Minister under Youth Parliament Ghana while pursuing a Doctor of Medical Laboratory Science at the University for Development Studies.",
+
+    leadershipExperience:
+        "Ahafo Regional Minister — Youth Parliament Ghana. Head Prefect — Mim Senior High School. SRC President — Mim Senior High School. Health Committee Representative — University for Development Studies. Group Leader — Third Trimester Field Practical Programme (TTFPP).",
+
+    professionalExperience:
+        "Medical Laboratory Science student with experience in health education, community health engagement, youth engagement and community development activities.",
+
+    focusAreas:
+        "Youth Development • Community Development • Health Advocacy • Education • Entrepreneurship • Stakeholder Collaboration • Innovation • Regional Development",
+
+    image: "images/ayaaba.jpeg",
+
+    email: "ayaabamichael906@gmail.com",
+    phone: "+233 598 666 261",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "app031",
+    name: "ZOELYNN BAABA HAMMAH",
+    position: "Deputy Representative for YPG-UG",
+    ministry: "Youth Parliament Ghana",
+    constituency: "Ledzokuku Constituency",
+    region: "Greater Accra",
+    appointmentDate: "20th September,2026.",
+    isMP: true,
+    mpId: "mp095",
+
+    education:
+        "University of Ghana, Legon — Public Administration, Sociology and French, Undergraduate Degree in progress, 2026–Present. Wesley Girls' High School, Cape Coast — General Arts, WASSCE, 2023–2025.",
+
+    profession:
+        "Undergraduate Student / Youth Leader / Public Speaker and Advocate",
+
+    experience:
+        "Deputy Representative for YPG-UG. Youth Member of Parliament — Ledzokuku Constituency, Youth Parliament Ghana. Team Member — Ghana National Debate Team. Founder & App Developer — Equichore. Floor Representative — University of Ghana, Mensah Sarbah Hall, 2026. Student Teaching Assistant & Group Study Leader — Wesley Girls' High School, 2025. Assistant Logistics Officer — Team Igboya, Steering Ahead Leadership Conference (SALC) 2025.",
+
+    biography:
+        "ZOELYNN BAABA HAMMAH is a Youth Member of Parliament representing the Ledzokuku Constituency in Youth Parliament Ghana and serves as Deputy Representative for YPG-UG. She is an undergraduate student at the University of Ghana studying Public Administration, Sociology and French, with experience in student leadership, public speaking, debate and youth advocacy. She is also the founder and developer of Equichore, a social-impact web application promoting gender equality through the equitable sharing of household responsibilities. She has represented Ghana in national debate tournaments as a member of the Ghana National Debate Team and has held various leadership positions in both secondary school and university.",
+
+    vision:
+        "To contribute to youth advocacy, gender equality, public policy, development and social-impact innovation.",
+
+    plans:
+        "Support youth advocacy, policy engagement, gender equality, social research, public speaking and technology-driven social-impact initiatives.",
+
+    contribution:
+        "Contributes through youth representation, public speaking, debate, advocacy, social-impact technology and student leadership.",
+
+    currentActivities:
+        "Serving as Deputy Representative for YPG-UG and Youth Member of Parliament for the Ledzokuku Constituency while pursuing an undergraduate degree in Public Administration, Sociology and French at the University of Ghana.",
+
+    leadershipExperience:
+        "Deputy Representative for YPG-UG. Youth Member of Parliament — Ledzokuku Constituency. Floor Representative — University of Ghana, Mensah Sarbah Hall. Student Teaching Assistant & Group Study Leader — Wesley Girls' High School. Assistant Logistics Officer — Team Igboya, Steering Ahead Leadership Conference (SALC) 2025.",
+
+    professionalExperience:
+        "Undergraduate student, youth leader, public speaker and advocate with experience in debate, student leadership, social-impact technology and youth advocacy.",
+
+    focusAreas:
+        "Youth Advocacy • Gender Equality • Public Policy • Development • Debate • Public Speaking • Social Research • Technology & Social Impact",
+
+    image: "images/baaba.jpeg",
+
+    email: "hammahzoelynn1@gmail.com",
+    phone: "050 326 2702",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "Zoelynn Baaba Hammah",
+    tiktok: "#"
+},
 
     
 
