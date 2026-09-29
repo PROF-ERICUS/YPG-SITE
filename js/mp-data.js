@@ -2925,7 +2925,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Education • Empowerment • Opportunity",
 
-    image: "images/Amina.jpeg",
+    image: "images/sandow.jpeg",
 
     email: "#",
     phone: "0596189425",
