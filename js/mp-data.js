@@ -5178,5 +5178,118 @@ parliament: "Youth Parliament Ghana",
     linkedin: "#",
     tiktok: "#"
 },
+  {
+    id: "mp098",
+    name: "GODFRED WUNSUNMA ALI",
+    position: "Member of Parliament",
+    constituency: "Bunkpurugu Constituency",
+    region: "North East",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "University for Development Studies (UDS) — Bachelor of Laws (LL.B.), Level 200.",
+
+    profession:
+        "Law Student",
+
+    experience:
+        "Member of Parliament — Youth Parliament Ghana. First Deputy Clerk — Students' Parliament, UDS Nyankpala Campus. Deputy Minority Leader — Students' Parliament, Tamale Senior High School. First Deputy Speaker — Students' Parliament, Tamale Senior High School. President — Deeper Life School Outreach. School Prefect — Binde JHS.",
+
+    biography:
+        "GODFRED WUNSUNMA ALI is a young Ghanaian leader and law student from Binde in the Bunkpurugu-Nakpanduri District of the North East Region of Ghana. He is passionate about leadership, justice, youth development and community service. His leadership experience includes serving as Deputy Minority Leader and later First Deputy Speaker of the Students' Parliament at Tamale Senior High School. He currently serves as First Deputy Clerk of the Students' Parliament at the UDS Nyankpala Campus and is a Member of the Youth Parliament Ghana. He is pursuing a Bachelor of Laws (LL.B.) at the University for Development Studies. Beyond academics and parliamentary leadership, he is actively interested in youth advocacy, community development, human rights and promoting meaningful youth participation in governance. Through his academic journey, leadership experience and community involvement, he seeks to contribute to the development of young people and society through service, integrity and responsible leadership.",
+
+    vision:
+        "To promote justice, youth development, community service, human rights and meaningful youth participation in governance.",
+
+    plans:
+        "Support youth advocacy, community development, human rights awareness, responsible leadership and meaningful youth participation in governance.",
+
+    contribution:
+        "Contributes through youth representation, parliamentary leadership, advocacy, community service and initiatives focused on youth development and responsible leadership.",
+
+    currentActivities:
+        "Currently serving as Member of Parliament for the Bunkpurugu Constituency in Youth Parliament Ghana and First Deputy Clerk of the Students' Parliament at UDS Nyankpala Campus while pursuing a Bachelor of Laws (LL.B.) at UDS.",
+
+    leadershipExperience:
+        "Member of Parliament — Youth Parliament Ghana. First Deputy Clerk — Students' Parliament, UDS Nyankpala Campus. Deputy Minority Leader — Students' Parliament, Tamale Senior High School. First Deputy Speaker — Students' Parliament, Tamale Senior High School. President — Deeper Life School Outreach. School Prefect — Binde JHS.",
+
+    professionalExperience:
+        "Law student with experience in parliamentary leadership, student governance, youth advocacy, community service and leadership development.",
+
+    focusAreas:
+        "Justice • Youth Development • Human Rights • Youth Advocacy • Community Development • Governance • Responsible Leadership • Community Service",
+
+    slogan:
+        "Service • Integrity • Responsible Leadership",
+
+    image: "images/Ali.jpeg",
+
+    email: "aligodfredwunsunma@gmail.com",
+    phone: "0594426871",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp099",
+    name: "ALHASSAN JAWHARA",
+    position: "Member of Parliament",
+    constituency: "Ashaiman Constituency",
+    region: "Greater Accra",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "Kwame Nkrumah University of Science and Technology (KNUST) — Biochemistry, Degree, Fourth Year.",
+
+    profession:
+        "Student",
+
+    experience:
+        "Ashaiman Youth Member of Parliament — 2026. Class Moderator — Cedar Hills International School, Ashaiman, Accra, 2017–2018. SRC Representative — T.I. Ahmadiyya Senior High School, Kumasi, 2020–2022. Deputy GMSA Organizer — T.I. Ahmadiyya Senior High School, 2021–2022. Secretary — Madrasatul Khulafau Rashidiyya, Ashaiman, Accra, 2020–Present. Editorial Committee Secretary — Ghana Biochemistry Student Association, KNUST, Kumasi, 2025. Member — TEIN Secretariat, KNUST, Kumasi, 2025. National NUGS Ghana Programmes and Projects Committee Member, 2025–Present. Local NUGS-KNUST Deputy Programmes and Projects Committee Coordinator, 2025–Present.",
+
+    biography:
+        "ALHASSAN JAWHARA is a passionate and driven student with a foundation in Biochemistry and experience in leadership, event coordination, public engagement and advocacy through student politics. She approaches opportunities with curiosity, a strong work ethic and a collaborative spirit. Her leadership experience spans secondary school, university student organizations and national student initiatives. She has served in various representative, organizational, secretarial and committee roles, including as Ashaiman Youth Member of Parliament in 2026. She is committed to learning, personal development, meaningful contribution and continued growth both personally and professionally.",
+
+    vision:
+        "To contribute meaningfully through youth representation, leadership, public engagement, advocacy and community development.",
+
+    plans:
+        "Support youth participation, public engagement, advocacy, student leadership and initiatives that create meaningful opportunities for young people.",
+
+    contribution:
+        "Contributes through youth representation, student leadership, public engagement, advocacy, event coordination and participation in student and community initiatives.",
+
+    currentActivities:
+        "Currently serving as Ashaiman Youth Member of Parliament while pursuing a fourth-year degree in Biochemistry at KNUST and participating in student leadership and national student organization activities.",
+
+    leadershipExperience:
+        "Ashaiman Youth Member of Parliament — 2026. National NUGS Ghana Programmes and Projects Committee Member. Local NUGS-KNUST Deputy Programmes and Projects Committee Coordinator. Editorial Committee Secretary — Ghana Biochemistry Student Association, KNUST. Member — TEIN Secretariat, KNUST. Secretary — Madrasatul Khulafau Rashidiyya. SRC Representative — T.I. Ahmadiyya Senior High School. Deputy GMSA Organizer — T.I. Ahmadiyya Senior High School.",
+
+    professionalExperience:
+        "Biochemistry student with experience in leadership, event coordination, public engagement, advocacy, student representation and organizational activities.",
+
+    focusAreas:
+        "Youth Leadership • Public Engagement • Advocacy • Student Representation • Biochemistry • Community Development • Event Coordination",
+
+    slogan:
+        "Leadership • Advocacy • Meaningful Impact",
+
+    image: "images/jawhara.jpeg",
+
+    email: "jawharaalhassan0@gmail.com",
+    phone: "0556091769",
+    website: "#",
+
+    facebook: "https://www.facebook.com/share/1BKVfGfQVy/",
+    twitter: "https://x.com/AlhassanJa10470",
+    instagram: "https://www.instagram.com/jawharaalhassan?stkn=MTFsejFscTBoc3Uwaw==",
+    linkedin: "https://www.linkedin.com/in/jawhara-alhassan-976840365?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+    tiktok: "#"
+},
+
 
 ];
