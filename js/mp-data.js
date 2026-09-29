@@ -5290,6 +5290,118 @@ parliament: "Youth Parliament Ghana",
     linkedin: "https://www.linkedin.com/in/jawhara-alhassan-976840365?utm_source=share_via&utm_content=profile&utm_medium=member_android",
     tiktok: "#"
 },
+  {
+    id: "mp100",
+    name: "HON. AKOBTA ROSEMARY",
+    position: "Member of Parliament",
+    constituency: "Builsa South Constituency",
+    region: "Upper East",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "MPhil in Mathematics — University of Technology and Applied Sciences (January 2025). Masters in Mathematics Education — University of Cape Coast (December 2023 – May 2024). Bachelor of Education in Psychology and Foundations of Education (Mathematics) — University of Cape Coast. Diploma in Basic Education — St. John Bosco’s College of Education, Navrongo (September 2012 – July 2015). WASSCE — Sandema Senior High / Technical School (September 2007 – June 2011). JHS — Fumbisi Zongo Preparatory School (September 2004 – April 2007). Primary Education — Naadema Primary School (September 1997 – September 2004).",
+
+    profession:
+        "Professional Teacher / Mathematics Educator",
+
+    experience:
+        "Form Mistress & Examination Committee Member — Adakuru Junior High School, Zuarungu. Form Mistress, Examination Committee Member & Welfare Officer — Sokabisi Junior High School, Bolgatanga. Library Prefect — St. John Bosco’s College and Sandema SHTS. Compound/House Prefect — Fumbisi Preparatory JHS. Girls’ Prefect — Naadema Primary School.",
+
+    biography:
+        "HON. AKOBTA ROSEMARY is a dedicated educator, youth leader, and public servant serving as the Youth Member of Parliament for Builsa South Constituency in the Upper East Region. She is also the Representative to the Vice President of the Republic of Ghana under Youth Parliament Ghana. A professional teacher by vocation, she combines academic excellence with experience in classroom leadership, student leadership, community engagement and youth development.",
+
+    vision:
+        "To promote quality education, youth empowerment, and inclusive governance while inspiring young people, especially young women from rural communities, to aspire to leadership and academic excellence.",
+
+    plans:
+        "Promote practical, career-focused technical education, youth empowerment, civic leadership and greater opportunities for young people, particularly young women and those from rural communities.",
+
+    contribution:
+        "HON. AKOBTA ROSEMARY seeks to contribute through education advocacy, youth leadership, community engagement, mathematics education and initiatives that promote academic excellence and inclusive governance.",
+
+    currentActivities:
+        "Serving as Youth Member of Parliament for Builsa South Constituency and Representative to the Vice President of the Republic of Ghana under Youth Parliament Ghana.",
+
+    leadershipExperience:
+        "General Advisor and President — Builsa Students Union (2009 – 2011). Treasurer — Scripture Union, St. John Bosco’s College. SRC Representative — St. John Bosco’s College (2013 – 2014). Vice President — Pentecost Students and Associates (PENSA), St. John Bosco’s College. Organizer — Scripture Union, St. John Bosco’s College.",
+
+    professionalExperience:
+        "Professional teacher with experience as Form Mistress and Examination Committee Member at Adakuru Junior High School, Zuarungu, and Form Mistress, Examination Committee Member and Welfare Officer at Sokabisi Junior High School, Bolgatanga. Professional development includes GES, Afrikids, NTC, Africa Hub for Social Policy, GIM School and Educational Consultancy, and Eagle Leaders World leadership training.",
+
+    focusAreas:
+        "QUALITY EDUCATION • YOUTH EMPOWERMENT • MATHEMATICS EDUCATION • CIVIC LEADERSHIP • WOMEN EMPOWERMENT • RURAL YOUTH DEVELOPMENT • INCLUSIVE GOVERNANCE",
+
+    slogan:
+        "Promoting quality education, youth empowerment and inclusive governance.",
+
+    image: "images/ROSEMARY.jpeg",
+
+    email: "#",
+    phone: "#",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp101",
+    name: "JOSEPHINE YAA DOSSAH",
+    position: "Member of Parliament",
+    constituency: "Okaikwei North Constituency",
+    region: "Greater Accra",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "Ghana Communication Technology University (GCTU) — BSc Computer Science, 4th year. Mfantsiman Girls Senior High School (2020–2023).",
+
+    profession:
+        "Student",
+
+    experience:
+        "Chairperson, Media and Communication Committee (2025/2026) — SRC, Ghana Communication Technology University. Member, Media and Communication Committee (2024/2025) — SRC, Ghana Communication Technology University. Chief Porter — American Field Service (AFS), Mfantsiman Girls Local.",
+
+    biography:
+        "JOSEPHINE YAA DOSSAH is a Computer Science student at Ghana Communication Technology University (GCTU) with a strong interest in technology, leadership, communication, and creating meaningful solutions for people and communities. Born in Takoradi in 2005, she attended Mfantsiman Girls Senior High School from 2020 to 2023. She is currently pursuing a degree in Computer Science at GCTU and has had opportunities to serve and work with fellow students in different leadership and organizational capacities. Through these experiences, she has developed skills in communication, teamwork, coordination, problem-solving, and working with people from different backgrounds. Beyond academics, she has a strong interest in using technology and digital communication to improve how people access information and engage with their communities. She enjoys exploring ideas that combine technology, creativity, and practical solutions, particularly in areas such as digital platforms, software development, information systems, and student engagement. Her leadership experiences have strengthened her belief that effective leadership is about service, responsibility, communication, and creating opportunities for others. She values transparency, collaboration, accountability, and listening to the people she represents. She continues to develop academically, professionally, and personally, with the goal of using her knowledge and experiences to make a positive contribution wherever she finds herself.",
+
+    vision:
+        "To use technology, communication, leadership and service to create meaningful solutions and contribute positively to people and communities.",
+
+    plans:
+        "Support the use of technology and digital communication to improve access to information, strengthen student engagement and create practical solutions for communities.",
+
+    contribution:
+        "JOSEPHINE YAA DOSSAH seeks to contribute through technology, communication, student engagement, leadership, teamwork and community-focused initiatives.",
+
+    currentActivities:
+        "Currently pursuing a BSc in Computer Science at Ghana Communication Technology University and serving as a Member of Parliament for Okaikwei North Constituency in the Parliament of Ghana.",
+
+    leadershipExperience:
+        "Chairperson, Media and Communication Committee (2025/2026) — SRC, Ghana Communication Technology University. Member, Media and Communication Committee (2024/2025) — SRC, Ghana Communication Technology University. Chief Porter — American Field Service (AFS), Mfantsiman Girls Local.",
+
+    professionalExperience:
+        "Currently a Computer Science student at Ghana Communication Technology University. Her experience includes student leadership, media and communication activities, organizational coordination and service through the SRC and American Field Service.",
+
+    focusAreas:
+        "TECHNOLOGY • COMPUTER SCIENCE • DIGITAL COMMUNICATION • LEADERSHIP • STUDENT ENGAGEMENT • INFORMATION SYSTEMS • SOFTWARE DEVELOPMENT • COMMUNITY SERVICE",
+
+    slogan:
+        "Technology, leadership and service for meaningful solutions.",
+
+    image: "images/DOSSAH.jpeg",
+
+    email: "jyfdossah6@gmail.com",
+    phone: "+233534094403",
+    website: "#",
+
+    facebook: "#",
+    twitter: "https://x.com/Bay_bydoss",
+    instagram: "https://www.instagram.com/bay_bydoss?stkn=MWxvbjRtbnRtbDk2OQ==",
+    linkedin: "https://www.linkedin.com/in/josephine-yaa-dossah-08a8bb2ba?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+    tiktok: "#"
+},
 
 
 ];
