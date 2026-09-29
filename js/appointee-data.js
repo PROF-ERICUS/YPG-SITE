@@ -1812,6 +1812,61 @@ region: "Ashanti",
     linkedin: "Zoelynn Baaba Hammah",
     tiktok: "#"
 },
+    {
+    id: "app032",
+    name: "ABOAGYE PRINCE",
+    position: "Representative to the Youth Employment Agency (YEA)",
+    ministry: "Youth Employment Agency",
+    constituency: "Abirem constituency",
+    region: "Eastern",
+    appointmentDate: "29th September,2026.",
+    isMP: true,
+
+    education:
+        "University of Cape Coast (UCC) — BSc. Health Information Management, Degree, 2026.",
+
+    profession:
+        "Health Information Officer",
+
+    experience:
+        "Representative to the Youth Employment Agency (YEA) — Youth Parliament Ghana. Youth Member of Parliament — Abirem Constituency. P.R.O — College of Health and Allied Sciences Students Association (CoHASSA), UCC. Deputy Loans Officer — NUGS-UCC. Youth MP — Youth Model Parliament.",
+
+    biography:
+        "ABOAGYE PRINCE is a graduate of the University of Cape Coast, a student leader and health advocate. He is a Youth Member of Parliament for the Abirem Constituency and serves as the Representative to the Youth Employment Agency (YEA) under Youth Parliament Ghana. He served as Deputy Loans Officer of NUGS-UCC and researched the Ghana Health Information Management System (GHIMS) at Ewim Polyclinic. He is leading a three-day health screening and education outreach in New Abirem, Akoase and Pankese, and runs an opportunities channel that shares jobs and other openings with young people. He has won Health Student Personality of the Year at the African Students Personality Awards and Political Personality of the Year at the HIMSA UCC Dinner and Awards Night. He is also an active public speaker and debater.",
+
+    vision:
+        "To support youth development, employment opportunities, health advocacy, education and meaningful youth participation.",
+
+    plans:
+        "Support youth employment opportunities, health education, community health initiatives, youth advocacy and access to opportunities for young people.",
+
+    contribution:
+        "Contributes through health advocacy, youth representation, health education, community outreach, public speaking, debate and sharing employment and other opportunities with young people.",
+
+    currentActivities:
+        "Currently serving as Representative to the Youth Employment Agency (YEA) under Youth Parliament Ghana and as a Youth Member of Parliament for the Abirem Constituency, while working as a Health Data Analyst.",
+
+    leadershipExperience:
+        "Representative to the Youth Employment Agency (YEA) — Youth Parliament Ghana. Youth Member of Parliament — Abirem Constituency. P.R.O — College of Health and Allied Sciences Students Association (CoHASSA), UCC. Deputy Loans Officer — NUGS-UCC. Youth MP — Youth Model Parliament.",
+
+    professionalExperience:
+        "Health Information Officer and Health Data Analyst with experience in health information management, health advocacy, student leadership, public speaking and community health engagement.",
+
+    focusAreas:
+        "Youth Employment • Health Advocacy • Health Education • Youth Development • Health Information Management • Community Outreach • Public Speaking • Debate",
+
+    image: "images/aboagye.jpeg",
+
+    email: "aboagyeprince361@gmail.com",
+    phone: "0206622806",
+    website: "#",
+
+    facebook: "https://www.facebook.com/nana.favour.733",
+    twitter: "https://x.com/QwesiCritic",
+    instagram: "https://www.instagram.com/ohene_aboagye00",
+    linkedin: "https://www.linkedin.com/in/prince-aboagye-8b9281229",
+    tiktok: "#"
+},
 
     
 
