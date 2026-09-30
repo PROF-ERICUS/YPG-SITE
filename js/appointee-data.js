@@ -2137,6 +2137,127 @@ region: "Ashanti",
     linkedin: "Okine Emmanuel",
     tiktok: "#"
 },
+    {
+    id: "app038",
+    name: "AYEBENG SAMUEL ANYANE",
+    position: "Public Relations Officer (PRO)",
+    ministry: "Youth Parliament Ghana",
+    region: "Eastern",
+    appointmentDate: "12th September, 2026",
+    status: "active",
+    isMP: true,
+    mpId: "mp106",
+    constituency: "Asuogyaman Constituency",
+
+    education:
+        "Bachelor of Science in Actuarial Science — University of Ghana, In Progress. West African Senior School Certificate Examination (WASSCE) — Akwamuman Senior High School, 2025.",
+
+    profession:
+        "Student / Youth Leader",
+
+    experience:
+        "Chairman — Commonwealth Hall Sports Committee, University of Ghana; Course Representative — University of Ghana; Member — University of Ghana Parliament House; Member — Commonwealth Hall JCR Parliament; Member — Planning Committee, 68th UGSRC Inter-Hall Football Competition; Entertainment Prefect — Akwamuman Senior High School; SRC Executive Committee Member — Akwamuman Senior High School; School Prefect — Mount Mary Demonstration JHS; Cadet 2IC — Mount Mary Demonstration JHS.",
+
+    biography:
+        "AYEBENG SAMUEL ANYANE is a Ghanaian youth leader and student of the University of Ghana, where he is pursuing a Bachelor of Science in Actuarial Science. He currently serves as the Youth Member of Parliament for the Asuogyaman Constituency and Public Relations Officer (PRO) of Youth Parliament Ghana. His leadership experience spans youth advocacy, student governance, public relations, sports administration, community engagement and service. He is also actively involved in the Rotaract movement and serves as Public Image Director of the Rotaract Club of the University of Ghana, where he contributes to communications, visibility and public engagement.",
+
+    vision:
+        "To strengthen youth representation, effective public communication, community engagement and meaningful opportunities for young people to participate in leadership and development.",
+
+    plans:
+        "Strengthen public communication, improve youth engagement, support grassroots participation and create effective channels for young people to have their concerns and aspirations represented.",
+
+    contribution:
+        "Public relations, youth advocacy, communication, community engagement, student governance, sports administration and youth leadership.",
+
+    currentActivities:
+        "Public Relations Officer (PRO) — Youth Parliament Ghana; Youth Member of Parliament — Asuogyaman Constituency; Public Image Director — Rotaract Club of the University of Ghana; BSc Actuarial Science student at the University of Ghana.",
+
+    leadershipExperience:
+        "Public Relations Officer — Youth Parliament Ghana; Chairman — Commonwealth Hall Sports Committee; Course Representative — University of Ghana; Member — University of Ghana Parliament House; Member — Commonwealth Hall JCR Parliament; Entertainment Prefect — Akwamuman Senior High School; SRC Executive Committee Member — Akwamuman Senior High School; School Prefect — Mount Mary Demonstration JHS; Cadet 2IC — Mount Mary Demonstration JHS.",
+
+    professionalExperience:
+        "Student / Youth Leader with experience in public relations, public image management, youth advocacy, student governance, sports administration and community engagement.",
+
+    focusAreas:
+        "PUBLIC RELATIONS • YOUTH ADVOCACY • COMMUNICATION • YOUTH REPRESENTATION • COMMUNITY ENGAGEMENT • LEADERSHIP • STUDENT GOVERNANCE • YOUTH DEVELOPMENT",
+
+    slogan:
+        "Effective communication, youth representation and meaningful participation.",
+
+    image: "images/Anyane.jpeg",
+
+    email: "samuelayebeng1@gmail.com",
+    phone: "0501729271",
+    website: "#",
+
+    facebook: "https://www.facebook.com/share/18dKJFLKNe/?mibextid=wwXIfr",
+    twitter: "https://x.com/ayebengfactor",
+    instagram: "https://www.instagram.com/theayebengfactor",
+    linkedin: "https://www.linkedin.com/in/samuelayebeng-6b8b473ba",
+    tiktok: "https://www.tiktok.com/@theayebengfactor"
+},
+
+{
+    id: "app039",
+    name: "ANGELA AFORTOR",
+    position: "Deputy Attorney General",
+    ministry: "Youth Parliament Ghana",
+    region: "Ashanti",
+    appointmentDate: "30th September, 2026",
+    status: "active",
+    isMP: false,
+    mpId: "",
+    constituency: "Nhyiayeso Constituency",
+
+    education:
+        "Bachelor of Science (BSc) Biological Science — University of Energy and Natural Resources (UENR), 2024–2028. West African Senior School Certificate Examination (WASSCE), General Science — Kumasi Wesley Girls' Senior High School, 2020–2023.",
+
+    profession:
+        "Biological Science Student / Aspiring Public Servant",
+
+    experience:
+        "Member of Parliament — UENR Biological Science Department; Speaker — UENR Biological Science Departmental Senate; Second Deputy Electoral Commissioner — UENR; Student Advocate — UENR; Academic Peer Mentor — UENR; Research & Quiz Team Member — UENR Biological Science Department; Campus Representative — Wattpad Ghana; Laboratory Intern — Mater Dei Hospital; Teacher — Prefect Love Academy; Shop Attendant — Ishawang Company Limited.",
+
+    biography:
+        "ANGELA AFORTOR is a young leader and Biological Science student at the University of Energy and Natural Resources (UENR), where she is pursuing a Bachelor of Science in Biological Science. She is passionate about leadership, youth development, advocacy, student representation and public service. She currently serves as the Member of Parliament for the Biological Science Department at UENR and has also served in student parliamentary leadership, including as Speaker of the Departmental Senate. Her leadership experience extends to electoral administration, student advocacy, academic support and community engagement. She has been involved in organizing academic tutorials, representing students on issues affecting their welfare, and promoting constructive dialogue between students and institutional authorities. Hon. Angela has also gained practical professional experience through a laboratory internship at Mater Dei Hospital, where she was exposed to clinical laboratory procedures, scientific reporting, water quality testing and other laboratory practices. She has previously worked as a teacher and as a shop attendant, experiences which strengthened her communication, teamwork, leadership and interpersonal skills. She completed her secondary education at Kumasi Wesley Girls' Senior High School, where she studied General Science. As Deputy Attorney General of Youth Parliament Ghana, Hon. Angela seeks to contribute to meaningful discussions on justice, governance, youth participation, accountability and the rule of law while continuing to develop her leadership and public-service capacity.",
+
+    vision:
+        "To contribute to meaningful discussions on justice, governance, youth participation, accountability and the rule of law while promoting effective youth leadership and public service.",
+
+    plans:
+        "Promote youth participation, accountability, constructive dialogue, student advocacy and meaningful engagement on issues relating to governance, justice and the rule of law.",
+
+    contribution:
+        "Youth leadership, student representation, advocacy, electoral administration, academic support, community engagement and public service.",
+
+    currentActivities:
+        "Deputy Attorney General — Youth Parliament Ghana; Member of Parliament — UENR Biological Science Department; Speaker — UENR Biological Science Departmental Senate; Student Lawyer — UENR Student Bar Association; BSc Biological Science student at UENR.",
+
+    leadershipExperience:
+        "Member of Parliament — UENR Biological Science Department; Speaker — UENR Biological Science Departmental Senate; Second Deputy Electoral Commissioner — UENR; Student Advocate — UENR; Academic Peer Mentor — UENR; Research & Quiz Team Member — UENR Biological Science Department; Campus Representative — Wattpad Ghana.",
+
+    professionalExperience:
+        "Laboratory Intern — Mater Dei Hospital; Teacher — Prefect Love Academy; Shop Attendant — Ishawang Company Limited.",
+
+    focusAreas:
+        "JUSTICE • GOVERNANCE • YOUTH PARTICIPATION • ACCOUNTABILITY • RULE OF LAW • STUDENT REPRESENTATION • ADVOCACY • PUBLIC SERVICE",
+
+    slogan:
+        "Youth leadership, justice, accountability and public service.",
+
+    image: "images/yawa.jpeg",
+
+    email: "AngelaAfortor@gmail.com",
+    phone: "0537025622",
+    website: "#",
+
+    facebook: "Angela Afortor",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
 
 
 ];
