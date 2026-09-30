@@ -2258,6 +2258,66 @@ region: "Ashanti",
     linkedin: "#",
     tiktok: "#"
 },
+    {
+    id: "app040",
+    name: "ALABANI IBRAHIM",
+    position: "CLERK TO THE YOUTH PARLIAMENT - GHANA",
+    ministry: "Youth Parliament Ghana",
+    region: "Northern",
+    appointmentDate: "20th September,2026",
+    status: "active",
+    isMP: false,
+    mpId: "",
+    constituency: "Bimbilla constituency",
+
+    education:
+        "Master of Philosophy (MPhil) in Agribusiness Management and Entrepreneurship — University of Skills Training and Entrepreneurial Development (USTED), currently in progress; Bachelor of Science (BSc) in Agribusiness Management and Entrepreneurship Education — University of Education, Winneba, Mampong Campus, 2023.",
+
+    profession:
+        "Facilitator and Agribusiness Consultant",
+
+    experience:
+        "Clerk to the Youth Parliament — Youth Parliament of Ghana; Tutor — College of Tropical Agriculture (KITA); Senior Program Officer and Facilitator — Institute for Sustainable Energy and Environmental Solutions (ISEES); Deputy Chief Justice — IAAS, UEW-M Chapter; SRC Audit Secretary — Students' Representative Council, UEW-M.",
+
+    biography:
+        "ALABANI IBRAHIM is a dedicated youth leader, educator and agribusiness professional from Bimbilla in the Northern Region of Ghana. He holds a Bachelor of Science Degree in Agribusiness Management and Entrepreneurship Education from the University of Education, Winneba — Mampong Campus, obtained in 2023, and is currently pursuing a Master of Philosophy (MPhil) in Agribusiness Management and Entrepreneurship at the University of Skills Training and Entrepreneurial Development (USTED). He is a professional Facilitator and Agribusiness Consultant, currently serving as a Tutor at the College of Tropical Agriculture (KITA) and as a Senior Program Officer and Facilitator at the Institute for Sustainable Energy and Environmental Solutions (ISEES). With a strong background in student governance, he has served as Deputy Chief Justice of IAAS UEW-M and SRC Audit Secretary of UEW-M. He currently serves as the Clerk to the Youth Parliament Ghana, where he oversees parliamentary administration and procedural matters. He is passionate about youth empowerment, sustainable agriculture and entrepreneurship.",
+
+    vision:
+        "To contribute to effective youth parliamentary administration while promoting youth empowerment, sustainable agriculture, entrepreneurship and leadership development.",
+
+    plans:
+        "Support effective parliamentary administration and procedural coordination while promoting youth empowerment, sustainable agriculture, agribusiness and entrepreneurship.",
+
+    contribution:
+        "Parliamentary administration, youth leadership, agribusiness, sustainable agriculture, entrepreneurship, education and student governance.",
+
+    currentActivities:
+        "Clerk to the Youth Parliament Ghana; Tutor — College of Tropical Agriculture (KITA); Senior Program Officer and Facilitator — Institute for Sustainable Energy and Environmental Solutions (ISEES); MPhil Agribusiness Management and Entrepreneurship student at USTED.",
+
+    leadershipExperience:
+        "Clerk to the Youth Parliament Ghana; Deputy Chief Justice — IAAS, UEW-M Chapter; SRC Audit Secretary — Students' Representative Council, UEW-M.",
+
+    professionalExperience:
+        "Facilitator and Agribusiness Consultant; Tutor — College of Tropical Agriculture (KITA); Senior Program Officer and Facilitator — Institute for Sustainable Energy and Environmental Solutions (ISEES).",
+
+    focusAreas:
+        "YOUTH EMPOWERMENT • PARLIAMENTARY ADMINISTRATION • AGRIBUSINESS • SUSTAINABLE AGRICULTURE • ENTREPRENEURSHIP • EDUCATION • LEADERSHIP • STUDENT GOVERNANCE",
+
+    slogan:
+        "Youth empowerment, sustainable agriculture and effective parliamentary administration.",
+
+    image: "images/alabani.jpeg",
+
+    email: "alabaniibrahim33@gmail.com",
+    phone: "0248827195",
+    website: "#",
+
+    facebook: "Alabani Ibrahim",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "Alabani Ibrahim",
+    tiktok: "#"
+},
 
 
 ];
