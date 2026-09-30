@@ -41,18 +41,6 @@
 
 
     <style>
-        @media (max-width: 576px) {
-    .page-navigation {
-        right: 15px;
-        bottom: 20px;
-    }
-
-    .page-navigation button {
-        width: 40px;
-        height: 40px;
-        font-size: 17px;
-    }
-}
 
         /* =========================
            PROFILE HEADER
@@ -172,6 +160,18 @@
 
 .page-navigation button:active {
     transform: scale(0.95);
+}
+@media (max-width: 576px) {
+    .page-navigation {
+        right: 15px;
+        bottom: 20px;
+    }
+
+    .page-navigation button {
+        width: 40px;
+        height: 40px;
+        font-size: 17px;
+    }
 }
 
 
@@ -538,6 +538,62 @@
             }
 
         }
+        /* ========================================
+   REVOKED PROFILE ACCESS
+======================================== */
+
+.revoked-profile {
+    max-width: 800px;
+    margin: 70px auto;
+    padding: 50px 30px;
+    text-align: center;
+    background: #ffffff;
+    border: 1px solid #eadede;
+    border-radius: 18px;
+    box-shadow: 0 20px 50px rgba(7, 27, 53, 0.10);
+}
+
+.revoked-icon {
+    width: 80px;
+    height: 80px;
+    margin: 0 auto 25px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(180, 40, 40, 0.10);
+    color: #b42828;
+    font-size: 38px;
+}
+
+.revoked-profile h2 {
+    color: var(--navy);
+    font-size: 28px;
+    font-weight: 800;
+    margin-bottom: 15px;
+}
+
+.revoked-profile p {
+    color: var(--muted);
+    line-height: 1.8;
+    max-width: 600px;
+    margin: 0 auto 10px;
+}
+
+.revoked-profile .member-name {
+    color: #b42828;
+    font-weight: 800;
+}
+
+.revoked-profile .admin-message {
+    margin-top: 20px;
+    padding: 15px 20px;
+    background: #faf7ef;
+    border: 1px solid rgba(215, 169, 40, 0.25);
+    border-radius: 10px;
+    color: #7d641c;
+    font-weight: 600;
+}
 
     </style>
 
@@ -1349,19 +1405,113 @@
            CHECK PROFILE
         ========================== */
 
-        if (!appointee) {
+       if (!appointee) {
 
-            profileCard.style.display =
-                "none";
+    profileCard.style.display =
+        "none";
 
-            profileNotFound.style.display =
-                "block";
+    profileNotFound.style.display =
+        "block";
 
-            document.title =
-                "Profile Not Found | Youth Parliament Ghana";
+    document.title =
+        "Profile Not Found | Youth Parliament Ghana";
 
-            return;
-        }
+    return;
+}
+/* =========================
+   CHECK PROFILE STATUS
+========================= */
+
+const appointeeStatus =
+    String(appointee.status || "active")
+        .toLowerCase()
+        .trim();
+
+if (appointeeStatus === "revoked") {
+
+    document.title =
+        "Profile Access Revoked | Youth Parliament Ghana";
+
+    /* Hide the normal profile */
+    profileCard.style.display = "none";
+
+    /* Change header label */
+    const profileHeaderLabel =
+        document.querySelector(
+            ".profile-header .section-label"
+        );
+
+    if (profileHeaderLabel) {
+        profileHeaderLabel.textContent =
+            "PROFILE ACCESS RESTRICTED";
+    }
+
+    /* Create revoked message */
+    const revokedSection =
+        document.createElement("section");
+
+    revokedSection.innerHTML = `
+        <div class="container">
+
+            <div class="revoked-profile">
+
+                <div class="revoked-icon">
+                    <i class="bi bi-lock-fill"></i>
+                </div>
+
+                <h2>
+                    PROFILE ACCESS REVOKED
+                </h2>
+
+                <p>
+                    Access to the profile of
+                    <span class="member-name">
+                        ${escapeHTML(
+                            appointee.name ||
+                            "this appointee"
+                        )}
+                    </span>
+                    is currently unavailable.
+                </p>
+
+                <p>
+                    This member's profile access
+                    has been revoked.
+                </p>
+
+                <div class="admin-message">
+                    <i class="bi bi-info-circle me-1"></i>
+                    Please contact the Administrator
+                    for assistance.
+                </div>
+
+                <a
+                    href="appointees.html"
+                    class="btn btn-gold mt-4"
+                >
+                    <i class="bi bi-arrow-left"></i>
+                    Back to Appointees
+                </a>
+
+            </div>
+
+        </div>
+    `;
+
+    const profileHeader =
+        document.querySelector(
+            ".profile-header"
+        );
+
+    if (profileHeader) {
+        profileHeader.insertAdjacentElement(
+            "afterend",
+            revokedSection
+        );
+    }
+
+    return;
+}
 
 
         /* =========================
@@ -1670,6 +1820,7 @@
         });
     });
 </script>
+
 
 
 </body>
