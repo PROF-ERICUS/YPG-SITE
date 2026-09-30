@@ -5808,7 +5808,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Leadership, teamwork and service for youth development.",
 
-    image: "",
+    image: "images/fosu.jpeg",
 
     email: "ntoridaniel280@gmail.com",
     phone: "0257117479",
