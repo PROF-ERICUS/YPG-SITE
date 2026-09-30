@@ -1991,7 +1991,8 @@ region: "Ashanti",
     appointmentDate: "August 2026",
     isMP: false,
     mpId: "",
-    constituency: "",
+    constituency: "Mfantseman constituency",
+     status: "active",
 
     education:
         "Professional Executive Masterclass in Alternative Dispute Resolution, Credit Management and Security Registration — Alternative Dispute Resolution Security and Research Institute (2025/2026). BBA, Business Administration — University of Professional Studies, Accra (2020–2024). Kwegyir Aggrey Senior High School (2014–2017), General Arts.",
@@ -2043,6 +2044,99 @@ region: "Ashanti",
 },
 
 
+{
+    id: "app033",
+    name: "WISDOM APPIAH SACKEY",
+    position: "Greater Accra Regional Minister",
+    ministry: "Greater Accra",
+    region: "Greater Accra",
+    appointmentDate: "29th September, 2026",
+    status: "active",
+    isMP: false,
+    mpId: "",
+    constituency: "Kpone Katamanso",
+
+    education:
+        "Bachelor of Arts — University of Ghana, Legon Campus. Accra Academy (Bleoo). Leonardo Junior High School, Tema.",
+
+    profession:
+        "Student, Youth Activist and Civic Education Advocate",
+
+    experience:
+        "Hall Prefect, Wilson Tei Hall — Accra Academy. President, Bleoo Civic Education Club. PRO, Bleoo Peer Counselling Department. Speaker, Accra Academy Youth Parliament. PRO, Interact Club.",
+
+    biography:
+        "WISDOM APPIAH SACKEY is the Greater Accra Regional Minister for Youth Parliament Ghana and a passionate youth activist from Kpone Katamanso dedicated to civic education and youth empowerment nationwide. He is an alumnus of Leonardo Junior High School and Accra Academy, where he demonstrated strong leadership through various student and youth leadership positions. His leadership experience includes serving as Hall Prefect of Wilson Tei Hall, President of the Bleoo Civic Education Club, PRO of the Bleoo Peer Counselling Department, Speaker of the Accra Academy Youth Parliament and PRO of the Interact Club. He is currently pursuing a Bachelor of Arts at the University of Ghana, Legon Campus. Through his leadership and civic engagement, he continues to promote youth participation, civic education and empowerment.",
+
+    vision:
+        "To promote civic education, youth empowerment and meaningful youth participation in governance across the Greater Accra Region and Ghana.",
+
+    plans:
+        "Promote civic education, youth engagement, leadership development and empowerment initiatives while encouraging young people to actively participate in national development.",
+
+    contribution:
+        "WISDOM APPIAH SACKEY seeks to contribute through civic education, youth advocacy, leadership, empowerment, communication and community engagement.",
+
+    currentActivities:
+        "Currently pursuing a Bachelor of Arts at the University of Ghana, Legon Campus, while serving as the Greater Accra Regional Minister for Youth Parliament Ghana.",
+
+    leadershipExperience:
+        "Hall Prefect, Wilson Tei Hall — Accra Academy. President, Bleoo Civic Education Club. PRO, Bleoo Peer Counselling Department. Speaker, Accra Academy Youth Parliament. PRO, Interact Club. Greater Accra Regional Minister, Youth Parliament Ghana.",
+
+    professionalExperience:
+        "Youth activist and civic education advocate with experience in student leadership, youth engagement, peer counselling, civic education, public speaking and community-oriented leadership.",
+
+    focusAreas:
+        "CIVIC EDUCATION • YOUTH EMPOWERMENT • LEADERSHIP • YOUTH PARTICIPATION • GOVERNANCE • COMMUNITY ENGAGEMENT • ADVOCACY",
+
+    slogan:
+        "Empowering youth through civic education and leadership.",
+
+    image: "images/SACKEY.jpeg",
+
+    email: "sackeywisdom659@gmail.com",
+    phone: "0264703839",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "app034",
+    name: "OKINE EMMANUEL",
+    position: "Deputy Minister for Sports and Recreation",
+    ministry: "Ministry of Sports and Recreation",
+    region: "Central",
+    appointmentDate: "28th September, 2026",
+    status: "active",
+    isMP: false,
+    mpId: "",
+    constituency: "Awutu Senya East",
+    education: "Bachelor of Science (BSc) in Mechanical Engineering — University of Mines and Technology (UMaT), Tarkwa (In Progress)",
+    profession: "Student / Coach",
+    experience: "Coach — Youth and Community Sports Teams; Volunteer — Grassroots Sports Development Programs",
+    biography: "Hon. OKINE EMMANUEL is a dedicated youth leader and student of the University of Mines and Technology, Tarkwa, where he is pursuing a Bachelor of Science in Mechanical Engineering. Serving as Deputy Minister for Sports and Recreation under Youth Parliament Ghana, he is passionate about using sports as a vehicle for youth empowerment and development. A professional coach by experience, he has been actively involved in training and mentoring young talents at the grassroots level. He is committed to promoting inclusive sports development across Ghana.",
+    vision: "To promote sports as a vehicle for youth empowerment, talent development and national development.",
+    plans: "To support inclusive sports development, grassroots talent identification, youth participation and sports mentorship.",
+    contribution: "Promoting youth empowerment through sports, coaching and grassroots sports development.",
+    currentActivities: "Serving as Deputy Minister for Sports and Recreation, Youth Parliament Ghana.",
+    leadershipExperience: "Youth leader and Deputy Minister for Sports and Recreation, Youth Parliament Ghana.",
+    professionalExperience: "Coach — Youth and Community Sports Teams; Volunteer — Grassroots Sports Development Programs.",
+    focusAreas: "Youth Sports Development, Grassroots Sports, Talent Development, Youth Empowerment and Inclusive Sports.",
+    slogan: "Empowering youth through sports and inclusive development.",
+    image: "images/OKINE.jpeg",
+    email: "okineemmanuel645@gmail.com",
+    phone: "0248358772",
+    website: "https://youth-parliament-ghana-site.vercel.app/",
+    facebook: "Okine Emmanuel",
+    twitter: "@king_welbeck001",
+    instagram: "@riches.of_welbeck",
+    linkedin: "Okine Emmanuel",
+    tiktok: "#"
+},
 
 
 ];
