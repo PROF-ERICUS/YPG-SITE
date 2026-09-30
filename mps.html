@@ -1133,8 +1133,114 @@
         });
     });
 </script>
+<script>
+function checkDuplicateConstituencies() {
+    const constituencyMap = {};
+    const duplicates = [];
 
+    mpData.forEach(function (member) {
 
+        // Ignore revoked MPs
+        if (member.status === "revoked") return;
+
+        if (!member.constituency) return;
+
+        const constituency = member.constituency
+            .trim()
+            .replace(/\s+/g, " ")
+            .toLowerCase();
+
+        if (constituencyMap[constituency]) {
+
+            duplicates.push({
+                constituency: member.constituency,
+                firstMP: constituencyMap[constituency],
+                duplicateMP: member
+            });
+
+        } else {
+            constituencyMap[constituency] = member;
+        }
+    });
+
+    if (duplicates.length > 0) {
+
+        let message =
+            "⚠️ DUPLICATE MP DETECTED\n\n" +
+            "Two active MPs cannot be assigned to the same constituency.\n\n";
+
+        duplicates.forEach(function (duplicate, index) {
+
+            message +=
+                `${index + 1}. ${duplicate.constituency}\n` +
+                `Existing MP: ${duplicate.firstMP.name}\n` +
+                `ID: ${duplicate.firstMP.id}\n\n` +
+                `Duplicate MP: ${duplicate.duplicateMP.name}\n` +
+                `ID: ${duplicate.duplicateMP.id}\n\n` +
+                "--------------------------------\n\n";
+        });
+
+        alert(message);
+
+        console.error(
+            "DUPLICATE CONSTITUENCIES DETECTED:",
+            duplicates
+        );
+    }
+}
+
+checkDuplicateConstituencies();
+</script>
+<script src="js/mp-data.js"></script>
+
+<script>
+function checkDuplicateConstituencies() {
+    const constituencyMap = {};
+    const duplicates = [];
+
+    mpData.forEach(function (member) {
+
+        if (member.status === "revoked") return;
+        if (!member.constituency) return;
+
+        const constituency = member.constituency
+            .trim()
+            .replace(/\s+/g, " ")
+            .toLowerCase();
+
+        if (constituencyMap[constituency]) {
+            duplicates.push({
+                constituency: member.constituency,
+                firstMP: constituencyMap[constituency],
+                duplicateMP: member
+            });
+        } else {
+            constituencyMap[constituency] = member;
+        }
+    });
+
+    if (duplicates.length > 0) {
+
+        let message =
+            "⚠️ DUPLICATE MP DETECTED\n\n" +
+            "Two active MPs cannot be assigned to the same constituency.\n\n";
+
+        duplicates.forEach(function (duplicate, index) {
+            message +=
+                `${index + 1}. ${duplicate.constituency}\n` +
+                `Existing MP: ${duplicate.firstMP.name}\n` +
+                `ID: ${duplicate.firstMP.id}\n\n` +
+                `Duplicate MP: ${duplicate.duplicateMP.name}\n` +
+                `ID: ${duplicate.duplicateMP.id}\n\n` +
+                "--------------------------------\n\n";
+        });
+
+        alert(message);
+    }
+}
+
+checkDuplicateConstituencies();
+</script>
 </body>
 
 </html>
