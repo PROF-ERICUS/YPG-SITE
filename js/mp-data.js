@@ -5425,6 +5425,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Bortianor-Ngleshie Amanfro Constituency",
     region: "Greater Accra",
     parliament: "Youth Parliament Ghana",
+    status: "active",
 
     education:
         "Bachelor of Science in Biochemistry — University for Development Studies (UDS).",
@@ -5481,6 +5482,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Weija-Gbawe Constituency",
     region: "Greater Accra",
     parliament: "Youth Parliament Ghana",
+    status: "active",
 
     education:
         "Bachelor of Science in Business Administration. Certified Electrical Engineering Technician. Currently affiliated with FUSSAG, University of Ghana.",
@@ -5530,8 +5532,63 @@ parliament: "Youth Parliament Ghana",
     linkedin: "#",
     tiktok: "#"
 },
+{
+    id: "mp104",
+    name: "JOSHUA AMONI NARH",
+    position: "Youth Member of Parliament",
+    constituency: "Shai-Osudoku constituency",
+    region: "Greater Accra",
+    parliament: "Youth Parliament Ghana",
+    appointmentDate: "5th September, 2026",
+    status: "active",
 
+    education:
+        "Bachelor's Degree in Agricultural Science — Ada College of Education (2024/2025).",
 
+    profession:
+        "Teacher / Agriculturist",
 
+    experience:
+        "Youth Organizer — Kongo Youth Club. Currently undertaking National Service to the nation.",
+
+    biography:
+        "JOSHUA AMONI NARH is a young Ghanaian leader from Kongo in the Shai-Osudoku Constituency and a Youth Member of Parliament for Shai-Osudoku under Youth Parliament Ghana. He serves as the Youth Organizer for the Kongo Youth Club and holds a Bachelor's Degree in Agricultural Science from Ada College of Education. He is currently undertaking his National Service to the nation. He is passionate about youth empowerment, agricultural development and community transformation. He believes in servant leadership and is committed to representing the voice of young people and creating opportunities for development within his community.",
+
+    vision:
+        "To empower young people, promote agricultural development and contribute to sustainable transformation in the Shai-Osudoku Constituency and beyond.",
+
+    plans:
+        "Promote youth empowerment, agricultural development, community transformation and opportunities that enable young people to actively contribute to local and national development.",
+
+    contribution:
+        "JOSHUA AMONI NARH seeks to contribute through youth leadership, agricultural development, community engagement, youth empowerment and servant leadership.",
+
+    currentActivities:
+        "Currently undertaking National Service to the nation while serving as Youth Organizer for the Kongo Youth Club and Youth Member of Parliament for Shai-Osudoku under Youth Parliament Ghana.",
+
+    leadershipExperience:
+        "Youth Organizer — Kongo Youth Club. Youth Member of Parliament — Shai-Osudoku Constituency, Youth Parliament Ghana.",
+
+    professionalExperience:
+        "Teacher and Agriculturist with academic training in Agricultural Science and current experience as a National Service Personnel.",
+
+    focusAreas:
+        "YOUTH EMPOWERMENT • AGRICULTURAL DEVELOPMENT • COMMUNITY TRANSFORMATION • LEADERSHIP • YOUTH PARTICIPATION • SERVANT LEADERSHIP • COMMUNITY DEVELOPMENT",
+
+    slogan:
+        "Servant leadership, youth empowerment and community transformation.",
+
+    image: "images/NARH.jpeg",
+
+    email: "amonijoshua075@gmail.com",
+    phone: "0591313254",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
 
 ];
