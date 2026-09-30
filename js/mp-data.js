@@ -295,6 +295,8 @@ website: "#"
     region: "Greater Accra",
     parliament: "Youth Parliament Ghana",
     committee: "Information to be updated",
+     // Profile access status
+    status: "revoked",
 
     education:
         "University of Ghana — Currently pursuing a Bachelor of Education. Also engaged in theological studies.",
@@ -1982,7 +1984,7 @@ parliament: "Youth Parliament Ghana",
     linkedin: "#",
     tiktok: "#"
 },
-  {
+{
     id: "mp041",
     name: "DOREEN QUARMYNE",
     position: "Youth Member of Parliament",
@@ -2038,7 +2040,9 @@ parliament: "Youth Parliament Ghana",
     linkedin: "Doreen Quarmyne",
     tiktok: "#"
 },
-  {
+
+
+{
     id: "mp042",
     name: "GIDEON DADZIE",
     position: "Member of Parliament ",
@@ -2712,7 +2716,9 @@ parliament: "Youth Parliament Ghana",
     tiktok: "#",
     whatsapp: "https://whatsapp.com/biz/"
 },
-  {
+
+
+{
     id: "mp054",
     name: "KYEI-BAFFOUR GODBLESS JNR",
     position: "Member of Parliament",
@@ -2925,7 +2931,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Education • Empowerment • Opportunity",
 
-    image: "images/sandow.jpeg",
+    image: "images/Amina.jpeg",
 
     email: "#",
     phone: "0596189425",
@@ -3385,7 +3391,7 @@ parliament: "Youth Parliament Ghana",
     linkedin: "Kingsley Davis",
     tiktok: "#"
 },
-{
+  {
     id: "mp066",
     name: "ASANTE VYAS",
     position: "Member of Parliament",
@@ -3554,7 +3560,9 @@ parliament: "Youth Parliament Ghana",
     linkedin: "#",
     tiktok: "#"
 },
-  {
+
+
+{
     id: "mp069",
     name: "CANDY ESABA OHIN",
     position: "Member of Parliament",
@@ -3666,7 +3674,9 @@ parliament: "Youth Parliament Ghana",
     linkedin: "#",
     tiktok: "#"
 },
-  {
+
+
+{
     id: "mp071",
     name: "AFRIFA JOHNSON ABDALLAH",
     position: "Member of Parliament",
@@ -3946,7 +3956,7 @@ parliament: "Youth Parliament Ghana",
     linkedin: "https://www.linkedin.com/in/magdalene-nana-adwoa-konadu-agyemang-hls-38b1b01b9?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
     tiktok: "#"
 },
-  {
+{
     id: "mp076",
     name: "CHESSMAN AYESU FRIMPONG",
     position: "Member of Parliament",
@@ -4002,7 +4012,7 @@ parliament: "Youth Parliament Ghana",
     linkedin: "#",
     tiktok: "#"
 },
-  {
+{
     id: "mp077",
     name: "ABOAGYE KINGSLEY KYEREMEH",
     position: "Member of Parliament",
@@ -4158,7 +4168,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Education • Leadership • Service",
 
-    image: "images/gyamesi.jpeg",
+    image: "images/Noah Gyamesi.png",
 
     email: "gyamesinoah@gmail.com",
     phone: "0546652425 / 0539700297",
@@ -4214,7 +4224,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Service • Integrity • Unity • Inclusion",
 
-    image: "images/fomenyo.jpeg",
+    image: "images/Fomenyo Godsway.png",
 
     email: "godswayfomenyo@gmail.com",
     phone: "0540780958",
@@ -4618,7 +4628,8 @@ parliament: "Youth Parliament Ghana",
     linkedin: "https://www.linkedin.com/in/gyasi-philip-mawufemor-2183b4402?utm_source=share_via&utm_content=profile&utm_medium=member_android",
     tiktok: "#"
 },
-  {
+
+{
     id: "mp088",
     name: "ABDULAI YUSSIF",
     position: "Member of Parliament",
@@ -4786,7 +4797,9 @@ parliament: "Youth Parliament Ghana",
     linkedin: "#",
     tiktok: "#"
 },
-  {
+
+
+{
     id: "mp091",
     name: "AGYEMANG PROPHET KWAME",
     position: "Member of Parliament",
@@ -5178,7 +5191,8 @@ parliament: "Youth Parliament Ghana",
     linkedin: "#",
     tiktok: "#"
 },
-  {
+
+{
     id: "mp098",
     name: "GODFRED WUNSUNMA ALI",
     position: "Member of Parliament",
@@ -5290,7 +5304,7 @@ parliament: "Youth Parliament Ghana",
     linkedin: "https://www.linkedin.com/in/jawhara-alhassan-976840365?utm_source=share_via&utm_content=profile&utm_medium=member_android",
     tiktok: "#"
 },
-  {
+{
     id: "mp100",
     name: "HON. AKOBTA ROSEMARY",
     position: "Member of Parliament",
@@ -5402,6 +5416,122 @@ parliament: "Youth Parliament Ghana",
     linkedin: "https://www.linkedin.com/in/josephine-yaa-dossah-08a8bb2ba?utm_source=share_via&utm_content=profile&utm_medium=member_android",
     tiktok: "#"
 },
+
+
+{
+    id: "mp102",
+    name: "RICHMOND FENYI",
+    position: "Member of Parliament",
+    constituency: "Bortianor-Ngleshie Amanfro Constituency",
+    region: "Greater Accra",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "Bachelor of Science in Biochemistry — University for Development Studies (UDS).",
+
+    profession:
+        "Student Leader, Entrepreneur and Media Professional",
+
+    experience:
+        "Majority Leader, Students Parliament — UDS Nyankpala Campus. General Secretary, Ghana Biochemistry Students Association (GHABSA). Chairperson, Water Committee — UDS NYC. President, Water, Sanitation and Hygiene (WASH) Club. Deputy Project Manager, National Youth Parliament. Deputy Director, Global Care Catalyst. Founder/Entrepreneurial involvement in Beloved's Koinonia Media, Teabread Graphix and Teabread Coding Agency.",
+
+    biography:
+        "RICHMOND FENYI is a young Ghanaian student leader, entrepreneur, media professional and youth governance advocate. He is pursuing a Bachelor of Science in Biochemistry at the University for Development Studies (UDS), while building experience across student leadership, communications, creative media, technology and project coordination. His leadership record includes serving as Majority Leader of the Students Parliament, UDS Nyankpala Campus; General Secretary of the Ghana Biochemistry Students Association (GHABSA); Chairperson of the Water Committee, UDS NYC; and President of the Water, Sanitation and Hygiene (WASH) Club. He also serves as Deputy Project Manager of the National Youth Parliament, supporting project-cycle management, logistics, resource coordination, stakeholder engagement and reporting for programmes and projects. Beyond student and youth governance, he is involved in media and technology entrepreneurship through Beloved's Koinonia Media, Teabread Graphix and Teabread Coding Agency. He also serves as Deputy Director of Global Care Catalyst, a mental-health organisation focused on males. His interests bring together leadership, youth development, science, communication, entrepreneurship and practical community-oriented initiatives.",
+
+    vision:
+        "To promote youth leadership, development, innovation and practical community-oriented initiatives through science, communication, entrepreneurship and governance.",
+
+    plans:
+        "To support youth development, strengthen meaningful participation in governance, promote community-oriented initiatives and use communication, technology and entrepreneurship to create opportunities for young people.",
+
+    contribution:
+        "RICHMOND FENYI seeks to contribute through youth leadership, governance, project coordination, communication, entrepreneurship, science, technology and community development.",
+
+    currentActivities:
+        "Currently pursuing a Bachelor of Science in Biochemistry at the University for Development Studies and serving as a Member of Parliament for Bortianor-Ngleshie Amanfro Constituency in Youth Parliament Ghana.",
+
+    leadershipExperience:
+        "Majority Leader, Students Parliament — UDS Nyankpala Campus. General Secretary, Ghana Biochemistry Students Association (GHABSA). Chairperson, Water Committee — UDS NYC. President, Water, Sanitation and Hygiene (WASH) Club. Deputy Project Manager, National Youth Parliament. Deputy Director, Global Care Catalyst.",
+
+    professionalExperience:
+        "Student leader, entrepreneur and media professional with experience in project-cycle management, logistics, resource coordination, stakeholder engagement, reporting, communications, creative media, technology and youth development.",
+
+    focusAreas:
+        "YOUTH LEADERSHIP • GOVERNANCE • BIOCHEMISTRY • SCIENCE • ENTREPRENEURSHIP • MEDIA • TECHNOLOGY • PROJECT MANAGEMENT • COMMUNITY DEVELOPMENT • WASH",
+
+    slogan:
+        "Leadership, innovation and service for youth development.",
+
+    image: "images/FENYI.jpeg",
+
+    email: "#",
+    phone: "#",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp103",
+    name: "QUAYE ABDUL RAHMAN NII ADU",
+    position: "Member of Parliament",
+    constituency: "Weija-Gbawe Constituency",
+    region: "Greater Accra",
+    parliament: "Youth Parliament Ghana",
+
+    education:
+        "Bachelor of Science in Business Administration. Certified Electrical Engineering Technician. Currently affiliated with FUSSAG, University of Ghana.",
+
+    profession:
+        "Technical Engineer, Cybersecurity Technician, Entrepreneur and Administration Assistant",
+
+    experience:
+        "Chief Executive Officer, YC Tech Gen Engineering Company. Administration Assistant, FUSSAG, University of Ghana. Founder, Ambassador Foundation for Underprivileged Youth. Technical Engineer and Cybersecurity Technician with experience in electronic security systems, surveillance technologies, cybersecurity, risk assessment, risk mitigation, security analysis and digital infrastructure protection.",
+
+    biography:
+        "QUAYE ABDUL RAHMAN NII ADU is a Ghanaian youth leader, entrepreneur, technical engineer and cybersecurity professional with a strong commitment to youth empowerment, innovation, technology and community development. He serves as the Chief Executive Officer of YC Tech Gen Engineering Company and is currently an Administration Assistant at FUSSAG, University of Ghana. Throughout his leadership journey, he has served in several responsible positions across institutions and organisations, demonstrating a commitment to integrity, accountability and public service. Professionally, he is a bilingual Technical Engineer and Cybersecurity Technician with expertise in Science, Technology, Engineering and Mathematics (STEM), electronic security systems, surveillance technologies, cybersecurity, risk assessment, risk mitigation, security analysis and digital infrastructure protection. He is also the Founder of the Ambassador Foundation for Underprivileged Youth, which focuses on equipping disadvantaged young people with digital literacy, STEM education, technical and vocational skills, entrepreneurship training, career mentorship, leadership development and employability programmes. Through the Foundation and various voluntary engagements, he has collaborated with communities, corporate institutions, development partners, international organisations, non-governmental organisations and philanthropic foundations to advance youth empowerment, education, entrepreneurship and sustainable community development. He is passionate about STEM, Technical and Vocational Education and Training (TVET), innovation, digital transformation, youth employment, evidence-based public policy, gender equality and the empowerment of girls and young women. His leadership vision is anchored in accountability, innovation, inclusiveness, integrity and selfless service.",
+
+    vision:
+        "To promote accountability, innovation, inclusiveness, integrity and selfless service while creating equitable opportunities for young Ghanaians in education, employment, entrepreneurship and national development.",
+
+    plans:
+        "Promote STEM and TVET education, digital transformation, youth employment, entrepreneurship, innovation, cybersecurity awareness and meaningful youth participation in governance and national development.",
+
+    contribution:
+        "QUAYE ABDUL RAHMAN NII ADU seeks to contribute through technical expertise, cybersecurity, technology solutions, youth empowerment, STEM and TVET advocacy, entrepreneurship, community development and public service.",
+
+    currentActivities:
+        "Currently serving as an Administration Assistant at FUSSAG, University of Ghana, leading YC Tech Gen Engineering Company as Chief Executive Officer and serving as a Youth Member of Parliament for Weija-Gbawe Constituency under Youth Parliament Ghana.",
+
+    leadershipExperience:
+        "Chief Executive Officer, YC Tech Gen Engineering Company. Founder, Ambassador Foundation for Underprivileged Youth. Youth Member of Parliament, Weija-Gbawe Constituency. Various leadership and voluntary engagements focused on youth empowerment, education, entrepreneurship, technology and community development.",
+
+    professionalExperience:
+        "Bilingual Technical Engineer and Cybersecurity Technician with expertise in electronic security and surveillance, risk mitigation and analysis, network and system security, digital infrastructure protection, security risk assessment, data protection and privacy, IT support and system administration, project management and innovation and technology solutions.",
+
+    focusAreas:
+        "STEM • TVET • CYBERSECURITY • TECHNOLOGY • DIGITAL TRANSFORMATION • YOUTH EMPOWERMENT • ENTREPRENEURSHIP • ELECTRONIC SECURITY • RISK MANAGEMENT • DATA PROTECTION • COMMUNITY DEVELOPMENT • PUBLIC SERVICE",
+
+    slogan:
+        "ACCOUNTABLE TO YOU. DRIVEN BY SERVICE.",
+
+    image: "images/QUAYE.jpeg",
+
+    email: "quayeabdulrahman@gmail.com",
+    phone: "0570552377",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+
+
 
 
 ];
