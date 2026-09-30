@@ -2246,7 +2246,7 @@ region: "Ashanti",
     slogan:
         "Youth leadership, justice, accountability and public service.",
 
-    image: "images/yawa.jpeg",
+    image: "images/angela.jpeg",
 
     email: "AngelaAfortor@gmail.com",
     phone: "0537025622",
