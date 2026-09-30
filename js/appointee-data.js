@@ -184,7 +184,7 @@ profession:
     "BSc Biochemistry Graduate / National Service Personnel",
 
 experience:
-    "RAHMAT BINT SADIQUE has served in various leadership and student representative roles. She served as Deputy Head Girl at Infant Jesus Catholic Preparatory School from 2015–2016, Protocol Head Girl at Ghana National College from 2018–2019, SRC General Secretary, Science 2 Class Prefect, and Course Representative at the University of Cape Coast. She was also an active member of TEIN UCC. Her current leadership roles include NDC Branch Treasurer on UCC Campus CODE, Secretary to the CCMA NSS Ladies Wing, Secretary to the Youth Vanguard of the NDC, and Representative to the Clerk of Parliament under Youth Parliament Ghana.",
+    "RAHMAT BINT SADIQUE has served in various leadership and student representative roles. She served as Deputy Head Girl at Infant Jesus Catholic Preparatory School from 2015–2016, Protocol Head Girl at Ghana National College from 2017–2018, SRC General Secretary, Science 2 Class Prefect, and Course Representative at the University of Cape Coast. She was also an active member of TEIN UCC. Her current leadership roles include NDC Branch Treasurer on UCC Campus CODE, Secretary to the CCMA NSS Ladies Wing, Secretary to the Youth Vanguard of the NDC, and Representative to the Clerk of Parliament under Youth Parliament Ghana.",
 
 biography:
     "RAHMAT BINT SADIQUE is the Representative to the Clerk of Parliament under Youth Parliament Ghana, representing the Cape Coast North Constituency in the Central Region. She studied BSc Biochemistry at the University of Cape Coast after completing her senior high school education at Ghana National College. Her leadership journey began during her basic and secondary education, where she served as Deputy Head Girl, Protocol Head Girl, SRC General Secretary and Science 2 Class Prefect. At the University of Cape Coast, she served as a Course Representative and was an active member of TEIN UCC. She is currently undertaking her national service at the Environmental Protection Authority. She is also working on initiatives intended to secure support for a foundation she plans to launch and is engaged in youth awareness and advocacy around Youth Parliament Ghana.",
@@ -350,6 +350,7 @@ appointmentDate: "Information to be updated.",
 isMP: true,
 
 constituency: "Trobu Constituency",
+status: "revoked",
 
     education:
         "University of Ghana — Currently pursuing a Bachelor of Education. Also engaged in theological studies.",
@@ -501,7 +502,7 @@ region: "Upper East",
 ministry: "Office of the Ministry of Foreign Affairs",
 constituency: "Atwima-Nwabiagya North",
 region: "Ashanti",
-    appointmentDate: "25th September,2026.",
+    appointmentDate: "Information to be updated.",
     isMP: false,
 
     education:
@@ -609,7 +610,9 @@ region: "Ashanti",
     linkedin: "#",
     tiktok: "https://www.tiktok.com/@chef_firdaus2"
 },
-    {
+
+
+{
     id: "app011",
     name: "KWEGYIR VALERIE AMOASIWA",
     position: "National PRO",
@@ -783,7 +786,8 @@ region: "Ashanti",
     linkedin: "#",
     tiktok: "@joet_900"
 },
-    {
+
+{
     id: "app014",
     name: "AKANSALE PROSPER AWINONYGA",
     position: "Upper East Regional Minister",
@@ -1015,7 +1019,7 @@ region: "Ashanti",
     linkedin: "#",
     tiktok: "#"
 },
-    {
+{
     id: "app018",
     name: "ANIM EMMANUEL OSAFO",
     position: "Representative of African Countries",
@@ -1132,7 +1136,7 @@ region: "Ashanti",
     linkedin: "GORDON AFARI-SACKEY",
     tiktok: "#"
 },
-    {
+{
     id: "app020",
     name: "DERY ELIJAH",
     position: "Minister for Foreign Affairs",
@@ -1423,7 +1427,7 @@ region: "Ashanti",
     linkedin: "https://www.linkedin.com/in/magdalene-nana-adwoa-konadu-agyemang-hls-38b1b01b9?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
     tiktok: "#"
 },
-    {
+{
     id: "app025",
     name: "MOHAMMED SHARIF YAKOOB",
     position: "Minister for Local Government, Chieftaincy and Religious Affairs",
@@ -1578,7 +1582,7 @@ region: "Ashanti",
     focusAreas:
         "Healthcare Innovation • Health Entrepreneurship • Biomedical Engineering • STEM Education • Technology • Youth Development",
 
-    image: "images/dapaah.jpeg",
+    image: "images/Baffour Kyei Kusi Dapaah.png",
 
     email: "baffourkyeikusidapaah@gmail.com",
     phone: "0502111091",
@@ -1701,7 +1705,7 @@ region: "Ashanti",
     tiktok: "@_hisexcellency",
     snapchat: "v.asante"
 },
-    {
+{
     id: "app030",
     name: "MICHAEL AYAABA",
     position: "Ahafo Regional Minister",
@@ -1812,7 +1816,8 @@ region: "Ashanti",
     linkedin: "Zoelynn Baaba Hammah",
     tiktok: "#"
 },
-    {
+
+{
     id: "app032",
     name: "ABOAGYE PRINCE",
     position: "Representative to the Youth Employment Agency (YEA)",
@@ -1867,7 +1872,7 @@ region: "Ashanti",
     linkedin: "https://www.linkedin.com/in/prince-aboagye-8b9281229",
     tiktok: "#"
 },
-    {
+{
     id: "app033",
     name: "HON. AKOBTA ROSEMARY",
     position: "Representative to the Vice President of the Republic of Ghana",
@@ -1976,7 +1981,68 @@ region: "Ashanti",
     instagram: "Ikuku thegodsarewise",
     linkedin: "#"
 },
-    
+
+{
+    id: "app032",
+    name: "NANCY SAMPSON MENSAH",
+    position: "Minister for Youth Development and Empowerment",
+    ministry: "Ministry for Youth Development and Empowerment",
+    region: "Greater Accra Region",
+    appointmentDate: "August 2026",
+    isMP: false,
+    mpId: "",
+    constituency: "",
+
+    education:
+        "Professional Executive Masterclass in Alternative Dispute Resolution, Credit Management and Security Registration — Alternative Dispute Resolution Security and Research Institute (2025/2026). BBA, Business Administration — University of Professional Studies, Accra (2020–2024). Kwegyir Aggrey Senior High School (2014–2017), General Arts.",
+
+    profession:
+        "Administrative Professional, Policy Advocate and Gender Equity Champion",
+
+    experience:
+        "Administrative Assistant, Parliamentary Service of Ghana (September 2025–Present). National Service Personnel, Parliamentary Service of Ghana (October 2024–August 2025). Call Centre Representative (July 2024–September 2024). Front Desk Manager, Bliss Spa and Aesthetics (June 2024–September 2024). Chief of Staff, NASPA — Accra Metro (2024–2025, Ongoing). Ranking Member, Women Committee, NASPA (2024–2025). Minister for Youth Development and Empowerment, Youth Parliament Ghana (August 2026–Present).",
+
+    biography:
+        "NANCY SAMPSON MENSAH is an administrative professional based in Accra, Ghana, with experience in executive support, policy advocacy, gender representation and youth development. She is recognized for her collaborative mindset, solution-focused approach and commitment to advancing equity and empowering underrepresented voices. With experience managing high-level communications, supporting executive leadership and leading cross-functional activities, she brings strong administrative, communication and leadership skills to the spaces she serves. She has worked with the Parliamentary Service of Ghana, where she has supported administrative operations, drafted memos and reports, managed official communications and correspondence, and maintained accurate records. Her leadership experience includes serving as Chief of Staff of NASPA — Accra Metro and Ranking Member of the Women Committee, where she advocated for women's interests and gender equity. In August 2026, she was appointed Minister for Youth Development and Empowerment under Youth Parliament Ghana, where she advocates for youth development policies and empowerment initiatives. Nancy is passionate about gender equity, youth empowerment, inclusive governance, policy review and stakeholder representation.",
+
+    vision:
+        "To promote inclusive governance, gender equity, youth empowerment and effective representation while creating opportunities for underrepresented voices to participate meaningfully in decision-making.",
+
+    plans:
+        "Advocate for youth development and empowerment initiatives, promote gender equity, support inclusive policy development and strengthen opportunities for young people and underrepresented groups.",
+
+    contribution:
+        "NANCY SAMPSON MENSAH seeks to contribute through administrative leadership, policy advocacy, gender equity, youth empowerment, stakeholder representation, communication and inclusive governance.",
+
+    currentActivities:
+        "Currently serving as Minister for Youth Development and Empowerment under Youth Parliament Ghana and as an Administrative Assistant with the Parliamentary Service of Ghana.",
+
+    leadershipExperience:
+        "Chief of Staff, NASPA — Accra Metro (2024–2025, Ongoing). Ranking Member, Women Committee, NASPA (2024–2025). Minister for Youth Development and Empowerment, Youth Parliament Ghana (August 2026–Present).",
+
+    professionalExperience:
+        "Administrative professional with experience in executive and administrative support, official communication and correspondence, policy review and advocacy, customer relations, staff supervision, stakeholder representation, problem solving and team leadership.",
+
+    focusAreas:
+        "YOUTH DEVELOPMENT • YOUTH EMPOWERMENT • GENDER EQUITY • POLICY ADVOCACY • INCLUSIVE GOVERNANCE • ADMINISTRATION • LEADERSHIP • STAKEHOLDER REPRESENTATION • WOMEN'S EMPOWERMENT",
+
+    slogan:
+        "Inclusive leadership. Empowerment. Representation.",
+
+    image: "images/MENSAH.jpeg",
+
+    email: "mensahnancy59@gmail.com",
+    phone: "+233597239518",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+
+
 
 
 ];
