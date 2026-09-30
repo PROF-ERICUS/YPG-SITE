@@ -1983,7 +1983,7 @@ region: "Ashanti",
 },
 
 {
-    id: "app032",
+    id: "app035",
     name: "NANCY SAMPSON MENSAH",
     position: "Minister for Youth Development and Empowerment",
     ministry: "Ministry for Youth Development and Empowerment",
@@ -2045,7 +2045,7 @@ region: "Ashanti",
 
 
 {
-    id: "app033",
+    id: "app036",
     name: "WISDOM APPIAH SACKEY",
     position: "Greater Accra Regional Minister",
     ministry: "Greater Accra",
@@ -2105,7 +2105,7 @@ region: "Ashanti",
     tiktok: "#"
 },
 {
-    id: "app034",
+    id: "app037",
     name: "OKINE EMMANUEL",
     position: "Deputy Minister for Sports and Recreation",
     ministry: "Ministry of Sports and Recreation",
