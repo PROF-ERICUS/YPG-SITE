@@ -504,6 +504,62 @@
 }
 
         }
+        /* ========================================
+   REVOKED PROFILE ACCESS
+======================================== */
+
+.revoked-profile {
+    max-width: 800px;
+    margin: 70px auto;
+    padding: 50px 30px;
+    text-align: center;
+    background: #ffffff;
+    border: 1px solid #eadede;
+    border-radius: 18px;
+    box-shadow: 0 20px 50px rgba(7, 27, 53, 0.10);
+}
+
+.revoked-profile .revoked-icon {
+    width: 80px;
+    height: 80px;
+    margin: 0 auto 25px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(180, 40, 40, 0.10);
+    color: #b42828;
+    font-size: 38px;
+}
+
+.revoked-profile h2 {
+    color: var(--navy);
+    font-size: 28px;
+    font-weight: 800;
+    margin-bottom: 15px;
+}
+
+.revoked-profile p {
+    color: var(--muted);
+    line-height: 1.8;
+    max-width: 600px;
+    margin: 0 auto 10px;
+}
+
+.revoked-profile .member-name {
+    color: #b42828;
+    font-weight: 800;
+}
+
+.revoked-profile .admin-message {
+    margin-top: 20px;
+    padding: 15px 20px;
+    background: #faf7ef;
+    border: 1px solid rgba(215,169,40,0.25);
+    border-radius: 10px;
+    color: #7d641c;
+    font-weight: 600;
+}
 
     </style>
 </head>
@@ -1149,7 +1205,7 @@
 
 <script src="js/mp-data.js"></script>
 
-<script>
+<<script>
 
     const params = new URLSearchParams(window.location.search);
 
@@ -1160,8 +1216,133 @@
 
     if (member) {
 
+        /*
+        ========================================
+        PROFILE ACCESS CONTROL
+        ========================================
+        */
+
+        const memberStatus =
+            String(member.status || "active")
+                .toLowerCase()
+                .trim();
+
+
+        /*
+        ========================================
+        REVOKED MEMBER
+        ========================================
+        */
+
+        if (memberStatus === "revoked") {
+
+            document.title =
+                "Profile Access Revoked | Youth Parliament Ghana";
+
+
+            // Hide the normal profile card
+            const profileCard =
+                document.querySelector(".profile-card");
+
+            if (profileCard) {
+                profileCard.style.display = "none";
+            }
+
+
+            // Change profile header label
+            const profileLabel =
+                document.querySelector(".profile-header .profile-label");
+
+            if (profileLabel) {
+                profileLabel.textContent =
+                    "Profile Access Restricted";
+            }
+
+
+            // Create revoked message
+            const revokedSection =
+                document.createElement("section");
+
+            revokedSection.innerHTML = `
+
+                <div class="container">
+
+                    <div class="revoked-profile">
+
+                        <div class="revoked-icon">
+                            <i class="bi bi-lock-fill"></i>
+                        </div>
+
+                        <h2>
+                            PROFILE ACCESS REVOKED
+                        </h2>
+
+                        <p>
+                            Access to the profile of
+                            <span class="member-name">
+                                ${member.name}
+                            </span>
+                            is currently unavailable.
+                        </p>
+
+                        <p>
+                            This member's profile access has been
+                            temporarily revoked.
+                        </p>
+
+                        <div class="admin-message">
+
+                            <i class="bi bi-info-circle"></i>
+
+                            Please contact the Administrator
+                            for assistance.
+
+                        </div>
+
+                        <a
+                            href="mps.html"
+                            class="btn btn-gold mt-4">
+
+                            <i class="bi bi-arrow-left"></i>
+                            Back to MPs Directory
+
+                        </a>
+
+                    </div>
+
+                </div>
+
+            `;
+
+
+            // Insert warning after profile header
+            const profileHeader =
+                document.querySelector(".profile-header");
+
+            if (profileHeader) {
+
+                profileHeader.insertAdjacentElement(
+                    "afterend",
+                    revokedSection
+                );
+
+            }
+
+            // Stop loading the private profile information
+            throw new Error("Profile access revoked.");
+
+        }
+
+
+        /*
+        ========================================
+        ACTIVE MEMBER
+        ========================================
+        */
+
         document.title =
-            member.name + " | Youth Parliament Ghana";
+            member.name +
+            " | Youth Parliament Ghana";
 
 
         // Name
@@ -1174,23 +1355,30 @@
             member.position;
 
 
-        // Constituency
+        // Constituency / Region / Parliament
         const metaItems =
             document.querySelectorAll(".meta-item");
 
+
         metaItems[0].innerHTML =
-            `<i class="bi bi-geo-alt"></i> ${member.constituency}`;
+            `<i class="bi bi-geo-alt"></i>
+             ${member.constituency}`;
+
 
         metaItems[1].innerHTML =
-            `<i class="bi bi-map"></i> ${member.region}`;
+            `<i class="bi bi-map"></i>
+             ${member.region}`;
+
 
         metaItems[2].innerHTML =
-            `<i class="bi bi-building"></i> ${member.parliament}`;
+            `<i class="bi bi-building"></i>
+             ${member.parliament}`;
 
 
         // Biography
         const biography =
             document.querySelector(".profile-section p");
+
 
         biography.textContent =
             member.biography;
@@ -1201,17 +1389,22 @@
             document.querySelectorAll(".info-list")[0]
                 .querySelectorAll("li");
 
+
         infoItems[0].querySelector("span").textContent =
             member.constituency;
+
 
         infoItems[1].querySelector("span").textContent =
             member.region;
 
+
         infoItems[2].querySelector("span").textContent =
             member.position;
 
+
         infoItems[3].querySelector("span").textContent =
             member.parliament;
+
 
         infoItems[4].querySelector("span").textContent =
             member.committee;
@@ -1222,11 +1415,14 @@
             document.querySelectorAll(".info-list")[1]
                 .querySelectorAll("li");
 
+
         backgroundItems[0].querySelector("span").textContent =
             member.education;
 
+
         backgroundItems[1].querySelector("span").textContent =
             member.profession;
+
 
         backgroundItems[2].querySelector("span").textContent =
             member.experience;
@@ -1236,8 +1432,10 @@
         const contactItems =
             document.querySelectorAll(".contact-item");
 
+
         contactItems[0].querySelector("span").textContent =
             member.email;
+
 
         contactItems[1].querySelector("span").textContent =
             member.phone;
@@ -1246,27 +1444,36 @@
         const website =
             contactItems[2].querySelector("span");
 
+
         website.innerHTML =
             `<a href="${member.website}" target="_blank">
                 Official website
-            </a>`;
+             </a>`;
 
 
         // Profile photo
         const photoContainer =
             document.querySelector(".profile-photo");
 
+
         photoContainer.innerHTML =
-            `<img src="${member.image}"
-                  alt="${member.name}">`;
+            `<img
+                src="${member.image}"
+                alt="${member.name}"
+            >`;
+
+
 
     } else {
+
+        document.title =
+            "Member Not Found | Youth Parliament Ghana";
+
 
         document.querySelector(".profile-main h1").textContent =
             "Member Not Found";
 
     }
-    
 
 </script>
 
