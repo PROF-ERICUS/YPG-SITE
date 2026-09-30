@@ -5590,5 +5590,293 @@ parliament: "Youth Parliament Ghana",
     linkedin: "#",
     tiktok: "#"
 },
+  {
+    id: "mp105",
+    name: "BRIGHT WINFUL BADU BLAY",
+    position: "Member of Parliament",
+    constituency: "Ellembelle constituency",
+    region: "Western",
+    parliament: "Youth Parliament Ghana",
+    appointmentDate: "",
+    status: "active",
+
+    education:
+        "Bachelor of Commerce (Accounting) — University of Cape Coast (UCC), 2023–2026; First Class Honours; Three-time Dean’s Award recipient.",
+
+    profession:
+        "Accountant / Leadership Development Practitioner",
+
+    experience:
+        "Visioner & Executive Director — Excellent Leaders Consortium (ELC); Leadership Role — Ghana Fellowship of Evangelical Students (GHAFES), University of Cape Coast; Technology Department Intern — Fidelity Bank Ghana; Leadership Coach / Leadership Development Practitioner; Accounting / Internal Audit Experience — Not provided.",
+
+    biography:
+        "BRIGHT WINFUL BADU BLAY is a young Ghanaian leader, accountant and youth development advocate with a strong interest in leadership, good governance, financial inclusion and national transformation. He holds a Bachelor of Commerce (Accounting) from the University of Cape Coast (UCC), where he graduated with First Class Honours and was a three-time Dean’s Award recipient. His academic and professional interests include accounting, internal auditing, financial management, leadership development and programme development. Bright has served in various leadership capacities, including leadership within the Ghana Fellowship of Evangelical Students (GHAFES) at UCC, and is the Visioner and Executive Director of Excellent Leaders Consortium (ELC), an initiative focused on identifying, developing, connecting and activating emerging leaders. He is a Youth Member of Parliament for the Ellembelle Constituency in the Western Region, where he seeks to contribute to meaningful youth participation, representation and development.",
+
+    vision:
+        "To contribute to meaningful youth participation, representation and development while promoting leadership, good governance, financial inclusion and national transformation.",
+
+    plans:
+        "Promote youth empowerment, leadership development, good governance, entrepreneurship, financial literacy and meaningful youth participation.",
+
+    contribution:
+        "Youth development, leadership development, financial literacy, good governance, entrepreneurship and national development.",
+
+    currentActivities:
+        "Youth Member of Parliament — Ellembelle Constituency; Visioner & Executive Director, Excellent Leaders Consortium.",
+
+    leadershipExperience:
+        "Leadership within the Ghana Fellowship of Evangelical Students (GHAFES), University of Cape Coast; Visioner & Executive Director, Excellent Leaders Consortium (ELC); Leadership Coach / Leadership Development Practitioner.",
+
+    professionalExperience:
+        "Accountant / Leadership Development Practitioner; Technology Department Intern — Fidelity Bank Ghana; Accounting / Internal Audit Experience — Not provided.",
+
+    focusAreas:
+        "YOUTH DEVELOPMENT • LEADERSHIP • GOOD GOVERNANCE • FINANCIAL INCLUSION • ENTREPRENEURSHIP • NATIONAL TRANSFORMATION",
+
+    slogan:
+        "Youth development, leadership and national transformation.",
+
+    image: "images/badu.jpeg",
+
+    email: "winfulbrightblay@gmail.com",
+    phone: "0558709291",
+    website: "#",
+
+    facebook: "Bright Blay",
+    twitter: "Bright Blay",
+    instagram: "Bright Badu Blay",
+    linkedin: "Bright Badu Blay",
+    tiktok: "#"
+},
+{
+    id: "mp106",
+    name: "AYEBENG SAMUEL ANYANE",
+    position: "Member of Parliament",
+    constituency: "Asuogyaman Constituency",
+    region: "Eastern",
+    parliament: "Youth Parliament Ghana",
+    
+    status: "active",
+
+    education:
+        "Bachelor of Science in Actuarial Science — University of Ghana, In Progress. West African Senior School Certificate Examination (WASSCE) — Akwamuman Senior High School, 2025.",
+
+    profession:
+        "Student / Youth Leader",
+
+    experience:
+        "Chairman — Commonwealth Hall Sports Committee, University of Ghana; Course Representative — University of Ghana; Member — University of Ghana Parliament House; Member — Commonwealth Hall JCR Parliament; Member — Planning Committee, 68th UGSRC Inter-Hall Football Competition; Entertainment Prefect — Akwamuman Senior High School; SRC Executive Committee Member — Akwamuman Senior High School; School Prefect — Mount Mary Demonstration JHS; Cadet 2IC — Mount Mary Demonstration JHS.",
+
+    biography:
+        "AYEBENG SAMUEL ANYANE is a Ghanaian youth leader and student of the University of Ghana, where he is pursuing a Bachelor of Science in Actuarial Science. He currently serves as the Youth Member of Parliament for the Asuogyaman Constituency and Public Relations Officer (PRO) of Youth Parliament Ghana. His leadership experience spans youth advocacy, student governance, public relations, sports administration, community engagement and service. At the University of Ghana, he has served as a Course Representative and is a member of the University of Ghana Parliament House and the Commonwealth Hall JCR Parliament. He has also served as Chairman of the Commonwealth Hall Sports Committee, contributing to the planning and coordination of sporting activities and programmes. Ayebeng is also actively involved in the Rotaract movement and serves as Public Image Director of the Rotaract Club of the University of Ghana, where he contributes to the club’s communications, visibility and public engagement. His leadership journey began before university. At Akwamuman Senior High School, he served as Entertainment Prefect and a member of the SRC Executive Committee. Earlier, he served as School Prefect and Cadet 2IC at Mount Mary Demonstration JHS. Through his work with Youth Parliament Ghana, Ayebeng is committed to strengthening youth representation, effective public communication, community engagement and opportunities for young people to participate meaningfully in leadership and development.",
+
+    vision:
+        "To strengthen youth representation, effective public communication, community engagement and meaningful opportunities for young people to participate in leadership and development.",
+
+    plans:
+        "Build an organised and responsive constituency structure that brings young people closer to opportunities, strengthens grassroots participation and provides channels through which their concerns and aspirations can be represented.",
+
+    contribution:
+        "Youth representation, public relations, community engagement, student governance, sports administration, youth advocacy and leadership development.",
+
+    currentActivities:
+        "Youth Member of Parliament — Asuogyaman Constituency; Public Relations Officer (PRO) — Youth Parliament Ghana; Public Image Director — Rotaract Club of the University of Ghana; BSc Actuarial Science student at the University of Ghana.",
+
+    leadershipExperience:
+        "Public Relations Officer — Youth Parliament Ghana; Chairman — Commonwealth Hall Sports Committee, University of Ghana; Course Representative — University of Ghana; Member — University of Ghana Parliament House; Member — Commonwealth Hall JCR Parliament; Entertainment Prefect — Akwamuman Senior High School; SRC Executive Committee Member — Akwamuman Senior High School; School Prefect — Mount Mary Demonstration JHS; Cadet 2IC — Mount Mary Demonstration JHS.",
+
+    professionalExperience:
+        "Student / Youth Leader with experience in public relations, youth advocacy, student governance, sports administration, community engagement and public image management.",
+
+    focusAreas:
+        "YOUTH REPRESENTATION • PUBLIC RELATIONS • YOUTH ADVOCACY • COMMUNITY ENGAGEMENT • LEADERSHIP • STUDENT GOVERNANCE • SPORTS ADMINISTRATION • YOUTH DEVELOPMENT",
+
+    slogan:
+        "Strengthening youth representation, communication and grassroots participation.",
+
+    image: "images/Anyane.jpeg",
+
+    email: "samuelayebeng1@gmail.com",
+    phone: "0501729271",
+    website: "#",
+
+    facebook: "https://www.facebook.com/share/18dKJFLKNe/?mibextid=wwXIfr",
+    twitter: "https://x.com/ayebengfactor",
+    instagram: "https://www.instagram.com/theayebengfactor",
+    linkedin: "https://www.linkedin.com/in/samuel-ayebeng-6b8b473ba",
+    tiktok: "https://www.tiktok.com/@theayebengfactor"
+},
+{
+    id: "mp107",
+    name: "PAUL ELIKEM KPODO",
+    position: "Member of Parliament",
+    constituency: "Keta Constituency",
+    region: "Volta",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+
+    education:
+        "Bachelor of Science (BSc) Psychology — University of Cape Coast (UCC), Level 300.",
+
+    profession:
+        "Psychology Student / Youth Leader / Community Development Advocate",
+
+    experience:
+        "Youth Member of Parliament — Keta Constituency Youth Parliament; President — Educational Foundation Student Association (FEFSA), University of Cape Coast; Member of Parliament — Kwame Nkrumah Hall Parliament; Member — SRC Parliament, University of Cape Coast; Head of Disciplinary Committee — Student Leadership; Member — Welfare Committee, Psychology Students Association.",
+
+    biography:
+        "PAUL ELIKEM KPODO is a young Ghanaian leader and student pursuing a Bachelor of Science in Psychology at the University of Cape Coast. He is passionate about youth development, leadership, education, community service and creating opportunities for young people. He currently serves as the Youth Member of Parliament for the Keta Constituency, where he seeks to contribute to youth representation, development, advocacy and community engagement. He has demonstrated leadership through his involvement in student governance and youth leadership, including serving as President of the Educational Foundation Student Association (FEFSA) at the University of Cape Coast and participating in parliamentary and student leadership structures. His leadership interests include youth empowerment, skills development, entrepreneurship, education, community development and strengthening collaboration between young people and relevant stakeholders.",
+
+    vision:
+        "To promote youth participation, empowerment, education, skills development and community development while creating meaningful opportunities for young people in the Keta Constituency.",
+
+    plans:
+        "Promote youth empowerment, skills development, entrepreneurship, educational opportunities, community engagement and collaboration with relevant stakeholders.",
+
+    contribution:
+        "Youth development, education, skills development, entrepreneurship, community development, youth advocacy, representation and leadership.",
+
+    currentActivities:
+        "Youth Member of Parliament — Keta Constituency Youth Parliament; President — Educational Foundation Student Association (FEFSA), University of Cape Coast; BSc Psychology student at UCC.",
+
+    leadershipExperience:
+        "President — Educational Foundation Student Association (FEFSA), University of Cape Coast; Member of Parliament — Kwame Nkrumah Hall Parliament; Member — SRC Parliament, University of Cape Coast; Head of Disciplinary Committee — Student Leadership; Member — Welfare Committee, Psychology Students Association.",
+
+    professionalExperience:
+        "Psychology student and youth leader with experience in student governance, parliamentary structures, disciplinary administration, welfare advocacy and community development.",
+
+    focusAreas:
+        "YOUTH DEVELOPMENT • EDUCATION • SKILLS DEVELOPMENT • ENTREPRENEURSHIP • COMMUNITY DEVELOPMENT • YOUTH ADVOCACY • LEADERSHIP • GOVERNANCE • EMPLOYMENT OPPORTUNITIES",
+
+    slogan:
+        "Youth empowerment, leadership and community development.",
+
+    image: "images/elikem.jpeg",
+
+    email: "Paulelikem711@gmail.com",
+    phone: "+233597022392",
+    website: "Google",
+
+    facebook: "Paul Kpodo",
+    twitter: "Saint Paul",
+    instagram: "Paulelikem711@gmail.com",
+    linkedin: "Paul Elikem",
+    tiktok: "#"
+},
+{
+    id: "mp108",
+    name: "DANIEL FOSU NTORI",
+    position: "Member of Parliament",
+    constituency: "Suaman Constituency",
+    region: "Western North",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+
+    education:
+        "General Arts — Asawinso Senior High School (Great ASEC). Junior High School — My Redeemer Academy and R/C Basic School.",
+
+    profession:
+        "Student",
+
+    experience:
+        "Assistant Head Boy — Asawinso Senior High School (ASEC); Vice SRC President — Asawinso Senior High School (ASEC); Sports Prefect — My Redeemer Academy.",
+
+    biography:
+        "DANIEL FOSU NTORI is a young Ghanaian leader with a strong passion for leadership, teamwork, sports and youth development. He began his basic education at My Redeemer Academy and R/C Basic School, where he developed an early interest in leadership and community participation. During his Junior High School education, he served as a Sports Prefect, gaining valuable experience in teamwork, discipline, coordination and responsibility. He continued his education at Asawinso Senior High School, where he served in student leadership as Assistant Head Boy and SRC Vice President. These leadership roles strengthened his communication, organizational, decision-making and interpersonal skills while giving him the opportunity to represent and serve his fellow students. Daniel believes that leadership is about service, responsibility, integrity and bringing people together. He is passionate about creating opportunities for young people and contributing positively to his community.",
+
+    vision:
+        "To promote youth development, responsible leadership, teamwork and opportunities that enable young people to contribute positively to their communities.",
+
+    plans:
+        "Promote youth development, teamwork, leadership, sports participation and opportunities for young people within the Suaman Constituency.",
+
+    contribution:
+        "Youth development, leadership, sports, teamwork, student representation and community participation.",
+
+    currentActivities:
+        "Youth Member of Parliament — Suaman Constituency; Student.",
+
+    leadershipExperience:
+        "Assistant Head Boy — Asawinso Senior High School (ASEC); Vice SRC President — Asawinso Senior High School (ASEC); Sports Prefect — My Redeemer Academy.",
+
+    professionalExperience:
+        "Student with leadership experience in student governance, sports coordination, teamwork and community participation.",
+
+    focusAreas:
+        "YOUTH DEVELOPMENT • LEADERSHIP • TEAMWORK • SPORTS • STUDENT REPRESENTATION • COMMUNITY PARTICIPATION • YOUTH EMPOWERMENT",
+
+    slogan:
+        "Leadership, teamwork and service for youth development.",
+
+    image: "",
+
+    email: "ntoridaniel280@gmail.com",
+    phone: "0257117479",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+  {
+    id: "mp109",
+    name: "MAPIIN TIMOTHY SAGAMAH",
+    position: "Member of Parliament",
+    constituency: "Yunyoo Constituency",
+    region: "North east",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+
+    education:
+        "Bachelor of Science in Social Change Communication — University for Development Studies, Nyankpala Campus (UDS-NYC), 2022–2026. General Arts — Bunkpurugu Senior High School and Donkro Nkwanta Senior High School.",
+
+    profession:
+        "National Service Personnel / Youth Leader",
+
+    experience:
+        "Youth Member of Parliament — Yunyoo Constituency, National Youth Parliament of Ghana; President — Tamale Bimoba Students Union (TABISU), 2024–2026; President and Leader — Amnesty International, UDS-NYC Branch, 2025–2026; Public Relations Officer — Bimoba Students Union (BISU UDS-NYC), 2023–2024; Welfare and Links Committee Chair — Communication Students Association of Ghana (COMSAG UDS-NYC), 2023–2024; Deputy Public Relations Officer — Tamale Bimoba Students Union (TABISU), 2024–2025; Organizing Committee Member — NUGS UDS-NYC, 2024–2025; Minority Leader — TABISU Youth Parliament, 2024–2025; CDF Coordinator and Assistant Bible Studies Coordinator — GHAFES UDS-NYC, 2024–2025; Accommodation Committee Member — SRC UDS-NYC, 2024–2025; PRO — Apiculture Students Association (APSAG UDS-NYC), 2024–2025; Deputy Secretary — PENSA-BUST; General Prefect and Class Prefect — JHS; Vernacular Prefect and Quiz Competitor — Primary School.",
+
+    biography:
+        "MAPIIN TIMOTHY SAGAMAH is a young Ghanaian leader from the Yunyoo Constituency in the Northeast Region with a strong background in student leadership, youth advocacy, communication and community service. He pursued his tertiary education at the University for Development Studies, Nyankpala Campus (UDS-NYC), where he studied Bachelor of Science in Social Change Communication from 2022 to 2026. Throughout his academic journey, he held several leadership positions, including President of the Tamale Bimoba Students Union (TABISU), President and Leader of Amnesty International at UDS-NYC, Public Relations Officer of the Bimoba Students Union, Welfare and Links Committee Chair of COMSAG, and various leadership roles within NUGS, GHAFES, the SRC and student associations. His earlier leadership experience includes serving as General Prefect and Class Prefect at the junior high school level and Deputy Secretary for PENSA-BUST at Bunkpurugu Senior High School. He has also gained professional experience as a pump attendant at Rigworld Filling Station and as an Acting Manager at Laclem Filling Station. He currently serves as a Youth Member of Parliament for the Yunyoo Constituency at the National Youth Parliament of Ghana.",
+
+    vision:
+        "To promote meaningful youth representation, leadership, communication and community development while creating opportunities for young people to participate actively in national development.",
+
+    plans:
+        "Promote youth participation, leadership development, effective communication, community engagement, education and opportunities for young people within the Yunyoo Constituency.",
+
+    contribution:
+        "Youth leadership, communication, student representation, community development, advocacy, welfare and youth empowerment.",
+
+    currentActivities:
+        "Youth Member of Parliament — Yunyoo Constituency, National Youth Parliament of Ghana; National Service Personnel.",
+
+    leadershipExperience:
+        "President — Tamale Bimoba Students Union (TABISU); President and Leader — Amnesty International, UDS-NYC Branch; PRO — Bimoba Students Union; Welfare and Links Committee Chair — COMSAG; Deputy PRO — TABISU; Minority Leader — TABISU Youth Parliament; CDF Coordinator and Assistant Bible Studies Coordinator — GHAFES; PRO — APSAG; Deputy Secretary — PENSA-BUST; General Prefect and Class Prefect — JHS.",
+
+    professionalExperience:
+        "National Service Personnel; Acting Manager — Laclem Filling Station; Pump Attendant — Rigworld Filling Station.",
+
+    focusAreas:
+        "YOUTH DEVELOPMENT • LEADERSHIP • YOUTH ADVOCACY • COMMUNICATION • EDUCATION • COMMUNITY DEVELOPMENT • STUDENT REPRESENTATION • WELFARE • YOUTH EMPOWERMENT",
+
+    slogan:
+        "Youth leadership, representation and community development.",
+
+    image: "images/mapiin.jpeg",
+
+    email: "greattimo89@gmail.com",
+    phone: "0531486438",
+    website: "#",
+
+    facebook: "Timothy Mapiin",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "Great Timo"
+},
+
 
 ];
