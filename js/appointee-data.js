@@ -1582,7 +1582,7 @@ region: "Ashanti",
     focusAreas:
         "Healthcare Innovation • Health Entrepreneurship • Biomedical Engineering • STEM Education • Technology • Youth Development",
 
-    image: "images/Dapaah.jpeg",
+    image: "images/dapaah.jpeg",
 
     email: "baffourkyeikusidapaah@gmail.com",
     phone: "0502111091",
