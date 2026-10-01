@@ -303,7 +303,7 @@ website: "#"
     parliament: "Youth Parliament Ghana",
     committee: "Information to be updated",
      // Profile access status
-    status: "revoked",
+    status: "active",
 
     education:
         "University of Ghana — Currently pursuing a Bachelor of Education. Also engaged in theological studies.",
@@ -5466,7 +5466,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Okaikwei North Constituency",
     region: "Greater Accra",
     parliament: "Youth Parliament Ghana",
-    status: "revoked",
+    status: "active",
 
     education:
         "Ghana Communication Technology University (GCTU) — BSc Computer Science, 4th year. Mfantsiman Girls Senior High School (2020–2023).",
