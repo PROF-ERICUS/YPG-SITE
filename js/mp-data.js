@@ -1993,7 +1993,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Okaikwei North Constituency",
     region: "Greater Accra",
     parliament: "Youth Parliament Ghana",
-     status: "revoked",
+     status: "active",
 
     education:
         "University of Cape Coast — BSc Nursing, Level 300. College of Accountancy — Senior High School, completed 2021.",
