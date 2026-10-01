@@ -1726,7 +1726,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Youth Empowerment • Leadership • Community Development",
 
-    image: "images/nyarko.jpeg",
+    image: "images/joseph.jpeg",
 
     email: "nyarkoj304@gmail.com",
     phone: "0597620256 / 0205954545",
