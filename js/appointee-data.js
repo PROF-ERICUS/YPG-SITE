@@ -15,6 +15,7 @@ const appointeeData = [
     region: "Greater Accra",
 
     appointmentDate: "25th September, 2026",
+         status: "active",
 
 
     // ==============================
@@ -101,6 +102,7 @@ ministry: "Office of the First Lady of Ghana — Youth Parliament Ghana",
 region: "Western",
 
 appointmentDate: "15th September, 2026",
+         status: "active",
 
 // ==============================
 // PARLIAMENTARY INFORMATION
@@ -170,6 +172,7 @@ region: "Central",
 
 appointmentDate:
     "16th September,2026.",
+        status: "active",
 
 isMP: true,
 
@@ -230,6 +233,7 @@ website:
     ministry: "Office of Ghana Cocoa Board",
     region: "Eastern",
     appointmentDate: "Information to be updated.",
+         status: "active",
 
     isMP: true,
     mpId: "mp009",
@@ -290,6 +294,7 @@ website:
     ministry: "Office of Parliamentary Affairs",
     region: "Central Region",
     appointmentDate: "Information to be updated.",
+        status: "active",
     isMP: true,
     constituency: "Komenda Edina Eguafo Abrem",
 
@@ -346,6 +351,7 @@ ministry: "Office of Youth, Youth Parliament Ghana",
 region: "Greater",
 
 appointmentDate: "Information to be updated.",
+    
 
 isMP: true,
 
@@ -397,6 +403,7 @@ ministry: "Office of Energy and Green Transition",
 
 region: "Upper East",
     appointmentDate: "20th September, 2026.",
+     status: "active",
 
     isMP: true,
     constituency: "Zebilla Constituency",
@@ -449,6 +456,7 @@ region: "Upper East",
      constituency: "Agona West",
      region: "Central",
     appointmentDate: "20th September,2026.",
+     status: "active",
     isMP: false,
 
     education:
@@ -503,6 +511,7 @@ ministry: "Office of the Ministry of Foreign Affairs",
 constituency: "Atwima-Nwabiagya North",
 region: "Ashanti",
     appointmentDate: "25th September,2026.",
+     status: "active",
     isMP: false,
 
     education:
@@ -560,6 +569,7 @@ region: "Ashanti",
     constituency: "Ada Constituency",
     region: "Greater Accra",
     appointmentDate: "19th September,2026.",
+     status: "active",
     isMP: true,
 
     education:
@@ -620,6 +630,7 @@ region: "Ashanti",
     constituency: "Anyaa Sowutuom constituency",
     region: "Greater Accra",
     appointmentDate: "21st September,2026.",
+     status: "active",
     isMP: true,
 
     education:
@@ -678,6 +689,7 @@ region: "Ashanti",
     constituency: "Awutu Senya East Constituency",
     region: "Central",
     appointmentDate: "20th September,2026.",
+     status: "active",
     isMP: false,
 
     education:
@@ -736,6 +748,7 @@ region: "Ashanti",
     constituency: "Sege Constituency",
     region: "Greater Accra",
     appointmentDate: "15th September,2026.",
+     status: "active",
     isMP: true,
 
     education:
@@ -795,6 +808,7 @@ region: "Ashanti",
     constituency: "Bongo Constituency",
     region: "Upper East",
     appointmentDate: "23rd September,2026.",
+     status: "active",
     isMP: false,
 
     education:
@@ -853,6 +867,7 @@ region: "Ashanti",
     constituency: "Prestea Huni Valley Constituency",
     region: "Western",
     appointmentDate: "20th September,2026.",
+     status: "active",
     isMP: false,
 
     education:
@@ -911,6 +926,7 @@ region: "Ashanti",
     constituency: "Ashaiman",
     region: "Greater Accra",
     appointmentDate: "27th September,2026.",
+     status: "active",
     isMP: false,
 
     education:
@@ -969,6 +985,7 @@ region: "Ashanti",
     constituency: "Ada constituency",
     region: "Greater Accra",
     appointmentDate: "20th September,2026.",
+     status: "active",
     isMP: false,
 
     education:
@@ -1027,6 +1044,7 @@ region: "Ashanti",
     constituency: "Asuogyaman constituency",
     region: "Eastern",
     appointmentDate: "21st September,2026.",
+     status: "active",
     isMP: false,
 
     education:
@@ -1086,6 +1104,7 @@ region: "Ashanti",
     constituency: "Ajumako Enyan Essiam  constituency",
     region: "Central",
     appointmentDate: "Information to be updated.",
+     status: "active",
     isMP: false,
 
     education:
@@ -1144,6 +1163,7 @@ region: "Ashanti",
     constituency: "Dome-Kwabenya",
     region: "Greater Accra",
     appointmentDate: "25th September,2026.",
+     status: "active",
     isMP: false,
 
     education:
@@ -1202,6 +1222,7 @@ region: "Ashanti",
     constituency: "Salaga North",
     region: "Savanna",
     appointmentDate: "20th September,2026.",
+     status: "active",
     isMP: false,
 
     education:
@@ -1261,6 +1282,7 @@ region: "Ashanti",
     constituency: "Tamale Metro constituency",
     region: "Northern",
     appointmentDate: "2026",
+     status: "active",
     isMP: false,
 
     education:
@@ -1319,6 +1341,7 @@ region: "Ashanti",
     constituency: "Evalue-Ajomoro-Gwira",
     region: "Western",
     appointmentDate: "26th September,2026.",
+     status: "active",
     isMP: false,
 
     education:
@@ -1377,6 +1400,7 @@ region: "Ashanti",
     constituency: "Sekyere Central constituency",
     region: "Ashanti",
     appointmentDate: "19th September,2026.",
+     status: "active",
     isMP: true,
 
     education:
@@ -1435,6 +1459,7 @@ region: "Ashanti",
     constituency: "Kwabre East Constituency",
     region: "Ashanti",
     appointmentDate: "20th September,2026.",
+     status: "active",
     isMP: false,
 
     education:
@@ -1492,6 +1517,7 @@ region: "Ashanti",
     constituency: "Five Northern Regions",
     region: "Northern",
     appointmentDate: "26th September,2026.",
+     status: "active",
     isMP: false,
 
     education:
@@ -1545,8 +1571,9 @@ region: "Ashanti",
     position: "Ashanti Regional Minister",
     ministry: "Ashanti Regional Minister",
     constituency: "Asokwa",
-    region: "Ashanti Region",
+    region: "Ashanti",
     appointmentDate: "Information to be updated.",
+     status: "active",
     isMP: false,
 
     education:
@@ -1602,6 +1629,7 @@ region: "Ashanti",
     constituency: "Walewale Constituency",
     region: "North East",
     appointmentDate: "22nd September,2026.",
+     status: "active",
     isMP: false,
 
     education:
@@ -1657,6 +1685,7 @@ region: "Ashanti",
     constituency: "Suhum Constituency",
     region: "Eastern",
     appointmentDate: "26th September,2026.",
+     status: "active",
     isMP: true,
 
     education:
@@ -1713,6 +1742,7 @@ region: "Ashanti",
     constituency: "Asunafo South Constituency",
     region: "Ahafo",
     appointmentDate: "Information to be updated.",
+     status: "active",
     isMP: false,
 
     education:
@@ -1768,6 +1798,7 @@ region: "Ashanti",
     constituency: "Ledzokuku Constituency",
     region: "Greater Accra",
     appointmentDate: "20th September,2026.",
+     status: "active",
     isMP: true,
     mpId: "mp095",
 
@@ -1825,6 +1856,7 @@ region: "Ashanti",
     constituency: "Abirem constituency",
     region: "Eastern",
     appointmentDate: "29th September,2026.",
+     status: "active",
     isMP: true,
 
     education:
@@ -1880,6 +1912,7 @@ region: "Ashanti",
     constituency: "Builsa South Constituency",
     region: "Upper East",
     appointmentDate: "Information to be updated.",
+     status: "active",
     isMP: true,
     mpId: "mp100",
 
@@ -1935,6 +1968,7 @@ region: "Ashanti",
     constituency: "Essikado-Ketan Constituency",
     region: "Western",
     appointmentDate: "Information to be updated.",
+     status: "active",
     isMP: false,
 
     education:
