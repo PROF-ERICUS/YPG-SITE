@@ -40,8 +40,9 @@
           href="css/style.css">
 
 
-    <style>
-        /* ========================================
+   <style>
+
+/* ========================================
    PAGE TOP & DOWN BUTTONS
 ======================================== */
 
@@ -88,280 +89,352 @@
     transform: scale(0.95);
 }
 
-        /* =========================
-           DIRECTORY HEADER
-        ========================== */
 
-        .directory-header {
+/* ========================================
+   DIRECTORY HEADER
+======================================== */
 
-            background:
-                linear-gradient(
-                    135deg,
-                    rgba(7, 27, 53, 0.98),
-                    rgba(13, 43, 80, 0.95)
-                );
+.directory-header {
+    background:
+        linear-gradient(
+            135deg,
+            rgba(7, 27, 53, 0.98),
+            rgba(13, 43, 80, 0.95)
+        );
 
-            padding: 150px 0 80px;
+    padding: 150px 0 80px;
 
-            color: white;
-        }
+    color: white;
+}
 
+.directory-header h1 {
+    font-size: clamp(38px, 5vw, 58px);
+    font-weight: 800;
+    margin-bottom: 15px;
+}
 
-        .directory-header h1 {
+.directory-header p {
+    max-width: 650px;
 
-            font-size: clamp(38px, 5vw, 58px);
+    color: rgba(255,255,255,0.72);
 
-            font-weight: 800;
+    line-height: 1.8;
 
-            margin-bottom: 15px;
-        }
-
-
-        .directory-header p {
-
-            max-width: 650px;
-
-            color: rgba(255,255,255,0.72);
-
-            line-height: 1.8;
-
-            margin: 0 auto;
-        }
+    margin: 0 auto;
+}
 
 
-        /* =========================
-           FILTER AREA
-        ========================== */
+/* ========================================
+   FILTER AREA
+======================================== */
 
-        .directory-tools {
+.directory-tools {
+    margin-top: -35px;
 
-            margin-top: -35px;
+    position: relative;
 
-            position: relative;
+    z-index: 5;
+}
 
-            z-index: 5;
-        }
+.filter-card {
+    background: white;
 
+    border-radius: 14px;
 
-        .filter-card {
+    padding: 25px;
 
-            background: white;
+    box-shadow:
+        0 15px 40px rgba(7, 27, 53, 0.10);
 
-            border-radius: 14px;
+    border: 1px solid var(--border);
+}
 
-            padding: 25px;
+.filter-card label {
+    font-size: 13px;
 
-            box-shadow:
-                0 15px 40px rgba(7, 27, 53, 0.10);
+    font-weight: 700;
 
-            border: 1px solid var(--border);
-        }
+    color: var(--navy);
 
+    margin-bottom: 8px;
+}
 
-        .filter-card label {
+.filter-card .form-control,
+.filter-card .form-select {
+    min-height: 48px;
 
-            font-size: 13px;
+    border-color: var(--border);
 
-            font-weight: 700;
+    border-radius: 7px;
+}
 
-            color: var(--navy);
+.filter-card .form-control:focus,
+.filter-card .form-select:focus {
+    border-color: var(--gold);
 
-            margin-bottom: 8px;
-        }
-
-
-        .filter-card .form-control,
-        .filter-card .form-select {
-
-            min-height: 48px;
-
-            border-color: var(--border);
-
-            border-radius: 7px;
-        }
-
-
-        .filter-card .form-control:focus,
-        .filter-card .form-select:focus {
-
-            border-color: var(--gold);
-
-            box-shadow:
-                0 0 0 0.2rem
-                rgba(215, 169, 40, 0.12);
-        }
+    box-shadow:
+        0 0 0 0.2rem
+        rgba(215, 169, 40, 0.12);
+}
 
 
-        /* =========================
-           APPOINTEE CARDS
-        ========================== */
+/* ========================================
+   APPOINTEE CARDS
+======================================== */
 
-        .appointee-card {
+.appointee-card {
+    height: 100%;
 
-            height: 100%;
+    background: white;
 
-            background: white;
+    border: 1px solid var(--border);
 
-            border: 1px solid var(--border);
+    border-radius: 14px;
 
-            border-radius: 14px;
+    overflow: hidden;
 
-            overflow: hidden;
+    transition: 0.3s ease;
 
-            transition: 0.3s ease;
-        }
-
-
-        .appointee-card:hover {
-
-            transform: translateY(-6px);
-
-            box-shadow:
-                0 18px 40px
-                rgba(7, 27, 53, 0.10);
-        }
-
-
-       .appointee-photo {
-    height: 350px;
-    background: #f5f7fa;
     display: flex;
+    flex-direction: column;
+}
+
+.appointee-card:hover {
+    transform: translateY(-6px);
+
+    box-shadow:
+        0 18px 40px
+        rgba(7, 27, 53, 0.10);
+}
+
+
+/* ========================================
+   APPOINTEE PHOTO
+======================================== */
+
+.appointee-photo {
+    width: 100%;
+
+    height: 350px;
+
+    background: #f5f7fa;
+
+    display: flex;
+
     align-items: center;
     justify-content: center;
+
     overflow: hidden;
+
+    position: relative;
+
+    padding: 5px;
 }
+
+
+/*
+   IMPORTANT:
+   CONTAIN keeps the complete image visible.
+   It prevents zooming and cropping.
+*/
 
 .appointee-photo img {
     width: 100%;
     height: 100%;
-    object-fit: cover;
-    object-position: center top;
+
+    object-fit: contain !important;
+
+    object-position: center center !important;
+
     display: block;
-    transition: 0.4s ease;
+
+    transform: none !important;
+
+    transition: none !important;
+
+    max-width: 100%;
+    max-height: 100%;
 }
 
-        .appointee-card:hover
-        .appointee-photo img {
 
-            transform: scale(1.03);
-        }
+/* ========================================
+   DISABLE IMAGE ZOOM
+======================================== */
 
-
-        .default-photo {
-
-            font-size: 75px;
-
-            color: #aab3bd;
-        }
+.appointee-card:hover .appointee-photo img {
+    transform: none !important;
+}
 
 
-        .appointee-content {
+/* ========================================
+   DEFAULT PHOTO
+======================================== */
 
-            padding: 25px;
-        }
+.default-photo {
+    font-size: 75px;
 
-
-        .appointee-content h3 {
-
-            color: var(--navy);
-
-            font-size: 21px;
-
-            font-weight: 800;
-
-            margin-bottom: 7px;
-        }
+    color: #aab3bd;
+}
 
 
-        .appointee-position {
+/* ========================================
+   APPOINTEE CONTENT
+======================================== */
 
-            color: #9a7410;
+.appointee-content {
+    padding: 25px;
 
-            font-size: 14px;
+    flex: 1;
+}
 
-            font-weight: 700;
+.appointee-content h3 {
+    color: var(--navy);
 
-            margin-bottom: 15px;
-        }
+    font-size: 21px;
 
+    font-weight: 800;
 
-        .appointee-meta {
+    margin-bottom: 7px;
 
-            display: flex;
+    line-height: 1.3;
+}
 
-            flex-direction: column;
+.appointee-position {
+    color: #9a7410;
 
-            gap: 9px;
+    font-size: 14px;
 
-            margin-bottom: 20px;
-        }
+    font-weight: 700;
 
+    margin-bottom: 15px;
 
-        .appointee-meta span {
+    line-height: 1.4;
+}
 
-            color: var(--muted);
+.appointee-meta {
+    display: flex;
 
-            font-size: 13px;
-        }
+    flex-direction: column;
 
+    gap: 9px;
 
-        .appointee-meta i {
+    margin-bottom: 20px;
+}
 
-            color: #9a7410;
+.appointee-meta span {
+    color: var(--muted);
 
-            margin-right: 7px;
-        }
+    font-size: 13px;
 
+    line-height: 1.5;
+}
 
-        .view-profile {
+.appointee-meta i {
+    color: #9a7410;
 
-            display: inline-flex;
-
-            align-items: center;
-
-            color: #9a7410;
-
-            font-size: 14px;
-
-            font-weight: 700;
-
-            text-decoration: none;
-        }
-
-
-        .view-profile i {
-
-            margin-left: 7px;
-
-            transition: 0.3s ease;
-        }
+    margin-right: 7px;
+}
 
 
-        .view-profile:hover {
+/* ========================================
+   VIEW PROFILE
+======================================== */
 
-            color: var(--gold);
-        }
+.view-profile {
+    display: inline-flex;
+
+    align-items: center;
+
+    color: #9a7410;
+
+    font-size: 14px;
+
+    font-weight: 700;
+
+    text-decoration: none;
+}
+
+.view-profile i {
+    margin-left: 7px;
+
+    transition: 0.3s ease;
+}
+
+.view-profile:hover {
+    color: var(--gold);
+}
+
+.view-profile:hover i {
+    transform: translateX(4px);
+}
 
 
-        .view-profile:hover i {
+/* ========================================
+   RESULT COUNT
+======================================== */
 
-            transform: translateX(4px);
-        }
-        /* =========================
-   TABLET RESPONSIVE
-========================= */
+.result-count {
+    color: var(--muted);
 
-@media (min-width: 768px) and (max-width: 1199px) {
+    font-size: 14px;
+}
+
+.result-count strong {
+    color: var(--navy);
+}
+
+
+/* ========================================
+   NO RESULTS
+======================================== */
+
+.no-results {
+    display: none;
+
+    padding: 70px 20px;
+
+    text-align: center;
+}
+
+.no-results i {
+    font-size: 55px;
+
+    color: #b8c0c9;
+
+    margin-bottom: 20px;
+}
+
+.no-results h3 {
+    color: var(--navy);
+
+    font-weight: 800;
+}
+
+.no-results p {
+    color: var(--muted);
+}
+
+
+/* ========================================
+   LARGE TABLETS
+======================================== */
+
+@media (min-width: 992px) and (max-width: 1199px) {
 
     .appointee-photo {
         height: 330px;
+        padding: 5px;
     }
 
     .appointee-photo img {
         width: 100%;
         height: 100%;
-        object-fit: cover;
-        object-position: center top;
+
+        object-fit: contain !important;
+
+        object-position: center center !important;
+
+        transform: none !important;
     }
 
     .appointee-content {
@@ -377,142 +450,210 @@
     }
 }
 
-/* =========================
+
+/* ========================================
    SMALL TABLETS
-========================= */
+======================================== */
 
 @media (min-width: 768px) and (max-width: 991px) {
 
     .appointee-photo {
-        height: 300px;
-    }
+        height: 310px;
 
-    .appointee-photo img {
-        object-position: center top;
-    }
-}
-
-
-        /* =========================
-           RESULT COUNT
-        ========================== */
-
-        .result-count {
-
-            color: var(--muted);
-
-            font-size: 14px;
-        }
-
-
-        .result-count strong {
-
-            color: var(--navy);
-        }
-
-
-        /* =========================
-           NO RESULTS
-        ========================== */
-
-        .no-results {
-
-            display: none;
-
-            padding: 70px 20px;
-
-            text-align: center;
-        }
-
-
-        .no-results i {
-
-            font-size: 55px;
-
-            color: #b8c0c9;
-
-            margin-bottom: 20px;
-        }
-
-
-        .no-results h3 {
-
-            color: var(--navy);
-
-            font-weight: 800;
-        }
-
-
-        .no-results p {
-
-            color: var(--muted);
-        }
-
-
-        /* =========================
-           MOBILE
-        ========================== */
-
-        @media (max-width: 767px) {
-
-            .directory-header {
-
-                padding: 130px 20px 70px;
-            }
-
-
-            .directory-header h1 {
-
-                font-size: 38px;
-            }
-
-
-            .directory-tools {
-
-                margin-top: -25px;
-            }
-
-
-            .filter-card {
-
-                padding: 20px;
-            }
-
-
-            .appointee-photo {
-
-                height: 300px;
-            }
-
-        }
-        @media (max-width: 576px) {
-    .page-navigation {
-        right: 15px;
-        bottom: 20px;
-    }
-
-    .page-navigation button {
-        width: 40px;
-        height: 40px;
-        font-size: 17px;
-    }
-}
-        @media (max-width: 767px) {
-
-    .appointee-photo {
-        height: 300px;
+        padding: 5px;
     }
 
     .appointee-photo img {
         width: 100%;
         height: 100%;
-        object-fit: cover;
-        object-position: center top;
+
+        object-fit: contain !important;
+
+        object-position: center center !important;
+
+        transform: none !important;
+    }
+
+    .appointee-content {
+        padding: 18px;
+    }
+
+    .appointee-content h3 {
+        font-size: 18px;
+    }
+
+    .appointee-position {
+        font-size: 13px;
+    }
+
+    .appointee-meta span {
+        font-size: 12px;
+    }
+
+    .view-profile {
+        font-size: 13px;
     }
 }
 
-    </style>
 
+/* ========================================
+   MOBILE
+======================================== */
+
+@media (max-width: 767px) {
+
+    .directory-header {
+        padding: 130px 20px 70px;
+    }
+
+    .directory-header h1 {
+        font-size: 38px;
+    }
+
+    .directory-tools {
+        margin-top: -25px;
+    }
+
+    .filter-card {
+        padding: 20px;
+    }
+
+    .appointee-photo {
+        height: 320px;
+
+        padding: 5px;
+    }
+
+    .appointee-photo img {
+        width: 100%;
+        height: 100%;
+
+        object-fit: contain !important;
+
+        object-position: center center !important;
+
+        transform: none !important;
+    }
+
+    .appointee-content {
+        padding: 20px;
+    }
+
+    .appointee-content h3 {
+        font-size: 19px;
+    }
+
+    .appointee-position {
+        font-size: 13px;
+    }
+}
+
+
+/* ========================================
+   SMALL MOBILE
+======================================== */
+
+@media (max-width: 576px) {
+
+    .page-navigation {
+        right: 15px;
+
+        bottom: 20px;
+    }
+
+    .page-navigation button {
+        width: 40px;
+
+        height: 40px;
+
+        font-size: 17px;
+    }
+
+    .appointee-photo {
+        height: 300px;
+
+        padding: 5px;
+    }
+
+    .appointee-photo img {
+        object-fit: contain !important;
+
+        object-position: center center !important;
+
+        transform: none !important;
+    }
+
+    .appointee-content {
+        padding: 18px;
+    }
+
+    .appointee-content h3 {
+        font-size: 18px;
+    }
+}
+
+
+/* ========================================
+   VERY SMALL PHONES
+======================================== */
+
+@media (max-width: 400px) {
+
+    .appointee-photo {
+        height: 280px;
+    }
+
+    .appointee-content {
+        padding: 16px;
+    }
+
+    .appointee-content h3 {
+        font-size: 17px;
+    }
+
+    .appointee-position {
+        font-size: 12px;
+    }
+
+    .appointee-meta span {
+        font-size: 12px;
+    }
+}
+
+
+/* ========================================
+   GRID CONSISTENCY
+======================================== */
+
+#appointeeGrid > [class*="col-"] {
+    display: flex;
+}
+
+#appointeeGrid .appointee-card {
+    width: 100%;
+}
+
+
+/* ========================================
+   FINAL IMAGE PROTECTION
+======================================== */
+
+/*
+   This is deliberately placed at the
+   bottom so no earlier media query
+   can change the image back to COVER.
+*/
+
+.appointee-photo img,
+.appointee-card img {
+    object-fit: contain !important;
+
+    object-position: center center !important;
+
+    transform: none !important;
+}
+
+</style>
 </head>
 
 
