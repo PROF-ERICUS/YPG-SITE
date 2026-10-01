@@ -1003,41 +1003,27 @@
                 .toLowerCase();
 
 
-        const filteredMPs =
-            mpData.filter(function(member) {
+       const filteredMPs = mpData.filter(function(member) {
 
+    // Only ACTIVE MPs appear on the main MP directory
+    if (member.status !== "active") {
+        return false;
+    }
 
-                const name =
-                    String(member.name || "")
-                        .toLowerCase();
+    const name = String(member.name || "").toLowerCase();
+    const constituency = String(member.constituency || "").toLowerCase();
+    const region = String(member.region || "").toLowerCase();
 
+    const matchesSearch =
+        name.includes(search) ||
+        constituency.includes(search);
 
-                const constituency =
-                    String(member.constituency || "")
-                        .toLowerCase();
+    const matchesRegion =
+        selectedRegion === "" ||
+        region === selectedRegion;
 
-
-                const region =
-                    String(member.region || "")
-                        .toLowerCase();
-
-
-                const matchesSearch =
-                    name.includes(search) ||
-                    constituency.includes(search);
-
-
-                const matchesRegion =
-                    selectedRegion === "" ||
-                    region === selectedRegion;
-
-
-                return (
-                    matchesSearch &&
-                    matchesRegion
-                );
-
-            });
+    return matchesSearch && matchesRegion;
+});
 
 
         /* Clear current cards */
@@ -1241,6 +1227,8 @@ function checkDuplicateConstituencies() {
 
 checkDuplicateConstituencies();
 </script>
+
+
 </body>
 
 </html>
