@@ -7,6 +7,7 @@ constituency: "Effia Constituency",
 region: "Western",
 parliament: "Youth Parliament Ghana",
 committee: "Information to be updated",
+    status: "active",
 
 
 education:
@@ -47,6 +48,7 @@ website: "#"
     region: "Oti",
     parliament: "Youth Parliament Ghana",
     committee: "Information to be updated",
+     status: "active",
 
     education:
         "Kwame Nkrumah University of Science and Technology (KNUST). Programme: Publishing Studies. Mastercard Foundation Scholar.",
@@ -77,6 +79,7 @@ constituency: "Atebubu-Amantin Constituency",
 region: "Bono East",
 parliament: "Youth Parliament Ghana",
 committee: "Information to be updated",
+  status: "active",
 
 
 education:
@@ -130,6 +133,7 @@ website: "#"
     region: "Western North",
     parliament: "Youth Parliament Ghana",
     committee: "Information to be updated",
+  status: "active",
 
     education:
         "Kwadaso Agricultural College — Graduate.",
@@ -175,6 +179,7 @@ website: "#"
     region: "Ashanti",
     parliament: "Youth Parliament Ghana",
     committee: "Information to be updated",
+  status: "active",
 
     education:
         "Kumasi Technical University (KsTU) — BSc in Supply Chain Management.",
@@ -217,6 +222,7 @@ website: "#"
     region: "Ashanti",
     parliament: "Youth Parliament Ghana",
     committee: "Information to be updated",
+  status: "active",
 
     education:
         "Basic Education: Rock of Ages Int'l School and Buokrom M/A 'A'. Secondary Education: Ejisuman Senior High School. Tertiary Education: Garden City University.",
@@ -253,6 +259,7 @@ website: "#"
     region: "Ashanti",
     parliament: "Youth Parliament Ghana",
     committee: "Information to be updated",
+  status: "active",
 
     education:
         "University of Energy and Natural Resources (UENR), Sunyani.",
@@ -339,6 +346,7 @@ website: "#"
     region: "Eastern",
     parliament: "Youth Parliament Ghana",
     committee: "Information to be updated",
+  status: "active",
 
     education:
         "University of Ghana, Legon — University of Ghana Business School. BSc Administration. Previous School: St. Luke Senior High School.",
@@ -396,6 +404,7 @@ website: "#"
     region: "Western",
     parliament: "Youth Parliament Ghana",
     committee: "Information to be updated",
+  status: "active",
 
     education:
         "Takoradi Technical Institute — 2019–2022. Takoradi Technical University — 2022–2026.",
@@ -441,6 +450,7 @@ website: "#"
     region: "Greater Accra",
     parliament: "Youth Parliament Ghana",
     committee: "Information to be updated",
+  status: "active",
 
     education:
         "JHS: Sakumono School Complex. SHS: Lashibi Senior High School (Community SHS). University: University of Professional Studies, Accra (UPSA).",
@@ -486,6 +496,7 @@ website: "#"
     region: "Western",
     parliament: "Youth Parliament Ghana",
     committee: "Composition of Parliament Leadership",
+  status: "active",
 
     education:
         "Currently pursuing Pharmaceutical Sciences at Kumasi Technical University (KsTU), Kumasi, Ashanti Region. Secondary Education: Islamic Senior High School, Kumasi. Basic Education: St. Mary's Catholic Basic School and Samreboi M/A Junior High School, Samreboi, Wassa Amenfi West, Western Region.",
@@ -537,6 +548,7 @@ website: "#"
     region: "Bono",
     parliament: "Youth Parliament Ghana",
     committee: "Information to be updated",
+  status: "active",
 
     education:
         "Degree in Political Science Education.",
@@ -582,6 +594,7 @@ website: "#"
     region: "Ahafo",
     parliament: "Youth Parliament Ghana",
     committee: "Information to be updated",
+  status: "active",
 
     education:
         "Primary: Great Ebenezer Preparatory School — Girls Prefect, 2017/2018 year group. Secondary: Yaa Asantewaa Girls’ Senior High School. Tertiary: University of Professional Studies, Accra (UPSA) — Peer Counseling Team; Organizer and Treasurer, Peer Counseling UPSA, 2024–2025.",
@@ -627,6 +640,7 @@ website: "#"
     region: "Western",
     parliament: "Youth Parliament Ghana",
     committee: "Information to be updated",
+  status: "active",
 
     education:
         "Basic Education: Nkroful M/A JHS. Secondary Education: Axim Girls’ Senior High School. Tertiary Education: Kwame Nkrumah University of Science and Technology (KNUST) — Bachelor of Science in Agriculture. Professional Training: Virtual Assistant training from Affluence Academy.",
@@ -678,6 +692,7 @@ website: "#"
     region: "Central",
     parliament: "Youth Parliament Ghana",
     committee: "Information to be updated",
+  status: "active",
 
     education:
         "JHS: Kumbe Opeikuma Islamic School. SHS: Africana Senior High School. University: University of Professional Studies, Accra (UPSA).",
@@ -723,6 +738,7 @@ website: "#"
     region: "Greater Accra",
     parliament: "Youth Parliament Ghana",
     committee: "Information to be updated",
+  status: "active",
 
     education:
         "BSc Information Technology (In Progress) — Accra Institute of Technology (AIT), Accra, Ghana. Coursework includes Project Management, Systems Analysis & Design, and IT Operations. WASSCE — Bawku Senior High/Technical School.",
@@ -777,6 +793,7 @@ website: "#"
     region: "Savannah",
     parliament: "Youth Parliament Ghana",
     committee: "Information to be updated",
+  status: "active",
 
     education:
         "B.A. Gonja with English Education — University of Education, Winneba (Ajumako Campus), 2022–2026. WASSCE — Kalpohin Senior High School, 2017–2020. BECE — Salaga D/A Junior High School, 2015–2017.",
@@ -834,6 +851,7 @@ website: "#"
     region: "Central",
     parliament: "Youth Parliament Ghana",
     committee: "Information to be updated",
+  status: "active",
 
     education:
         "JHS: Dabir Benyadze Egyei M/A Basic School. SHS: Eguafo Abrem Senior High School. Tertiary: Kwame Nkrumah University of Science and Technology (KNUST) — currently pursuing a B.A. in Political Science.",
@@ -879,6 +897,7 @@ website: "#"
     region: "Savannah",
     parliament: "Youth Parliament Ghana",
     committee: "Information to be updated",
+  status: "active",
 
     education:
         "Senior High School: Accra Girls Senior High School. Tertiary Education: Ghana Water Institute (GWI) — Water Quality Management.",
@@ -932,6 +951,7 @@ website: "#"
     constituency: "Sene West Constituency",
     region: "Bono East",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     committee: "Information to be updated",
 
@@ -977,6 +997,7 @@ website: "#"
     constituency: "Ablekuma North Constituency",
     region: "Greater Accra",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     committee: "Information to be updated",
 
@@ -1059,6 +1080,7 @@ website: "#"
     constituency: "Nkwanta South Constituency",
     region: "Oti",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     committee: "Information to be updated",
 
@@ -1111,6 +1133,7 @@ website: "#"
     constituency: "Sekondi",
     region: "Western",
     parliament: "Parliament of Ghana",
+  status: "active",
 
     committee: "Information to be updated",
 
@@ -1158,6 +1181,7 @@ constituency: "Atwima Nwabiagya South Constituency",
 region: "Ashanti",
 
 parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "UNIVERSITY OF CAPE COAST (UCC) — BSc LABORATORY TECHNOLOGY, LEVEL 400, CURRENTLY PURSUING. Previous Education: KUMASI ACADEMY — Senior High School Education; TOASE M/A JUNIOR HIGH SCHOOL — Junior High School Education; EFFIDUASE PRESBYTERIAN PRIMARY SCHOOL — Basic Education.",
@@ -1213,6 +1237,7 @@ constituency: "Kpone Katamanso Constituency",
 region: "Greater Accra",
 
 parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "UNIVERSITY FOR DEVELOPMENT STUDIES (UDS), NYANKPALA CAMPUS — Bachelor of Science (BSc) in Biochemistry, currently pursuing. TAMale SENIOR HIGH SCHOOL (TAMASCO) — Secondary Education.",
@@ -1268,6 +1293,7 @@ constituency: "Tema West Constituency",
 region: "Greater Accra",
 
 parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "UNIVERSITY OF CAPE COAST (UCC) — Bachelor of Laws (LLB), currently pursuing. GHANATA SENIOR HIGH SCHOOL, DODOWA — Secondary Education. AGAPE SCHOOL COMPLEX, ASHIAMAN-LEBANON — Primary and Junior High School Education.",
@@ -1320,6 +1346,7 @@ position: "Youth Member of Parliament",
 constituency: "Damongo Constituency",
 region: "Savannah",
 parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "UNIVERSITY OF PROFESSIONAL STUDIES, ACCRA (UPSA) — Bachelor of Arts in Public Relations Management, currently pursuing. TAMALE GIRLS SENIOR HIGH SCHOOL — Senior High School, General Arts. YABUM JUNIOR HIGH SCHOOL — Junior High School Education. ALMANARA ENGLISH AND ARABIC PRIMARY SCHOOL — Basic Education.",
@@ -1376,6 +1403,7 @@ parliament: "Youth Parliament Ghana",
      constituency: "Tamale South Constituency",
     region: "Northern",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "UNIVERSITY FOR DEVELOPMENT STUDIES — BSC PUBLIC HEALTH (OCCUPATIONAL HEALTH AND SAFETY), LEVEL 400, AWAITING DEGREE 2027. BUSINESS SENIOR HIGH SCHOOL, TAMALE — 2021–2023. RAJIA E/A JUNIOR HIGH SCHOOL, ZABZUGU. RAJIA E/A PRIMARY SCHOOL, ZABZUGU.",
@@ -1432,6 +1460,7 @@ parliament: "Youth Parliament Ghana",
 constituency: "Afigya Kwabre South",
 region: "Ashanti",
 parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "UNIVERSITY OF MINES AND TECHNOLOGY (UMaT) — BSC CYBER SECURITY, YEAR 3.",
@@ -1545,6 +1574,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Lower Manya Krobo",
     region: "Eastern",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "Mount Mary College of Education, Somanya — RME and Music, Degree, four years. Yilo Krobo Senior High School (YIKROSEC). Asesewa D/A Pentecost JHS. Yonguase M/A Basic School.",
@@ -1601,6 +1631,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Ada Constituency",
     region: "Greater Accra",
     parliament: "Parliament of Ghana",
+  status: "active",
 
     education:
         "Accra Technical University — Hospitality Management, Degree in Hospitality, 2024.",
@@ -1657,6 +1688,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Asene Manso Akroso",
     region: "Eastern",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "Accra Institute of Technology (AIT), Accra, Ghana — Bachelor of Science in Information Technology, in progress. Coursework includes Project Management, Systems Analysis & Design, UI & UX Design, and IT Operations. Oyoko Methodist Senior High School — Senior High School Certificate. Nyamekye Educational Complex — Junior High School.",
@@ -1713,6 +1745,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Manhyia South",
     region: "Ashanti",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "Komfo Anokye Educational Complex. Passion International School. Aduman Senior High School — Senior High School education. University of Professional Studies, Accra (UPSA) — Bachelor’s degree in Business Administration, currently pursuing.",
@@ -1769,6 +1802,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Buem Constituency",
     region: "Oti",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "Jasikan College of Education — B.Ed Primary Education (Religious and Moral Education), Degree, 2026.",
@@ -1825,6 +1859,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Biakoye Constituency",
     region: "Oti",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "University of Mines and Technology (UMaT), Tarkwa — Logistics and Transport Management, Degree, Year 400 (Final Year). Dambai — Secondary Education. Worawora Secondary School — Secondary Education. Worawora Primary and JHS — Basic Education.",
@@ -1881,6 +1916,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Jomoro Constituency",
     region: "Western",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "University of Cape Coast (UCC) — Chemical Engineering, currently pursuing.",
@@ -1937,6 +1973,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Yendi Constituency",
     region: "Northern",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "Paramedic and Emergency Care Training School — Emergency Medical Responder, Certificate, 2025. St. Charles JHS — 2001–2003. Tamale Senior High School — 2003–2006.",
@@ -2052,6 +2089,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Cape Coast North",
     region: "Central",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "Cape Coast Technical University (CCTU) — Bachelor of Technology in Procurement and Supply Chain Management (BTech), 2025–Present. Mfantsipim — General Arts, WASSCE, 2019–2022.",
@@ -2108,6 +2146,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Kwesimintsim Constituency",
     region: "Western",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "University of Mines and Technology (UMaT), Tarkwa — B.Sc. Robotics Engineering and Artificial Intelligence, currently pursuing. Ideal College, Takoradi — Secondary Education. King Solomon International School, SCC — Basic Education.",
@@ -2164,6 +2203,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Manhyia North Constituency",
     region: "Ashanti",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "University of Cape Coast (UCC) — BSc Laboratory Technology, Bachelor of Science. Year of completion not provided.",
@@ -2221,6 +2261,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Nsuta Kwamang Beposo Constituency",
     region: "Ashanti",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "Sekondi Nursing and Midwifery College — Registered General Nursing, completed in 2026. Kumasi Senior High School — Senior High School Education. Oku R/C Basic School — Basic Education.",
@@ -2334,6 +2375,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Binduri Constituency",
     region: "Upper East Region",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "Tamale Senior High School — General Science, WASSCE, 2022. Nursing and Midwifery Training College, Zuarungu — Registered General Nursing, Diploma, Year 300.",
@@ -2390,6 +2432,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "ODOTOBIRI Constituency",
     region: "Ashanti",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "College of Health and Well-being, Kintampo — BSc Mental Health, Degree, 2026.",
@@ -2446,6 +2489,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Bibiani Anhwiaso Bekwai Constituency",
     region: "Western North",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "University of Mines and Technology (UMaT), Tarkwa — BSc Geological Engineering, currently pursuing.",
@@ -2502,6 +2546,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Sege Constituency",
     region: "Greater Accra",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "Sege Presbyterian Primary Number One — Basic Education. Sege Community JHS Number Two — Junior High School Education. Tema Technical Institute — Technical/Vocational Education, Technical Certificate. Accra Technical University — Automobile Engineering, Higher National Diploma (HND), 2023–2025. Accra Technical University — Automobile Engineering, Bachelor of Technology (B.Tech) Top-Up, in progress.",
@@ -2558,6 +2603,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Nalerigu Gambaga Constituency",
     region: "North East",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "University for Development Studies (UDS) — Bachelor of Laws (LLB), ongoing, Year 200.",
@@ -2614,6 +2660,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Asante Akim South constituency",
     region: "Ashanti",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "University for Development Studies (UDS), Tamale Campus — BSc Public Health (Disease Control), Degree, 4 years.",
@@ -2670,6 +2717,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Upper Denkyira West",
     region: "Central",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "Adumasa All Saints Presby JHS — Junior High School Education. Ofoase Kokoben SHS — Senior High School Education, served as School Chaplain and Debate President. University of Cape Coast (UCC), School of Business — Bachelor of Commerce, Level 300, 2024–Present. Motivational Speaker Award — UCC.",
@@ -2729,6 +2777,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Bantama",
     region: "Ashanti",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "Hariom International School — JHS. Methodist Senior High School — SHS. NIIT — Diploma in Network Administration. Holik Media School — HND. Ghana Communication Technology University — Degree, 2026.",
@@ -2785,6 +2834,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Abetifi Constituency",
     region: "Eastern",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "University for Development Studies — Biochemistry, Bachelor of Science (B.Sc.), 2026.",
@@ -2841,6 +2891,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Zebilla Constituency",
     region: "Upper East",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "Accra College of Education — Bachelor of Education in Junior High School Education, Social Studies. Currently pursuing, expected completion 2027.",
@@ -2898,6 +2949,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Afigya Sekyere East",
     region: "Ashanti",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "T.I. Ahmadiyya Senior High School, Kumasi — Senior High School Education.",
@@ -2954,6 +3006,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Ahanta West",
     region: "Western",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "University of Mines and Technology (UMaT), Tarkwa — BSc Chemical Engineering, Degree, 2026.",
@@ -3010,6 +3063,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Atwima Mponua Constituency",
     region: "Ashanti",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "Akrokerri College of Education — Bachelor of Education in Social Studies and Religious and Moral Education, currently pursuing.",
@@ -3064,8 +3118,9 @@ parliament: "Youth Parliament Ghana",
     name: "PHILIP FELIX OTOO",
     position: "Member of Parliament",
     constituency: "Abura Asebu Kwamankese",
-    region: "Central Region",
+    region: "Central",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "St. John's Basic / Ghana National Basic School — JHS. Mfantsipim School — SHS. University of Cape Coast (UCC) — Economics and Geography.",
@@ -3122,6 +3177,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Juaboso Constituency",
     region: "Western North",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "University of Energy and Natural Resources (UENR) — BSc Medical Laboratory Sciences, Degree, Year 4. Prempeh College, Kumasi — General Science. St. Joseph’s R/C JHS, Suame — Junior High School Education. Adventist Preparatory School, South Suntreso, Kumasi — Basic Education. Agyemandiem R/C Primary — Basic Education.",
@@ -3178,6 +3234,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Bodi Constituency",
     region: "Western North",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "University of Energy and Natural Resources (UENR). Kumasi Senior High School Technical. Juaboso D/A JHS ‘C’. Ken’s School Complex Primary School.",
@@ -3234,6 +3291,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Sefwi Akontombra Constituency",
     region: "Western North",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "University for Development Studies (UDS) — BSc Agricultural Engineering, Bachelor of Science in Agricultural Engineering, 2025. Classification: Second Class Lower.",
@@ -3290,6 +3348,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Odododiodio Constituency",
     region: "Greater Accra",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "Susan Owusu Memorial Methodist International School (SOMMIS) — Basic Education Certificate Examination (BECE). Adisadel College — West African Senior School Certificate Examination (WASSCE). Ghana Communication Technology University (GCTU) — Bachelor of Science in Software Engineering, currently pursuing.",
@@ -3346,6 +3405,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Akim Swedru Constituency",
     region: "Eastern",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "University of Cape Coast — Bachelor of Arts in Economics and Geography. University of Cape Coast — Master of Philosophy (MPhil) in Geography, currently pursuing.",
@@ -3402,6 +3462,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Suhum Constituency",
     region: "Eastern",
     parliament: "Youth Parliament Ghana",
+    status: "active",
 
     education:
         "Kwame Nkrumah University of Science and Technology (KNUST) — Aerospace Engineering, Bachelor's Degree in progress, Third Year. Mfantsipim School — Secondary Education. St. Mary's Preparatory School, Koforidua — Basic Education.",
@@ -3459,6 +3520,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Wassa East Constituency",
     region: "Western",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "Kwame Nkrumah University of Science and Technology (KNUST) — Bachelor of Arts (BA) in Communication Design, recent graduate. T.I. Ahmadiyya Senior High School (T.I. AMASS), Kumasi — Visual Art, West African Senior School Certificate (WASSCE), 2018–2021.",
@@ -3515,6 +3577,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Tatale-Sanguli Constituency",
     region: "Northern",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "University for Development Studies (UDS) — Bachelor of Laws (LL.B), currently pursuing.",
@@ -3573,6 +3636,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Amenfi East Constituency",
     region: "Western",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "Kwame Nkrumah University of Science and Technology (KNUST) — Bachelor of Science (BSc) Degree in Biochemistry, 2025.",
@@ -3629,6 +3693,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Nkwanta North",
     region: "Oti",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "University of Ghana — B.A Political Science and Classics. University of Professional Studies, Accra (UPSA) — LLB, currently pursuing. Institute of Paralegal Training and Legal Studies (IPLS), Accra — Professional Executive Masters in Alternative Dispute Resolution.",
@@ -3687,6 +3752,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Asunafo North constituency",
     region: "Ahafo",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "University of Skills Training and Entrepreneurial Development — Degree in Human Resource Management, currently pursuing.",
@@ -3743,6 +3809,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Domeabra Obom Constituency",
     region: "Greater Accra",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "University of Cape Coast (UCC) — Bachelor of Education in Early Childhood Education, 2026.",
@@ -3799,6 +3866,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Afadjato South",
     region: "Volta",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "University of Cape Coast — Bachelor of Commerce (Management), Degree, 2022–2026. Leklebi Duga L/A Primary School. Leklebi Junior High School. Leklebi Senior High School.",
@@ -3855,6 +3923,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Ablekuma West Constituency",
     region: "Greater Accra",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "Emmanuel Presbyterian Preparatory School, Dansoman — Basic Education Certificate Examination (BECE), 2019. Presbyterian Boys' Senior High School (PRESEC), Legon — Science Programme, West African Senior School Certificate Examination (WASSCE), 2019–2022. University of Cape Coast — Bachelor of Medicine, Bachelor of Surgery (MBChB), 2023–2028 (Expected).",
@@ -3911,6 +3980,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Sekyere Central constituency",
     region: "Ashanti",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "University of Media, Arts and Communication (UniMAC-IJ) — Bachelor of Arts in Development Communication, 2026. UniMAC-IJ — Diploma in Communication Studies. National Film and Television Institute (NAFTI) — Diploma in Broadcast Journalism. Ongoing postgraduate programme in Development Communication.",
@@ -3967,6 +4037,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Agona West Constituency",
     region: "Central",
     parliament: "Youth Parliament Ghana ",
+  status: "active",
 
     education:
         "University of Cape Coast — BSc Water and Public Health Engineering, Bachelor of Science, expected 2027.",
@@ -4023,6 +4094,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Bekwai Constituency",
     region: "Ashanti",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "Kwame Nkrumah University of Science and Technology (KNUST) — Physician Assistant, Graduate. Currently enrolled in KNUST Medical School.",
@@ -4079,6 +4151,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Asutifi South constituency",
     region: "Ahafo",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "Kwame Nkrumah University of Science and Technology (KNUST) — Construction Technology and Management, Level 400, in progress.",
@@ -4135,6 +4208,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Krachi East constituency",
     region: "Oti",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "University for Professional Studies — Education ICT and Mathematics, Degree/Certificate, 2021. Dambai College of Education — Teacher Education.",
@@ -4191,6 +4265,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Central Tongu constituency",
     region: "Volta",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "Peki College of Education — Social Science, Bachelor of JHS Education, 2023–2026.",
@@ -4247,6 +4322,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Akatsi South constituency",
     region: "Volta",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "University of Professional Studies, Accra (UPSA) — Business Administration, Degree.",
@@ -4303,6 +4379,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Ho West Constituency",
     region: "Volta",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "Accra College of Education — Bachelor of Education in History and Social Studies, 2024. Tsito Awudome Senior High School — completed 2019. Dodome Awuiasu D.A. Nursery through Primary School and Junior High School — completed JHS in 2016. Cambridge teaching certificate. Teacher Licensure Examination — passed. Certificate from Boston for participating in a film-building project.",
@@ -4359,6 +4436,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Takoradi constituency",
     region: "Western",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "University of Cape Coast (UCC) — BSc Population and Health, Undergraduate.",
@@ -4415,6 +4493,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Mion Constituency",
     region: "Northern",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "St. James Seminary Senior High School — Senior High School Education.",
@@ -4471,6 +4550,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Tolon",
     region: "Northern",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "University for Development Studies (UDS), Tamale — Information and Communication Technology, in progress. Ghana Senior High School (GHANASCO), Tamale — General Arts, 2021–2024. Tali E/A Junior High School — 2018–2021. Tali R/C Primary School — 2011–2018.",
@@ -4527,6 +4607,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Prestea Huni Valley Constituency",
     region: "Western",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "Cape Coast Technical University — Bachelor’s Degree in Mechanical Engineering, expected 2030. Ghana National College — General Science, 2023.",
@@ -4583,6 +4664,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Adaklu",
     region: "Volta",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "Accra Technical University — Public Relations, Level 200. WASSCE, 2025.",
@@ -4640,6 +4722,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Wulensi Constituency",
     region: "Northern",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "University for Development Studies (UDS) — Diploma and Degree in Early Childhood Care and Education, 2021–2025. Tahiriya E/A Primary and Junior High School — Basic Education. Prestige College International, Yendi — Secondary Education.",
@@ -4696,6 +4779,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Navrongo Central constituency",
     region: "Upper East",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "Buipe Senior High School — Home Science, WASSCE, 2020. Tamale Technical University — Marketing, admission arranging, distance/weekend programme.",
@@ -4752,6 +4836,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Ejura-Sekyedumase constituency",
     region: "Ashanti",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "Kumasi Technical University — Diploma in Information Technology, 2020–2022. Bankoman Senior High School — Senior High School Certificate, 2016–2018. Ejura Model M/A JHS — Junior High School Education, 2011–2013. Additional professional training: Foundation of Cybersecurity. Tool of the Trade: Linux and SQL. Asset, Threat, and Vulnerabilities.",
@@ -4810,6 +4895,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Ablekuma Central Constituency",
     region: "Greater Accra",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "Ghana Communication Technology University (GCTU) — BSc Software Engineering, currently pursuing.",
@@ -4864,8 +4950,9 @@ parliament: "Youth Parliament Ghana",
     name: "KWESI BUABENG BORTEI",
     position: "Member of Parliament",
     constituency: "Ajumako Enyan Essiam constituency",
-    region: "Central Region",
+    region: "Central",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "Kwame Nkrumah University of Science and Technology (KNUST) — BSc Computer Science, expected 2028. Mfantsipim School — Secondary Education. Cambridge International School — Basic Education.",
@@ -4922,6 +5009,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Kintampo South Constituency",
     region: "Bono East",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "Kwadaso Agricultural College — Diploma in General Agriculture, 2025/2026. Amoma Methodist School — Basic Education. Methodist B — Basic Education. Jema Senior High School — Secondary Education. University of Cape Coast (UCC) — Admitted for a degree top-up programme.",
@@ -4978,6 +5066,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Ahafo Ano-North Constituency",
     region: "Ashanti",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "St. Joseph's College of Education, Bechem — Bachelor of Education (B.Ed.) in Mathematics and Information and Communication Technology (ICT), currently a student. Tepa Senior High School — General Arts, WASSCE.",
@@ -5034,6 +5123,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Ledzokuku Constituency",
     region: "Greater Accra ",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "University of Ghana, Legon — Public Administration, Sociology and French, Undergraduate Degree in progress, 2026–Present. Wesley Girls' High School, Cape Coast — General Arts, WASSCE, 2023–2025.",
@@ -5090,6 +5180,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Zabzugu Constituency",
     region: "Northern",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "University for Development Studies (UDS) — BSc Nutrition.",
@@ -5146,6 +5237,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Adenta Constituency",
     region: "Greater Accra",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "University for Development Studies (UDS) — BSc Biotechnology and Molecular Biology, four-year programme, currently Level 200.",
@@ -5203,6 +5295,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Bunkpurugu Constituency",
     region: "North East",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "University for Development Studies (UDS) — Bachelor of Laws (LL.B.), Level 200.",
@@ -5259,6 +5352,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Ashaiman Constituency",
     region: "Greater Accra",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "Kwame Nkrumah University of Science and Technology (KNUST) — Biochemistry, Degree, Fourth Year.",
@@ -5315,6 +5409,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Builsa South Constituency",
     region: "Upper East",
     parliament: "Youth Parliament Ghana",
+  status: "active",
 
     education:
         "MPhil in Mathematics — University of Technology and Applied Sciences (January 2025). Masters in Mathematics Education — University of Cape Coast (December 2023 – May 2024). Bachelor of Education in Psychology and Foundations of Education (Mathematics) — University of Cape Coast. Diploma in Basic Education — St. John Bosco’s College of Education, Navrongo (September 2012 – July 2015). WASSCE — Sandema Senior High / Technical School (September 2007 – June 2011). JHS — Fumbisi Zongo Preparatory School (September 2004 – April 2007). Primary Education — Naadema Primary School (September 1997 – September 2004).",
