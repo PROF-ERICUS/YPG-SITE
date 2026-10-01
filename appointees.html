@@ -88,20 +88,6 @@
     transform: scale(0.95);
 }
 
-        
-        @media (max-width: 576px) {
-    .page-navigation {
-        right: 15px;
-        bottom: 20px;
-    }
-
-    .page-navigation button {
-        width: 40px;
-        height: 40px;
-        font-size: 17px;
-    }
-}
-
         /* =========================
            DIRECTORY HEADER
         ========================== */
@@ -467,6 +453,18 @@
             }
 
         }
+        @media (max-width: 576px) {
+    .page-navigation {
+        right: 15px;
+        bottom: 20px;
+    }
+
+    .page-navigation button {
+        width: 40px;
+        height: 40px;
+        font-size: 17px;
+    }
+}
 
     </style>
 
@@ -631,37 +629,40 @@
      PAGE HEADER
 ========================== -->
 
+<!-- =========================
+     PAGE HEADER
+========================== -->
+
 <section class="directory-header">
 
     <div class="container text-center">
 
         <div class="section-label light">
-
             PUBLIC DIRECTORY
-
         </div>
 
-
         <h1>
-
             Appointees Directory
-
         </h1>
 
-
         <p>
-
             Explore profiles of appointed officials and
             office holders within the Youth Parliament Ghana
             structure.
-
         </p>
+
+        <!-- REVOKED APPOINTEES BUTTON -->
+        <div class="mt-4">
+            <a href="revoked-appointees.html"
+               class="btn btn-danger">
+                <i class="bi bi-person-x-fill"></i>
+                Revoked Appointees
+            </a>
+        </div>
 
     </div>
 
 </section>
-
-
 
 <!-- =========================
      FILTERS
@@ -1103,11 +1104,9 @@
 ========================== -->
 
 <script>
-
 document.addEventListener(
     "DOMContentLoaded",
     function () {
-
 
         /* =========================
            ELEMENTS
@@ -1118,42 +1117,35 @@ document.addEventListener(
                 "appointeeGrid"
             );
 
-
         const searchInput =
             document.getElementById(
                 "appointeeSearch"
             );
-
 
         const ministryFilter =
             document.getElementById(
                 "ministryFilter"
             );
 
-
         const regionFilter =
             document.getElementById(
                 "appointeeRegion"
             );
-
 
         const resetButton =
             document.getElementById(
                 "resetFilters"
             );
 
-
         const resultCount =
             document.getElementById(
                 "resultCount"
             );
 
-
         const noResults =
             document.getElementById(
                 "noResults"
             );
-
 
 
         /* =========================
@@ -1180,6 +1172,23 @@ document.addEventListener(
         }
 
 
+        /* =========================
+           ACTIVE APPOINTEES ONLY
+        ========================== */
+
+        const activeAppointees =
+            appointeeData.filter(
+                function (person) {
+
+                    return (
+                        String(person.status || "")
+                            .toLowerCase()
+                            .trim() === "active"
+                    );
+
+                }
+            );
+
 
         /* =========================
            CREATE CARD
@@ -1192,35 +1201,27 @@ document.addEventListener(
             const column =
                 document.createElement("div");
 
-
             column.className =
                 "col-lg-4 col-md-6 appointee-item";
-
 
             column.dataset.name =
                 appointee.name || "";
 
-
             column.dataset.position =
                 appointee.position || "";
 
-
             column.dataset.ministry =
                 appointee.ministry || "";
-
 
             column.dataset.region =
                 appointee.region || "";
 
 
-
             const card =
                 document.createElement("div");
 
-
             card.className =
                 "appointee-card";
-
 
 
             /* =========================
@@ -1230,7 +1231,6 @@ document.addEventListener(
             const photo =
                 document.createElement("div");
 
-
             photo.className =
                 "appointee-photo";
 
@@ -1238,19 +1238,15 @@ document.addEventListener(
             const image =
                 document.createElement("img");
 
-
             image.src =
                 appointee.image ||
                 "images/profiles/default.jpg";
-
 
             image.alt =
                 appointee.name ||
                 "Appointee";
 
-
             image.loading = "lazy";
-
 
             image.onerror =
                 function () {
@@ -1265,7 +1261,6 @@ document.addEventListener(
             photo.appendChild(image);
 
 
-
             /* =========================
                CONTENT
             ========================== */
@@ -1273,56 +1268,54 @@ document.addEventListener(
             const content =
                 document.createElement("div");
 
-
             content.className =
                 "appointee-content";
 
 
-
-            /* NAME */
+            /* =========================
+               NAME
+            ========================== */
 
             const name =
                 document.createElement("h3");
-
 
             name.textContent =
                 appointee.name ||
                 "Name not available";
 
 
-
-            /* POSITION */
+            /* =========================
+               POSITION
+            ========================== */
 
             const position =
                 document.createElement("div");
 
-
             position.className =
                 "appointee-position";
-
 
             position.textContent =
                 appointee.position ||
                 "Position not available";
 
 
-
-            /* META */
+            /* =========================
+               META
+            ========================== */
 
             const meta =
                 document.createElement("div");
-
 
             meta.className =
                 "appointee-meta";
 
 
-
-            /* MINISTRY */
+            /* =========================
+               MINISTRY
+            ========================== */
 
             const ministry =
                 document.createElement("span");
-
 
             ministry.innerHTML = `
                 <i class="bi bi-building"></i>
@@ -1333,12 +1326,12 @@ document.addEventListener(
             `;
 
 
-
-            /* REGION */
+            /* =========================
+               REGION
+            ========================== */
 
             const region =
                 document.createElement("span");
-
 
             region.innerHTML = `
                 <i class="bi bi-geo-alt"></i>
@@ -1349,22 +1342,20 @@ document.addEventListener(
             `;
 
 
-
-            /* PROFILE LINK */
+            /* =========================
+               PROFILE LINK
+            ========================== */
 
             const profileLink =
                 document.createElement("a");
 
-
             profileLink.className =
                 "view-profile";
-
 
             profileLink.href =
                 `appointee-profile.html?id=${encodeURIComponent(
                     appointee.id
                 )}`;
-
 
             profileLink.innerHTML = `
                 View Profile
@@ -1372,8 +1363,9 @@ document.addEventListener(
             `;
 
 
-
-            /* APPEND */
+            /* =========================
+               APPEND
+            ========================== */
 
             meta.appendChild(ministry);
 
@@ -1401,7 +1393,6 @@ document.addEventListener(
         }
 
 
-
         /* =========================
            ESCAPE HTML
         ========================== */
@@ -1417,7 +1408,6 @@ document.addEventListener(
                 .replace(/"/g, "&quot;")
                 .replace(/'/g, "&#039;");
         }
-
 
 
         /* =========================
@@ -1462,9 +1452,9 @@ document.addEventListener(
         }
 
 
-
         /* =========================
            GET MINISTRIES
+           ACTIVE APPOINTEES ONLY
         ========================== */
 
         function loadMinistries() {
@@ -1472,7 +1462,7 @@ document.addEventListener(
             const ministries =
                 [
                     ...new Set(
-                        appointeeData
+                        activeAppointees
                             .map(
                                 person =>
                                     person.ministry
@@ -1518,9 +1508,9 @@ document.addEventListener(
         }
 
 
-
         /* =========================
            GET REGIONS
+           ACTIVE APPOINTEES ONLY
         ========================== */
 
         function loadRegions() {
@@ -1528,7 +1518,7 @@ document.addEventListener(
             const regions =
                 [
                     ...new Set(
-                        appointeeData
+                        activeAppointees
                             .map(
                                 person =>
                                     person.region
@@ -1566,9 +1556,9 @@ document.addEventListener(
         }
 
 
-
         /* =========================
            FILTER
+           ACTIVE APPOINTEES ONLY
         ========================== */
 
         function filterAppointees() {
@@ -1591,45 +1581,43 @@ document.addEventListener(
                     .trim();
 
 
-
             const filtered =
-                appointeeData.filter(
+                activeAppointees.filter(
                     function (person) {
 
                         const name =
                             (
                                 person.name || ""
                             )
-                            .toLowerCase();
+                                .toLowerCase();
 
 
                         const position =
                             (
                                 person.position || ""
                             )
-                            .toLowerCase();
+                                .toLowerCase();
 
 
                         const constituency =
                             (
                                 person.constituency || ""
                             )
-                            .toLowerCase();
+                                .toLowerCase();
 
 
                         const personMinistry =
                             (
                                 person.ministry || ""
                             )
-                            .toLowerCase();
+                                .toLowerCase();
 
 
                         const personRegion =
                             (
                                 person.region || ""
                             )
-                            .toLowerCase();
-
+                                .toLowerCase();
 
 
                         const matchesSearch =
@@ -1649,7 +1637,6 @@ document.addEventListener(
                             personRegion === region;
 
 
-
                         return (
                             matchesSearch &&
                             matchesMinistry &&
@@ -1667,9 +1654,9 @@ document.addEventListener(
         }
 
 
-
         /* =========================
            RESET
+           ACTIVE APPOINTEES ONLY
         ========================== */
 
         function resetFilters() {
@@ -1680,12 +1667,12 @@ document.addEventListener(
 
             regionFilter.value = "";
 
+
             renderAppointees(
-                appointeeData
+                activeAppointees
             );
 
         }
-
 
 
         /* =========================
@@ -1714,7 +1701,60 @@ document.addEventListener(
             "click",
             resetFilters
         );
+        function checkDuplicateAppointees() {
 
+    const appointmentMap = {};
+    const duplicates = [];
+
+    activeAppointees.forEach(function (person) {
+
+        const position = String(person.position || "")
+            .trim()
+            .replace(/\s+/g, " ")
+            .toLowerCase();
+
+        if (!position) return;
+
+        if (appointmentMap[position]) {
+
+            duplicates.push({
+                position: person.position,
+                firstAppointee: appointmentMap[position],
+                duplicateAppointee: person
+            });
+
+        } else {
+
+            appointmentMap[position] = person;
+
+        }
+    });
+
+    if (duplicates.length > 0) {
+
+        let message =
+            "⚠️ DUPLICATE APPOINTMENT DETECTED\n\n" +
+            "Two active appointees cannot hold the same appointment.\n\n";
+
+        duplicates.forEach(function (duplicate, index) {
+
+            message +=
+                `${index + 1}. ${duplicate.position}\n` +
+                `Existing Appointee: ${duplicate.firstAppointee.name} (${duplicate.firstAppointee.id})\n` +
+                `Duplicate Appointee: ${duplicate.duplicateAppointee.name} (${duplicate.duplicateAppointee.id})\n\n`;
+
+        });
+
+        alert(message);
+
+        console.error(
+            "Duplicate appointments detected:",
+            duplicates
+        );
+    }
+}
+
+checkDuplicateAppointees();
 
 
         /* =========================
@@ -1725,14 +1765,18 @@ document.addEventListener(
 
         loadRegions();
 
+
+        /* =========================
+           SHOW ACTIVE APPOINTEES
+           ONLY
+        ========================== */
+
         renderAppointees(
-            appointeeData
+            activeAppointees
         );
 
     }
-
 );
-
 </script>
 
 <script>
