@@ -25,463 +25,504 @@
 
     <style>
 
-        /* =====================================================
-           MAVIS PROFILE PAGE HEADER
-        ===================================================== */
+    /* =====================================================
+       MAVIS PROFILE PAGE HEADER
+    ===================================================== */
 
-        .mavis-page-header {
-            background:
-                linear-gradient(
-                    90deg,
-                    rgba(4, 18, 36, 0.96),
-                    rgba(4, 18, 36, 0.82)
-                ),
-                url("images/ypg.jpeg") center/cover no-repeat;
+    .mavis-page-header {
+        background:
+            linear-gradient(
+                90deg,
+                rgba(4, 18, 36, 0.96),
+                rgba(4, 18, 36, 0.82)
+            ),
+            url("images/ypg.jpeg") center/cover no-repeat;
 
-            padding: 150px 0 90px;
-            color: #fff;
-        }
+        padding: 150px 0 90px;
+        color: #fff;
+    }
 
-        .mavis-page-header h1 {
-            font-size: clamp(40px, 6vw, 60px);
-            font-weight: 800;
-            margin-bottom: 15px;
-        }
+    .mavis-page-header h1 {
+        font-size: clamp(40px, 6vw, 60px);
+        font-weight: 800;
+        margin-bottom: 15px;
+    }
 
-        .mavis-page-header p {
-            max-width: 680px;
-            color: rgba(255, 255, 255, 0.76);
-            line-height: 1.8;
-            margin: 0;
-        }
+    .mavis-page-header p {
+        max-width: 680px;
+        color: rgba(255, 255, 255, 0.76);
+        line-height: 1.8;
+        margin: 0;
+    }
 
 
-        /* =====================================================
-           MAVIS PROFILE
-        ===================================================== */
+    /* =====================================================
+       MAVIS PROFILE
+    ===================================================== */
 
-        .mavis-profile-section {
-            padding: 100px 0;
-            background: #fff;
-        }
+    .mavis-profile-section {
+        padding: 100px 0;
+        background: #fff;
+    }
+
+    .mavis-profile-grid {
+        display: grid;
+        grid-template-columns: 500px 1fr;
+        gap: 70px;
+        align-items: center;
+    }
+
+
+    /* =====================================================
+       MAVIS IMAGE
+       RESPONSIVE 4:5 PROFILE RATIO
+    ===================================================== */
+
+    .mavis-profile-image {
+        position: relative;
+        width: 100%;
+        aspect-ratio: 4 / 5;
+        border-radius: 18px;
+        overflow: visible;
+        margin: 0 auto;
+    }
+
+    .mavis-profile-image::before {
+        content: "";
+        position: absolute;
+        width: 100px;
+        height: 100px;
+        background: var(--gold);
+        top: -15px;
+        left: -15px;
+        z-index: 0;
+        border-radius: 12px;
+    }
+
+    .mavis-profile-image::after {
+        content: "";
+        position: absolute;
+        width: 100px;
+        height: 100px;
+        background: var(--navy);
+        right: -15px;
+        bottom: -15px;
+        z-index: 0;
+        border-radius: 12px;
+    }
+
+    .mavis-profile-image img {
+        position: relative;
+        z-index: 1;
+
+        width: 100%;
+        height: 100%;
+
+        max-width: 100%;
+        max-height: 100%;
+
+        object-fit: cover;
+        object-position: center top;
+
+        border-radius: 18px;
+        display: block;
+
+        margin: 0;
+        padding: 0;
+
+        transform: none !important;
+        transition: none !important;
+    }
+
+    /* Prevent image zoom when hovering */
+    .mavis-profile-image:hover img {
+        transform: none !important;
+    }
+
+
+    /* =====================================================
+       MAVIS CONTENT
+    ===================================================== */
+
+    .mavis-profile-content {
+        padding: 10px 0;
+    }
+
+    .mavis-profile-content .section-label {
+        display: inline-block;
+        color: #a67c0d;
+        font-size: 13px;
+        font-weight: 800;
+        letter-spacing: 2px;
+        margin-bottom: 12px;
+    }
+
+    .mavis-profile-content h2 {
+        color: var(--navy);
+        font-size: clamp(32px, 4vw, 48px);
+        line-height: 1.15;
+        font-weight: 800;
+        margin: 0 0 12px;
+    }
+
+    .mavis-profile-content h3 {
+        color: #a67c0d;
+        font-size: 20px;
+        font-weight: 700;
+        margin-bottom: 22px;
+    }
+
+    .mavis-heading-line {
+        width: 65px;
+        height: 4px;
+        background: var(--gold);
+        margin-bottom: 28px;
+        border-radius: 5px;
+    }
+
+    .mavis-profile-content p {
+        color: var(--muted);
+        line-height: 1.9;
+        font-size: 16px;
+        margin-bottom: 18px;
+    }
+
+
+    /* =====================================================
+       MAVIS INFORMATION
+    ===================================================== */
+
+    .mavis-info {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 15px;
+        margin: 30px 0;
+    }
+
+    .mavis-info-item {
+        background: var(--light);
+        border: 1px solid var(--border);
+        border-radius: 12px;
+        padding: 20px;
+    }
+
+    .mavis-info-item i {
+        display: block;
+        color: #a67c0d;
+        font-size: 22px;
+        margin-bottom: 10px;
+    }
+
+    .mavis-info-item span {
+        display: block;
+        color: var(--muted);
+        font-size: 12px;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        margin-bottom: 4px;
+    }
+
+    .mavis-info-item strong {
+        color: var(--navy);
+        font-size: 14px;
+        line-height: 1.5;
+    }
+
+
+    /* =====================================================
+       DIRECTORATE SECTION
+    ===================================================== */
+
+    .directorate-section {
+        padding: 90px 0;
+        background: var(--light);
+    }
+
+    .mandate-card {
+        background: #fff;
+        border: 1px solid var(--border);
+        border-radius: 16px;
+        padding: 35px;
+        height: 100%;
+        transition: 0.3s ease;
+    }
+
+    .mandate-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 15px 40px rgba(7, 27, 53, 0.08);
+    }
+
+    .mandate-icon {
+        width: 60px;
+        height: 60px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: rgba(215, 169, 40, 0.14);
+        color: #a67c0d;
+        border-radius: 12px;
+        font-size: 25px;
+        margin-bottom: 22px;
+    }
+
+    .mandate-card h3 {
+        color: var(--navy);
+        font-size: 22px;
+        font-weight: 700;
+        margin-bottom: 12px;
+    }
+
+    .mandate-card p {
+        color: var(--muted);
+        line-height: 1.8;
+        margin: 0;
+    }
+
+
+    /* =====================================================
+       PROFESSIONAL INFORMATION
+    ===================================================== */
+
+    .professional-card {
+        background: #fff;
+        border: 1px solid var(--border);
+        border-radius: 16px;
+        padding: 35px;
+        height: 100%;
+        transition: 0.3s ease;
+    }
+
+    .professional-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 15px 40px rgba(7, 27, 53, 0.08);
+    }
+
+    .professional-card h3 {
+        color: var(--navy);
+        font-size: 22px;
+        font-weight: 700;
+        margin-bottom: 12px;
+    }
+
+    .professional-card p {
+        color: var(--muted);
+        line-height: 1.8;
+        margin: 0;
+    }
+
+
+    /* =====================================================
+       CONTACT
+    ===================================================== */
+
+    .contact-panel {
+        margin-top: 20px;
+    }
+
+    .contact-item {
+        display: flex;
+        align-items: center;
+        gap: 18px;
+        background: #fff;
+        border: 1px solid var(--border);
+        border-radius: 12px;
+        padding: 22px;
+        text-decoration: none;
+        color: var(--navy);
+        transition: 0.3s ease;
+    }
+
+    .contact-item:hover {
+        transform: translateY(-3px);
+        border-color: var(--gold);
+        color: var(--navy);
+        box-shadow: 0 10px 25px rgba(7, 27, 53, 0.06);
+    }
+
+    .contact-item > i {
+        width: 48px;
+        height: 48px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 10px;
+        background: rgba(215, 169, 40, 0.14);
+        color: #a67c0d;
+        font-size: 20px;
+    }
+
+    .contact-item span {
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+    }
+
+    .contact-item small {
+        color: var(--muted);
+        font-size: 10px;
+        font-weight: 700;
+        letter-spacing: 1px;
+    }
+
+    .contact-item strong {
+        font-size: 14px;
+        word-break: break-word;
+    }
+
+
+    /* =====================================================
+       OFFICE NOTE
+    ===================================================== */
+
+    .office-note {
+        display: flex;
+        align-items: flex-start;
+        gap: 18px;
+        padding: 25px;
+        background: #fff;
+        border-left: 4px solid var(--gold);
+        border-radius: 5px;
+        box-shadow: 0 5px 20px rgba(7, 27, 53, 0.04);
+    }
+
+    .office-note > i {
+        color: #a67c0d;
+        font-size: 26px;
+    }
+
+    .office-note h3 {
+        margin: 0 0 8px;
+        color: var(--navy);
+        font-size: 17px;
+    }
+
+    .office-note p {
+        margin: 0;
+        color: var(--muted);
+        font-size: 14px;
+        line-height: 1.8;
+    }
+
+
+    /* =====================================================
+       RESPONSIVE
+    ===================================================== */
+
+    /* Large Laptop / Small Desktop */
+    @media (max-width: 1199px) {
 
         .mavis-profile-grid {
-            display: grid;
-            grid-template-columns: 500px 1fr;
-            gap: 70px;
-            align-items: center;
+            grid-template-columns: 430px 1fr;
+            gap: 50px;
         }
-
-
-        /* =====================================================
-           MAVIS IMAGE
-        ===================================================== */
 
         .mavis-profile-image {
-            position: relative;
             width: 100%;
-            height: 560px;
-            border-radius: 18px;
-            overflow: visible;
+            aspect-ratio: 4 / 5;
+        }
+    }
+
+
+    /* Tablet / iPad */
+    @media (max-width: 991px) {
+
+        .mavis-profile-grid {
+            grid-template-columns: 1fr;
+            gap: 50px;
         }
 
-        .mavis-profile-image::before {
-            content: "";
-            position: absolute;
-            width: 100px;
-            height: 100px;
-            background: var(--gold);
-            top: -15px;
-            left: -15px;
-            z-index: 0;
-            border-radius: 12px;
-        }
-
-        .mavis-profile-image::after {
-            content: "";
-            position: absolute;
-            width: 100px;
-            height: 100px;
-            background: var(--navy);
-            right: -15px;
-            bottom: -15px;
-            z-index: 0;
-            border-radius: 12px;
-        }
-
-        .mavis-profile-image img {
-            position: relative;
-            z-index: 1;
+        .mavis-profile-image {
             width: 100%;
-            height: 100%;
-            object-fit: cover;
-            object-position: center top;
-            border-radius: 18px;
-            display: block;
+            max-width: 500px;
+            aspect-ratio: 4 / 5;
+            margin: 0 auto;
         }
-
-
-        /* =====================================================
-           MAVIS CONTENT
-        ===================================================== */
 
         .mavis-profile-content {
-            padding: 10px 0;
+            max-width: 800px;
+            margin: 0 auto;
         }
 
-        .mavis-profile-content .section-label {
-            display: inline-block;
-            color: #a67c0d;
-            font-size: 13px;
-            font-weight: 800;
-            letter-spacing: 2px;
-            margin-bottom: 12px;
+        .mavis-info {
+            grid-template-columns: repeat(3, 1fr);
+        }
+    }
+
+
+    /* Mobile */
+    @media (max-width: 767px) {
+
+        .mavis-page-header {
+            padding: 130px 0 70px;
+        }
+
+        .mavis-profile-section,
+        .directorate-section {
+            padding: 65px 0;
+        }
+
+        .mavis-profile-image {
+            width: 100%;
+            max-width: 500px;
+            aspect-ratio: 4 / 5;
+        }
+
+        .mavis-info {
+            grid-template-columns: 1fr;
+        }
+
+        .mandate-card,
+        .professional-card {
+            padding: 28px;
+        }
+    }
+
+
+    /* Small Mobile */
+    @media (max-width: 576px) {
+
+        .mavis-profile-image {
+            width: 100%;
+            max-width: 100%;
+            aspect-ratio: 4 / 5;
         }
 
         .mavis-profile-content h2 {
-            color: var(--navy);
-            font-size: clamp(32px, 4vw, 48px);
-            line-height: 1.15;
-            font-weight: 800;
-            margin: 0 0 12px;
+            font-size: 32px;
+        }
+    }
+
+
+    /* Very Small Phones */
+    @media (max-width: 375px) {
+
+        .mavis-profile-image {
+            width: 100%;
+            aspect-ratio: 4 / 5;
         }
 
-        .mavis-profile-content h3 {
-            color: #a67c0d;
-            font-size: 20px;
-            font-weight: 700;
-            margin-bottom: 22px;
+        .mavis-profile-content h2 {
+            font-size: 29px;
         }
-
-        .mavis-heading-line {
-            width: 65px;
-            height: 4px;
-            background: var(--gold);
-            margin-bottom: 28px;
-            border-radius: 5px;
-        }
-
-        .mavis-profile-content p {
-            color: var(--muted);
-            line-height: 1.9;
-            font-size: 16px;
-            margin-bottom: 18px;
-        }
-
-
-        /* =====================================================
-           MAVIS INFORMATION
-        ===================================================== */
-
-        .mavis-info {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 15px;
-            margin: 30px 0;
-        }
-
-        .mavis-info-item {
-            background: var(--light);
-            border: 1px solid var(--border);
-            border-radius: 12px;
-            padding: 20px;
-        }
-
-        .mavis-info-item i {
-            display: block;
-            color: #a67c0d;
-            font-size: 22px;
-            margin-bottom: 10px;
-        }
-
-        .mavis-info-item span {
-            display: block;
-            color: var(--muted);
-            font-size: 12px;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            margin-bottom: 4px;
-        }
-
-        .mavis-info-item strong {
-            color: var(--navy);
-            font-size: 14px;
-            line-height: 1.5;
-        }
-
-
-        /* =====================================================
-           DIRECTORATE SECTION
-        ===================================================== */
-
-        .directorate-section {
-            padding: 90px 0;
-            background: var(--light);
-        }
-
-        .mandate-card {
-            background: #fff;
-            border: 1px solid var(--border);
-            border-radius: 16px;
-            padding: 35px;
-            height: 100%;
-            transition: 0.3s ease;
-        }
-
-        .mandate-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 15px 40px rgba(7, 27, 53, 0.08);
-        }
-
-        .mandate-icon {
-            width: 60px;
-            height: 60px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            background: rgba(215, 169, 40, 0.14);
-            color: #a67c0d;
-            border-radius: 12px;
-            font-size: 25px;
-            margin-bottom: 22px;
-        }
-
-        .mandate-card h3 {
-            color: var(--navy);
-            font-size: 22px;
-            font-weight: 700;
-            margin-bottom: 12px;
-        }
-
-        .mandate-card p {
-            color: var(--muted);
-            line-height: 1.8;
-            margin: 0;
-        }
-
-
-        /* =====================================================
-           PROFESSIONAL INFORMATION
-        ===================================================== */
-
-        .professional-card {
-            background: #fff;
-            border: 1px solid var(--border);
-            border-radius: 16px;
-            padding: 35px;
-            height: 100%;
-            transition: 0.3s ease;
-        }
-
-        .professional-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 15px 40px rgba(7, 27, 53, 0.08);
-        }
-
-        .professional-card h3 {
-            color: var(--navy);
-            font-size: 22px;
-            font-weight: 700;
-            margin-bottom: 12px;
-        }
-
-        .professional-card p {
-            color: var(--muted);
-            line-height: 1.8;
-            margin: 0;
-        }
-
-
-        /* =====================================================
-           CONTACT
-        ===================================================== */
-
-        .contact-panel {
-            margin-top: 20px;
-        }
-
-        .contact-item {
-            display: flex;
-            align-items: center;
-            gap: 18px;
-            background: #fff;
-            border: 1px solid var(--border);
-            border-radius: 12px;
-            padding: 22px;
-            text-decoration: none;
-            color: var(--navy);
-            transition: 0.3s ease;
-        }
-
-        .contact-item:hover {
-            transform: translateY(-3px);
-            border-color: var(--gold);
-            color: var(--navy);
-            box-shadow: 0 10px 25px rgba(7, 27, 53, 0.06);
-        }
-
-        .contact-item > i {
-            width: 48px;
-            height: 48px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            border-radius: 10px;
-            background: rgba(215, 169, 40, 0.14);
-            color: #a67c0d;
-            font-size: 20px;
-        }
-
-        .contact-item span {
-            display: flex;
-            flex-direction: column;
-            gap: 5px;
-        }
-
-        .contact-item small {
-            color: var(--muted);
-            font-size: 10px;
-            font-weight: 700;
-            letter-spacing: 1px;
-        }
-
-        .contact-item strong {
-            font-size: 14px;
-            word-break: break-word;
-        }
-
-
-        /* =====================================================
-           OFFICE NOTE
-        ===================================================== */
-
-        .office-note {
-            display: flex;
-            align-items: flex-start;
-            gap: 18px;
-            padding: 25px;
-            background: #fff;
-            border-left: 4px solid var(--gold);
-            border-radius: 5px;
-            box-shadow: 0 5px 20px rgba(7, 27, 53, 0.04);
-        }
-
-        .office-note > i {
-            color: #a67c0d;
-            font-size: 26px;
-        }
-
-        .office-note h3 {
-            margin: 0 0 8px;
-            color: var(--navy);
-            font-size: 17px;
-        }
-
-        .office-note p {
-            margin: 0;
-            color: var(--muted);
-            font-size: 14px;
-            line-height: 1.8;
-        }
-
-
-        /* =====================================================
-           RESPONSIVE
-        ===================================================== */
-
-        @media (max-width: 1199px) {
-
-            .mavis-profile-grid {
-                grid-template-columns: 430px 1fr;
-                gap: 50px;
-            }
-
-            .mavis-profile-image {
-                height: 520px;
-            }
-
-        }
-
-
-        @media (max-width: 991px) {
-
-            .mavis-profile-grid {
-                grid-template-columns: 1fr;
-                gap: 50px;
-            }
-
-            .mavis-profile-image {
-                width: 100%;
-                max-width: 500px;
-                height: 550px;
-                margin: 0 auto;
-            }
-
-            .mavis-profile-content {
-                max-width: 800px;
-                margin: 0 auto;
-            }
-
-            .mavis-info {
-                grid-template-columns: repeat(3, 1fr);
-            }
-
-        }
-
-
-        @media (max-width: 767px) {
-
-            .mavis-page-header {
-                padding: 130px 0 70px;
-            }
-
-            .mavis-profile-section,
-            .directorate-section {
-                padding: 65px 0;
-            }
-
-            .mavis-profile-image {
-                height: 450px;
-            }
-
-            .mavis-info {
-                grid-template-columns: 1fr;
-            }
-
-            .mandate-card,
-            .professional-card {
-                padding: 28px;
-            }
-
-        }
-
-
-        @media (max-width: 576px) {
-
-            .mavis-profile-image {
-                height: 400px;
-            }
-
-            .mavis-profile-content h2 {
-                font-size: 32px;
-            }
-
-        }
-
-
-        @media (max-width: 375px) {
-
-            .mavis-profile-image {
-                height: 350px;
-            }
-
-            .mavis-profile-content h2 {
-                font-size: 29px;
-            }
-
-        }
-
-    </style>
+    }
+
+
+    /* =====================================================
+       FINAL IMAGE PROTECTION
+    ===================================================== */
+
+    .mavis-profile-image img {
+        width: 100% !important;
+        height: 100% !important;
+        max-width: 100% !important;
+        max-height: 100% !important;
+        object-fit: cover !important;
+        object-position: center top !important;
+        transform: none !important;
+        transition: none !important;
+    }
+
+</style>
 
 </head>
 
