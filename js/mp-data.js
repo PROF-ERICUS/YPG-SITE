@@ -1014,6 +1014,7 @@ website: "#"
     constituency: "Anyaa Sowutuom Constituency",
     region: "Greater Accra",
     parliament: "Youth Parliament Ghana",
+    status: "revoked",
 
     committee: "Information to be updated",
 
@@ -1487,6 +1488,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Sege Constituency",
     region: "Greater Accra",
     parliament: "Youth Parliament Ghana",
+    status: "revoked",
 
     education:
         "Ada Senior High School. Currently not in university.",
@@ -1989,8 +1991,9 @@ parliament: "Youth Parliament Ghana",
     name: "DOREEN QUARMYNE",
     position: "Youth Member of Parliament",
     constituency: "Okaikwei North Constituency",
-    region: "Greater Accra Region",
+    region: "Greater Accra",
     parliament: "Youth Parliament Ghana",
+     status: "revoked",
 
     education:
         "University of Cape Coast — BSc Nursing, Level 300. College of Accountancy — Senior High School, completed 2021.",
@@ -2274,6 +2277,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Anyaa Sowutuom constituency",
     region: "Greater Accra",
     parliament: "Parliament of Ghana",
+    status: "revoked",
 
     education:
         "Kwame Nkrumah University of Science and Technology (KNUST) — BSc Agricultural Biotechnology, 2026. Pentecost Senior High School — General Science, WASSCE, 2022. Nichobeth Preparatory School — BECE, 2019.",
@@ -5367,6 +5371,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Okaikwei North Constituency",
     region: "Greater Accra",
     parliament: "Youth Parliament Ghana",
+    status: "revoked",
 
     education:
         "Ghana Communication Technology University (GCTU) — BSc Computer Science, 4th year. Mfantsiman Girls Senior High School (2020–2023).",
