@@ -1104,7 +1104,7 @@ region: "Ashanti",
     constituency: "Ajumako Enyan Essiam  constituency",
     region: "Central",
     appointmentDate: "Information to be updated.",
-     status: "active",
+     status: "revoked",
     isMP: false,
 
     education:
@@ -1459,7 +1459,7 @@ region: "Ashanti",
     constituency: "Kwabre East Constituency",
     region: "Ashanti",
     appointmentDate: "20th September,2026.",
-     status: "active",
+     status: "revoked",
     isMP: false,
 
     education:
