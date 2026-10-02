@@ -5477,7 +5477,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Okaikwei North Constituency",
     region: "Greater Accra",
     parliament: "Youth Parliament Ghana",
-    status: "active",
+    status: "revoked",
 
     education:
         "Ghana Communication Technology University (GCTU) — BSc Computer Science, 4th year. Mfantsiman Girls Senior High School (2020–2023).",
