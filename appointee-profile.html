@@ -961,53 +961,47 @@
 
 
 
-            <!-- =========================
-                 PARLIAMENTARY INFORMATION
-            ========================== -->
+          <!-- =========================
+     APPOINTMENT INFORMATION
+========================== -->
 
-            <div
-                class="profile-section"
-                id="parliamentaryInfo"
-            >
+<div class="profile-section" id="appointmentInfo">
 
-                <h2>
-                    <i class="bi bi-bank2 me-2"></i>
-                    Parliamentary Information
-                </h2>
+    <h2>
+        <i class="bi bi-person-badge me-2"></i>
+        Appointment Information
+    </h2>
 
+    <ul class="info-list">
 
-                <ul class="info-list">
+        <li>
+            <strong>Position</strong>
+            <span id="appointmentPosition">—</span>
+        </li>
 
+        <li>
+            <strong>Ministry</strong>
+            <span id="appointmentMinistry">—</span>
+        </li>
 
-                    <li>
+        <li>
+            <strong>Region</strong>
+            <span id="appointmentRegion">—</span>
+        </li>
 
-                        <strong>
-                            Parliamentary Role
-                        </strong>
+        <li>
+            <strong>Appointment Date</strong>
+            <span id="appointmentDate">—</span>
+        </li>
 
-                        <span id="profileMPStatus">
-                            Member of Parliament
-                        </span>
+        <li>
+            <strong>Constituency</strong>
+            <span id="appointmentConstituency">—</span>
+        </li>
 
-                    </li>
+    </ul>
 
-
-                    <li>
-
-                        <strong>
-                            Constituency
-                        </strong>
-
-                        <span id="profileConstituency">
-                            —
-                        </span>
-
-                    </li>
-
-
-                </ul>
-
-            </div>
+</div>
 
 
 
@@ -1804,50 +1798,54 @@ if (appointeeStatus === "revoked") {
         }
 
 
-        /* =========================
-           PARLIAMENTARY INFORMATION
-        ========================== */
+       
+/* =========================
+   APPOINTMENT INFORMATION
+========================== */
 
-        const parliamentaryInfo =
-            document.getElementById(
-                "parliamentaryInfo"
-            );
+const appointmentInfo =
+    document.getElementById("appointmentInfo");
 
+const appointmentPosition =
+    document.getElementById("appointmentPosition");
 
-        const profileMPStatus =
-            document.getElementById(
-                "profileMPStatus"
-            );
+const appointmentMinistry =
+    document.getElementById("appointmentMinistry");
 
+const appointmentRegion =
+    document.getElementById("appointmentRegion");
 
-        const profileConstituency =
-            document.getElementById(
-                "profileConstituency"
-            );
+const appointmentDate =
+    document.getElementById("appointmentDate");
 
-
-        if (appointee.isMP === true) {
-
-            parliamentaryInfo.style.display =
-                "block";
+const appointmentConstituency =
+    document.getElementById("appointmentConstituency");
 
 
-            profileMPStatus.textContent =
-                "Member of Parliament";
+/* =========================
+   DISPLAY APPOINTEE DATA
+========================== */
 
+if (appointmentInfo) {
 
-            profileConstituency.textContent =
-                appointee.constituency ||
-                "Information to be updated";
+    appointmentInfo.style.display = "block";
 
-        } else {
+    appointmentPosition.textContent =
+        appointee.position || "Information to be updated";
 
-            parliamentaryInfo.style.display =
-                "none";
-        }
+    appointmentMinistry.textContent =
+        appointee.ministry || "Information to be updated";
 
+    appointmentRegion.textContent =
+        appointee.region || "Information to be updated";
+
+    appointmentDate.textContent =
+        appointee.appointmentDate || "Information to be updated";
+
+    appointmentConstituency.textContent =
+        appointee.constituency || "Information to be updated";
+}
     });
-
 
 
     /* =========================
