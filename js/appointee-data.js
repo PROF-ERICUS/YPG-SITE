@@ -1854,7 +1854,7 @@ region: "Ashanti",
     position: "Representative to the Youth Employment Agency (YEA)",
     ministry: "Youth Employment Agency",
     constituency: "Abirem constituency",
-    region: "Eastern",
+    region: "Greater Accra",
     appointmentDate: "29th September,2026.",
      status: "active",
     isMP: true,
@@ -1869,8 +1869,7 @@ region: "Ashanti",
         "Representative to the Youth Employment Agency (YEA) — Youth Parliament Ghana. Youth Member of Parliament — Abirem Constituency. P.R.O — College of Health and Allied Sciences Students Association (CoHASSA), UCC. Deputy Loans Officer — NUGS-UCC. Youth MP — Youth Model Parliament.",
 
     biography:
-        "ABOAGYE PRINCE is a graduate of the University of Cape Coast, a student leader and health advocate. He is a Youth Member of Parliament for the Abirem Constituency and serves as the Representative to the Youth Employment Agency (YEA) under Youth Parliament Ghana. He served as Deputy Loans Officer of NUGS-UCC and researched the Ghana Health Information Management System (GHIMS) at Ewim Polyclinic. He is leading a three-day health screening and education outreach in New Abirem, Akoase and Pankese, and runs an opportunities channel that shares jobs and other openings with young people. He has won Health Student Personality of the Year at the African Students Personality Awards and Political Personality of the Year at the HIMSA UCC Dinner and Awards Night. He is also an active public speaker and debater.",
-
+    "ABOAGYE PRINCE is a dynamic student leader, healthcare researcher, and dedicated advocate committed to youth empowerment and national development. A proud graduate of the University of Cape Coast (UCC), Prince serves as the Youth Member of Parliament for the Abirem Constituency (Youth Model Parliament), where he passionately champions the interests of his constituents. In addition to his parliamentary role, Prince is the Representative to the Youth Employment Agency (YEA) under Youth Parliament Ghana, a position he leverages to drive youth development and employment initiatives. His commitment to expanding opportunities for young people is further reflected in his leadership of a dedicated opportunities channel, which actively connects youth across the country with job openings and career advancement opportunities. Prince has a rich history of student governance, communication, and professional service. He previously served as the Public Relations Officer for the College of Health and Allied Sciences Students Association (COHASSA UCC) and as the Deputy Loans Officer for the National Union of Ghana Students (NUGS-UCC), alongside his contributions to various committees. Academically and professionally driven, he has also contributed significantly to the healthcare sector through impactful research on the Ghana Health Information Management System (GHIMS) at the Ewim Polyclinic. An eloquent communicator, Prince is an active public speaker and competitive debater. His exceptional contributions and leadership excellence have earned him recognition, including Health Student Personality of the Year at the African Students Personality Awards and Political Personality of the Year at the HIMSA UCC Dinner and Awards Night. Prince continues to combine his expertise in health, policy, and youth advocacy to inspire meaningful change across Ghana.",
     vision:
         "To support youth development, employment opportunities, health advocacy, education and meaningful youth participation.",
 
