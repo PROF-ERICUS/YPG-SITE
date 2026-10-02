@@ -2652,6 +2652,67 @@ region: "Ashanti",
     linkedin: "#",
     tiktok: "#"
 },
+    {
+    id: "app046",
+    name: "SARPONG MICHAEL AGYARE",
+    position: "REPRESENTATIVE OF THE NEW PATRIOTIC PARTY (NPP) TO YOUTH PARLIAMENT GHANA",
+    ministry: "Youth Parliament Ghana",
+    region: "Western",
+    appointmentDate: "21st September, 2026",
+    status: "active",
+    isMP: false,
+    mpId: "",
+    constituency: "Bibiani Ahwiaso Bekwai constituency",
+
+    education:
+        "Bachelor of Science in Mechanical Engineering — University of Mines and Technology (UMaT), Tarkwa, January 2024–Present; WASSCE, General Science — Prempeh College, Kumasi, September 2019–September 2022; Basic Education — Asante Gold Bibiani Limited School (AGBL), January 2008–January 2019.",
+
+    profession:
+        "Mechanical Engineering Student",
+
+    experience:
+        "Representative — New Patriotic Party (NPP), Youth Parliament Ghana; Communications Officer — TESCON, UMaT; Public Relations Officer — Association of Mechanical Engineering Students (AMES), UMaT; Judicial Committee Secretary — Gold Refinery Hall, UMaT; Senator — Faculty of Engineering Students Association (FESA), UMaT; Standing Constitution Review Committee Member — Youth Parliament Ghana, UMaT Chapter; President — Ghana Red Cross Society, UMaT Chapter; Academic Board Chairman — Gold Refinery Hall, UMaT; Deputy Public Relations Officer — FESA; Editorial Committee Member — Gold Refinery Hall JCR; Assistant Course Representative — Mechanical Engineering, UMaT; Electoral Committee Member — AMES, UMaT; Teacher — Kandit Standard School, Bibiani; Main Health Prefect — Prempeh College; President — Ghana Red Cross Society, Prempeh College Chapter; Chairman — Prempeh College Health Club; Executive Member — Guggisberg House, Prempeh College; Social Media Team Member — NPP, Tarkwa Nsuaem Constituency.",
+
+    biography:
+        "SARPONG MICHAEL AGYARE is a Mechanical Engineering student at the University of Mines and Technology (UMaT), Tarkwa, pursuing a Bachelor of Science in Mechanical Engineering. He is a young leader with experience in student governance, political communication, public service, community involvement and youth development. He serves as the Representative of the New Patriotic Party (NPP) to Youth Parliament Ghana, representing the Bibiani Ahwiaso Bekwai Constituency. He was appointed to the position on 21 September 2026. At UMaT, he serves in several student leadership and governance capacities, including Communications Officer of TESCON, Public Relations Officer of the Association of Mechanical Engineering Students (AMES), Judicial Committee Secretary of Gold Refinery Hall, Senator of the Faculty of Engineering Students Association (FESA), and a member of the Standing Constitution Review Committee of Youth Parliament Ghana, UMaT Chapter. He also serves as a course representative. His leadership experience began at Prempeh College, where he served as Main Health Prefect, President of the Ghana Red Cross Society and Chairman of the Health Club. He has professional experience as a teacher at Kandit Standard School, Bibiani, and serves on the NPP Social Media Team in the Tarkwa Nsuaem Constituency.",
+
+    vision:
+        "To contribute to effective youth representation, responsible leadership, meaningful civic engagement and community development through communication, collaboration and service.",
+
+    plans:
+        "Promote youth participation, effective communication, leadership development, community engagement and constructive dialogue within Youth Parliament Ghana.",
+
+    contribution:
+        "Youth representation, student governance, public communication, community service, leadership development, strategic planning, public speaking and information technology.",
+
+    currentActivities:
+        "Representative of the New Patriotic Party (NPP) to Youth Parliament Ghana; BSc Mechanical Engineering student at UMaT; Communications Officer — TESCON, UMaT; Public Relations Officer — AMES, UMaT; Member — Youth Parliament Ghana UMaT Chapter Standing Constitution Review Committee.",
+
+    leadershipExperience:
+        "Representative — NPP, Youth Parliament Ghana; Communications Officer — TESCON, UMaT; PRO — AMES, UMaT; Judicial Committee Secretary — Gold Refinery Hall; Senator — FESA; President — Ghana Red Cross Society, UMaT Chapter; Academic Board Chairman — Gold Refinery Hall; Main Health Prefect — Prempeh College; Chairman — Prempeh College Health Club.",
+
+    professionalExperience:
+        "Teacher — Kandit Standard School, Bibiani; Mechanical Engineering student; Social Media Team Member — NPP, Tarkwa Nsuaem Constituency.",
+
+    focusAreas:
+        "YOUTH REPRESENTATION • LEADERSHIP • PUBLIC COMMUNICATION • STUDENT GOVERNANCE • COMMUNITY DEVELOPMENT • CIVIC ENGAGEMENT • STRATEGIC PLANNING • PUBLIC SPEAKING • INFORMATION TECHNOLOGY",
+
+    slogan:
+        "Leadership, communication and service for meaningful youth representation.",
+
+    image: "images/agare.jpeg",
+
+    email: "sarmic4040@gmail.com",
+    phone: "0509147443",
+    website: "#",
+
+    facebook: "Sarpong Michael",
+    twitter: "#",
+    instagram: "honsarpongmichael",
+    linkedin: "https://www.linkedin.com/in/michael-sarpong-358a86372?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+    tiktok: "@sarpongmichael04"
+},
+
 
 
 ];
