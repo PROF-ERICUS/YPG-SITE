@@ -1035,7 +1035,7 @@ website: "#"
     constituency: "Anyaa Sowutuom Constituency",
     region: "Greater Accra",
     parliament: "Youth Parliament Ghana",
-    status: "revoked",
+    status: "active",
 
     committee: "Information to be updated",
 
