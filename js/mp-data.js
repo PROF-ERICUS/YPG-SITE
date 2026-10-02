@@ -2999,7 +2999,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Education • Empowerment • Opportunity",
 
-    image: "images/Amina.jpeg",
+    image: "images/Amiratu.jpeg",
 
     email: "#",
     phone: "0596189425",
@@ -5416,7 +5416,7 @@ parliament: "Youth Parliament Ghana",
 },
 {
     id: "mp100",
-    name: "HON. AKOBTA ROSEMARY",
+    name: "AKOBTA ROSEMARY",
     position: "Member of Parliament",
     constituency: "Builsa South Constituency",
     region: "Upper East",
@@ -5442,7 +5442,7 @@ parliament: "Youth Parliament Ghana",
         "Promote practical, career-focused technical education, youth empowerment, civic leadership and greater opportunities for young people, particularly young women and those from rural communities.",
 
     contribution:
-        "HON. AKOBTA ROSEMARY seeks to contribute through education advocacy, youth leadership, community engagement, mathematics education and initiatives that promote academic excellence and inclusive governance.",
+        "AKOBTA ROSEMARY seeks to contribute through education advocacy, youth leadership, community engagement, mathematics education and initiatives that promote academic excellence and inclusive governance.",
 
     currentActivities:
         "Serving as Youth Member of Parliament for Builsa South Constituency and Representative to the Vice President of the Republic of Ghana under Youth Parliament Ghana.",
