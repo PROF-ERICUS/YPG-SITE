@@ -2235,6 +2235,113 @@
 
 }
 
+        /* =========================================
+   BREAST CANCER AWARENESS IMAGE SLIDER
+========================================= */
+
+.breast-cancer-slider {
+    position: relative;
+    width: 100%;
+    height: 250px;
+    overflow: hidden;
+    background: #f5f5f5;
+}
+
+.breast-slide {
+    position: absolute;
+    inset: 0;
+
+    width: 100%;
+    height: 100%;
+
+    object-fit: cover;
+
+    opacity: 0;
+
+    transition: opacity 1s ease-in-out;
+
+    display: block;
+}
+
+.breast-slide.active {
+    opacity: 1;
+}
+
+
+/* Dark/pink overlay */
+
+.breast-cancer-slider::after {
+    content: "";
+
+    position: absolute;
+    inset: 0;
+
+    background: linear-gradient(
+        to bottom,
+        transparent 50%,
+        rgba(0, 0, 0, 0.35)
+    );
+
+    pointer-events: none;
+}
+
+
+/* Slider dots */
+
+.breast-slider-dots {
+    position: absolute;
+
+    bottom: 15px;
+    left: 50%;
+
+    transform: translateX(-50%);
+
+    display: flex;
+
+    gap: 7px;
+
+    z-index: 5;
+}
+
+.breast-dot {
+    width: 8px;
+    height: 8px;
+
+    border-radius: 50%;
+
+    background: rgba(255, 255, 255, 0.65);
+
+    transition: all 0.3s ease;
+}
+
+.breast-dot.active {
+    width: 22px;
+
+    border-radius: 10px;
+
+    background: #ffffff;
+}
+
+
+/* Mobile */
+
+@media (max-width: 768px) {
+
+    .breast-cancer-slider {
+        height: 220px;
+    }
+
+}
+
+
+@media (max-width: 480px) {
+
+    .breast-cancer-slider {
+        height: 200px;
+    }
+
+}
+
     </style>
 
 </head>
@@ -2772,55 +2879,102 @@
 
             </div>
 
+<!-- NEWS 2 - BREAST CANCER AWARENESS -->
 
-            <!-- NEWS 2 -->
+<div class="col-md-4">
 
-            <div class="col-md-4">
+    <article class="news-card">
 
-                <article class="news-card">
+        <!-- Image Slideshow -->
+        <div class="news-image breast-cancer-slider">
 
-                    <div class="news-image">
+            <img src="images/breast-cancer-1.jpeg"
+                 alt="Breast Cancer Awareness"
+                 class="breast-slide active">
 
-                        <div class="news-placeholder">
+            <img src="images/breast-cancer-2.jpeg"
+                 alt="Breast Cancer Awareness"
+                 class="breast-slide">
 
-                            <i class="bi bi-megaphone"></i>
+            <img src="images/breast-cancer-3.jpeg"
+                 alt="Breast Cancer Awareness"
+                 class="breast-slide">
 
-                        </div>
+            <img src="images/breast-cancer-4.jpeg"
+                 alt="Breast Cancer Awareness"
+                 class="breast-slide">
 
-                    </div>
+            <img src="images/breast-cancer-5.jpg"
+                 alt="Breast Cancer Awareness"
+                 class="breast-slide">
+
+            <img src="images/breast-cancer-6.jpg"
+                 alt="Breast Cancer Awareness"
+                 class="breast-slide">
+
+            <img src="images/breast-cancer-7.jpg"
+                 alt="Breast Cancer Awareness"
+                 class="breast-slide">
+
+            <img src="images/breast-cancer-8.jpeg"
+                 alt="Breast Cancer Awareness"
+                 class="breast-slide">
+
+            <img src="images/breast-cancer-9.jpeg"
+                 alt="Breast Cancer Awareness"
+                 class="breast-slide">
+
+            <img src="images/breast-cancer-10.jpg"
+                 alt="Breast Cancer Awareness"
+                 class="breast-slide">
 
 
-                    <div class="news-content">
+            <!-- Slider indicators -->
+            <div class="breast-slider-dots">
 
-                        <span class="news-date">
-                            Youth Parliament Ghana
-                        </span>
-
-
-                        <h3>
-                            Leadership and civic engagement
-                        </h3>
-
-
-                        <p>
-                            Discover opportunities for young people
-                            to participate in public leadership.
-                        </p>
-
-
-                        <a href="news.html">
-
-                            Read More
-
-                            <i class="bi bi-arrow-right"></i>
-
-                        </a>
-
-                    </div>
-
-                </article>
+                <span class="breast-dot active"></span>
+                <span class="breast-dot"></span>
+                <span class="breast-dot"></span>
+                <span class="breast-dot"></span>
+                <span class="breast-dot"></span>
+                <span class="breast-dot"></span>
+                <span class="breast-dot"></span>
+                <span class="breast-dot"></span>
+                <span class="breast-dot"></span>
+                <span class="breast-dot"></span>
 
             </div>
+
+        </div>
+
+        <div class="news-content">
+
+            <span class="news-date">
+                Youth Parliament Ghana
+            </span>
+
+            <h3>
+                Breast Cancer Awareness
+            </h3>
+
+            <p>
+                Raising awareness, promoting early detection and
+                encouraging young people to take breast health seriously.
+            </p>
+
+            <a href="news.html">
+
+                Read More
+
+                <i class="bi bi-arrow-right"></i>
+
+            </a>
+
+        </div>
+
+    </article>
+
+</div>
 
 
             <!-- NEWS 3 -->
@@ -3443,6 +3597,72 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 </script>
+
+    <script>
+
+document.addEventListener("DOMContentLoaded", function () {
+
+    const slides = document.querySelectorAll(".breast-slide");
+    const dots = document.querySelectorAll(".breast-dot");
+
+    if (!slides.length) return;
+
+    let currentSlide = 0;
+
+    function showBreastSlide(index) {
+
+        slides.forEach((slide, i) => {
+
+            slide.classList.toggle(
+                "active",
+                i === index
+            );
+
+        });
+
+        dots.forEach((dot, i) => {
+
+            dot.classList.toggle(
+                "active",
+                i === index
+            );
+
+        });
+
+    }
+
+
+    setInterval(() => {
+
+        currentSlide++;
+
+        if (currentSlide >= slides.length) {
+            currentSlide = 0;
+        }
+
+        showBreastSlide(currentSlide);
+
+    }, 4000);
+
+
+    /* Allow users to click the dots */
+
+    dots.forEach((dot, index) => {
+
+        dot.addEventListener("click", () => {
+
+            currentSlide = index;
+
+            showBreastSlide(currentSlide);
+
+        });
+
+    });
+
+});
+
+</script>
+
 
 
 </body>
