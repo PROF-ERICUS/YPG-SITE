@@ -2727,21 +2727,21 @@ parliament: "Youth Parliament Ghana",
     name: "MANU EBENEZER",
     position: "Member of Parliament",
     constituency: "Upper Denkyira West",
-    region: "Central",
-    parliament: "Youth Parliament Ghana",
-  status: "active",
+    region: "Central Region",
+    parliament: "Parliament of Ghana - Youth Parliament Ghana",
+    status: "active",
 
     education:
-        "Adumasa All Saints Presby JHS — Junior High School Education. Ofoase Kokoben SHS — Senior High School Education, served as School Chaplain and Debate President. University of Cape Coast (UCC), School of Business — Bachelor of Commerce, Level 300, 2024–Present. Motivational Speaker Award — UCC.",
+        "Adumasa All Saints Presby JHS — Junior High School Education. Ofoase Kokoben SHS — Senior High School Education, where he served as School Chaplain and Debate President. University of Cape Coast (UCC), School of Business — Bachelor of Commerce in Progress, Level 300, 2024–Present. Motivational Speaker Award — UCC.",
 
     profession:
         "Student / Youth Leader / Motivational Speaker / Christian Minister",
 
     experience:
-        "School Chaplain — Ofoase Kokoben SHS. Debate President — Ofoase Kokoben SHS. Vice Program Representative — UCC School of Business L300. Organizer — Jesus Theatre, UCC. Mission & Conference Director — The Navigators, UCC. Motivational Speaker — UCC. Youth Leader & Community Volunteer — Diaso/Adeade, Central Region.",
+        "School Chaplain — Ofoase Kokoben SHS. Debate President — Ofoase Kokoben SHS. Vice Program Representative — UCC School of Business L300. Organizer — Jesus Theatre, UCC. Mission & Conference Director — The Navigators, UCC. Majority Leader — Kwame Nkrumah Hall Parliamentary Council. Former PRO — Kwame Nkrumah Hall JCRC Parliamentary Council. Library Secretary — Kwame Nkrumah Hall, 2024–2025. Award-Winning Motivational Speaker — UCC. Youth Leader & Community Volunteer — Diaso/Adeade, Central Region.",
 
     biography:
-        "MANU EBENEZER is a youth leader, student activist and public servant from Diaso/Adeade in the Upper Denkyira West District of the Central Region. Born on 20th July 2004, he is a Level 300 student at the University of Cape Coast (UCC), School of Business. He had his Junior High School education at Adumasa All Saints Presby JHS and his Senior High School education at Ofoase Kokoben SHS, where he served as School Chaplain and Debate President, demonstrating early leadership, eloquence and spiritual commitment. He is currently pursuing his bachelor's degree at UCC and has been recognized with an Award as Motivational Speaker at UCC for his impact on youth and student development. He is a Christian leader serving as Organizer for Jesus Theatre, UCC and Mission & Conference Director for The Navigators, UCC. He also serves as Vice Program Representative for UCC School of Business L300. Hon. Ebenezer is passionate about youth empowerment, education, reading culture and community development. He believes in discipline, integrity and service to humanity.",
+        "HON. MANU EBENEZER is a youth leader, student activist and public servant from Diaso/Adeade in the Upper Denkyira West District of the Central Region. Born on 20th July 2004, he is a Level 300 student at the University of Cape Coast (UCC), School of Business. Hon. Ebenezer had his Junior High School education at Adumasa All Saints Presby JHS and his Senior High School education at Ofoase Kokoben SHS, where he served as School Chaplain and Debate President, demonstrating early leadership, eloquence and spiritual commitment. He is currently pursuing his bachelor's degree at UCC and has been recognized with an Award as Motivational Speaker at UCC for his impact on youth and student development. He is a Christian leader serving as Organizer for Jesus Theatre, UCC and Mission & Conference Director for The Navigators, UCC. He also serves as Vice Program Representative for UCC School of Business L300. He previously served as PRO for the Kwame Nkrumah Hall JCRC Parliamentary Council and now serves as Majority Leader. He also served as Kwame Nkrumah Hall Library Secretary from 2024 to 2025. Hon. Ebenezer is passionate about youth empowerment, education, reading culture and community development. He believes in discipline, integrity and service to humanity.",
 
     vision:
         "To promote youth empowerment, education, reading culture, community development, discipline, integrity and service to humanity.",
@@ -2753,19 +2753,19 @@ parliament: "Youth Parliament Ghana",
         "Contributes through youth leadership, student activism, motivational speaking, Christian ministry, community volunteering and student representation.",
 
     currentActivities:
-        "Currently pursuing a Bachelor of Commerce at the University of Cape Coast, School of Business, as a Level 300 student, while serving as Member of Parliament for Upper Denkyira West under Youth Parliament Ghana.",
+        "Currently pursuing a Bachelor of Commerce at the University of Cape Coast, School of Business, as a Level 300 student, while serving as Member of Parliament for Upper Denkyira West under Youth Parliament Ghana and Majority Leader of the Kwame Nkrumah Hall Parliamentary Council.",
 
     leadershipExperience:
-        "Member of Parliament — Upper Denkyira West. Vice Program Representative — UCC School of Business L300. Organizer — Jesus Theatre, UCC. Mission & Conference Director — The Navigators, UCC. School Chaplain — Ofoase Kokoben SHS. Debate President — Ofoase Kokoben SHS. Youth Leader & Community Volunteer — Diaso/Adeade.",
+        "Member of Parliament — Upper Denkyira West, Youth Parliament Ghana. Majority Leader — Kwame Nkrumah Hall Parliamentary Council. Former PRO — Kwame Nkrumah Hall JCRC Parliamentary Council. Library Secretary — Kwame Nkrumah Hall, 2024–2025. Vice Program Representative — UCC School of Business L300. Organizer — Jesus Theatre, UCC. Mission & Conference Director — The Navigators, UCC. School Chaplain — Ofoase Kokoben SHS. Debate President — Ofoase Kokoben SHS. Youth Leader & Community Volunteer — Diaso/Adeade.",
 
     professionalExperience:
         "Student, youth leader, motivational speaker and Christian minister with experience in student leadership, public speaking, youth development, community volunteering and Christian ministry.",
 
     focusAreas:
-        "Youth Empowerment • Education • Reading Culture • Leadership • Student Development • Community Development • Motivational Speaking • Christian Ministry",
+        "YOUTH EMPOWERMENT • EDUCATION • READING CULTURE • LEADERSHIP • STUDENT DEVELOPMENT • COMMUNITY DEVELOPMENT • MOTIVATIONAL SPEAKING • CHRISTIAN MINISTRY",
 
     slogan:
-        "Discipline • Integrity • Service",
+        "DISCIPLINE • INTEGRITY • SERVICE",
 
     image: "images/manu.jpeg",
 
@@ -2777,8 +2777,7 @@ parliament: "Youth Parliament Ghana",
     twitter: "#",
     instagram: "#",
     linkedin: "#",
-    tiktok: "#",
-    whatsapp: "https://whatsapp.com/biz/"
+    tiktok: "https://www.tiktok.com/@baby.bless45"
 },
 
 
@@ -3021,7 +3020,7 @@ parliament: "Youth Parliament Ghana",
   status: "active",
 
     education:
-        "University of Mines and Technology (UMaT), Tarkwa — BSc Chemical Engineering, Degree, 2026.",
+        "University of Mines and Technology (UMaT), Tarkwa — BSc Chemical Engineering, Degree, 2026.Adisadel College-General Science (2018-2021).Lovely Home International School, Takoradi Kejabil.",
 
     profession:
         "Chemical Engineer",
