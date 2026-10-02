@@ -1128,48 +1128,60 @@ website: "#"
 },
 {
     id: "mp025",
-    name: "COLLINS KLENAM AKPALOO",
+    name: "IBRAHIM ABDUL-MU-EZ",
     position: "Member of Parliament",
-    constituency: "Sekondi",
-    region: "Western",
-    parliament: "Parliament of Ghana",
-  status: "active",
+    constituency: "Tamale North Constituency",
+    region: "Northern",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
 
-    committee: "Information to be updated",
+    education:
+        "Anbariya Islamic Institute — Basic and Junior High School; Tamale Islamic Science Senior High School — Secondary Education; University for Development Studies (UDS), Tamale — Doctor of Pharmacy (PharmD), currently in progress; Short Course — University of Cambridge.",
 
-    education: "University of Ghana — Bachelor of Commerce (B.Com) Management, Distance Education, current. Sekondi College (SHS) — Home Economics/Food, Senior High School Certificate, 2025. Police Basic School — Basic Education Certificate Examination (BECE), 2023.",
+    profession:
+        "Pharmacy Student, Entrepreneur, Public Speaker and Youth Development Advocate",
 
-    profession: "Sales Executive, Corporate Manager & Youth Advocate",
+    experience:
+        "Teacher — Future Ambassadors (2022); Teacher — Jagma Memorial School Complex (2022/2023); Worked with Rebovibit, a drug distribution company in Malaysia; Operates phone and laptop shops; Founder — Ambassador Muez Foundation.",
 
-    experience: "COLLINS KLENAM AKPALOO is a corporate leader, youth advocate and public servant representing the Sekondi Constituency in the Western Region of Ghana. He serves as the Minister for Youth Development and Empowerment within the Youth Parliament and has previously served as a Member of Parliament for the Sekondi Youth Constituency. Professionally, he works with Telecel Ghana and has built experience in telecommunications, enterprise management and social media management.",
+    biography:
+        "IBRAHIM ABDUL-MU-EZ, popularly known as Ambassador Muez, is a Doctor of Pharmacy (PharmD) student at the University for Development Studies (UDS), Tamale, with a strong passion for leadership, youth development, community service, philanthropy and sustainable development. He is an active student leader who has served in various leadership and ambassadorial roles, including Amalgamated Clubs Chairperson at UDS, Public Relations Officer of the Ghana Pharmacy Students' Association (GPSA), UDS, Vice President of the Muslim Health Students Association of Ghana (MUHSAG) Welfare Committee, UDS SDGs Campus Ambassador, Campus Hive Ambassador and Campus Ambassador. Beyond leadership, Ibrahim is passionate about pharmacy, entrepreneurship, public speaking, youth empowerment, philanthropy and community development. He is also the founder of the Ambassador Muez Foundation, an initiative focused on charity, education, healthcare, youth development and initiatives aligned with the Sustainable Development Goals. His long-term vision is to become a licensed pharmacist and community development advocate, using his knowledge, leadership experience and resources to create meaningful opportunities and positively impact underserved communities.",
 
-    biography: "COLLINS KLENAM AKPALOO is a dynamic corporate leader, youth advocate and public servant representing the Sekondi Constituency in the Western Region of Ghana. He currently serves as the Minister for Youth Development and Empowerment within the Youth Parliament, having previously stood as a Member of Parliament for the Sekondi Youth Constituency. A proud alumnus of Police Basic School, where he served as Compound Overseer, and Sekondi College, Collins developed a strong foundation in student leadership. At Sekondi College, he served in roles including Dining Hall Prefect, Head of Media, Cadet Second-in-Command (2iC), Entertainment Organizer and Handball Captain. He pursued higher education in Bachelor of Commerce (B.Com) Management through distance education. Professionally, Collins has built experience in telecommunications and enterprise management. He works as a Sales Executive at Telecel Ghana, where his leadership and performance earned him a promotion to Area Manager. He also works as a part-time Social Media Manager. As a community development advocate, he is the Founder and Chief Executive Officer of the Success City Foundation, which focuses on youth empowerment, street support and vocational training across Ghana.",
+    vision:
+        "To become a licensed pharmacist and community development advocate while using knowledge, leadership experience and resources to create meaningful opportunities for underserved communities.",
 
-    vision: "To contribute to youth empowerment, community development and the creation of opportunities that support the growth and development of young people.",
+    plans:
+        "Promote youth development, community service, healthcare awareness, education, philanthropy, entrepreneurship and initiatives aligned with the Sustainable Development Goals.",
 
-    plans: "Promote youth empowerment, vocational training, community support and opportunities for young people while using leadership, corporate experience and digital expertise to support youth and community development.",
+    contribution:
+        "Youth leadership, pharmacy, healthcare, entrepreneurship, philanthropy, education, community development and sustainable development.",
 
-    contribution: "COLLINS KLENAM AKPALOO seeks to contribute to youth development through advocacy, vocational training, community support and empowerment initiatives. Through the Success City Foundation and his professional and leadership experience, he supports initiatives focused on young people and community development.",
+    currentActivities:
+        "Youth Member of Parliament for Tamale North Constituency; Doctor of Pharmacy (PharmD) student at the University for Development Studies; Founder of Ambassador Muez Foundation; Youth and community development advocate.",
 
-    currentActivities: "Currently serving as Minister for Youth Development and Empowerment within the Youth Parliament, working as an Area Manager at Telecel Ghana, serving as CEO of Success City Foundation and engaging in part-time social media management.",
+    leadershipExperience:
+        "Amalgamated Clubs Chairperson — UDS; Public Relations Officer — Ghana Pharmacy Students' Association (GPSA), UDS; Vice President — Muslim Health Students Association of Ghana (MUHSAG) Welfare Committee; UDS SDGs Campus Ambassador; Campus Hive Ambassador; Campus Ambassador.",
 
-    leadershipExperience: "Minister for Youth Development and Empowerment — Youth Parliament. Candidate for Member of Parliament for Sekondi Constituency — Youth Parliament. Founder & Chief Executive Officer — Success City Foundation. Part-Time Social Media Manager — Freelance/Corporate. Compound Overseer — Police Basic School. Dining Hall Prefect, Head of Media, Cadet 2iC, Entertainment Organizer and Handball Captain — Sekondi College.",
+    professionalExperience:
+        "Teacher — Future Ambassadors; Teacher — Jagma Memorial School Complex; Worker — Rebovibit, a drug distribution company in Malaysia; Phone and laptop shop operator; Founder — Ambassador Muez Foundation.",
 
-    professionalExperience: "Area Manager / Sales Executive — Telecel Ghana. Part-Time Social Media Manager — Freelance/Corporate. Founder & Chief Executive Officer — Success City Foundation.",
+    focusAreas:
+        "YOUTH DEVELOPMENT • PHARMACY • HEALTHCARE • ENTREPRENEURSHIP • COMMUNITY SERVICE • PHILANTHROPY • EDUCATION • SUSTAINABLE DEVELOPMENT • LEADERSHIP",
 
-    focusAreas: "Youth Empowerment • Vocational Training • Community Development • Youth Advocacy • Corporate Leadership • Telecommunications • Digital Media • Social Support",
+    slogan:
+        "Touching Lives, Transforming Communities.",
 
-    image: "images/collins.jpeg",
+    image: "images/muez.jpeg",
 
-    email: "collinsklenam821@gmail.com",
-
-    phone: "0207089672 / 0200230996",
-
+    email: "#",
+    phone: "#",
     website: "#",
 
-    tiktok: "Mr_kobina",
-
-    linkedin: "#"
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
 },
 {
     id: "mp026",
@@ -5977,6 +5989,64 @@ parliament: "Youth Parliament Ghana",
     linkedin: "#",
     tiktok: "Great Timo"
 },
+  {
+    id: "mp110",
+    name: "PERPETUAL NTIM-DONKOR",
+    position: "Member of Parliament",
+    constituency: "AKAN constituency",
+    region: "OTI",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+
+    education:
+        "Bachelor of Science in Business Administration (Management Option) — Ghana Communication Technology University (GCTU), currently in progress; Diploma in Basic Education — Accra College of Education; Secondary Education — Worawora Senior High School.",
+
+    profession:
+        "Basic School Educator, Student Leader, Entrepreneur and Youth Governance Advocate",
+
+    experience:
+        "President — GCTU Business School; Former General Secretary — Business Students Association (BSA), GCTU, term ended July 2026; General Course Representative — GCTU; Management Class Representative — GCTU; Basic School Educator teaching English Language, Social Studies and Asante Twi; Founder and Lead — Perpetual-Joy Foundation; Member/participant — Women in Leadership Alliance (WILA); Youth governance and community development advocate.",
+
+    biography:
+        "PERPETUAL NTIM-DONKOR is a Ghanaian student leader, educator, entrepreneur and youth governance advocate based in Accra, Ghana. She is passionate about student welfare, inclusive leadership, institutional development, youth participation and the promotion of responsible and ethical governance. She currently serves as the President of the Ghana Communication Technology University (GCTU) Business School, providing leadership and strategic direction in advancing the interests and welfare of students within the Business School. Her leadership approach emphasizes consultation, inclusivity, accountability, collaboration, academic excellence and constructive engagement between students and university authorities. Perpetual has progressively built her leadership experience through student representation, organizational administration and youth governance. She has served as General Secretary of the Business Students Association, General Course Representative and Management Class Representative at GCTU. She is also a Basic School Educator at the Junior High School level and the Founder and Lead of the Perpetual-Joy Foundation, which focuses on community welfare, empowerment and leadership development. On September 5, 2026, she was declared a Member of Parliament representing the Akan Constituency in the Youth Parliament of Ghana.",
+
+    vision:
+        "To contribute to ethical leadership, youth empowerment, institutional development, education and community service while creating meaningful opportunities for young people, particularly women, to participate in leadership and governance.",
+
+    plans:
+        "Promote youth participation, student welfare, institutional accountability, ethical leadership, education, community development and opportunities that empower young people to contribute meaningfully to their institutions and communities.",
+
+    contribution:
+        "Youth representation, education, student welfare, institutional development, ethical leadership, community service, entrepreneurship, women’s empowerment and youth governance.",
+
+    currentActivities:
+        "Member of Parliament for the Akan Constituency — Youth Parliament Ghana; President — GCTU Business School; Basic School Educator; Founder and Lead — Perpetual-Joy Foundation; Student of Business Administration at GCTU.",
+
+    leadershipExperience:
+        "President — GCTU Business School; General Secretary — Business Students Association (BSA), GCTU; General Course Representative — GCTU; Management Class Representative — GCTU; Member/participant — Women in Leadership Alliance (WILA); Member of Parliament — Akan Constituency, Youth Parliament Ghana.",
+
+    professionalExperience:
+        "Basic School Educator at the Junior High School level, teaching English Language, Social Studies and Asante Twi; Founder and Lead — Perpetual-Joy Foundation; Student leader and youth governance advocate.",
+
+    focusAreas:
+        "YOUTH EMPOWERMENT • EDUCATION • STUDENT WELFARE • ETHICAL LEADERSHIP • INSTITUTIONAL DEVELOPMENT • YOUTH GOVERNANCE • COMMUNITY DEVELOPMENT • WOMEN'S EMPOWERMENT • ACCOUNTABILITY",
+
+    slogan:
+        "Listening, connecting and building together.",
+
+    image: "images/ntim.jpeg",
+
+    email: "ndperpetual7@gmail.com",
+    phone: "0555110264",
+    website: "#",
+
+    facebook: "Ntim-Donkor Perpetual",
+    twitter: "Perpetual Ntim-Donkor",
+    instagram: "#",
+    linkedin: "Perpetual Ntim-Donkor",
+    tiktok: "Akan Constituency Youth Parliament"
+},
+
 
 
 ];
