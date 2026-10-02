@@ -2999,7 +2999,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Education • Empowerment • Opportunity",
 
-    image: "images/Amiratu.jpeg",
+    image: "images/amiratu.jpeg",
 
     email: "#",
     phone: "0596189425",
