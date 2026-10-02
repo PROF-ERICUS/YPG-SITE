@@ -2712,6 +2712,66 @@ region: "Ashanti",
     linkedin: "https://www.linkedin.com/in/michael-sarpong-358a86372?utm_source=share_via&utm_content=profile&utm_medium=member_android",
     tiktok: "@sarpongmichael04"
 },
+    {
+    id: "app047",
+    name: "BRIGHT KWESI ODOOM",
+    position: "MINISTER FOR TOURISM, CULTURE AND CREATIVE ARTS",
+    ministry: "MINISTRY OF TOURISM, CULTURE AND CREATIVE ARTS",
+    region: "Western",
+    appointmentDate: "25th September,2026",
+    status: "active",
+    isMP: true,
+    mpId: "mp086",
+    constituency: "Prestea Huni Valley Constituency",
+
+    education:
+        "Bachelor’s Degree in Mechanical Engineering — Cape Coast Technical University, expected 2030; General Science — Ghana National College, 2023.",
+
+    profession:
+        "Student, Youth Leader and Public Servant",
+
+    experience:
+        "President — Model Group, Ghana National College; Main Prep Coordinator — Ghana National College; House Secretary — Ghana National College; Class Prefect — Ghana National College; Main Prep Coordinator — Ghana National College, 2022–2023; Deacon — Church of Pentecost, Bogoso Adwenpa District; Professional Model — Modelling and Creative Arts.",
+
+    biography:
+        "BRIGHT KWESI ODOOM is a young Ghanaian leader and public servant from the Prestea Huni Valley Constituency in the Western Region. He has demonstrated a strong commitment to youth leadership, community development, education, empowerment and national development. He has served in various student and youth leadership capacities, developing experience in representation, coordination, public engagement and community initiatives. His leadership journey includes serving as a Youth Member of Parliament and participating in youth parliamentary activities aimed at giving young people a stronger voice in governance and national development. HON. ODOOM has also been involved in community-based initiatives, including youth engagement programmes, educational support initiatives, sports activities and campaigns focused on preventing drug abuse among young people. He is passionate about creating opportunities for young people, promoting education and skills development, supporting community development and encouraging active youth participation in leadership and civic affairs.",
+
+    vision:
+        "To empower young people through education, skills development, community development and meaningful participation in leadership and civic affairs.",
+
+    plans:
+        "Promote youth empowerment, educational opportunities, skills development, community initiatives, sports activities and programmes that encourage responsible youth participation in leadership.",
+
+    contribution:
+        "Youth leadership, community development, education, youth empowerment, sports, public service and creative arts.",
+
+    currentActivities:
+        "Minister for Tourism, Culture and Creative Arts; Youth Parliament Ghana activities; youth engagement, community development and public leadership initiatives.",
+
+    leadershipExperience:
+        "President — Model Group, Ghana National College; Main Prep Coordinator — Ghana National College; House Secretary — Ghana National College; Class Prefect — Ghana National College; Youth Member of Parliament — Youth Parliament Ghana.",
+
+    professionalExperience:
+        "Student and Youth Leader; Public Servant; Professional Model — Modelling and Creative Arts.",
+
+    focusAreas:
+        "YOUTH EMPOWERMENT • EDUCATION • COMMUNITY DEVELOPMENT • LEADERSHIP • TOURISM • CULTURE • CREATIVE ARTS • SPORTS • PUBLIC SERVICE",
+
+    slogan:
+        "Empowering youth, building communities and creating opportunities.",
+
+    image: "images/bright.jpeg",
+
+    email: "brightodoom61@gmail.com",
+    phone: "0504840513",
+    website: "google",
+
+    facebook: "dwamena640_",
+    twitter: "#",
+    instagram: "dwamena640_",
+    linkedin: "Bright Kwesi Odoom",
+    tiktok: "#"
+},
 
 
 
