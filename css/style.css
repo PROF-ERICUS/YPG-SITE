@@ -198,7 +198,7 @@ a {
             rgba(4, 18, 36, 0.75),
             rgba(4, 18, 36, 0.35)
         ),
-        url("../images/background.jpeg") center/cover no-repeat;
+        url("../images/background1.jpeg") center/cover no-repeat;
 
     display: flex;
     align-items: center;
