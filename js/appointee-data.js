@@ -631,7 +631,7 @@ region: "Ashanti",
     region: "Greater Accra",
     appointmentDate: "21st September,2026.",
      status: "active",
-    isMP: true,
+    isMP: false,
 
     education:
         "Kwame Nkrumah University of Science and Technology (KNUST) — BSc Agricultural Biotechnology, 2026. Pentecost Senior High School — General Science, WASSCE, 2022. Nichobeth Preparatory School — BECE, 2019.",
@@ -1906,7 +1906,7 @@ region: "Ashanti",
 },
 {
     id: "app033",
-    name: "HON. AKOBTA ROSEMARY",
+    name: "AKOBTA ROSEMARY",
     position: "Representative to the Vice President of the Republic of Ghana",
     ministry: "Office of the Vice President",
     constituency: "Builsa South Constituency",
@@ -2580,7 +2580,7 @@ region: "Ashanti",
     slogan:
         "Empowering communities, representing youth and advancing sustainable development.",
 
-    image: "",
+    image: "ben-mensah.jpeg",
 
     email: "Dicta4568@gmail.com",
     phone: "0595708530",
