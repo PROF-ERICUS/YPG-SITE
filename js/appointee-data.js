@@ -2352,6 +2352,306 @@ region: "Ashanti",
     linkedin: "Alabani Ibrahim",
     tiktok: "#"
 },
+    {
+    id: "app041",
+    name: "MILDRED SAM",
+    position: "DEPUTY MINISTER FOR TOURISM, CULTURE AND CREATIVE ARTS",
+    ministry: "MINISTRY OF TOURISM, CULTURE AND CREATIVE ARTS",
+    region: "Western",
+    appointmentDate: "28th September, 2026",
+    status: "active",
+    isMP: false,
+    mpId: "",
+    constituency: "Essikado Ketan constituency",
+
+    education:
+        "B.A. in Integrated Rural Art and Industry — Kwame Nkrumah University of Science and Technology (KNUST), Undergraduate, expected completion 2028; Archbishop Porter Girls' Secondary School — 2022–2024; Takoradi Ridge International — 2009–2021.",
+
+    profession:
+        "Graphic Designer, Textile Designer, Wood Carver, Shoe Maker and Historian",
+
+    experience:
+        "Former NUGS Representative — College of Art, Built Environment and Education (CABEESA), KNUST, January 2025–September 2026; Former Deputy General Secretary — Students in Indigenous Art and Technology (SIAT), KNUST, October 2025–September 2026; Student Leader and youth/community organization involvement.",
+
+    biography:
+        "HON. MILDRED SAM is an emerging creative-arts professional and student at the Kwame Nkrumah University of Science and Technology (KNUST), pursuing a B.A. in Integrated Rural Art and Industry. She was twice awarded Best Visual Art Student in 2023 and 2024 and is recognized for innovative textile experiments that integrate indigenous craft traditions with modern design. She has served as NUGS Representative for the College of Art, Built Environment and Education and as Deputy General Secretary for Indigenous Art and Technology, in addition to participating in youth and community organizations. With interests in visual arts, indigenous crafts, creative technology, media communication and leadership, she is dedicated to promoting Ghanaian arts and culture while empowering young people through creative expression and sustainable development.",
+
+    vision:
+        "To promote Ghanaian arts, culture and creative expression while empowering young people through innovation, leadership and sustainable development.",
+
+    plans:
+        "Promote Ghanaian creative arts and indigenous cultural practices, support young creatives and encourage the use of creative technology and sustainable approaches in the arts and cultural sector.",
+
+    contribution:
+        "Creative arts, textile design, indigenous crafts, cultural promotion, youth empowerment, creative technology and leadership.",
+
+    currentActivities:
+        "Student at KNUST pursuing a B.A. in Integrated Rural Art and Industry; Student Leader; Graphic Designer and Textile Designer.",
+
+    leadershipExperience:
+        "Former NUGS Representative — College of Art, Built Environment and Education (CABEESA), KNUST; Former Deputy General Secretary — Students in Indigenous Art and Technology (SIAT), KNUST; Student leadership and youth/community organization involvement.",
+
+    professionalExperience:
+        "Graphic Designer; Textile Designer; Wood Carver; Shoe Maker; Historian; Creative-arts practitioner.",
+
+    focusAreas:
+        "CREATIVE ARTS • GHANAIAN CULTURE • INDIGENOUS CRAFTS • TEXTILE DESIGN • CREATIVE TECHNOLOGY • YOUTH EMPOWERMENT • MEDIA COMMUNICATION • LEADERSHIP • SUSTAINABLE DEVELOPMENT",
+
+    slogan:
+        "Promoting Ghanaian arts and culture through creativity, innovation and youth empowerment.",
+
+    image: "images/sam.jpeg",
+
+    email: "sammildred596@gmail.com",
+    phone: "0509274263",
+    website: "#",
+
+    facebook: "Mild_red",
+    twitter: "Mildred Sam",
+    instagram: "Mild_Red2022",
+    linkedin: "Mildred Sam",
+    tiktok: "#"
+},
+{
+    id: "app042",
+    name: "STEPHANIE OFORI WAA KENSENG",
+    position: "DISTRICT CHIEF EXECUTIVE",
+    ministry: "Youth Parliament Ghana",
+    region: "Eastern",
+    appointmentDate: "30th September, 2026",
+    status: "active",
+    isMP: false,
+    mpId: "",
+    constituency: "Asuogyaman Constituency",
+
+    education:
+        "Bachelor's Degree in Social Work — University of Ghana, 2026.",
+
+    profession:
+        "Social Worker",
+
+    experience:
+        "Vice President — University of Ghana TEIN; Secretary, Women's Commission — University of Ghana TEIN; Vice Chairperson — NUGS Sponsorship Committee; Member — Political Chamber, NUGS-G; Head — CroXout Hunger, Code Nation 1957; Volunteer — Code Nation 1957, providing food and essential support to young teenage mothers and vulnerable young women.",
+
+    biography:
+        "HON. STEPHANIE OFORI WAA KENSENG is a Ghanaian social worker, youth leader and community development advocate from the Asuogyaman Constituency in the Eastern Region. She completed her undergraduate studies in Social Work at the University of Ghana, where she actively participated in student leadership, youth development and community service. She served as Vice President of the University of Ghana TEIN and Secretary to the Women's Commission of University of Ghana TEIN, contributing to student engagement, welfare initiatives, youth mobilisation and efforts to promote women's participation and leadership. She also served as Vice Chairperson of the NUGS Sponsorship Committee and as a Member of the Political Chamber of NUGS-G. Through Code Nation 1957, particularly the CroXout Hunger initiative, she participated in voluntary community outreach providing food and essential support to young teenage mothers and other vulnerable young women. She currently serves as the District Chief Executive for the Asuogyaman Constituency under Youth Parliament Ghana, contributing to youth-focused discussions and representing the interests and aspirations of her constituency.",
+
+    vision:
+        "To promote youth empowerment, social development, women's leadership, community welfare and inclusive development through service and meaningful community engagement.",
+
+    plans:
+        "Support youth empowerment initiatives, strengthen community welfare programmes, promote women's leadership and participation, and advance inclusive community development within the Asuogyaman Constituency.",
+
+    contribution:
+        "Youth leadership, social work, community development, women's leadership, student welfare, youth mobilisation and community outreach.",
+
+    currentActivities:
+        "District Chief Executive — Youth Parliament Ghana, Asuogyaman Constituency; Social Worker; Youth and Community Development Advocate.",
+
+    leadershipExperience:
+        "District Chief Executive — Youth Parliament Ghana; Vice President — University of Ghana TEIN; Secretary, Women's Commission — University of Ghana TEIN; Vice Chairperson — NUGS Sponsorship Committee; Member — Political Chamber, NUGS-G; Head — CroXout Hunger, Code Nation 1957.",
+
+    professionalExperience:
+        "Social Worker; District Chief Executive — Youth Parliament Ghana; Community Development Advocate; Volunteer — Code Nation 1957.",
+
+    focusAreas:
+        "YOUTH EMPOWERMENT • SOCIAL DEVELOPMENT • WOMEN'S LEADERSHIP • COMMUNITY WELFARE • COMMUNITY DEVELOPMENT • YOUTH MOBILISATION • STUDENT WELFARE • INCLUSIVE DEVELOPMENT",
+
+    slogan:
+        "Service, empathy, accountability and meaningful community engagement.",
+
+    image: "",
+
+    email: "stephaniekensengasiedu@gmail.com",
+    phone: "0240807995",
+    website: "#",
+
+    facebook: "@stephy_ohemaa",
+    twitter: "#",
+    instagram: "@stephy_ohemaa",
+    linkedin: "Stephanie Kenseng",
+    tiktok: "#"
+},
+{
+    id: "app043",
+    name: "ADU-YEBOAH KENNETH",
+    position: "ATTORNEY GENERAL AND MINISTRY OF JUSTICE",
+    ministry: "ATTORNEY GENERAL AND MINISTRY OF JUSTICE",
+    region: "Ahafo",
+    appointmentDate: "28th September, 2026",
+    status: "active",
+    isMP: false,
+    mpId: "",
+    constituency: "Asutifi North",
+
+    education:
+        "Bachelor of Science in Geomatic Engineering — University of Mines and Technology (UMaT), currently in progress, Year Three; Senior High School — St. John's Grammar SHS, completed 2022; Junior High School — OLA Preparatory JHS, completed 2019.",
+
+    profession:
+        "Commissioner for Oaths, Paralegal and Student",
+
+    experience:
+        "Volunteer — National Vaccination Campaign for Polio; Ballot Issuer — Electoral Commission during the 2024 national elections; Shop Attendant; Protocol Prefect — St. John's Grammar SHS; Grounds Prefect — OLA Preparatory JHS; Choir Master — St. Francis's of Assisi Catholic Church; Commissioner for Oaths and licensed paralegal.",
+
+    biography:
+        "ADU-YEBOAH KENNETH was born on 5 December 2002. He began his education in the Ahafo Region, completing Junior High School at OLA Preparatory JHS in 2019 before proceeding to St. John's Grammar SHS in the Greater Accra Region, where he graduated in 2022. In early 2024, he applied to the Supreme Court of Ghana to become a Commissioner for Oaths and was commissioned in 2025 and licensed to practice as a paralegal. In January 2025, he gained admission to the University of Mines and Technology (UMaT), where he is pursuing a Bachelor of Science in Geomatic Engineering. He is building a career that combines legal practice with technical and engineering studies, while maintaining an interest in public service and community development.",
+
+    vision:
+        "To contribute to effective public service and justice administration while developing expertise at the intersection of law, technical education and engineering.",
+
+    plans:
+        "Support justice and public-service initiatives while promoting professionalism, legal awareness, youth development and the integration of technical expertise into public service.",
+
+    contribution:
+        "Legal service, public service, youth development, community service, electoral participation and technical education.",
+
+    currentActivities:
+        "Attorney General and Ministry of Justice — Youth Parliament Ghana; Commissioner for Oaths; Licensed Paralegal; Geomatic Engineering student at the University of Mines and Technology (UMaT).",
+
+    leadershipExperience:
+        "Protocol Prefect — St. John's Grammar SHS; Grounds Prefect — OLA Preparatory JHS; Choir Master — St. Francis's of Assisi Catholic Church; Ballot Issuer during the 2024 national elections.",
+
+    professionalExperience:
+        "Commissioner for Oaths; Licensed Paralegal; Volunteer — National Vaccination Campaign for Polio; Ballot Issuer — Electoral Commission during the 2024 national elections; Shop Attendant.",
+
+    focusAreas:
+        "JUSTICE • LEGAL SERVICE • PUBLIC SERVICE • YOUTH DEVELOPMENT • COMMUNITY SERVICE • ELECTORAL PARTICIPATION • GEOMATIC ENGINEERING • TECHNICAL EDUCATION",
+
+    slogan:
+        "Bridging legal service, technical expertise and youth leadership.",
+
+    image: "images/adu.jpeg",
+
+    email: "adukenneth99@gmail.com",
+    phone: "0554410704",
+    website: "#",
+
+    facebook: "#",
+    twitter: "@imagine_Kento",
+    instagram: "@imagine_Kento",
+    linkedin: "Adu-Yeboah Kenneth",
+    tiktok: "#"
+},
+{
+    id: "app044",
+    name: "BENEDICTA MENSAH",
+    position: "REPRESENTATIVE FOR NGOs",
+    ministry: "Youth Parliament Ghana",
+    region: "Ashanti",
+    appointmentDate: "30th September,2026",
+    status: "active",
+    isMP: false,
+    mpId: "",
+    constituency: "Manhyia North",
+
+    education:
+        "Bachelor of Science (BSc) in Sustainable Land Management — University of Energy and Natural Resources (UENR), currently in Year 300; Senior High School — Serwaa Nyarko Girls' Senior High School; Junior High School — Brilliant International School.",
+
+    profession:
+        "Student and Entrepreneur",
+
+    experience:
+        "Representative for NGOs — National Youth Parliament; Programs and Projects Committee Member — Local National Union of Ghana Students (LNUGS); Department Women's Commissioner Secretary — Department of Sustainable Land Management, UENR; Public Relations Officer, Women's Commissioner — Tertiary Education Institutions Network (TEIN); Day Head Girl — Serwaa Nyarko Girls' Senior High School; Founder and Lead Stylist — Luxe Beauty Studio.",
+
+    biography:
+        "BENEDICTA MENSAH is an emerging public leader, student advocate and sustainable development enthusiast dedicated to grassroots empowerment, youth representation and community transformation. She is currently pursuing a Bachelor of Science degree in Sustainable Land Management at the University of Energy and Natural Resources (UENR), where she is developing knowledge in land economics, spatial planning and resource management. Her leadership journey began as Day Head Girl at Serwaa Nyarko Girls' Senior High School, an experience that strengthened her commitment to integrity, service and advocacy. She has since expanded her involvement through youth representation, student governance and community-focused initiatives, including serving as a National Youth Parliament Representative for Non-Governmental Organizations (NGOs) and as a member of the Local National Union of Ghana Students Programs and Projects Committee. She is also an entrepreneur and Founder and Lead Stylist of Luxe Beauty Studio. She is passionate about bridging grassroots community needs with institutional policy while promoting youth inclusion, educational development and sustainable resource utilization.",
+
+    vision:
+        "To promote grassroots empowerment, youth representation, sustainable development and meaningful community transformation.",
+
+    plans:
+        "Support youth inclusion, educational development, grassroots empowerment and sustainable resource utilization while strengthening the connection between community needs and institutional development.",
+
+    contribution:
+        "Youth representation, sustainable land management, community development, student advocacy, entrepreneurship, education and grassroots empowerment.",
+
+    currentActivities:
+        "Representative for NGOs — Youth Parliament Ghana; BSc Sustainable Land Management student at UENR; Founder and Lead Stylist — Luxe Beauty Studio; Student Leader and Youth Representative.",
+
+    leadershipExperience:
+        "Representative for NGOs — National Youth Parliament; Programs and Projects Committee Member — Local National Union of Ghana Students (LNUGS); Department Women's Commissioner Secretary — Department of Sustainable Land Management, UENR; Public Relations Officer, Women's Commissioner — TEIN; Day Head Girl — Serwaa Nyarko Girls' Senior High School.",
+
+    professionalExperience:
+        "Founder and Lead Stylist — Luxe Beauty Studio; Student Advocate; Youth Representative; Sustainable Development Enthusiast.",
+
+    focusAreas:
+        "YOUTH EMPOWERMENT • SUSTAINABLE DEVELOPMENT • GRASSROOTS DEVELOPMENT • YOUTH REPRESENTATION • EDUCATION • COMMUNITY TRANSFORMATION • STUDENT ADVOCACY • ENTREPRENEURSHIP • RESOURCE MANAGEMENT",
+
+    slogan:
+        "Empowering communities, representing youth and advancing sustainable development.",
+
+    image: "",
+
+    email: "Dicta4568@gmail.com",
+    phone: "0595708530",
+    website: "#",
+
+    facebook: "https://www.facebook.com/share/1Dcg8yHHfA/?mibextid=wwXIfr",
+    twitter: "#",
+    instagram: "gal_lyk_dic_ta__",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "app045",
+    name: "ABUBAKARI ABDUL RAHIM",
+    position: "DEPUTY MINISTER FOR ROADS AND HIGHWAYS",
+    ministry: "MINISTRY OF ROADS AND HIGHWAYS",
+    region: "Northern",
+    appointmentDate: "25th September, 2026",
+    status: "active",
+    isMP: false,
+    mpId: "",
+    constituency: "Tolon Constituency",
+
+    education:
+        "Nyankpala D/A Primary School — 2009–2017; Nyankpala D/A Junior High School — 2017–2020; Dabokpa Technical Institute — 2020–2023; Tamale Technical University — Certificate, 2024–2025; Tamale Technical University — Diploma, 2025–present.",
+
+    profession:
+        "Construction Personnel and Plumber",
+
+    experience:
+        "Gained mid-level knowledge of AutoCAD; completed a Critical Thinking Course and received a Certificate of Honor; nominee for Best Course Representative of the Year — TACONS, TaTU Chapter; served as Zagyuri-Naa — Dagban Students Association (DASA), Tamale Technical University, and received a Certificate of Honor; completed St. John Ambulance Training and received a Certificate of Honor; served as Financial Secretary — Dagban Students Association (DASA) at Senior High School level and received a Certificate of Honor.",
+
+    biography:
+        "ABUBAKARI ABDUL RAHIM is a student and ministerial appointee from the Tolon Constituency in the Northern Region. He has developed practical and technical skills through his educational and professional journey, including mid-level knowledge of AutoCAD and experience in construction and plumbing. He has participated in leadership, professional development and community-oriented activities, including serving as Zagyuri-Naa of the Dagban Students Association at Tamale Technical University and Financial Secretary of the association at Senior High School level. He has also completed Critical Thinking and St. John Ambulance training programmes, receiving Certificates of Honor for his participation and achievements.",
+
+    vision:
+        "To contribute to effective infrastructure development while applying technical knowledge, leadership experience and practical skills to public service.",
+
+    plans:
+        "Support initiatives related to roads, infrastructure development, technical skills and youth development while promoting effective public service.",
+
+    contribution:
+        "Infrastructure development, construction, plumbing, technical education, youth leadership and public service.",
+
+    currentActivities:
+        "Deputy Minister for Roads and Highways; Student at Tamale Technical University; Construction Personnel and Plumber.",
+
+    leadershipExperience:
+        "Zagyuri-Naa — Dagban Students Association (DASA), Tamale Technical University; Financial Secretary — Dagban Students Association (DASA), Senior High School level; Nominee for Best Course Representative of the Year — TACONS, TaTU Chapter.",
+
+    professionalExperience:
+        "Construction Personnel; Plumber; Mid-level AutoCAD skills; St. John Ambulance trainee.",
+
+    focusAreas:
+        "ROADS AND HIGHWAYS • INFRASTRUCTURE • CONSTRUCTION • PLUMBING • TECHNICAL EDUCATION • YOUTH LEADERSHIP • PUBLIC SERVICE • SKILLS DEVELOPMENT",
+
+    slogan:
+        "Building skills, serving communities and supporting infrastructure development.",
+
+    image: "images/rahim.jpeg",
+
+    email: "rahimabubakari76@gmail.com",
+    phone: "+233559738960 / +233542354127",
+    website: "#",
+
+    facebook: "@rahimnormal",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
 
 
 ];
