@@ -1104,7 +1104,7 @@ region: "Ashanti",
     constituency: "Ajumako Enyan Essiam  constituency",
     region: "Central",
     appointmentDate: "Information to be updated.",
-     status: "revoked",
+     status: "active",
     isMP: false,
 
     education:
@@ -1454,12 +1454,12 @@ region: "Ashanti",
 {
     id: "app025",
     name: "MOHAMMED SHARIF YAKOOB",
-    position: "Minister for Local Government, Chieftaincy and Religious Affairs",
+    position: "Deupty Minister for Local Government, Chieftaincy and Religious Affairs",
     ministry: "Local Government, Chieftaincy and Religious Affairs",
     constituency: "Kwabre East Constituency",
     region: "Ashanti",
     appointmentDate: "20th September,2026.",
-     status: "revoked",
+     status: "active",
     isMP: false,
 
     education:
