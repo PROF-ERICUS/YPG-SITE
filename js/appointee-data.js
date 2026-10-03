@@ -2771,6 +2771,126 @@ region: "Ashanti",
     linkedin: "Bright Kwesi Odoom",
     tiktok: "#"
 },
+    {
+    id: "app048",
+    name: "SPENCER ABDUL-FATAW ODOOM",
+    position: "Minister of Finance",
+    ministry: "Ministry of Finance",
+    region: "Central",
+    appointmentDate: "September 2026",
+    isMP: false,
+    mpId: "",
+    constituency: "Ekumfi Constituency",
+    status: "active",
+
+    education:
+        "University of Education, Winneba — Bachelor of Business Administration (Accounting) — January 2022 to September 2025; Enyan Main Senior High School — W.A.S.S.C.E. (Business) — September 2018 to September 2021; Islamic Junior High School (Ekumfi Immuna) — B.E.C.E. — January 2015 to June 2018.",
+
+    profession:
+        "Business Administration and Accounting",
+
+    experience:
+        "Financial Secretary — GRIDCo National Service Personnel — January 2026 to October 2026; Financial Secretary — Tema Metropolitan National Service Personnel — April 2026 to March 2027; Auditor General — Greater Accra National Service Personnel — July 2026 to May 2027; Minister of Finance — Youth Parliament — September 2026 to September 2030.",
+
+    biography:
+        "SPENCER ABDUL-FATAW ODOOM is a dynamic and coachable individual dedicated to working with professional competence, an ability to learn and a commitment to overcoming challenges. He possesses analytical thinking, problem-solving skills and the drive to see tasks through to completion. He is committed to working in a team to achieve stated objectives. He holds a Bachelor of Business Administration in Accounting from the University of Education, Winneba and has gained experience through national service and financial leadership roles. He serves as Minister of Finance under the Youth Parliament.",
+
+    vision:
+        "To contribute to effective financial leadership, accountability, professional development and responsible management of resources within the Youth Parliament.",
+
+    plans:
+        "Promote financial accountability, responsible resource management, teamwork, professional competence, analytical problem-solving and initiatives that support the effective development of young people.",
+
+    contribution:
+        "Financial management, accountability, youth leadership, professional development, teamwork, analytical thinking and responsible resource management.",
+
+    currentActivities:
+        "Minister of Finance — Youth Parliament; Financial Secretary — GRIDCo National Service Personnel; Financial Secretary — Tema Metropolitan National Service Personnel; Auditor General — Greater Accra National Service Personnel.",
+
+    leadershipExperience:
+        "Financial Secretary — GRIDCo National Service Personnel; Financial Secretary — Tema Metropolitan National Service Personnel; Auditor General — Greater Accra National Service Personnel; Minister of Finance — Youth Parliament.",
+
+    professionalExperience:
+        "Bachelor of Business Administration (Accounting) graduate from the University of Education, Winneba; Experience in financial administration, auditing and national service leadership.",
+
+    focusAreas:
+        "Financial management • Accountability • Youth leadership • Professional development • Teamwork • Responsible resource management • Analytical thinking",
+
+    slogan:
+        "Professional competence, accountability and responsible financial leadership.",
+
+    image: "images/spencer.jpeg",
+
+    email: "spen.abdulfatawodoom@gmail.com",
+    phone: "0535995443",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "app049",
+    name: "STEPHANIE OFORI WAA KENSENG",
+    position: "District Chief Executive",
+    ministry: "Youth Parliament Ghana",
+    region: "Eastern",
+    appointmentDate: "30th September, 2026",
+    isMP: false,
+    mpId: "",
+    constituency: "Asuogyaman Constituency",
+    status: "active",
+
+    education:
+        "University of Ghana — Social Work — Bachelor’s Degree — 2026",
+
+    profession:
+        "Social Worker",
+
+    experience:
+        "Vice President — University of Ghana TEIN; Secretary, Women’s Commission — University of Ghana TEIN; Vice Chairperson — NUGS Sponsorship Committee; Member — Political Chamber, NUGS-G; Head — CroXout Hunger, Code Nation 1957; Volunteer — Code Nation 1957, providing food and essential support to young teenage mothers and vulnerable young women.",
+
+    biography:
+        "STEPHANIE OFORI WAA KENSENG is a Ghanaian social worker, youth leader and community development advocate from the Asuogyaman Constituency in the Eastern Region. She completed her undergraduate studies in Social Work at the University of Ghana, where she actively participated in student leadership, youth development and community service. She served as Vice President of the University of Ghana TEIN and Secretary to the Women’s Commission of University of Ghana TEIN. In these roles, she contributed to student engagement, welfare initiatives, youth mobilisation and efforts to promote women’s participation and leadership. She also served as Vice Chairperson of the NUGS Sponsorship Committee and as a Member of the Political Chamber of NUGS-G, contributing to initiatives focused on student support, leadership and youth development. Her commitment to community service extends beyond student leadership. Through Code Nation 1957, particularly the CroXout Hunger initiative, she participated in voluntary community outreach that provided food and essential support to young teenage mothers and other vulnerable young women. As a social worker and youth leader, she is passionate about youth empowerment, social development, women’s leadership, community welfare and inclusive development. Her leadership approach is grounded in service, empathy, accountability and meaningful community engagement. She currently serves as the District Chief Executive for the Asuogyaman Constituency under Youth Parliament Ghana, where she contributes to youth-focused discussions and represents the interests and aspirations of her constituency.",
+
+    vision:
+        "To promote youth empowerment, social development, women’s leadership, community welfare and inclusive development through service, empathy, accountability and meaningful community engagement.",
+
+    plans:
+        "Promote youth empowerment, social development, community welfare, women’s leadership, student support, youth participation and inclusive development within the Asuogyaman Constituency.",
+
+    contribution:
+        "Youth empowerment, social development, women’s leadership, community welfare, student support, community service and inclusive development.",
+
+    currentActivities:
+        "District Chief Executive — Youth Parliament Ghana, Asuogyaman Constituency; Social Worker; Youth leader and community development advocate.",
+
+    leadershipExperience:
+        "Vice President — University of Ghana TEIN; Secretary, Women’s Commission — University of Ghana TEIN; Vice Chairperson — NUGS Sponsorship Committee; Member — Political Chamber, NUGS-G; Head — CroXout Hunger, Code Nation 1957; District Chief Executive — Asuogyaman Constituency, Youth Parliament Ghana.",
+
+    professionalExperience:
+        "Social Worker; Bachelor’s Degree in Social Work from the University of Ghana; Community development and youth leadership experience.",
+
+    focusAreas:
+        "YOUTH EMPOWERMENT • SOCIAL DEVELOPMENT • WOMEN’S LEADERSHIP • COMMUNITY WELFARE • COMMUNITY SERVICE • INCLUSIVE DEVELOPMENT • STUDENT SUPPORT",
+
+    slogan:
+        "Service, empathy and meaningful community engagement.",
+
+    image: "#",
+
+    email: "stephaniekensengasiedu@gmail.com",
+    phone: "0240807995",
+    website: "#",
+
+    facebook: "@stephy_ohemaa",
+    twitter: "#",
+    instagram: "@stephy_ohemaa",
+    linkedin: "Stephanie Kenseng",
+    tiktok: "#"
+},
 
 
 
