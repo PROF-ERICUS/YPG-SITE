@@ -2579,7 +2579,7 @@ region: "Ashanti",
     slogan:
         "Empowering communities, representing youth and advancing sustainable development.",
 
-    image: "ben-mensah.jpeg",
+    image: "benmensah.jpeg",
 
     email: "Dicta4568@gmail.com",
     phone: "0595708530",
