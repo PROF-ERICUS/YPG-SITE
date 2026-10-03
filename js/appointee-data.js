@@ -2831,8 +2831,68 @@ region: "Ashanti",
     linkedin: "#",
     tiktok: "#"
 },
+    {
+    id: "app050",
+    name: "MICHAEL ESHUN",
+    position: "Metropolitan Chief Executive (MCE)",
+    constituency: "Wassa Amenfi Central",
+    region: "Western",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
 
+    ministry: "Sekondi-Takoradi Metropolitan Assembly",
+    appointmentDate: "30 September 2026",
+    isMP: false,
+    mpId: null,
 
+    education:
+        "Computer Science — Kwame Nkrumah University of Science and Technology (KNUST), Undergraduate Degree, expected completion 2029; General Science — St. James Seminary and Senior High School, Senior High School Certificate, 2024; African Child School Complex (Kumasi, Emena-Boadi), Junior High School Certificate, 2021.",
+
+    profession:
+        "Computer Science Student / Youth Leader",
+
+    experience:
+        "Metropolitan Chief Executive (MCE), Sekondi-Takoradi Metropolitan Assembly — Youth Parliament Ghana; Youth Leadership and Community Engagement — Wassa Amenfi Central; Youth Mobilization and Development Initiatives — Wassa Amenfi Central; Founder/Organizer — Wassa Amenfi Central Youth Development Network (WACYDEN).",
+
+    biography:
+        "MICHAEL ESHUN is a young Ghanaian leader and Computer Science student from the Wassa Amenfi Central Constituency in the Western Region of Ghana. He is passionate about youth participation, community development, digital innovation and inclusive leadership. He is currently pursuing Computer Science at Kwame Nkrumah University of Science and Technology (KNUST). His academic background in technology complements his interest in using innovation and digital solutions to contribute to community and national development. As a young public-service advocate, Hon. Eshun is committed to promoting meaningful youth participation in leadership and governance. He believes young people should have opportunities to contribute their ideas, talents and energy to the development of their communities. Through his leadership activities and youth engagement initiatives, he seeks to encourage unity, participation, accountability and development among young people, particularly within Wassa Amenfi Central and the Western Region. As a member of Youth Parliament Ghana, he is committed to representing youth interests, supporting constructive dialogue and contributing to initiatives that promote youth development and effective local governance.",
+
+    vision:
+        "To promote meaningful youth participation, community development, digital innovation, accountability and inclusive leadership within Wassa Amenfi Central and the Western Region.",
+
+    plans:
+        "Promote meaningful youth participation in leadership and governance; support youth mobilization and development initiatives; encourage digital innovation and the use of technology for community development; promote unity, accountability and inclusive leadership; and contribute to effective local governance.",
+
+    contribution:
+        "Youth participation, community development, digital innovation, youth mobilization, inclusive leadership, accountability and local governance.",
+
+    currentActivities:
+        "Metropolitan Chief Executive (MCE), Sekondi-Takoradi Metropolitan Assembly — Youth Parliament Ghana; Computer Science undergraduate student at Kwame Nkrumah University of Science and Technology; Youth leadership and community engagement activities.",
+
+    leadershipExperience:
+        "Metropolitan Chief Executive (MCE), Sekondi-Takoradi Metropolitan Assembly — Youth Parliament Ghana; Founder/Organizer — Wassa Amenfi Central Youth Development Network (WACYDEN); Youth Leadership and Community Engagement — Wassa Amenfi Central; Youth Mobilization and Development Initiatives — Wassa Amenfi Central.",
+
+    professionalExperience:
+        "Computer Science undergraduate student at Kwame Nkrumah University of Science and Technology; Youth leadership, community engagement and youth development experience in Wassa Amenfi Central.",
+
+    focusAreas:
+        "Youth participation • Community development • Digital innovation • Youth leadership • Youth mobilization • Inclusive leadership • Accountability • Local governance • Technology",
+
+    slogan:
+        "Empowering young people through participation, innovation and inclusive leadership.",
+
+    image: "images/eshun.jpeg",
+
+    email: "eshunmichael366@gmail.com",
+    phone: "+233 534 588 484 / +233 205 884 459",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "michael_eshun233",
+    linkedin: "Michael Eshun",
+    tiktok: "#"
+},
 
 
 ];
