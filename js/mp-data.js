@@ -6536,8 +6536,63 @@ parliament: "Youth Parliament Ghana",
     linkedin: "https://www.linkedin.com/in/bismark-owusu-944a66366",
     tiktok: "#"
 },
+  {
+    id: "mp121",
+    name: "SPENCER ABDUL-FATAW ODOOM",
+    position: "Member of Parliament",
+    constituency: "Ekumfi Constituency",
+    region: "Central",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
 
+    education:
+        "University of Education, Winneba — Bachelor of Business Administration (Accounting) — January 2022 to September 2025; Enyan Main Senior High School — W.A.S.S.C.E. (Business) — September 2018 to September 2021; Islamic Junior High School (Ekumfi Immuna) — B.E.C.E. — January 2015 to June 2018.",
 
+    profession:
+        "Business Administration and Accounting",
+
+    experience:
+        "Financial Secretary — GRIDCo National Service Personnel — January 2026 to October 2026; Financial Secretary — Tema Metropolitan National Service Personnel — April 2026 to March 2027; Auditor General — Greater Accra National Service Personnel — July 2026 to May 2027; Minister of Finance — Youth Parliament — September 2026 to September 2030.",
+
+    biography:
+        "SPENCER ABDUL-FATAW ODOOM is a dynamic and coachable individual dedicated to working with professional competence, an ability to learn and a commitment to overcoming challenges. He possesses analytical thinking, problem-solving skills and the drive to see tasks through to completion. He is committed to working in a team to achieve stated objectives. He holds a Bachelor of Business Administration in Accounting from the University of Education, Winneba and has gained experience through national service and financial leadership roles. He serves as a Youth Member of Parliament representing the Ekumfi Constituency and has also served as Minister of Finance under the Youth Parliament.",
+
+    vision:
+        "To contribute to effective financial leadership, accountability, professional development and responsible management of resources within the Youth Parliament.",
+
+    plans:
+        "Promote financial accountability, responsible resource management, teamwork, professional competence, analytical problem-solving and initiatives that support the effective development of young people.",
+
+    contribution:
+        "Financial management, accountability, youth leadership, professional development, teamwork, analytical thinking and responsible resource management.",
+
+    currentActivities:
+        "Youth Member of Parliament — Ekumfi Constituency, Youth Parliament of Ghana; Financial Secretary — GRIDCo National Service Personnel; Financial Secretary — Tema Metropolitan National Service Personnel; Auditor General — Greater Accra National Service Personnel.",
+
+    leadershipExperience:
+        "Youth Member of Parliament — Ekumfi Constituency, Youth Parliament of Ghana; Financial Secretary — GRIDCo National Service Personnel; Financial Secretary — Tema Metropolitan National Service Personnel; Auditor General — Greater Accra National Service Personnel; Minister of Finance — Youth Parliament.",
+
+    professionalExperience:
+        "Bachelor of Business Administration (Accounting) graduate from the University of Education, Winneba; Experience in financial administration, auditing, accounting and national service leadership.",
+
+    focusAreas:
+        "Financial management • Accountability • Youth leadership • Professional development • Teamwork • Responsible resource management • Analytical thinking",
+
+    slogan:
+        "Professional competence, accountability and responsible financial leadership.",
+
+    image: "images/spencer.jpeg",
+
+    email: "spen.abdulfatawodoom@gmail.com",
+    phone: "0535995443",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
 
 
 ];
