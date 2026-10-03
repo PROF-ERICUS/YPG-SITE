@@ -23,6 +23,9 @@
 
     <!-- Bootstrap -->
     
+    <!-- =========================
+         BOOTSTRAP
+    ========================== -->
 
     <link
         href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
@@ -46,9 +49,8 @@
           href="css/style.css">
 
 
- <style>
-
-/* ========================================
+    <style>
+        /* ========================================
    PAGE TOP & DOWN BUTTONS
 ======================================== */
 
@@ -95,498 +97,386 @@
     transform: scale(0.95);
 }
 
+        /* =========================
+           DIRECTORY HEADER
+        ========================== */
 
-/* ========================================
-   DIRECTORY HEADER
-======================================== */
+        .directory-header {
 
-.directory-header {
-    background:
-        linear-gradient(
-            135deg,
-            rgba(7, 27, 53, 0.98),
-            rgba(13, 43, 80, 0.95)
-        );
+            background:
+                linear-gradient(
+                    135deg,
+                    rgba(7, 27, 53, 0.98),
+                    rgba(13, 43, 80, 0.95)
+                );
 
-    padding: 150px 0 80px;
+            padding: 150px 0 80px;
 
-    color: white;
-}
+            color: white;
+        }
 
-.directory-header h1 {
-    font-size: clamp(38px, 5vw, 58px);
-    font-weight: 800;
-    margin-bottom: 15px;
-}
 
-.directory-header p {
-    max-width: 650px;
+        .directory-header h1 {
 
-    color: rgba(255,255,255,0.72);
+            font-size: clamp(38px, 5vw, 58px);
 
-    line-height: 1.8;
+            font-weight: 800;
 
-    margin: 0 auto;
-}
+            margin-bottom: 15px;
+        }
 
 
-/* ========================================
-   FILTER AREA
-======================================== */
+        .directory-header p {
 
-.directory-tools {
-    margin-top: -35px;
+            max-width: 650px;
 
-    position: relative;
+            color: rgba(255,255,255,0.72);
 
-    z-index: 5;
-}
+            line-height: 1.8;
 
-.filter-card {
-    background: white;
+            margin: 0 auto;
+        }
 
-    border-radius: 14px;
 
-    padding: 25px;
+        /* =========================
+           FILTER AREA
+        ========================== */
 
-    box-shadow:
-        0 15px 40px rgba(7, 27, 53, 0.10);
+        .directory-tools {
 
-    border: 1px solid var(--border);
-}
+            margin-top: -35px;
 
-.filter-card label {
-    font-size: 13px;
+            position: relative;
 
-    font-weight: 700;
+            z-index: 5;
+        }
 
-    color: var(--navy);
 
-    margin-bottom: 8px;
-}
+        .filter-card {
 
-.filter-card .form-control,
-.filter-card .form-select {
-    min-height: 48px;
+            background: white;
 
-    border-color: var(--border);
+            border-radius: 14px;
 
-    border-radius: 7px;
-}
+            padding: 25px;
 
-.filter-card .form-control:focus,
-.filter-card .form-select:focus {
-    border-color: var(--gold);
+            box-shadow:
+                0 15px 40px rgba(7, 27, 53, 0.10);
 
-    box-shadow:
-        0 0 0 0.2rem
-        rgba(215, 169, 40, 0.12);
-}
+            border: 1px solid var(--border);
+        }
 
 
-/* ========================================
-   APPOINTEE CARDS
-======================================== */
+        .filter-card label {
 
-.appointee-card {
-    height: 100%;
+            font-size: 13px;
 
-    background: white;
+            font-weight: 700;
 
-    border: 1px solid var(--border);
+            color: var(--navy);
 
-    border-radius: 14px;
+            margin-bottom: 8px;
+        }
 
-    overflow: hidden;
 
-    transition: 0.3s ease;
+        .filter-card .form-control,
+        .filter-card .form-select {
 
-    display: flex;
-    flex-direction: column;
-}
+            min-height: 48px;
 
-.appointee-card:hover {
-    transform: translateY(-6px);
+            border-color: var(--border);
 
-    box-shadow:
-        0 18px 40px
-        rgba(7, 27, 53, 0.10);
-}
+            border-radius: 7px;
+        }
 
 
-/* ========================================
-   APPOINTEE PROFILE PHOTO
-======================================== */
+        .filter-card .form-control:focus,
+        .filter-card .form-select:focus {
 
-/*
-   The image area now uses a consistent
-   portrait ratio on every screen.
+            border-color: var(--gold);
 
-   This prevents different fixed heights
-   from making the cards look uneven.
-*/
+            box-shadow:
+                0 0 0 0.2rem
+                rgba(215, 169, 40, 0.12);
+        }
 
-.appointee-photo {
-    width: 100%;
 
-    aspect-ratio: 4 / 5;
+        /* =========================
+           APPOINTEE CARDS
+        ========================== */
 
-    background: #f5f7fa;
+        .appointee-card {
 
-    overflow: hidden;
+            height: 100%;
 
-    position: relative;
+            background: white;
 
-    display: flex;
-    align-items: center;
-    justify-content: center;
+            border: 1px solid var(--border);
 
-    padding: 0;
+            border-radius: 14px;
 
-    margin: 0;
-}
+            overflow: hidden;
 
+            transition: 0.3s ease;
+        }
 
-/* ========================================
-   PROFILE IMAGE
-======================================== */
 
-.appointee-photo img {
-    width: 100%;
-    height: 100%;
+        .appointee-card:hover {
 
-    max-width: 100%;
-    max-height: 100%;
+            transform: translateY(-6px);
 
-    display: block;
+            box-shadow:
+                0 18px 40px
+                rgba(7, 27, 53, 0.10);
+        }
 
-    /*
-       Fill the complete profile-photo area.
-    */
-    object-fit: cover;
 
-    /*
-       Keeps the person's face toward
-       the upper part of the profile.
-    */
-    object-position: center top;
+        .appointee-photo {
 
-    margin: 0;
-    padding: 0;
+            height: 350px;
 
-    transform: none !important;
+            background: #f5f7fa;
 
-    transition: none !important;
-}
+            display: flex;
 
+            align-items: center;
 
-/* ========================================
-   DISABLE IMAGE ZOOM
-======================================== */
+            justify-content: center;
 
-.appointee-card:hover .appointee-photo img {
-    transform: none !important;
-}
+            overflow: hidden;
+        }
 
 
-/* ========================================
-   VIEW PROFILE
-======================================== */
+        .appointee-photo img {
 
-.view-profile {
-    display: inline-flex;
+            width: 100%;
 
-    align-items: center;
+            height: 100%;
 
-    color: #9a7410;
+            object-fit: cover;
 
-    font-size: 14px;
+            object-position: 50% 15%;
 
-    font-weight: 700;
+            transition: 0.4s ease;
+        }
 
-    text-decoration: none;
-}
 
-.view-profile i {
-    margin-left: 7px;
+        .appointee-card:hover
+        .appointee-photo img {
 
-    transition: 0.3s ease;
-}
+            transform: scale(1.03);
+        }
 
-.view-profile:hover {
-    color: var(--gold);
-}
 
-.view-profile:hover i {
-    transform: translateX(4px);
-}
+        .default-photo {
 
+            font-size: 75px;
 
-/* ========================================
-   RESULT COUNT
-======================================== */
+            color: #aab3bd;
+        }
 
-.result-count {
-    color: var(--muted);
 
-    font-size: 14px;
-}
+        .appointee-content {
 
-.result-count strong {
-    color: var(--navy);
-}
+            padding: 25px;
+        }
 
 
-/* ========================================
-   NO RESULTS
-======================================== */
+        .appointee-content h3 {
 
-.no-results {
-    display: none;
+            color: var(--navy);
 
-    padding: 70px 20px;
+            font-size: 21px;
 
-    text-align: center;
-}
+            font-weight: 800;
 
-.no-results i {
-    font-size: 55px;
+            margin-bottom: 7px;
+        }
 
-    color: #b8c0c9;
 
-    margin-bottom: 20px;
-}
+        .appointee-position {
 
-.no-results h3 {
-    color: var(--navy);
+            color: #9a7410;
 
-    font-weight: 800;
-}
+            font-size: 14px;
 
-.no-results p {
-    color: var(--muted);
-}
+            font-weight: 700;
 
+            margin-bottom: 15px;
+        }
 
-/* ========================================
-   LARGE DESKTOP
-======================================== */
 
-@media (min-width: 1200px) {
+        .appointee-meta {
 
-    .appointee-photo {
-        aspect-ratio: 4 / 5;
-    }
+            display: flex;
 
-}
+            flex-direction: column;
 
+            gap: 9px;
 
-/* ========================================
-   LAPTOP
-======================================== */
+            margin-bottom: 20px;
+        }
 
-@media (min-width: 992px) and (max-width: 1199px) {
 
-    .appointee-photo {
-        aspect-ratio: 4 / 5;
-    }
+        .appointee-meta span {
 
-    .appointee-content {
-        padding: 20px;
-    }
+            color: var(--muted);
 
-    .appointee-content h3 {
-        font-size: 19px;
-    }
+            font-size: 13px;
+        }
 
-    .appointee-position {
-        font-size: 13px;
-    }
 
-}
+        .appointee-meta i {
 
+            color: #9a7410;
 
-/* ========================================
-   TABLET / IPAD
-======================================== */
+            margin-right: 7px;
+        }
 
-@media (min-width: 768px) and (max-width: 991px) {
 
-    .appointee-photo {
-        aspect-ratio: 4 / 5;
-    }
+        .view-profile {
 
-    .appointee-content {
-        padding: 18px;
-    }
+            display: inline-flex;
 
-    .appointee-content h3 {
-        font-size: 18px;
-    }
+            align-items: center;
 
-    .appointee-position {
-        font-size: 13px;
-    }
+            color: #9a7410;
 
-    .appointee-meta span {
-        font-size: 12px;
-    }
+            font-size: 14px;
 
-    .view-profile {
-        font-size: 13px;
-    }
+            font-weight: 700;
 
-}
+            text-decoration: none;
+        }
 
 
-/* ========================================
-   LARGE MOBILE
-======================================== */
+        .view-profile i {
 
-@media (min-width: 576px) and (max-width: 767px) {
+            margin-left: 7px;
 
-    .appointee-photo {
-        aspect-ratio: 4 / 5;
-    }
+            transition: 0.3s ease;
+        }
 
-}
 
+        .view-profile:hover {
 
-/* ========================================
-   MOBILE
-======================================== */
+            color: var(--gold);
+        }
 
-@media (max-width: 767px) {
 
-    .directory-header {
-        padding: 130px 20px 70px;
-    }
+        .view-profile:hover i {
 
-    .directory-header h1 {
-        font-size: 38px;
-    }
+            transform: translateX(4px);
+        }
 
-    .directory-tools {
-        margin-top: -25px;
-    }
 
-    .filter-card {
-        padding: 20px;
-    }
+        /* =========================
+           RESULT COUNT
+        ========================== */
 
-    .appointee-photo {
-        aspect-ratio: 4 / 5;
-    }
+        .result-count {
 
-    .appointee-content {
-        padding: 20px;
-    }
+            color: var(--muted);
 
-    .appointee-content h3 {
-        font-size: 19px;
-    }
+            font-size: 14px;
+        }
 
-    .appointee-position {
-        font-size: 13px;
-    }
 
-}
+        .result-count strong {
 
+            color: var(--navy);
+        }
 
-/* ========================================
-   SMALL MOBILE
-======================================== */
 
-@media (max-width: 576px) {
+        /* =========================
+           NO RESULTS
+        ========================== */
 
+        .no-results {
+
+            display: none;
+
+            padding: 70px 20px;
+
+            text-align: center;
+        }
+
+
+        .no-results i {
+
+            font-size: 55px;
+
+            color: #b8c0c9;
+
+            margin-bottom: 20px;
+        }
+
+
+        .no-results h3 {
+
+            color: var(--navy);
+
+            font-weight: 800;
+        }
+
+
+        .no-results p {
+
+            color: var(--muted);
+        }
+
+
+        /* =========================
+           MOBILE
+        ========================== */
+
+        @media (max-width: 767px) {
+
+            .directory-header {
+
+                padding: 130px 20px 70px;
+            }
+
+
+            .directory-header h1 {
+
+                font-size: 38px;
+            }
+
+
+            .directory-tools {
+
+                margin-top: -25px;
+            }
+
+
+            .filter-card {
+
+                padding: 20px;
+            }
+
+
+            .appointee-photo {
+
+                height: 300px;
+            }
+
+        }
+        @media (max-width: 576px) {
     .page-navigation {
         right: 15px;
-
         bottom: 20px;
     }
 
     .page-navigation button {
         width: 40px;
-
         height: 40px;
-
         font-size: 17px;
     }
-
-    .appointee-photo {
-        aspect-ratio: 4 / 5;
-    }
-
-    .appointee-content {
-        padding: 18px;
-    }
-
-    .appointee-content h3 {
-        font-size: 18px;
-    }
-
 }
 
-
-/* ========================================
-   VERY SMALL PHONES
-======================================== */
-
-@media (max-width: 400px) {
-
-    .appointee-photo {
-        aspect-ratio: 4 / 5;
-    }
-
-    .appointee-content {
-        padding: 16px;
-    }
-
-    .appointee-content h3 {
-        font-size: 17px;
-    }
-
-    .appointee-position {
-        font-size: 12px;
-    }
-
-    .appointee-meta span {
-        font-size: 12px;
-    }
-
-}
-
-
-/* ========================================
-   GRID CONSISTENCY
-======================================== */
-
-#appointeeGrid > [class*="col-"] {
-    display: flex;
-}
-
-#appointeeGrid .appointee-card {
-    width: 100%;
-    height: 100%;
-}
-
-
-/* ========================================
-   FINAL PROFILE IMAGE PROTECTION
-======================================== */
-
-.appointee-photo img,
-.appointee-card img {
-    max-width: 100%;
-    max-height: 100%;
-
-    transform: none !important;
-}
-
-</style>
+    </style>
 </head>
-
-
 <body>
 
 
