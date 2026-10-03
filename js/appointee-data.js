@@ -2832,7 +2832,7 @@ region: "Ashanti",
     tiktok: "#"
 },
     {
-    id: "app050",
+    id: "app049",
     name: "MICHAEL ESHUN",
     position: "Metropolitan Chief Executive (MCE)",
     constituency: "Wassa Amenfi Central",
