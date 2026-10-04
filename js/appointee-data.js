@@ -355,6 +355,7 @@ appointmentDate: "Information to be updated.",
 
 isMP: true,
 
+
 constituency: "Trobu Constituency",
 status: "revoked",
 revocationReason: "Administrative decision",
