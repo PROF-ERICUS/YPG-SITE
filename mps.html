@@ -1513,7 +1513,6 @@ const matchesSearch =
 
     }
 
-
     /* =========================================================
        INITIAL LOAD
     ========================================================= */
@@ -1522,6 +1521,47 @@ const matchesSearch =
 
 
 });
+    /* =========================================================
+   PAGE NAVIGATION BUTTONS
+========================================================= */
+
+const scrollTopBtn =
+    document.getElementById("scrollTopBtn");
+
+const scrollDownBtn =
+    document.getElementById("scrollDownBtn");
+
+
+/* GO TO TOP */
+
+if (scrollTopBtn) {
+
+    scrollTopBtn.addEventListener("click", function () {
+
+        window.scrollTo({
+            top: 0,
+            behavior: "smooth"
+        });
+
+    });
+
+}
+
+
+/* GO DOWN */
+
+if (scrollDownBtn) {
+
+    scrollDownBtn.addEventListener("click", function () {
+
+        window.scrollBy({
+            top: window.innerHeight * 0.8,
+            behavior: "smooth"
+        });
+
+    });
+
+}
 
 </script>
 
