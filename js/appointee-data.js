@@ -357,6 +357,7 @@ isMP: true,
 
 constituency: "Trobu Constituency",
 status: "revoked",
+revocationReason: "Administrative decision",
 
     education:
         "University of Ghana — Currently pursuing a Bachelor of Education. Also engaged in theological studies.",
