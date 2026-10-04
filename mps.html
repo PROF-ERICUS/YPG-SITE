@@ -37,567 +37,348 @@
     <!-- Main CSS -->
     <link rel="stylesheet" href="css/style.css">
 
-  <style>
-
-    /* =========================
-       MPs PAGE
-    ========================= */
-
-    .page-header {
-        background:
-            linear-gradient(
-                135deg,
-                rgba(7, 27, 53, 0.98),
-                rgba(13, 43, 80, 0.95)
-            );
-
-        padding: 110px 0 80px;
-        color: white;
-    }
-
-    .page-header .badge {
-        background: rgba(215, 169, 40, 0.15);
-        color: var(--gold-light);
-        border: 1px solid rgba(215, 169, 40, 0.4);
-        padding: 8px 14px;
-        border-radius: 30px;
-        font-size: 12px;
-        letter-spacing: 1px;
-    }
-
-    .page-header h1 {
-        font-size: clamp(40px, 5vw, 60px);
-        font-weight: 800;
-        margin: 18px 0 15px;
-    }
-
-    .page-header p {
-        max-width: 650px;
-        margin: auto;
-        color: rgba(255,255,255,0.72);
-        line-height: 1.8;
-    }
-
-
-    /* =========================
-       SEARCH AREA
-    ========================= */
-
-    .directory-tools {
-        background: white;
-        border: 1px solid var(--border);
-        border-radius: 16px;
-        padding: 25px;
-        margin-top: -40px;
-        position: relative;
-        z-index: 5;
-        box-shadow: 0 15px 40px rgba(7, 27, 53, 0.08);
-    }
-
-    .search-box {
-        position: relative;
-    }
-
-    .search-box i {
-        position: absolute;
-        left: 16px;
-        top: 50%;
-        transform: translateY(-50%);
-        color: var(--muted);
-    }
-
-    .search-box input {
-        padding-left: 45px;
-        height: 52px;
-        border: 1px solid var(--border);
-        border-radius: 8px;
-    }
-
-    .search-box input:focus {
-        border-color: var(--gold);
-        box-shadow: 0 0 0 3px rgba(215,169,40,0.12);
-    }
-
-    .region-select {
-        height: 52px;
-        border: 1px solid var(--border);
-        border-radius: 8px;
-    }
-
-    .region-select:focus {
-        border-color: var(--gold);
-        box-shadow: 0 0 0 3px rgba(215,169,40,0.12);
-    }
-
-
-    /* =========================
-       DIRECTORY TITLE
-    ========================= */
-
-    .directory-heading {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        margin-bottom: 30px;
-    }
-
-    .directory-heading h2 {
-        color: var(--navy);
-        font-size: 28px;
-        font-weight: 800;
-        margin: 0;
-    }
-
-    .results-count {
-        color: var(--muted);
-        font-size: 14px;
-    }
-
-
-    /* =========================
-       MP CARD
-    ========================= */
-
-    .mp-card {
-        height: 100%;
-        width: 100%;
-
-        background: white;
-
-        border: 1px solid var(--border);
-        border-radius: 16px;
-
-        overflow: hidden;
-
-        transition: 0.3s ease;
-
-        display: flex;
-        flex-direction: column;
-    }
-
-    .mp-card:hover {
-        transform: translateY(-6px);
-
-        box-shadow:
-            0 18px 40px rgba(7, 27, 53, 0.10);
-    }
-
-
-    /* =========================
-       MP IMAGE
-    ========================= */
-
-    .mp-image {
-        width: 100%;
-
-        /*
-           Consistent portrait profile
-           shape on every screen.
-        */
-        aspect-ratio: 4 / 5;
-
-        background: #f5f5f5;
-
-        position: relative;
-
-        overflow: hidden;
-
-        display: flex;
-        align-items: center;
-        justify-content: center;
-
-        padding: 0;
-        margin: 0;
-    }
-
-
-    .mp-image img {
-        width: 100%;
-        height: 100%;
-
-        max-width: 100%;
-        max-height: 100%;
-
-        object-fit: cover;
-
-        /*
-           Keeps the upper part of the
-           profile visible.
-        */
-        object-position: center top;
-
-        display: block;
-
-        margin: 0;
-        padding: 0;
-
-        /*
-           No automatic zoom.
-        */
-        transform: none !important;
-
-        transition: none !important;
-    }
-
-
-    /* =========================
-       REMOVE IMAGE ZOOM
-    ========================= */
-
-    .mp-card:hover .mp-image img {
-        transform: none !important;
-    }
-
-
-    /* =========================
-       PLACEHOLDER
-    ========================= */
-
-    .mp-placeholder {
-        width: 100%;
-        height: 100%;
-
-        display: flex;
-
-        justify-content: center;
-        align-items: center;
-
-        color: #a67c0d;
-
-        font-size: 70px;
-    }
-
-
-    /* =========================
-       MP INFORMATION
-    ========================= */
-
-    .mp-info {
-        padding: 24px;
-
-        flex: 1;
-    }
-
-    .mp-info h3 {
-        color: var(--navy);
-
-        font-size: 20px;
-
-        font-weight: 800;
-
-        margin-bottom: 8px;
-    }
-
-    .mp-position {
-        color: #9a7410;
-
-        font-size: 13px;
-
-        font-weight: 700;
-
-        margin-bottom: 14px;
-    }
-
-    .mp-details {
-        border-top: 1px solid var(--border);
-
-        padding-top: 14px;
-    }
-
-    .mp-details p {
-        color: var(--muted);
-
-        font-size: 14px;
-
-        margin-bottom: 6px;
-    }
-
-    .mp-details i {
-        color: var(--gold);
-
-        margin-right: 7px;
-    }
-
-
-    /* =========================
-       PROFILE BUTTON
-    ========================= */
-
-    .view-profile {
-        display: inline-flex;
-
-        align-items: center;
-
-        gap: 6px;
-
-        margin-top: 12px;
-
-        color: var(--navy);
-
-        font-size: 14px;
-
-        font-weight: 700;
-
-        text-decoration: none;
-    }
-
-    .view-profile:hover {
-        color: #9a7410;
-    }
-
-
-    /* =========================
-       NO RESULTS
-    ========================= */
-
-    .no-results {
-        display: none;
-
-        text-align: center;
-
-        padding: 70px 20px;
-
-        color: var(--muted);
-    }
-
-    .no-results i {
-        font-size: 50px;
-
-        color: var(--gold);
-
-        margin-bottom: 15px;
-    }
-
-
-    /* =========================
-       PAGE TOP & DOWN BUTTONS
-    ========================= */
-
-    .page-navigation {
-        position: fixed;
-
-        right: 25px;
-        bottom: 30px;
-
-        z-index: 9999;
-
-        display: flex;
-
-        flex-direction: column;
-
-        gap: 10px;
-    }
-
-
-    .page-navigation button {
-        width: 45px;
-        height: 45px;
-
-        border: none;
-
-        border-radius: 50%;
-
-        background: #b08d57;
-
-        color: #ffffff;
-
-        display: flex;
-
-        align-items: center;
-
-        justify-content: center;
-
-        font-size: 20px;
-
-        cursor: pointer;
-
-        box-shadow:
-            0 5px 15px rgba(0, 0, 0, 0.2);
-
-        transition: all 0.3s ease;
-    }
-
-
-    .page-navigation button:hover {
-        background: #8f713f;
-
-        transform: translateY(-3px);
-    }
-
-
-    .page-navigation button:active {
-        transform: scale(0.95);
-    }
-
-
-    /* =========================
-       LARGE DESKTOP
-    ========================= */
-
-    @media (min-width: 1200px) {
-
-        .mp-image {
-            aspect-ratio: 4 / 5;
-        }
-
-    }
-
-
-    /* =========================
-       LAPTOP
-    ========================= */
-
-    @media (min-width: 992px) and (max-width: 1199px) {
-
-        .mp-image {
-            aspect-ratio: 4 / 5;
-        }
-
-    }
-
-
-    /* =========================
-       TABLET / IPAD
-    ========================= */
-
-    @media (min-width: 768px) and (max-width: 991px) {
-
-        .mp-image {
-            aspect-ratio: 4 / 5;
-        }
-
-        .mp-info {
-            padding: 20px;
-        }
-
-        .mp-info h3 {
-            font-size: 19px;
-        }
-
-    }
-
-
-    /* =========================
-       MOBILE
-    ========================= */
-
-    @media (max-width: 767px) {
+    <style>
+
+        /* =========================
+           MPs PAGE
+        ========================= */
 
         .page-header {
-            padding: 90px 0 70px;
+            background:
+                linear-gradient(
+                    135deg,
+                    rgba(7, 27, 53, 0.98),
+                    rgba(13, 43, 80, 0.95)
+                );
+
+            padding: 110px 0 80px;
+            color: white;
         }
+
+        .page-header .badge {
+            background: rgba(215, 169, 40, 0.15);
+            color: var(--gold-light);
+            border: 1px solid rgba(215, 169, 40, 0.4);
+            padding: 8px 14px;
+            border-radius: 30px;
+            font-size: 12px;
+            letter-spacing: 1px;
+        }
+
+        .page-header h1 {
+            font-size: clamp(40px, 5vw, 60px);
+            font-weight: 800;
+            margin: 18px 0 15px;
+        }
+
+        .page-header p {
+            max-width: 650px;
+            margin: auto;
+            color: rgba(255,255,255,0.72);
+            line-height: 1.8;
+        }
+
+
+        /* =========================
+           SEARCH AREA
+        ========================= */
 
         .directory-tools {
-            margin-top: -30px;
-
-            padding: 18px;
+            background: white;
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 25px;
+            margin-top: -40px;
+            position: relative;
+            z-index: 5;
+            box-shadow: 0 15px 40px rgba(7, 27, 53, 0.08);
         }
+
+        .search-box {
+            position: relative;
+        }
+
+        .search-box i {
+            position: absolute;
+            left: 16px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--muted);
+        }
+
+        .search-box input {
+            padding-left: 45px;
+            height: 52px;
+            border: 1px solid var(--border);
+            border-radius: 8px;
+        }
+
+        .search-box input:focus {
+            border-color: var(--gold);
+            box-shadow: 0 0 0 3px rgba(215,169,40,0.12);
+        }
+
+        .region-select {
+            height: 52px;
+            border: 1px solid var(--border);
+            border-radius: 8px;
+        }
+
+        .region-select:focus {
+            border-color: var(--gold);
+            box-shadow: 0 0 0 3px rgba(215,169,40,0.12);
+        }
+
+
+        /* =========================
+           DIRECTORY TITLE
+        ========================= */
 
         .directory-heading {
-            flex-direction: column;
-
-            align-items: flex-start;
-
-            gap: 8px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 30px;
         }
 
-        .mp-image {
-            aspect-ratio: 4 / 5;
+        .directory-heading h2 {
+            color: var(--navy);
+            font-size: 28px;
+            font-weight: 800;
+            margin: 0;
         }
+
+        .results-count {
+            color: var(--muted);
+            font-size: 14px;
+        }
+
+
+        /* =========================
+           MP CARD
+        ========================= */
+
+        .mp-card {
+            height: 100%;
+            background: white;
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            overflow: hidden;
+            transition: 0.3s ease;
+        }
+
+        .mp-card:hover {
+            transform: translateY(-6px);
+            box-shadow:
+                0 18px 40px rgba(7, 27, 53, 0.10);
+        }
+
+
+        /* =========================
+           MP IMAGE
+        ========================= */
+
+    .mp-image {
+    height: 340px;
+    background: #f5f5f5;
+    position: relative;
+    overflow: hidden;
+}
+
+.mp-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: 50% 15%;
+    display: block;
+    transition: transform 0.4s ease;
+}
+
+.mp-card:hover .mp-image img {
+    transform: scale(1.03);
+}
+
+
+        /* =========================
+           PLACEHOLDER
+        ========================= */
+
+        .mp-placeholder {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: #a67c0d;
+            font-size: 70px;
+        }
+
+
+        /* =========================
+           MP INFORMATION
+        ========================= */
 
         .mp-info {
-            padding: 20px;
-        }
-
-    }
-
-
-    /* =========================
-       SMALL MOBILE
-    ========================= */
-
-    @media (max-width: 576px) {
-
-        .page-navigation {
-            right: 15px;
-
-            bottom: 20px;
-        }
-
-        .page-navigation button {
-            width: 40px;
-
-            height: 40px;
-
-            font-size: 17px;
-        }
-
-        .mp-image {
-            aspect-ratio: 4 / 5;
-        }
-
-        .mp-info {
-            padding: 18px;
+            padding: 24px;
         }
 
         .mp-info h3 {
-            font-size: 18px;
-        }
-
-    }
-
-
-    /* =========================
-       VERY SMALL PHONES
-    ========================= */
-
-    @media (max-width: 400px) {
-
-        .mp-image {
-            aspect-ratio: 4 / 5;
-        }
-
-        .mp-info {
-            padding: 16px;
-        }
-
-        .mp-info h3 {
-            font-size: 17px;
+            color: var(--navy);
+            font-size: 20px;
+            font-weight: 800;
+            margin-bottom: 8px;
         }
 
         .mp-position {
-            font-size: 12px;
+            color: #9a7410;
+            font-size: 13px;
+            font-weight: 700;
+            margin-bottom: 14px;
         }
 
+        .mp-details {
+            border-top: 1px solid var(--border);
+            padding-top: 14px;
+        }
+
+        .mp-details p {
+            color: var(--muted);
+            font-size: 14px;
+            margin-bottom: 6px;
+        }
+
+        .mp-details i {
+            color: var(--gold);
+            margin-right: 7px;
+        }
+
+
+        /* =========================
+           PROFILE BUTTON
+        ========================= */
+
+        .view-profile {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            margin-top: 12px;
+            color: var(--navy);
+            font-size: 14px;
+            font-weight: 700;
+            text-decoration: none;
+        }
+
+        .view-profile:hover {
+            color: #9a7410;
+        }
+
+
+        /* =========================
+           NO RESULTS
+        ========================= */
+
+        .no-results {
+            display: none;
+            text-align: center;
+            padding: 70px 20px;
+            color: var(--muted);
+        }
+
+        .no-results i {
+            font-size: 50px;
+            color: var(--gold);
+            margin-bottom: 15px;
+        }
+        /* ========================================
+   PAGE TOP & DOWN BUTTONS
+======================================== */
+
+.page-navigation {
+    position: fixed;
+    right: 25px;
+    bottom: 30px;
+    z-index: 9999;
+
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.page-navigation button {
+    width: 45px;
+    height: 45px;
+
+    border: none;
+    border-radius: 50%;
+
+    background: #b08d57;
+    color: #ffffff;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-size: 20px;
+
+    cursor: pointer;
+
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+
+    transition: all 0.3s ease;
+}
+
+.page-navigation button:hover {
+    background: #8f713f;
+    transform: translateY(-3px);
+}
+
+.page-navigation button:active {
+    transform: scale(0.95);
+}
+@media (max-width: 576px) {
+    .page-navigation {
+        right: 15px;
+        bottom: 20px;
     }
 
-
-    /* =========================
-       GRID CONSISTENCY
-    ========================= */
-
-    #mpGrid > [class*="col-"] {
-        display: flex;
+    .page-navigation button {
+        width: 40px;
+        height: 40px;
+        font-size: 17px;
     }
-
-    #mpGrid .mp-card {
-        width: 100%;
-        height: 100%;
-    }
+}
 
 
-    /* =========================
-       FINAL IMAGE PROTECTION
-    ========================= */
+        /* =========================
+           MOBILE
+        ========================= */
 
-    .mp-image img {
-        max-width: 100%;
-        max-height: 100%;
+        @media (max-width: 767px) {
 
-        transform: none !important;
-    }
+            .page-header {
+                padding: 90px 0 70px;
+            }
 
-</style>
+            .directory-tools {
+                margin-top: -30px;
+                padding: 18px;
+            }
+
+            .directory-heading {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 8px;
+            }
+
+            .mp-image {
+                height: 300px;
+            }
+
+        }
+        
+
+    </style>
+
 </head>
 
 
@@ -1021,62 +802,23 @@
 
                 <div class="social-links">
 
-    <!-- Facebook -->
-    <a
-        href="https://www.facebook.com/share/1LT8P5ibFE/?mibextid=wwXIfr"
-        target="_blank"
-        rel="noopener noreferrer"
-        aria-label="Facebook">
-        <i class="bi bi-facebook"></i>
-    </a>
+                    <a href="#">
+                        <i class="bi bi-facebook"></i>
+                    </a>
 
-    <!-- Instagram -->
-    <a
-        href="https://www.instagram.com/youthparliamentgh?stkn=MTg4YjJ6NDMwa25oNA%3D%3D&utm_source=qr"
-        target="_blank"
-        rel="noopener noreferrer"
-        aria-label="Instagram">
-        <i class="bi bi-instagram"></i>
-    </a>
+                    <a href="#">
+                        <i class="bi bi-twitter-x"></i>
+                    </a>
 
-    <!-- X / Twitter -->
-    <a
-        href="https://x.com/youthparl?s=11"
-        target="_blank"
-        rel="noopener noreferrer"
-        aria-label="Youth Parliament Ghana on X">
-        <i class="bi bi-twitter-x"></i>
-    </a>
+                    <a href="#">
+                        <i class="bi bi-instagram"></i>
+                    </a>
 
-    <!-- TikTok -->
-    <a
-        href="https://www.tiktok.com/@YouthParliamentGH"
-        target="_blank"
-        rel="noopener noreferrer"
-        aria-label="Youth Parliament Ghana on TikTok">
-        <i class="bi bi-tiktok"></i>
-    </a>
+                    <a href="#">
+                        <i class="bi bi-linkedin"></i>
+                    </a>
 
-    <!-- LinkedIn -->
-    <a
-        href="https://www.linkedin.com/"
-        target="_blank"
-        rel="noopener noreferrer"
-        aria-label="LinkedIn">
-        <i class="bi bi-linkedin"></i>
-    </a>
-    <!-- YouTube -->
-<a
-    href="https://youtube.com/@youthparliament-d4f?si=9gVg4iPJhuSQm0vC"
-    target="_blank"
-    rel="noopener noreferrer"
-    aria-label="Youth Parliament Ghana on YouTube">
-
-    <i class="bi bi-youtube"></i>
-
-</a>
-
-</div>
+                </div>
 
             </div>
 
@@ -1120,6 +862,7 @@
 ========================= -->
 
 <script src="js/mp-data.js"></script>
+<script src="js/constituency-data.js"></script>
 
 
 
@@ -1128,6 +871,12 @@
 ========================= -->
 
 <script>
+
+document.addEventListener("DOMContentLoaded", function () {
+
+    /* =========================================================
+       ELEMENTS
+    ========================================================= */
 
     const searchInput =
         document.getElementById("mpSearch");
@@ -1145,20 +894,124 @@
         document.getElementById("resultsCount");
 
 
-    /* =========================
+    /* =========================================================
+       CHECK REQUIRED DATA
+    ========================================================= */
+
+    if (typeof mpData === "undefined") {
+
+        console.error(
+            "❌ MP DATA NOT FOUND."
+        );
+
+        return;
+    }
+
+
+    if (
+        typeof getOfficialConstituency !== "function"
+    ) {
+
+        console.error(
+            "❌ CONSTITUENCY REGISTRY FUNCTIONS NOT FOUND."
+        );
+
+        return;
+    }
+
+
+ function validateMPConstituencies() {
+
+    if (
+        typeof mpData === "undefined" ||
+        typeof getOfficialConstituency !== "function"
+    ) {
+
+        console.error(
+            "MP data or constituency registry is not available."
+        );
+
+        return;
+
+    }
+
+
+    mpData.forEach(function(member) {
+
+        const official =
+            getOfficialConstituency(
+                member.constituency,
+                member.region
+            );
+
+
+        if (official) {
+
+            member.constituencyStatus =
+                "valid";
+
+            /*
+             * Always replace the MP's constituency
+             * with the official registry name.
+             */
+
+            member.constituency =
+                official.constituency;
+
+
+            /*
+             * Always take the region from the
+             * official registry.
+             */
+
+            member.region =
+                official.region;
+
+
+            member.constituencyError =
+                null;
+
+        }
+
+        else {
+
+            member.constituencyStatus =
+                "invalid";
+
+            member.constituencyError =
+                "Constituency does not exist in the official constituency registry.";
+
+        }
+
+    });
+
+}
+
+
+    /* =========================================================
+       RUN CONSTITUENCY VALIDATION FIRST
+    ========================================================= */
+
+    validateMPConstituencies();
+
+
+    /* =========================================================
        CREATE MP CARD
-    ========================= */
+    ========================================================= */
 
     function createMPCard(member) {
 
         let imageHTML = "";
 
+
         if (member.image) {
 
             imageHTML = `
+
                 <img
                     src="${member.image}"
                     alt="${member.name}"
+
                     onerror="
                         this.style.display='none';
                         this.nextElementSibling.style.display='flex';
@@ -1167,21 +1020,28 @@
 
                 <div
                     class="mp-placeholder"
-                    style="display:none;">
+                    style="display:none;"
+                >
 
                     <i class="bi bi-person"></i>
 
                 </div>
+
             `;
 
-        } else {
+        }
+
+
+        else {
 
             imageHTML = `
+
                 <div class="mp-placeholder">
 
                     <i class="bi bi-person"></i>
 
                 </div>
+
             `;
 
         }
@@ -1191,9 +1051,13 @@
 
             <div
                 class="col-lg-4 col-md-6 mp-item"
+
                 data-name="${member.name}"
+
                 data-constituency="${member.constituency}"
-                data-region="${member.region}">
+
+                data-region="${member.region}"
+            >
 
                 <div class="mp-card">
 
@@ -1247,7 +1111,8 @@
 
                         <a
                             href="profile.html?id=${member.id}"
-                            class="view-profile">
+                            class="view-profile"
+                        >
 
                             View Profile
 
@@ -1262,13 +1127,13 @@
             </div>
 
         `;
+
     }
 
 
-
-    /* =========================
+    /* =========================================================
        DISPLAY MPs
-    ========================= */
+    ========================================================= */
 
     function displayMPs() {
 
@@ -1283,37 +1148,100 @@
                 .toLowerCase();
 
 
-       const filteredMPs = mpData.filter(function(member) {
-
-    // Only ACTIVE MPs appear on the main MP directory
-    if (member.status !== "active") {
-        return false;
-    }
-
-    const name = String(member.name || "").toLowerCase();
-    const constituency = String(member.constituency || "").toLowerCase();
-    const region = String(member.region || "").toLowerCase();
-
-    const matchesSearch =
-        name.includes(search) ||
-        constituency.includes(search);
-
-    const matchesRegion =
-        selectedRegion === "" ||
-        region === selectedRegion;
-
-    return matchesSearch && matchesRegion;
-});
+        const filteredMPs =
+            mpData.filter(function (member) {
 
 
-        /* Clear current cards */
+                /* =============================================
+                   ONLY ACTIVE MPs
+                ============================================= */
+
+                if (
+                    member.status !== "active"
+                ) {
+
+                    return false;
+
+                }
+
+
+                /* =============================================
+                   ONLY VALID CONSTITUENCIES
+                ============================================= */
+
+                if (
+                    member.constituencyStatus !== "valid"
+                ) {
+
+                    return false;
+
+                }
+
+
+                /* =============================================
+                   SEARCH DATA
+                ============================================= */
+
+                const name =
+                    String(
+                        member.name || ""
+                    ).toLowerCase();
+
+
+                const constituency =
+                    String(
+                        member.constituency || ""
+                    ).toLowerCase();
+
+
+                const region =
+                    String(
+                        member.region || ""
+                    ).toLowerCase();
+
+
+                /* =============================================
+                   SEARCH MATCH
+                ============================================= */
+
+                const matchesSearch =
+
+                    name.includes(search) ||
+
+                    constituency.includes(search);
+
+
+                /* =============================================
+                   REGION MATCH
+                ============================================= */
+
+                const matchesRegion =
+
+                    selectedRegion === "" ||
+
+                    region === selectedRegion;
+
+
+                return (
+                    matchesSearch &&
+                    matchesRegion
+                );
+
+            });
+
+
+        /* =====================================================
+           CLEAR CURRENT CARDS
+        ===================================================== */
 
         mpGrid.innerHTML = "";
 
 
-        /* Add filtered cards */
+        /* =====================================================
+           ADD FILTERED CARDS
+        ===================================================== */
 
-        filteredMPs.forEach(function(member) {
+        filteredMPs.forEach(function (member) {
 
             mpGrid.insertAdjacentHTML(
                 "beforeend",
@@ -1323,12 +1251,18 @@
         });
 
 
-        /* Update result count */
+        /* =====================================================
+           UPDATE RESULT COUNT
+        ===================================================== */
 
         resultsCount.textContent =
+
             "Showing " +
+
             filteredMPs.length +
+
             " MP" +
+
             (
                 filteredMPs.length === 1
                     ? ""
@@ -1336,176 +1270,280 @@
             );
 
 
-        /* Show / hide no results */
+        /* =====================================================
+           SHOW / HIDE NO RESULTS
+        ===================================================== */
 
-        if (filteredMPs.length === 0) {
+        if (
+            filteredMPs.length === 0
+        ) {
 
-            noResults.style.display = "block";
+            noResults.style.display =
+                "block";
 
-        } else {
+        }
 
-            noResults.style.display = "none";
+        else {
+
+            noResults.style.display =
+                "none";
 
         }
 
     }
 
 
+    /* =========================================================
+       CHECK DUPLICATE MP CONSTITUENCIES
+    ========================================================= */
 
-    /* =========================
+    function checkDuplicateConstituencies() {
+
+        if (
+            typeof mpData === "undefined" ||
+            typeof getOfficialConstituency !== "function"
+        ) {
+
+            console.error(
+                "MP data or constituency registry unavailable."
+            );
+
+            return;
+        }
+
+
+        const constituencyMap = {};
+
+
+        const duplicates = [];
+
+
+        /* =====================================================
+           CHECK EACH MP
+        ===================================================== */
+
+        mpData.forEach(function (member) {
+
+
+            /* =============================================
+               IGNORE REVOKED MPs
+            ============================================= */
+
+            if (
+                member.status === "revoked"
+            ) {
+
+                return;
+
+            }
+
+
+            /* =============================================
+               IGNORE INVALID CONSTITUENCIES
+            ============================================= */
+
+            if (
+                member.constituencyStatus !== "valid"
+            ) {
+
+                return;
+
+            }
+
+
+            /* =============================================
+               GET OFFICIAL CONSTITUENCY
+            ============================================= */
+
+            const official =
+                getOfficialConstituency(
+                    member.constituency
+                );
+
+
+            if (!official) {
+
+                return;
+
+            }
+
+
+            /* =============================================
+               USE OFFICIAL REGISTRY NAME
+            ============================================= */
+
+            const key =
+                normalizeConstituencyName(
+                    official.constituency
+                );
+
+
+            /* =============================================
+               CREATE MAP ENTRY
+            ============================================= */
+
+            if (!constituencyMap[key]) {
+
+                constituencyMap[key] = [];
+
+            }
+
+
+            constituencyMap[key].push(
+                member
+            );
+
+        });
+
+
+        /* =====================================================
+           FIND DUPLICATES
+        ===================================================== */
+
+        Object.keys(
+            constituencyMap
+        ).forEach(function (key) {
+
+            const members =
+                constituencyMap[key];
+
+
+            if (
+                members.length > 1
+            ) {
+
+                duplicates.push({
+
+                    constituency:
+                        members[0].constituency,
+
+                    members:
+                        members
+
+                });
+
+            }
+
+        });
+
+
+        /* =====================================================
+           NO DUPLICATES
+        ===================================================== */
+
+        if (
+            duplicates.length === 0
+        ) {
+
+            console.log(
+                "✅ No duplicate active MP constituencies found."
+            );
+
+            return;
+
+        }
+
+
+        /* =====================================================
+           DUPLICATES FOUND
+        ===================================================== */
+
+        console.warn(
+            "⚠️ DUPLICATE CONSTITUENCIES FOUND:",
+            duplicates
+        );
+
+
+        /* =====================================================
+           CREATE ALERT MESSAGE
+        ===================================================== */
+
+        let message =
+            "⚠️ DUPLICATE MP CONSTITUENCIES FOUND\n\n" +
+
+            "Two active MPs cannot be assigned to the same constituency.\n\n";
+
+
+        duplicates.forEach(
+            function (item, index) {
+
+                message +=
+
+                    `${index + 1}. ` +
+
+                    `${item.constituency}\n`;
+
+
+                item.members.forEach(
+                    function (member) {
+
+                        message +=
+
+                            `• ${member.name}\n` +
+
+                            `  ID: ${member.id}\n`;
+
+                    }
+                );
+
+
+                message +=
+                    "\n--------------------------------\n\n";
+
+            }
+        );
+
+
+        alert(message);
+
+    }
+
+
+    /* =========================================================
+       RUN DUPLICATE CHECK
+    ========================================================= */
+
+    checkDuplicateConstituencies();
+
+
+    /* =========================================================
        SEARCH
-    ========================= */
+    ========================================================= */
 
-    searchInput.addEventListener(
-        "input",
-        displayMPs
-    );
+    if (searchInput) {
+
+        searchInput.addEventListener(
+            "input",
+            displayMPs
+        );
+
+    }
 
 
-    /* =========================
+    /* =========================================================
        REGION FILTER
-    ========================= */
+    ========================================================= */
 
-    regionFilter.addEventListener(
-        "change",
-        displayMPs
-    );
+    if (regionFilter) {
+
+        regionFilter.addEventListener(
+            "change",
+            displayMPs
+        );
+
+    }
 
 
-    /* =========================
+    /* =========================================================
        INITIAL LOAD
-    ========================= */
+    ========================================================= */
 
     displayMPs();
 
-</script>
-<script>
-    const scrollTopBtn = document.getElementById("scrollTopBtn");
-    const scrollDownBtn = document.getElementById("scrollDownBtn");
 
-    // Go to top
-    scrollTopBtn.addEventListener("click", function () {
-        window.scrollTo({
-            top: 0,
-            behavior: "smooth"
-        });
-    });
+});
 
-    // Go down
-    scrollDownBtn.addEventListener("click", function () {
-        window.scrollBy({
-            top: window.innerHeight * 0.8,
-            behavior: "smooth"
-        });
-    });
-</script>
-<script>
-function checkDuplicateConstituencies() {
-    const constituencyMap = {};
-    const duplicates = [];
 
-    mpData.forEach(function (member) {
-
-        // Ignore revoked MPs
-        if (member.status === "revoked") return;
-
-        if (!member.constituency) return;
-
-        const constituency = member.constituency
-            .trim()
-            .replace(/\s+/g, " ")
-            .toLowerCase();
-
-        if (constituencyMap[constituency]) {
-
-            duplicates.push({
-                constituency: member.constituency,
-                firstMP: constituencyMap[constituency],
-                duplicateMP: member
-            });
-
-        } else {
-            constituencyMap[constituency] = member;
-        }
-    });
-
-    if (duplicates.length > 0) {
-
-        let message =
-            "⚠️ DUPLICATE MP DETECTED\n\n" +
-            "Two active MPs cannot be assigned to the same constituency.\n\n";
-
-        duplicates.forEach(function (duplicate, index) {
-
-            message +=
-                `${index + 1}. ${duplicate.constituency}\n` +
-                `Existing MP: ${duplicate.firstMP.name}\n` +
-                `ID: ${duplicate.firstMP.id}\n\n` +
-                `Duplicate MP: ${duplicate.duplicateMP.name}\n` +
-                `ID: ${duplicate.duplicateMP.id}\n\n` +
-                "--------------------------------\n\n";
-        });
-
-        alert(message);
-
-        console.error(
-            "DUPLICATE CONSTITUENCIES DETECTED:",
-            duplicates
-        );
-    }
-}
-
-checkDuplicateConstituencies();
-</script>
-<script src="js/mp-data.js"></script>
-
-<script>
-function checkDuplicateConstituencies() {
-    const constituencyMap = {};
-    const duplicates = [];
-
-    mpData.forEach(function (member) {
-
-        if (member.status === "revoked") return;
-        if (!member.constituency) return;
-
-        const constituency = member.constituency
-            .trim()
-            .replace(/\s+/g, " ")
-            .toLowerCase();
-
-        if (constituencyMap[constituency]) {
-            duplicates.push({
-                constituency: member.constituency,
-                firstMP: constituencyMap[constituency],
-                duplicateMP: member
-            });
-        } else {
-            constituencyMap[constituency] = member;
-        }
-    });
-
-    if (duplicates.length > 0) {
-
-        let message =
-            "⚠️ DUPLICATE MP DETECTED\n\n" +
-            "Two active MPs cannot be assigned to the same constituency.\n\n";
-
-        duplicates.forEach(function (duplicate, index) {
-            message +=
-                `${index + 1}. ${duplicate.constituency}\n` +
-                `Existing MP: ${duplicate.firstMP.name}\n` +
-                `ID: ${duplicate.firstMP.id}\n\n` +
-                `Duplicate MP: ${duplicate.duplicateMP.name}\n` +
-                `ID: ${duplicate.duplicateMP.id}\n\n` +
-                "--------------------------------\n\n";
-        });
-
-        alert(message);
-    }
-}
-
-checkDuplicateConstituencies();
 </script>
 
 
