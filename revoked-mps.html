@@ -1120,22 +1120,20 @@ function createMPCard(member) {
                     <div class="mp-details">
 
 
-                        <p>
+                       <p>
+    <i class="bi bi-geo-alt"></i>
+    ${member.constituency || "Not specified"}
+</p>
 
-                            <i class="bi bi-geo-alt"></i>
+<p>
+    <i class="bi bi-map"></i>
+    ${member.region || "Not specified"}
+</p>
 
-                            ${member.constituency || "Not specified"}
-
-                        </p>
-
-
-                        <p>
-
-                            <i class="bi bi-map"></i>
-
-                            ${member.region || "Not specified"}
-
-                        </p>
+<p class="revocation-reason">
+    <i class="bi bi-exclamation-circle"></i>
+    ${member.revocationReason || "Reason not specified"}
+</p>
 
 
                     </div>
@@ -1397,7 +1395,5 @@ scrollDownBtn.addEventListener(
 );
 
 </script>
-
-
 </body>
 </html>
