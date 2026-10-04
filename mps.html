@@ -856,7 +856,6 @@
 </script>
 
 
-
 <!-- =========================
      MP DATA
 ========================= -->
@@ -1130,168 +1129,149 @@ document.addEventListener("DOMContentLoaded", function () {
 
     }
 
+function displayMPs() {
 
-    /* =========================================================
-       DISPLAY MPs
-    ========================================================= */
+    const search =
+        searchInput.value
+            .toLowerCase()
+            .trim();
 
-    function displayMPs() {
+    const selectedRegion =
+        regionFilter.value
+            .toLowerCase()
+            .trim();
 
-        const search =
-            searchInput.value
-                .toLowerCase()
-                .trim();
+    /*
+     * Normalize the search text so that:
+     *
+     * Ayawaso West Wuogon
+     * Ayawaso West Wuogon Constituency
+     *
+     * are treated the same.
+     */
+    const normalizedSearch =
+        typeof normalizeConstituencyName === "function"
+            ? normalizeConstituencyName(search)
+            : search;
 
+    const filteredMPs =
+        mpData.filter(function (member) {
 
-        const selectedRegion =
-            regionFilter.value
-                .toLowerCase();
-
-
-        const filteredMPs =
-            mpData.filter(function (member) {
-
-
-                /* =============================================
-                   ONLY ACTIVE MPs
-                ============================================= */
-
-                if (
-                    member.status !== "active"
-                ) {
-
-                    return false;
-
-                }
-
-
-                /* =============================================
-                   ONLY VALID CONSTITUENCIES
-                ============================================= */
-
-                if (
-                    member.constituencyStatus !== "valid"
-                ) {
-
-                    return false;
-
-                }
+            /*
+             * ONLY ACTIVE MPs
+             */
+            if (member.status !== "active") {
+                return false;
+            }
 
 
-                /* =============================================
-                   SEARCH DATA
-                ============================================= */
+            /*
+             * ONLY VALID CONSTITUENCIES
+             */
+            if (member.constituencyStatus !== "valid") {
+                return false;
+            }
 
-                const name =
-                    String(
-                        member.name || ""
-                    ).toLowerCase();
+/* =============================================
+   SEARCH DATA
+============================================= */
 
+const name =
+    String(member.name || "")
+        .toLowerCase()
+        .trim();
 
-                const constituency =
-                    String(
-                        member.constituency || ""
-                    ).toLowerCase();
+const rawConstituency =
+    String(member.constituency || "")
+        .toLowerCase()
+        .trim();
 
+const constituency =
+    typeof normalizeConstituencyName === "function"
+        ? normalizeConstituencyName(rawConstituency)
+        : rawConstituency;
 
-                const region =
-                    String(
-                        member.region || ""
-                    ).toLowerCase();
-
-
-                /* =============================================
-                   SEARCH MATCH
-                ============================================= */
-
-                const matchesSearch =
-
-                    name.includes(search) ||
-
-                    constituency.includes(search);
+const combinedSearch =
+    name + " " + rawConstituency;
 
 
-                /* =============================================
-                   REGION MATCH
-                ============================================= */
+/* =============================================
+   NORMALIZE USER SEARCH
+============================================= */
 
-                const matchesRegion =
-
-                    selectedRegion === "" ||
-
-                    region === selectedRegion;
-
-
-                return (
-                    matchesSearch &&
-                    matchesRegion
-                );
-
-            });
+const normalizedSearch =
+    typeof normalizeConstituencyName === "function"
+        ? normalizeConstituencyName(search)
+        : search;
 
 
-        /* =====================================================
-           CLEAR CURRENT CARDS
-        ===================================================== */
+/* =============================================
+   SEARCH MATCH
+============================================= */
 
-        mpGrid.innerHTML = "";
+const matchesSearch =
+    search === "" ||
+    name.includes(search) ||
+    rawConstituency.includes(search) ||
+    constituency.includes(normalizedSearch) ||
+    combinedSearch.includes(search);
+    
+            /*
+             * REGION MATCH
+             */
+            const matchesRegion =
+                selectedRegion === "" ||
+                region === selectedRegion;
 
 
-        /* =====================================================
-           ADD FILTERED CARDS
-        ===================================================== */
-
-        filteredMPs.forEach(function (member) {
-
-            mpGrid.insertAdjacentHTML(
-                "beforeend",
-                createMPCard(member)
+            return (
+                matchesSearch &&
+                matchesRegion
             );
-
         });
 
 
-        /* =====================================================
-           UPDATE RESULT COUNT
-        ===================================================== */
-
-        resultsCount.textContent =
-
-            "Showing " +
-
-            filteredMPs.length +
-
-            " MP" +
-
-            (
-                filteredMPs.length === 1
-                    ? ""
-                    : "s"
-            );
+    /*
+     * CLEAR CURRENT CARDS
+     */
+    mpGrid.innerHTML = "";
 
 
-        /* =====================================================
-           SHOW / HIDE NO RESULTS
-        ===================================================== */
+    /*
+     * ADD FILTERED CARDS
+     */
+    filteredMPs.forEach(function (member) {
 
-        if (
-            filteredMPs.length === 0
-        ) {
+        mpGrid.insertAdjacentHTML(
+            "beforeend",
+            createMPCard(member)
+        );
 
-            noResults.style.display =
-                "block";
+    });
 
-        }
 
-        else {
+    /*
+     * UPDATE RESULT COUNT
+     */
+    resultsCount.textContent =
+        "Showing " +
+        filteredMPs.length +
+        " MP" +
+        (
+            filteredMPs.length === 1
+                ? ""
+                : "s"
+        );
 
-            noResults.style.display =
-                "none";
 
-        }
-
-    }
-
+    /*
+     * SHOW / HIDE NO RESULTS
+     */
+    noResults.style.display =
+        filteredMPs.length === 0
+            ? "block"
+            : "none";
+}
 
     /* =========================================================
        CHECK DUPLICATE MP CONSTITUENCIES
@@ -1542,7 +1522,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 });
-
 
 </script>
 
