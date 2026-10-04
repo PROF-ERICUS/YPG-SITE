@@ -304,6 +304,7 @@ website: "#"
     committee: "Information to be updated",
      // Profile access status
     status: "revoked",
+     revocationReason: "Administrative decision",
 
     education:
         "University of Ghana — Currently pursuing a Bachelor of Education. Also engaged in theological studies.",
@@ -3991,8 +3992,8 @@ parliament: "Youth Parliament Ghana",
     constituency: "Sekyere Central constituency",
     region: "Ashanti",
     parliament: "Youth Parliament Ghana",
-  status: "revoked",
-
+    status: "revoked",
+    revocationReason: "Position reassigned following constituency record rectification",
     education:
         "University of Media, Arts and Communication (UniMAC-IJ) — Bachelor of Arts in Development Communication, 2026. UniMAC-IJ — Diploma in Communication Studies. National Film and Television Institute (NAFTI) — Diploma in Broadcast Journalism. Ongoing postgraduate programme in Development Communication.",
 
@@ -5478,6 +5479,7 @@ parliament: "Youth Parliament Ghana",
     region: "Greater Accra",
     parliament: "Youth Parliament Ghana",
     status: "revoked",
+    revocationReason: "Position reassigned following constituency record rectification",
 
     education:
         "Ghana Communication Technology University (GCTU) — BSc Computer Science, 4th year. Mfantsiman Girls Senior High School (2020–2023).",
