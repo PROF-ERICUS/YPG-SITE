@@ -1627,23 +1627,22 @@ document.addEventListener(
 
             `;
 
-
-            /* STATUS */
-
-            const status =
-                document.createElement("span");
+      `;
 
 
-            status.innerHTML = `
+     /* REVOCATION REASON */
+       const reason =
+    document.createElement("span");
 
-                <i class="bi bi-x-circle"></i>
-
-                Appointment Status: <strong>
-                    Revoked
-                </strong>
-
-            `;
-
+    reason.innerHTML = `
+    <i class="bi bi-exclamation-circle"></i>
+    Revocation Reason: <strong>
+        ${escapeHTML(
+            appointee.revocationReason ||
+            "Reason not specified"
+        )}
+    </strong>
+   `;
 
             /* PROFILE LINK */
 
@@ -1675,10 +1674,9 @@ document.addEventListener(
             /* APPEND */
 
             meta.appendChild(ministry);
-
-            meta.appendChild(region);
-
+             meta.appendChild(region);
             meta.appendChild(status);
+            meta.appendChild(reason);
 
 
             content.appendChild(name);
