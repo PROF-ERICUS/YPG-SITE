@@ -7394,6 +7394,146 @@ parliament: "Youth Parliament Ghana",
     linkedin: "#",
     tiktok: "Martha Mandy"
 },
+  
+{
+    id: "mp135",
+    name: "JOSEPH BANIBATITI ASIRA",
+    position: "Member of Parliament",
+    constituency: "Offinso South constituency",
+    region: "Ashanti",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
 
+    education:
+        "BSc Cybersecurity — University of Technology and Applied Sciences (UTAS), Navrongo, Bachelor's Degree in Progress, Level 300, January 2025–Present; General Arts — St. James Seminary Senior High School, completed 2024; Basic Education Certificate — Anyankaso M/A Junior High School, completed 2021.",
+
+    profession:
+        "Cybersecurity Student / Web Developer / Graphic Designer",
+
+    experience:
+        "Youth Member of Parliament — Offinso South Constituency, Youth Parliament Ghana; Intern — Offinso Municipal Assembly (August 2026–September 2026); Intern, Graphic Design and Printing — St. Agnes Printing Press (September 2025–January 2026); General Secretary — Departmental Executive Body, UTAS; 2nd Deputy — Departmental Electoral Commission, UTAS (2026 Academic Year); Treasurer — Departmental Electoral Commission, UTAS (2nd Semester, 2025); Assistant Course Representative — Database Systems II, UTAS; Member — UTAS Parliament House; Freelance Graphic Designer and IT Support — Self-Employed.",
+
+    biography:
+        "JOSEPH BANIBATITI ASIRA is the Youth Member of Parliament for the Offinso South Constituency in Youth Parliament Ghana. Born and raised in Offinso, with Navrongo as his hometown, he is a Level 300 BSc Cybersecurity student at the University of Technology and Applied Sciences (UTAS), Navrongo. A web developer and graphic designer, Joseph designed and built a secure web-based e-voting system for his department's elections, work that earned him recognition. His leadership record at UTAS includes serving as General Secretary of the Departmental Executive Body, 2nd Deputy and former Treasurer of the Departmental Electoral Commission, Assistant Course Representative and member of the UTAS Parliament House. Beyond the classroom, he promotes cybersecurity awareness through TikTok, Facebook and written articles on his personal website. He is passionate about digital skills, cybersecurity awareness and education, and he joined Youth Parliament Ghana to gain more leadership experience and to represent the voices of the youth in his constituency.",
+
+    vision:
+        "To empower young people through cybersecurity awareness, digital skills, education and effective youth representation while contributing to the digital development of Offinso South and Ghana.",
+
+    plans:
+        "Promote cybersecurity awareness and responsible digital citizenship; encourage digital skills development among young people; support technology and education initiatives; advocate for youth participation and representation; and use technology to develop practical solutions for community and institutional needs.",
+
+    contribution:
+        "Cybersecurity awareness, digital skills, technology, education, web development, graphic design, youth representation and digital innovation.",
+
+    currentActivities:
+        "Youth Member of Parliament — Offinso South Constituency, Youth Parliament Ghana; Level 300 BSc Cybersecurity student — University of Technology and Applied Sciences (UTAS), Navrongo; Freelance Graphic Designer and IT Support — Self-Employed; Cybersecurity awareness and digital education activities.",
+
+    leadershipExperience:
+        "Youth Member of Parliament — Offinso South Constituency, Youth Parliament Ghana; General Secretary — Departmental Executive Body, UTAS; 2nd Deputy — Departmental Electoral Commission, UTAS; Treasurer — Departmental Electoral Commission, UTAS; Assistant Course Representative — Database Systems II, UTAS; Member — UTAS Parliament House.",
+
+    professionalExperience:
+        "BSc Cybersecurity student at the University of Technology and Applied Sciences; Freelance Graphic Designer and IT Support; Web developer; Intern — Offinso Municipal Assembly; Intern, Graphic Design and Printing — St. Agnes Printing Press; Designer and developer of a secure web-based e-voting system for departmental elections.",
+
+    focusAreas:
+        "Cybersecurity • Digital skills • Technology • Education • Youth empowerment • Digital citizenship • Web development • Graphic design • Youth representation • Leadership",
+
+    slogan:
+        "Empowering youth through digital skills, cybersecurity and responsible leadership.",
+
+    image: "images/asira.jpeg",
+
+    email: "asirajoseph4@gmail.com",
+    phone: "+233536764848",
+    website: "https://Joeboypng.github.io/joseph-asira/",
+
+    facebook: "https://www.facebook.com/share/1HgLXLZ5o4/",
+    twitter: "#",
+    instagram: "https://www.instagram.com/joeboi_joee",
+    linkedin: "https://www.linkedin.com/in/joseph-asira-b4a93a236/",
+    tiktok: "#"
+},
+{
+    id: "mp136",
+    name: "BONSU ERNEST",
+    position: "Member of Parliament",
+    constituency: "Akim Oda",
+    region: "Eastern",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+    education: "USTED Kumasi – BA Social Studies with Economics, Degree, 2025",
+    profession: "National service personnel",
+    experience: "NASPA Representatives Chairman, Birim Central Municipal; Project and Programs Chairman, Eastern Regional NASPA",
+    biography: "Bonsu Ernest is a Youth Member of Parliament for the Akim Oda Constituency and Deputy Representative to the President of the Republic of Ghana. He has a background in Social Studies with Economics and has demonstrated leadership through his involvement with the National Service Personnel Association (NASPA), serving as NASPA Representatives Chairman for the Birim Central Municipal and Project and Programs Chairman for the Eastern Regional NASPA.",
+    vision: "Dedicated to amplifying young voices, driving policy engagement, and championing grassroots development.",
+    plans: "To promote youth participation, policy engagement, and grassroots development.",
+    contribution: "To contribute to youth representation, community development, and policy engagement.",
+    currentActivities: "National service personnel and Youth Parliament representative for Akim Oda.",
+    leadershipExperience: "NASPA Representatives Chairman, Birim Central Municipal; Project and Programs Chairman, Eastern Regional NASPA.",
+    professionalExperience: "National service personnel.",
+    focusAreas: "Youth empowerment, policy engagement, grassroots development, and community participation.",
+    slogan: "Dedicated to amplifying young voices, driving policy engagement, and championing grassroots development.",
+    image: "images/bonsu.jpeg",
+    email: "ernestbonsu239@gmail.com",
+    phone: "0246407987",
+    website: "#",
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp137",
+    name: "JAMES ODURO",
+    position: "Member of Parliament",
+    constituency: "Adansi Asokwa constituency",
+    region: "Ashanti",
+
+    parliament: "Youth Parliament Ghana",
+
+    status: "active",
+
+    education: "Akrokerri College of Education – BEd in Mathematics and ICT, Degree, Level 300",
+
+    profession: "Student",
+
+    experience: "Compound Overseer, Adansi Brofoyedru United Roman Catholic Basic School; Chaplain, Okomfo Anokye SHS; Vice Chairman for SLC, Christ Ambassador Ministry International",
+
+    biography: "James Oduro is a Youth Member of Parliament for the Adansi Asokwa Constituency. He is currently a Level 300 student at Akrokerri College of Education pursuing a BEd in Mathematics and ICT. He has gained leadership and community experience through his service as Compound Overseer at Adansi Brofoyedru United Roman Catholic Basic School, Chaplain at Okomfo Anokye SHS, and Vice Chairman for SLC at Christ Ambassador Ministry International.",
+
+    vision: "To contribute to effective youth representation, leadership development, and community engagement.",
+
+    plans: "To promote youth participation, education, leadership, and community development.",
+
+    contribution: "To contribute to youth representation and community development through leadership, education, and service.",
+
+    currentActivities: "Level 300 student at Akrokerri College of Education and Deputy General Secretary.",
+
+    leadershipExperience: "Compound Overseer at Adansi Brofoyedru United Roman Catholic Basic School; Chaplain at Okomfo Anokye SHS; Vice Chairman for SLC at Christ Ambassador Ministry International.",
+
+    professionalExperience: "Student and youth leader.",
+
+    focusAreas: "Education, youth leadership, community development, and youth representation.",
+
+    slogan: "Dedicated to effective youth representation, leadership development, and community service.",
+
+    image: "images/james1.jpeg",
+
+    email: "jamesoduronhyiraba@icloud.com",
+
+    phone: "0536978088",
+
+    website: "#",
+
+    facebook: "NHYIRABA JAMES ODURO",
+
+    twitter: "NHYIRABA JAMES ODURO",
+
+    instagram: "NHYIRABA JAMES ODURO",
+
+    linkedin: "NHYIRABA JAMES ODURO",
+
+    tiktok: "#"
+},
 
 ];
