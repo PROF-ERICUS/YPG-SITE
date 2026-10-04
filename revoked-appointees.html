@@ -1653,15 +1653,24 @@ document.addEventListener(
 
             `;
 
-      `;
+            /* STATUS */
+const status =
+    document.createElement("span");
 
-          /* REVOCATION REASON */
-        const reason =
-        document.createElement("div");
+status.innerHTML = `
+    <i class="bi bi-x-circle"></i>
+    Appointment Status: <strong>
+        Revoked
+    </strong>
+`;
 
-      reason.className = "revocation-reason";
+/* REVOCATION REASON */
+const reason =
+    document.createElement("div");
 
-      reason.innerHTML = `
+reason.className = "revocation-reason";
+
+reason.innerHTML = `
     <i class="bi bi-exclamation-triangle-fill"></i>
     <strong>Revocation Reason</strong>
     <span>
@@ -1669,8 +1678,8 @@ document.addEventListener(
             appointee.revocationReason ||
             "Reason not specified"
         )}
-       </span>
-     `;
+    </span>
+`;
 
             /* PROFILE LINK */
 
