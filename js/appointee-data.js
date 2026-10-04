@@ -2895,6 +2895,131 @@ region: "Ashanti",
     linkedin: "Michael Eshun",
     tiktok: "#"
 },
+    
+{
+    id: "app050",
+    name: "ODURO KONADU JOSEPH PRINCE",
+    position: "Municipal Chief Executive (MCE)",
+    constituency: "Lower West Akim",
+    region: "Eastern",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+
+    ministry: "Lower West Akim Municipal Assembly",
+    appointmentDate: "2 October 2026",
+    isMP: false,
+    mpId: null,
+
+    education:
+        "B.Sc. Agribusiness Management — Kwame Nkrumah University of Science and Technology (KNUST), 2025–Present; General Arts — Saint Peter’s Senior High School, WASSCE, 2022–2024.",
+
+    profession:
+        "Student, Youth Leader and Young Entrepreneur",
+
+    experience:
+        "Municipal Chief Executive (MCE) — Lower West Akim, Youth Parliament Ghana; Assistant Manager — Owusua Royal Lodge; Financial Accountant — Knights and Ladies of Marshall; Founder and Leader — Thy Grace Foundation; Member — Vision Creatives; School Prefect — Salvation Army JHS; Volunteer — Clean Ghana Campaign.",
+
+    biography:
+        "ODURO KONADU JOSEPH PRINCE is a Ghanaian student, youth leader and young entrepreneur currently pursuing a Bachelor of Science in Agribusiness Management at Kwame Nkrumah University of Science and Technology (KNUST). He received his secondary education at Saint Peter’s Senior High School, where he pursued General Arts. He has a strong interest in youth development, entrepreneurship, community service, agriculture and leadership. He has gained leadership, financial and organizational experience through various professional, youth-focused and community initiatives. He has served as an Assistant Manager of Owusua Royal Lodge and as Financial Accountant of the Knights and Ladies of Marshall. He is also the Founder and Leader of Thy Grace Foundation and a member of Vision Creatives. As the Founder and Leader of Thy Grace Foundation, he has been involved in initiatives focused on supporting children through education and healthcare. He has also participated in community service activities, including the Clean Ghana Campaign. As a young leader, Hon. Oduro Konadu Joseph Prince is passionate about creating opportunities for young people, promoting responsible leadership, supporting community development and ensuring that the voices and concerns of young people are represented. He looks forward to serving the Lower West Akim Municipality with fairness, transparency, accountability and dedication.",
+
+    vision:
+        "To promote responsible leadership, youth development, entrepreneurship and community development while ensuring that the voices and concerns of young people are represented.",
+
+    plans:
+        "Support youth development and entrepreneurship; promote education and healthcare initiatives for children; encourage community service; support agricultural and economic opportunities; and promote fairness, transparency, accountability and responsible leadership.",
+
+    contribution:
+        "Youth development, entrepreneurship, agriculture, education, healthcare, community service, leadership and community development.",
+
+    currentActivities:
+        "Municipal Chief Executive (MCE) — Lower West Akim, Youth Parliament Ghana; B.Sc. Agribusiness Management student at Kwame Nkrumah University of Science and Technology; Founder and Leader — Thy Grace Foundation; Member — Vision Creatives.",
+
+    leadershipExperience:
+        "Municipal Chief Executive (MCE) — Lower West Akim, Youth Parliament Ghana; Founder and Leader — Thy Grace Foundation; School Prefect — Salvation Army JHS; Assistant Manager — Owusua Royal Lodge; Financial Accountant — Knights and Ladies of Marshall; Volunteer — Clean Ghana Campaign.",
+
+    professionalExperience:
+        "B.Sc. Agribusiness Management student at Kwame Nkrumah University of Science and Technology; Assistant Manager at Owusua Royal Lodge; Financial Accountant at Knights and Ladies of Marshall; Founder and Leader of Thy Grace Foundation; Member of Vision Creatives.",
+
+    focusAreas:
+        "Youth development • Entrepreneurship • Agriculture • Community service • Education • Healthcare • Responsible leadership • Community development",
+
+    slogan:
+        "Fairness, transparency, accountability and dedicated service.",
+
+    image: "images/oduro.jpeg",
+
+    email: "josephodurokonadu6@gmail.com",
+    phone: "0502870344",
+    website: "#",
+
+    facebook: "Joseph Oduro",
+    twitter: "@jp_prinz1",
+    instagram: "@oduro_konadu",
+    linkedin: "Joseph Oduro Konadu",
+    tiktok: "#"
+},
+{
+    id: "app051",
+    name: "FRANK APASUG-BEY",
+    position: "Ministerial Representative to the Ministry of the Interior",
+    constituency: "Builsa South Constituency",
+    region: "Upper East",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+
+    ministry: "Ministry of the Interior",
+    appointmentDate: "16 November 2026",
+    isMP: false,
+    mpId: null,
+
+    education:
+        "MPhil Political Science — University of Ghana, 2026–Present; Political Science and Information Studies — University of Ghana, Bachelor's Degree, 2020/21–2024/25.",
+
+    profession:
+        "Police Officer / Public-Security Practitioner",
+
+    experience:
+        "Police Officer — Ghana Police Service; Field Operations — Ghana Police Service; Criminal Investigations — Ghana Police Service; Confidential Registry / IGP's Secretariat — Ghana Police Service; Public-Security and Administrative Duties — Ghana Police Service; Youth Governance and Public-Policy Engagement — Youth Parliament Ghana; Political Science Researcher — University of Ghana.",
+
+    biography:
+        "HON. FRANK APASUG-BEY is a Ghanaian public-service practitioner, Political Science researcher and youth governance advocate with professional experience in policing, public safety and security. He holds a Bachelor's degree in Political Science and Information Studies from the University of Ghana and is currently pursuing an MPhil in Political Science at the University of Ghana. His academic interests include international relations, political economy, security studies, foreign policy and the geopolitical challenges confronting developing states. Professionally, Frank is a police officer with experience in field operations, criminal investigations and public-security administration. His professional background has provided him with practical exposure to law enforcement, community security, public safety and institutional governance. Within Youth Parliament Ghana, he serves as the Ministerial Representative to the Ministry of the Interior, where his portfolio focuses on strengthening engagement between young people, security institutions and relevant stakeholders on matters concerning youth, peace, public safety and internal security. His portfolio encompasses youth peacebuilding and conflict prevention, community security, crime and drug-abuse prevention, responsible citizenship, youth–security institution dialogue, early-warning mechanisms and the development of policy recommendations on youth security and public safety. Frank is committed to strengthening meaningful youth participation in governance and fostering constructive engagement between young people, public institutions, security agencies and communities.",
+
+    vision:
+        "To strengthen meaningful youth participation in governance and foster constructive engagement between young people, public institutions, security agencies and communities.",
+
+    plans:
+        "Promote youth peacebuilding and conflict prevention; strengthen youth–security institution dialogue; support community security and responsible citizenship; contribute to crime and drug-abuse prevention initiatives; promote early-warning mechanisms; and develop policy recommendations on youth security and public safety.",
+
+    contribution:
+        "Youth governance, peacebuilding, conflict prevention, community security, public safety, internal security, responsible citizenship, youth–security institution dialogue, early-warning mechanisms and public-policy engagement.",
+
+    currentActivities:
+        "Ministerial Representative to the Ministry of the Interior — Youth Parliament Ghana; Police Officer — Ghana Police Service; MPhil Political Science student — University of Ghana; Political Science research and youth governance engagement.",
+
+    leadershipExperience:
+        "Ministerial Representative to the Ministry of the Interior — Youth Parliament Ghana; Youth Governance and Public-Policy Engagement — Youth Parliament Ghana; Public-security and administrative responsibilities — Ghana Police Service.",
+
+    professionalExperience:
+        "Police Officer with experience in field operations, criminal investigations, confidential registry / IGP's Secretariat and public-security administration; MPhil Political Science student and Political Science researcher at the University of Ghana.",
+
+    focusAreas:
+        "Youth peacebuilding • Conflict prevention • Community security • Public safety • Internal security • Crime prevention • Drug-abuse prevention • Responsible citizenship • Youth–security institution dialogue • Early-warning mechanisms • Public policy",
+
+    slogan:
+        "Youth, Peace, Public Safety and Internal Security.",
+
+    image: "images/apasug.jpeg",
+
+    email: "frankapasugbey900@gmail.com",
+    phone: "0245143433",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "https://www.linkedin.com/in/frank-apasugbey-7a4468334",
+    tiktok: "#"
+},
 
 
 ];
