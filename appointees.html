@@ -1590,104 +1590,148 @@ document.addEventListener(
 
         }
 
+/* =========================
+   FILTER
+   ACTIVE APPOINTEES ONLY
+========================= */
 
-        /* =========================
-           FILTER
-           ACTIVE APPOINTEES ONLY
-        ========================== */
+function filterAppointees() {
 
-        function filterAppointees() {
+    const rawSearch =
+        searchInput.value
+            .trim();
 
-            const search =
-                searchInput.value
+    const search =
+        rawSearch.toLowerCase();
+
+    const normalizedSearch =
+        typeof normalizeConstituencyName === "function"
+            ? normalizeConstituencyName(rawSearch)
+            : search;
+
+    const ministry =
+        ministryFilter.value
+            .toLowerCase()
+            .trim();
+
+    const selectedRegion =
+        regionFilter.value
+            .trim();
+
+    const normalizedSelectedRegion =
+        typeof normalizeRegionName === "function"
+            ? normalizeRegionName(selectedRegion)
+            : selectedRegion.toLowerCase();
+
+    const filtered =
+        activeAppointees.filter(function(person) {
+
+            /* =========================
+               NAME
+            ========================== */
+
+            const name =
+                String(person.name || "")
                     .toLowerCase()
                     .trim();
 
 
-            const ministry =
-                ministryFilter.value
+            /* =========================
+               POSITION
+            ========================== */
+
+            const position =
+                String(person.position || "")
                     .toLowerCase()
                     .trim();
 
 
-            const region =
-                regionFilter.value
+            /* =========================
+               CONSTITUENCY
+            ========================== */
+
+            const rawConstituency =
+                String(person.constituency || "")
+                    .trim();
+
+            const normalizedConstituency =
+                typeof normalizeConstituencyName === "function"
+                    ? normalizeConstituencyName(rawConstituency)
+                    : rawConstituency.toLowerCase();
+
+
+            /* =========================
+               MINISTRY
+            ========================== */
+
+            const personMinistry =
+                String(person.ministry || "")
                     .toLowerCase()
                     .trim();
 
 
-            const filtered =
-                activeAppointees.filter(
-                    function (person) {
+            /* =========================
+               REGION
+            ========================== */
 
-                        const name =
-                            (
-                                person.name || ""
-                            )
-                                .toLowerCase();
+            const rawRegion =
+                String(person.region || "")
+                    .trim();
 
-
-                        const position =
-                            (
-                                person.position || ""
-                            )
-                                .toLowerCase();
+            const normalizedPersonRegion =
+                typeof normalizeRegionName === "function"
+                    ? normalizeRegionName(rawRegion)
+                    : rawRegion.toLowerCase();
 
 
-                        const constituency =
-                            (
-                                person.constituency || ""
-                            )
-                                .toLowerCase();
+            /* =========================
+               SEARCH MATCH
+            ========================== */
 
+            const matchesSearch =
+                !search ||
 
-                        const personMinistry =
-                            (
-                                person.ministry || ""
-                            )
-                                .toLowerCase();
+                name.includes(search) ||
 
+                position.includes(search) ||
 
-                        const personRegion =
-                            (
-                                person.region || ""
-                            )
-                                .toLowerCase();
+                rawConstituency.toLowerCase().includes(search) ||
 
-
-                        const matchesSearch =
-                            !search ||
-                            name.includes(search) ||
-                            position.includes(search) ||
-                            constituency.includes(search);
-
-
-                        const matchesMinistry =
-                            !ministry ||
-                            personMinistry === ministry;
-
-
-                        const matchesRegion =
-                            !region ||
-                            personRegion === region;
-
-
-                        return (
-                            matchesSearch &&
-                            matchesMinistry &&
-                            matchesRegion
-                        );
-
-                    }
+                normalizedConstituency.includes(
+                    normalizedSearch
                 );
 
 
-            renderAppointees(
-                filtered
+            /* =========================
+               MINISTRY MATCH
+            ========================== */
+
+            const matchesMinistry =
+                !ministry ||
+                personMinistry === ministry;
+
+
+            /* =========================
+               REGION MATCH
+            ========================== */
+
+            const matchesRegion =
+                !normalizedSelectedRegion ||
+                normalizedPersonRegion ===
+                    normalizedSelectedRegion;
+
+
+            return (
+                matchesSearch &&
+                matchesMinistry &&
+                matchesRegion
             );
 
-        }
+        });
 
+
+    renderAppointees(filtered);
+}
 
         /* =========================
            RESET
@@ -1834,8 +1878,5 @@ checkDuplicateAppointees();
         });
     });
 </script>
-
-
 </body>
-
 </html>
