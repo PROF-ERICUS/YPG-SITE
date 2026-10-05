@@ -2342,6 +2342,162 @@
 
 }
 
+        /* =========================================
+   YPG FLOATING SUPPORT
+========================================= */
+
+.ypg-support {
+    position: fixed;
+    right: 22px;
+    bottom: 22px;
+    z-index: 999999;
+}
+
+.ypg-support-button {
+    display: flex;
+    align-items: center;
+    gap: 11px;
+
+    padding: 7px 18px 7px 8px;
+
+    background: #071b35;
+    color: #ffffff;
+
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 50px;
+
+    text-decoration: none;
+
+    box-shadow:
+        0 10px 30px rgba(0, 0, 0, 0.25);
+
+    transition: all 0.3s ease;
+}
+
+.ypg-support-button:hover {
+    transform: translateY(-4px);
+
+    color: #ffffff;
+
+    box-shadow:
+        0 15px 35px rgba(0, 0, 0, 0.30);
+}
+
+
+/* WhatsApp icon */
+
+.ypg-support-icon {
+    width: 48px;
+    height: 48px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-radius: 50%;
+
+    background: #16a34a;
+
+    color: #ffffff;
+
+    font-size: 24px;
+
+    position: relative;
+}
+
+
+/* Green pulse */
+
+.ypg-support-icon::after {
+    content: "";
+
+    position: absolute;
+
+    inset: -4px;
+
+    border-radius: 50%;
+
+    border: 2px solid rgba(22, 163, 74, 0.35);
+
+    animation: ypgSupportPulse 2s infinite;
+}
+
+
+@keyframes ypgSupportPulse {
+
+    0% {
+        transform: scale(0.95);
+        opacity: 0.8;
+    }
+
+    70% {
+        transform: scale(1.15);
+        opacity: 0;
+    }
+
+    100% {
+        transform: scale(1.15);
+        opacity: 0;
+    }
+
+}
+
+
+/* Text */
+
+.ypg-support-text {
+    display: flex;
+    flex-direction: column;
+
+    line-height: 1.2;
+}
+
+.ypg-support-text strong {
+    font-size: 14px;
+    font-weight: 800;
+}
+
+.ypg-support-text small {
+    margin-top: 4px;
+
+    font-size: 11px;
+
+    color: rgba(255, 255, 255, 0.65);
+}
+
+
+/* =========================================
+   MOBILE
+========================================= */
+
+@media (max-width: 576px) {
+
+    .ypg-support {
+        right: 15px;
+        bottom: 15px;
+    }
+
+    .ypg-support-button {
+        padding: 6px 14px 6px 6px;
+    }
+
+    .ypg-support-icon {
+        width: 45px;
+        height: 45px;
+
+        font-size: 22px;
+    }
+
+    .ypg-support-text strong {
+        font-size: 13px;
+    }
+
+    .ypg-support-text small {
+        font-size: 10px;
+    }
+
+}
+
     </style>
 
 </head>
@@ -3662,9 +3818,29 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 </script>
+<!-- YPG FLOATING SUPPORT -->
+<div class="ypg-support">
 
+    <a
+        href="https://wa.me/233542044490?text=Hello%20YPG%20Support%2C%20I%20need%20assistance."
+        target="_blank"
+        rel="noopener noreferrer"
+        class="ypg-support-button"
+        aria-label="Contact YPG Support on WhatsApp"
+    >
 
+        <span class="ypg-support-icon">
+            <i class="bi bi-whatsapp"></i>
+        </span>
 
+        <span class="ypg-support-text">
+            <strong>YPG Support</strong>
+            <small>Need assistance?</small>
+        </span>
+
+    </a>
+
+</div>
 </body>
 
 </html>
