@@ -475,105 +475,167 @@
     }
 }
 
+/* =========================================================
+   APPOINTEE CONSTITUENCY VERIFICATION
+========================================================= */
 
-        /* =========================================================
-   APPOINTEE CONSTITUENCY VALIDATION
-   ========================================================= */
-
-.official-constituency {
-    display: inline-block;
-    font-weight: 600;
-}
-
-
-/* UNVERIFIED CONSTITUENCY */
-
-.unverified-constituency {
-    font-weight: 600;
-}
-
-
-.unverified-badge {
-    display: inline-block;
-    margin-left: 6px;
-    padding: 3px 7px;
-    border-radius: 4px;
-    font-size: 10px;
-    font-weight: 800;
-    letter-spacing: .4px;
-    background: #fff3cd;
-    color: #856404;
-    border: 1px solid #ffe69c;
-}
-
-
-/* PROFILE WARNING */
-
-.constituency-verification-warning {
+.appointee-constituency {
+    display: block;
     margin-top: 8px;
-    padding: 10px 12px;
-    border-radius: 6px;
-    background: #fff3cd;
-    color: #664d03;
-    border: 1px solid #ffecb5;
-    font-size: 13px;
     line-height: 1.5;
 }
 
 
-.constituency-verification-warning strong {
-    font-weight: 800;
-}
+/* =========================================================
+   VERIFIED CONSTITUENCY
+========================================================= */
 
-
-/* VERIFIED */
-
-.constituency-verified {
+.official-constituency {
     display: inline-flex;
     align-items: center;
-    gap: 5px;
-    margin-left: 6px;
+    flex-wrap: wrap;
+    gap: 6px;
+}
+
+
+.constituency-verified-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
     padding: 3px 7px;
-    border-radius: 4px;
-    font-size: 10px;
+
+    border-radius: 20px;
+
+    font-size: 9px;
+
+    font-weight: 700;
+
+    letter-spacing: 0.5px;
+
+    background: rgba(25, 135, 84, 0.12);
+
+    color: #198754;
+
+    border: 1px solid rgba(25, 135, 84, 0.25);
+}
+
+
+/* =========================================================
+   UNVERIFIED CONSTITUENCY
+========================================================= */
+
+.unverified-constituency {
+    display: inline-flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 6px;
+
+    color: #856404;
+}
+
+
+.unverified-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+    padding: 3px 8px;
+
+    border-radius: 20px;
+
+    font-size: 9px;
+
     font-weight: 800;
-    background: #d1e7dd;
-    color: #0f5132;
-    border: 1px solid #badbcc;
+
+    letter-spacing: 0.5px;
+
+    background: #fff3cd;
+
+    color: #856404;
+
+    border: 1px solid #ffe69c;
 }
 
 
-/* HIDDEN PROFILE MESSAGE */
+/* =========================================================
+   UNVERIFIED WARNING
+========================================================= */
 
-.constituency-access-denied {
-    max-width: 650px;
-    margin: 80px auto;
-    padding: 35px 25px;
-    text-align: center;
-    border-radius: 10px;
-    background: #fff;
-    border: 1px solid #e5e5e5;
+.constituency-verification-warning {
+    display: flex;
+
+    align-items: flex-start;
+
+    gap: 7px;
+
+    margin-top: 8px;
+
+    padding: 8px 10px;
+
+    border-radius: 8px;
+
+    background: #fff8e1;
+
+    border: 1px solid #ffe69c;
+
+    color: #856404;
+
+    font-size: 11px;
+
+    line-height: 1.45;
 }
 
 
-.constituency-access-denied h2 {
-    margin-bottom: 10px;
+.constituency-verification-warning i {
+    flex-shrink: 0;
+
+    margin-top: 1px;
 }
 
 
-.constituency-access-denied p {
-    line-height: 1.6;
+/* =========================================================
+   VERIFIED CARD
+========================================================= */
+
+.appointee-card.appointee-verified
+.appointee-constituency {
+    color: inherit;
 }
 
 
-/* MOBILE */
+/* =========================================================
+   UNVERIFIED CARD
+========================================================= */
 
-@media (max-width: 600px) {
+.appointee-card.appointee-unverified
+.appointee-constituency {
+    color: #856404;
+}
 
-    .unverified-badge,
-    .constituency-verified {
-        margin-left: 0;
-        margin-top: 4px;
+
+/* =========================================================
+   MOBILE
+========================================================= */
+
+@media (
+    max-width: 576px
+) {
+
+    .constituency-verified-badge,
+    .unverified-badge {
+
+        font-size: 8px;
+
+        padding: 2px 6px;
+    }
+
+
+    .constituency-verification-warning {
+
+        font-size: 10px;
+
+        padding: 7px 8px;
     }
 
 }
