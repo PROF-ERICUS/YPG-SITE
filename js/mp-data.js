@@ -6968,10 +6968,10 @@ parliament: "Youth Parliament Ghana",
         "Youth development, education, practical skills training, mentorship, community service, stakeholder engagement, youth leadership, research, volunteerism and opportunities for young people.",
 
     currentActivities:
-        "Youth Member of Parliament Elect — Assin Central Constituency, Youth Parliament Ghana; Stakeholder engagement to support young people who were unable to enter Senior High School; Connecting young people with practical skills training including dressmaking, tailoring and pastry making.",
+        "Youth Member of Parliament Assin Central Constituency, Youth Parliament Ghana; Stakeholder engagement to support young people who were unable to enter Senior High School; Connecting young people with practical skills training including dressmaking, tailoring and pastry making.",
 
     leadershipExperience:
-        "Youth Member of Parliament Elect — Assin Central Constituency, Youth Parliament Ghana; Youth leadership and representation; Community service; Volunteer work; Stakeholder engagement; Youth development initiatives.",
+        "Youth Member of Parliament Elect Assin Central Constituency, Youth Parliament Ghana; Youth leadership and representation; Community service; Volunteer work; Stakeholder engagement; Youth development initiatives.",
 
     professionalExperience:
         "Graduate of Medical Laboratory Science from the University of Cape Coast; Experience in research, volunteer work, community service, youth leadership and stakeholder engagement.",
@@ -6982,16 +6982,16 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Education, practical skills and opportunities for empowered young people.",
 
-    image: "images/akwasi-quansah.jpeg",
+    image: "images/akwasi.jpeg",
 
-    email: "#",
-    phone: "#",
+    email: "quansah.akwasiaq@gmail.com",
+    phone: "0532930430",
     website: "#",
 
-    facebook: "#",
+    facebook: "Akwasi Quansah ",
     twitter: "#",
     instagram: "#",
-    linkedin: "#",
+    linkedin: "www.linkedin.com/in/akwasiquansah",
     tiktok: "#"
 },
 {
