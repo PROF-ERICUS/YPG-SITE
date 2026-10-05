@@ -519,7 +519,7 @@ website: "#"
     id: "mp012",
     name: "MOHAMMED ZAKARIA IDDRISU",
     position: "Member of Parliament",
-    constituency: "Wassa Amenfi West Constituency",
+    constituency: "Amenfi West Constituency",
     region: "Western",
     parliament: "Youth Parliament Ghana",
     committee: "Composition of Parliament Leadership",
