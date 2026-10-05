@@ -2342,9 +2342,9 @@
 
 }
 
-        /* =========================================
-   YPG FLOATING SUPPORT
-========================================= */
+/* ==============================
+   YPG SUPPORT
+================================ */
 
 .ypg-support {
     position: fixed;
@@ -2353,38 +2353,37 @@
     z-index: 999999;
 }
 
+
+/* Floating Button */
+
 .ypg-support-button {
     display: flex;
     align-items: center;
     gap: 11px;
-
     padding: 7px 18px 7px 8px;
 
     background: #071b35;
     color: #ffffff;
 
-    border: 1px solid rgba(255, 255, 255, 0.15);
+    border: 1px solid rgba(255,255,255,0.15);
     border-radius: 50px;
 
-    text-decoration: none;
+    cursor: pointer;
 
-    box-shadow:
-        0 10px 30px rgba(0, 0, 0, 0.25);
+    box-shadow: 0 10px 30px rgba(0,0,0,0.25);
 
     transition: all 0.3s ease;
 }
 
 .ypg-support-button:hover {
     transform: translateY(-4px);
-
     color: #ffffff;
 
-    box-shadow:
-        0 15px 35px rgba(0, 0, 0, 0.30);
+    box-shadow: 0 15px 35px rgba(0,0,0,0.30);
 }
 
 
-/* WhatsApp icon */
+/* WhatsApp Icon */
 
 .ypg-support-icon {
     width: 48px;
@@ -2397,7 +2396,6 @@
     border-radius: 50%;
 
     background: #16a34a;
-
     color: #ffffff;
 
     font-size: 24px;
@@ -2405,23 +2403,18 @@
     position: relative;
 }
 
-
-/* Green pulse */
-
 .ypg-support-icon::after {
     content: "";
 
     position: absolute;
-
     inset: -4px;
 
     border-radius: 50%;
 
-    border: 2px solid rgba(22, 163, 74, 0.35);
+    border: 2px solid rgba(22,163,74,0.35);
 
     animation: ypgSupportPulse 2s infinite;
 }
-
 
 @keyframes ypgSupportPulse {
 
@@ -2443,12 +2436,11 @@
 }
 
 
-/* Text */
+/* Button Text */
 
 .ypg-support-text {
     display: flex;
     flex-direction: column;
-
     line-height: 1.2;
 }
 
@@ -2459,10 +2451,244 @@
 
 .ypg-support-text small {
     margin-top: 4px;
+    font-size: 11px;
+    color: rgba(255,255,255,0.65);
+}
+
+
+/* ==============================
+   SUPPORT PANEL
+================================ */
+
+.ypg-support-panel {
+    position: absolute;
+
+    right: 0;
+    bottom: 65px;
+
+    width: 310px;
+
+    background: #ffffff;
+
+    border-radius: 16px;
+
+    box-shadow: 0 20px 50px rgba(0,0,0,0.25);
+
+    overflow: hidden;
+
+    display: none;
+
+    animation: ypgSupportOpen 0.25s ease;
+}
+
+.ypg-support-panel.active {
+    display: block;
+}
+
+@keyframes ypgSupportOpen {
+
+    from {
+        opacity: 0;
+        transform: translateY(10px) scale(0.97);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+    }
+
+}
+
+
+/* Header */
+
+.ypg-support-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 16px 18px;
+
+    background: #071b35;
+    color: #ffffff;
+}
+
+.ypg-support-header strong {
+    display: block;
+    font-size: 15px;
+}
+
+.ypg-support-header small {
+    display: block;
+    margin-top: 3px;
 
     font-size: 11px;
 
-    color: rgba(255, 255, 255, 0.65);
+    color: rgba(255,255,255,0.65);
+}
+
+
+/* Close */
+
+.ypg-support-close {
+    width: 30px;
+    height: 30px;
+
+    border: none;
+    border-radius: 50%;
+
+    background: rgba(255,255,255,0.1);
+
+    color: #ffffff;
+
+    font-size: 20px;
+
+    cursor: pointer;
+}
+
+
+/* Body */
+
+.ypg-support-body {
+    padding: 18px;
+}
+
+.ypg-support-body label {
+    display: block;
+
+    margin-bottom: 7px;
+
+    font-size: 13px;
+    font-weight: 700;
+
+    color: #071b35;
+}
+
+
+/* Select */
+
+.ypg-support-select {
+    width: 100%;
+
+    padding: 12px 13px;
+
+    border: 1px solid #d9dee7;
+    border-radius: 9px;
+
+    background: #ffffff;
+
+    font-size: 13px;
+
+    color: #333;
+
+    outline: none;
+
+    cursor: pointer;
+}
+
+.ypg-support-select:focus {
+    border-color: #16a34a;
+
+    box-shadow: 0 0 0 3px rgba(22,163,74,0.08);
+}
+
+
+/* Note */
+
+.ypg-support-note {
+    margin-top: 12px;
+
+    padding: 10px;
+
+    background: #f5f7fa;
+
+    border-radius: 8px;
+
+    font-size: 11px;
+
+    line-height: 1.5;
+
+    color: #667085;
+}
+
+
+/* WhatsApp Send */
+
+.ypg-whatsapp-send {
+    width: 100%;
+
+    margin-top: 14px;
+
+    padding: 12px;
+
+    border: none;
+    border-radius: 9px;
+
+    background: #16a34a;
+
+    color: #ffffff;
+
+    font-size: 13px;
+    font-weight: 700;
+
+    cursor: pointer;
+
+    transition: 0.2s;
+}
+
+.ypg-whatsapp-send:hover {
+    background: #128c3f;
+    transform: translateY(-1px);
+}
+
+
+/* ==============================
+   MOBILE
+================================ */
+
+@media (max-width: 576px) {
+
+    .ypg-support {
+        right: 10px;
+        bottom: 10px;
+    }
+
+    /* Small floating icon */
+
+    .ypg-support-button {
+        width: 48px;
+        height: 48px;
+
+        padding: 5px;
+
+        gap: 0;
+
+        justify-content: center;
+
+        border-radius: 50%;
+    }
+
+    .ypg-support-icon {
+        width: 38px;
+        height: 38px;
+
+        font-size: 19px;
+    }
+
+    .ypg-support-text {
+        display: none;
+    }
+
+
+    /* Smaller panel */
+
+    .ypg-support-panel {
+        right: 0;
+        bottom: 58px;
+
+        width: min(310px, calc(100vw - 20px));
+    }
+
 }
 
 
@@ -3849,17 +4075,78 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 </script>
+    <script>
+
+function toggleYPGSupport() {
+
+    const panel = document.getElementById("ypgSupportPanel");
+
+    panel.classList.toggle("active");
+
+}
+
+
+function sendYPGSupport() {
+
+    const issue = document.getElementById("ypgIssue").value;
+
+    if (!issue) {
+
+        alert("Please select the issue you need assistance with.");
+
+        return;
+    }
+
+
+    let message = "";
+
+
+    if (issue === "image") {
+
+        message =
+            "Hello YPG Support, I need assistance because my profile image is not showing on the YPG system.";
+
+    }
+
+
+    else if (issue === "constituency") {
+
+        message =
+            "Hello YPG Support, I need assistance with my constituency verification on the YPG system. My constituency information needs to be checked or rectified.";
+
+    }
+
+
+    else if (issue === "position") {
+
+        message =
+            "Hello YPG Support, I need assistance with rectifying my position on the YPG system. My current position displayed on the system is incorrect.";
+
+    }
+
+
+    const whatsappNumber = "233542044490";
+
+    const whatsappURL =
+        "https://wa.me/" +
+        whatsappNumber +
+        "?text=" +
+        encodeURIComponent(message);
+
+
+    window.open(
+        whatsappURL,
+        "_blank"
+    );
+
+}
+
+</script>
 <!-- YPG FLOATING SUPPORT -->
 <div class="ypg-support">
 
-    <a
-        href="https://wa.me/233542044490?text=Hello%20YPG%20Support%2C%20I%20need%20assistance."
-        target="_blank"
-        rel="noopener noreferrer"
-        class="ypg-support-button"
-        aria-label="Contact YPG Support on WhatsApp"
-    >
-
+    <!-- Floating Button -->
+    <button class="ypg-support-button" onclick="toggleYPGSupport()" aria-label="YPG Support">
         <span class="ypg-support-icon">
             <i class="bi bi-whatsapp"></i>
         </span>
@@ -3868,8 +4155,52 @@ document.addEventListener("DOMContentLoaded", function () {
             <strong>YPG Support</strong>
             <small>Need assistance?</small>
         </span>
+    </button>
 
-    </a>
+
+    <!-- Support Panel -->
+    <div class="ypg-support-panel" id="ypgSupportPanel">
+
+        <div class="ypg-support-header">
+            <div>
+                <strong>YPG Support</strong>
+                <small>How can we assist you?</small>
+            </div>
+
+            <button onclick="toggleYPGSupport()" class="ypg-support-close">
+                &times;
+            </button>
+        </div>
+
+
+        <div class="ypg-support-body">
+
+            <label for="ypgIssue">
+                Select an issue
+            </label>
+
+            <select id="ypgIssue" class="ypg-support-select">
+                <option value="">Choose an option</option>
+                <option value="image">Image Not Showing</option>
+                <option value="constituency">Constituency Verification</option>
+                <option value="position">Position Rectification</option>
+            </select>
+
+
+            <div class="ypg-support-note">
+                Select the issue you need assistance with. 
+                Your request will be sent directly to YPG Support via WhatsApp.
+            </div>
+
+
+            <button onclick="sendYPGSupport()" class="ypg-whatsapp-send">
+                <i class="bi bi-whatsapp"></i>
+                Send via WhatsApp
+            </button>
+
+        </div>
+
+    </div>
 
 </div>
 </body>
