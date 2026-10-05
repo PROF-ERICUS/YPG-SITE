@@ -40,37 +40,63 @@ website: "#"
 },
 
 
-   {
+  {
     id: "mp002",
     name: "DENNIS TACHUM",
-    position: "Member of Parliament",
+    position: "Youth Member of Parliament",
     constituency: "Krachi West Constituency",
-    region: "Oti",
+    region: "Oti Region",
     parliament: "Youth Parliament Ghana",
-    committee: "Information to be updated",
-     status: "active",
+    status: "active",
 
     education:
-        "Kwame Nkrumah University of Science and Technology (KNUST). Programme: Publishing Studies. Mastercard Foundation Scholar.",
-
-    college:
-        "College of Art and Built Environment (CABE)",
+        "Kwame Nkrumah University of Science and Technology (KNUST), Kumasi — Bachelor of Arts in Publishing Studies, 2026–Present, Mastercard Foundation Scholars Program; Krachi Senior High School — WASSCE, 2024; Gyanekrom Basic School, Kete Krachi — BECE, 2021",
 
     profession:
-        "Student / Publishing Studies",
+        "Student Leader, Entrepreneur and Youth Advocate",
 
     experience:
-        "Previous Experience: NUGS Representative, College of Art and Built Environment (CABE) — KNUST; Deputy Public Relations Officer (PRO), Faculty — KNUST; Course Representative, Publishing Studies — KNUST; Student leadership and representation roles at KNUST. Current Leadership Positions: Youth Member of Parliament, Krachi West Constituency — Youth Parliament Ghana; NUGS Representative, College of Art and Built Environment (CABE) — KNUST; Deputy Public Relations Officer (PRO), Faculty — KNUST; Course Representative, Publishing Studies — KNUST.",
+        "Founder & Manager — Campus Printing & Retail Business, KNUST; Classroom Educator — Assemblies of God Inspirational School, Kete Krachi; Departmental Course Representative — Department of Publishing Studies, KNUST; General Secretary (SRC) — Students Representative Council, Krachi Senior High School; President — PENSA & Scripture Union, Krachi Senior High School; Chapel Steward — Krachi Senior High School; School Prefect — Gyanekrom Basic School",
 
     biography:
-        "DENNIS TACHUM is a student of Publishing Studies at the Kwame Nkrumah University of Science and Technology (KNUST) and a Mastercard Foundation Scholar. His leadership journey has been shaped by active participation in student representation, communication, community engagement, and youth leadership. He has served in various representative and leadership roles within the university community, developing experience in advocacy, communication, coordination, and working with diverse groups of young people. He currently serves as the elected Youth Member of Parliament for the Krachi West Constituency under Youth Parliament Ghana, where he represents the interests and concerns of young people within the constituency.",
+        "Dennis Tachum is a Ghanaian student leader, entrepreneur, public speaker and youth advocate with a growing record of leadership, academic excellence and community engagement. He is currently pursuing a Bachelor of Arts in Publishing Studies at the Kwame Nkrumah University of Science and Technology (KNUST), Kumasi, as a Mastercard Foundation Scholar. He has demonstrated leadership within the university community, serving as a Departmental Course Representative, NUGS Representative for his College, CABEESA, and Deputy Public Relations Officer of his Faculty. Dennis has developed extensive leadership experience from an early age, including serving as SRC General Secretary, PENSA President, Scripture Union President and Chapel Steward at Krachi Senior High School. He also led the school's debate team to three consecutive tournament victories. Beyond student leadership, he has professional and entrepreneurial experience as the founder and manager of a campus printing and retail business at KNUST and previously worked as a Classroom Educator at Assemblies of God Inspirational School in Kete Krachi. He currently serves as the Youth Member of Parliament for the Krachi West Constituency under Youth Parliament Ghana.",
+
+    vision:
+        "To promote youth empowerment, education, leadership development, entrepreneurship, civic participation and community development.",
+
+    plans:
+        "To encourage youth participation, support educational development, promote entrepreneurship and contribute to meaningful community development.",
+
+    contribution:
+        "Contributes through youth representation, student leadership, entrepreneurship, public communication, mentorship, advocacy and community engagement.",
+
+    currentActivities:
+        "Youth Member of Parliament for Krachi West Constituency; BA Publishing Studies student at KNUST; Founder & Manager of a Campus Printing & Retail Business; NUGS Representative; Deputy Public Relations Officer.",
+
+    leadershipExperience:
+        "Departmental Course Representative, KNUST; NUGS Representative, CABEESA; Deputy Public Relations Officer, Faculty, KNUST; General Secretary, SRC, Krachi Senior High School; President, PENSA and Scripture Union, Krachi Senior High School; Chapel Steward, Krachi Senior High School; School Prefect, Gyanekrom Basic School.",
+
+    professionalExperience:
+        "Founder & Manager of Campus Printing & Retail Business, KNUST; Classroom Educator at Assemblies of God Inspirational School, Kete Krachi.",
+
+    focusAreas:
+        "Youth empowerment • Education • Leadership development • Public communication • Entrepreneurship • Community development • Publishing • Civic participation",
+
+    slogan:
+        "Empowering young people through leadership, service and opportunity.",
 
     image: "images/Dennis Tachum.jpeg",
-    email: "tachumdennis658@gmail.com",
-    phone: "0534506415",
-    website: "#"
-},
 
+    email: "tachumdennis658@gmail.com",
+    phone: "0534806415",
+    website: "LinkedIn",
+
+    facebook: "DENNIS TACHUM",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "DENNIS TACHUM",
+    tiktok: "DENNIS TACHUM"
+},
   {
 id: "mp003",
 name: "BAADAK DANIEL",
