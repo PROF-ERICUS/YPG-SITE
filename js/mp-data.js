@@ -7561,5 +7561,396 @@ parliament: "Youth Parliament Ghana",
 
     tiktok: "#"
 },
+  {
+    id: "mp138",
+    name: "EDEM WODOME CHARLES",
+    position: "Member of Parliament",
+    constituency: "Ho Central",
+    region: "Volta",
+
+    parliament: "Youth Parliament Ghana",
+
+    status: "active",
+
+    education: "University of Cape Coast – Bachelor of Commerce (Accounting), Level 400",
+
+    profession: "Student",
+
+    experience: "Speaker Designate, VALCO Hall Parliamentary Council; Minority Chief Whip, UCC SRC 23rd Parliament; Deputy Minority Leader and Deputy Minority Chief Whip, VALCO Hall Parliamentary Council; 33rd Treasurer, VALCO Hall; Deputy Treasurer, VALCO Hall Finance Committee; Accounting Programme Representative, University of Cape Coast; Member, 52nd LNUGS Finance Committee; Vice President, Men’s President and Men’s Vice President, Victory Bible Church Students and Associates; Assistant General Secretary, Evangelical Presbyterian Student Union; School Prefect, Hohoe E.P. Senior High School; Assistant School Prefect, Mawuli E.P. Junior High School; Assistant Compound Overseer, Mawuli Basic School; Intern, Ho Municipal Assembly Accounts and Budget Offices; Volunteer, Success Africa.",
+
+    biography: "Edem Wodome Charles is a Ghanaian student leader and youth representative whose leadership journey spans student governance, parliamentary affairs, financial administration, faith-based leadership and community engagement. He is a Level 400 Bachelor of Commerce (Accounting) student at the University of Cape Coast, combining academic training in accounting with experience in representation, governance, financial responsibility and organisational service. Edem currently serves as Speaker Designate of the VALCO Hall Parliamentary Council and Youth Member of Parliament-Elect for the Ho Central Constituency. His leadership journey reflects a sustained commitment to representation, accountability, financial responsibility, communication, teamwork and service. He has also gained practical public-sector experience through internships with the Ho Municipal Assembly’s Accounts and Budget Offices and has contributed to youth and community development through volunteer service with Success Africa.",
+
+    vision: "To promote accountable leadership, effective representation, financial responsibility, and meaningful youth engagement.",
+
+    plans: "To strengthen youth participation, promote accountability, and support initiatives that contribute to community and youth development.",
+
+    contribution: "To contribute to effective representation, responsible leadership, financial accountability, and youth and community development.",
+
+    currentActivities: "Speaker Designate of the VALCO Hall Parliamentary Council and Youth Member of Parliament-Elect for the Ho Central Constituency.",
+
+    leadershipExperience: "Speaker Designate, VALCO Hall Parliamentary Council; Minority Chief Whip, UCC SRC 23rd Parliament; Deputy Minority Leader and Deputy Minority Chief Whip, VALCO Hall Parliamentary Council; 33rd Treasurer, VALCO Hall; Deputy Treasurer, VALCO Hall Finance Committee; Accounting Programme Representative, University of Cape Coast; Member, 52nd LNUGS Finance Committee; Vice President, Men’s President and Men’s Vice President, Victory Bible Church Students and Associates; Assistant General Secretary, Evangelical Presbyterian Student Union; School Prefect, Hohoe E.P. Senior High School; Assistant School Prefect, Mawuli E.P. Junior High School; Assistant Compound Overseer, Mawuli Basic School.",
+
+    professionalExperience: "Internships with the Ho Municipal Assembly’s Accounts and Budget Offices; volunteer service with Success Africa.",
+
+    focusAreas: "Youth representation, accountability, financial responsibility, student governance, community engagement, leadership, and service.",
+
+    slogan: "Committed to representation, accountability, financial responsibility, and service.",
+
+    image: "images/edem.jpeg",
+
+    email: "Charleswodome@gmail.com / wodomeedemcharles@gmail.com",
+
+    phone: "0557418712",
+
+    website: "#",
+
+    facebook: "Wodome Edem Charles",
+    twitter: "#",
+    instagram: "EDeM Charles Wodome",
+    linkedin: "EDeM Wodome Charles",
+    tiktok: "#"
+},
+{
+    id: "mp139",
+    name: "ABDUL RAHMAN",
+    position: "Member of Parliament",
+    constituency: "Techiman South Constituency",
+    region: "Bono East",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+
+    education:
+        "University of Energy and Natural Resources (UENR) — BSc Economics, Level 300; Diploma in Journalism; Techiman Senior High School — General Arts; Ameyaw JHS A",
+
+    profession:
+        "Student Leader, Journalist and Youth Advocate",
+
+    experience:
+        "Compound Overseer, Junior High School and Primary School; GMSA Treasurer, Senior High School; Audit Committee Member, EnSA-UENR; President, School of Arts and Social Sciences, UENR; TEIN-UENR Research Committee Member; Media experience with Free FM and Greener FM",
+
+    biography:
+        "Abdul Rahman is a young student leader, journalist and Youth Member of Parliament for the Techiman South Constituency in the Bono East Region. He holds a Diploma in Journalism and has gained media experience through his work with Free FM and Greener FM, where he contributed to radio and media-related activities. He is currently pursuing a Bachelor of Science in Economics at the University of Energy and Natural Resources (UENR) and serves as the President of the School of Arts and Social Sciences, UENR. He has also served as a member of the EnSA Audit Committee and is passionate about youth empowerment, economic development, journalism, political communication, research, leadership and community development.",
+
+    vision:
+        "To build a well-informed, organized and actively engaged youth community in the Techiman South Constituency. To use Youth Parliament as a platform to amplify the voices of young people, promote leadership and civic participation, identify challenges affecting the youth, and work with relevant stakeholders to develop practical solutions.",
+
+    plans:
+        "To create opportunities that support education, skills development, entrepreneurship and economic empowerment for young people.",
+
+    contribution:
+        "Youth mobilization and awareness initiatives in Techiman South; youth engagement through Youth Parliament; journalism, research, economic analysis and community engagement.",
+
+    currentActivities:
+        "Youth MP for Techiman South Constituency; President, School of Arts and Social Sciences, UENR; TEIN-UENR Research Committee Member.",
+
+    leadershipExperience:
+        "Compound Overseer, Junior High School and Primary School; GMSA Treasurer, Senior High School; Audit Committee Member, EnSA-UENR; President, School of Arts and Social Sciences, UENR; TEIN-UENR Research Committee Member.",
+
+    professionalExperience:
+        "Journalism and media communication; experience with Free FM and Greener FM; research and economic analysis; political communication; youth mobilization.",
+
+    focusAreas:
+        "Journalism • Media communication • Public speaking • Political communication • Research • Economic analysis • Youth mobilization • Leadership • Community engagement • Financial accountability",
+
+    slogan:
+        "Amplifying youth voices through leadership, participation and practical solutions.",
+
+    image: "images/abdul-rahman.jpeg",
+
+    email: "acreyard6@gmail.com",
+    phone: "0547007296",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp140",
+    name: "GRUBA DAVID",
+    position: "Member of Parliament",
+    constituency: "Guan constituency",
+    region: "Oti",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+
+    education:
+        "University of Cape Coast — Bachelor of Science (BSc) Economics, Level 400 / currently pursuing; Dambai DA Primary School; Dambai DA JHS; St. Mary Seminary Senior High School, Lolobi — completed JHS in 2019 and SHS in 2022.",
+
+    profession:
+        "Student",
+
+    experience:
+        "President, Konkomba Student Union (KONSU), St. Mary Seminary Senior High School; Deputy Chairperson, Association of Economics Students (AES), University of Cape Coast; Deputy Chairperson, Help Desk Committee, 62nd Local NUGS UCC; Member, Media and Publicity Committee, Kwame Nkrumah Hall, University of Cape Coast; Vice President, Creators Light Foundation; President, Association of Economics Students (AES), University of Cape Coast.",
+
+    biography:
+        "GRUBA DAVID is a native of Lolobi in the Oti Region of Ghana and currently resides in Dambai. He had his basic education at Dambai DA Primary School and Dambai DA JHS before proceeding to St. Mary Seminary Senior High School, Lolobi. He completed his JHS education in 2019 and his Senior High School education in 2022. He is currently a Level 400 student at the University of Cape Coast, pursuing a Bachelor of Science in Economics. He has gained leadership experience through various student and youth organizations and currently serves as President of the Association of Economics Students at the University of Cape Coast. He is also Vice President of the Creators Light Foundation, which focuses on youth leadership, responsibility, and supporting people in need.",
+
+    vision:
+        "To promote youth leadership, education, community development, and active participation of young people in national development.",
+
+    plans:
+        "Support youth empowerment, leadership development, educational opportunities, community engagement, and initiatives that address the needs of young people.",
+
+    contribution:
+        "Contributes to student leadership, youth empowerment, community development, and initiatives focused on supporting young people and people in need.",
+
+    currentActivities:
+        "Currently serving as President of the Association of Economics Students at the University of Cape Coast and Vice President of the Creators Light Foundation while pursuing a Bachelor of Science in Economics.",
+
+    leadershipExperience:
+        "President, Association of Economics Students; President, Konkomba Student Union; Deputy Chairperson, Association of Economics Students; Deputy Chairperson, Help Desk Committee, 62nd Local NUGS UCC; Member, Media and Publicity Committee, Kwame Nkrumah Hall.",
+
+    professionalExperience:
+        "Economics student with experience in student leadership, youth organization, community development, and youth empowerment activities.",
+
+    focusAreas:
+        "Youth Development • Education • Economics • Leadership • Community Development • Youth Empowerment • Student Representation",
+
+    slogan:
+        "Youth Leadership • Service • Community Development",
+
+    image: "images/gruba.jpeg",
+
+    email: "DavidIngruba68@gmail.com",
+    phone: "0533359280",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp141",
+    name: "SHADRACK PEACEFUL BAIDOO",
+    position: "Member of Parliament",
+    constituency: "Shama",
+    region: "Western",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+
+    education:
+        "St. John's School — General Education (WASSCE), WASSCE Certificate, 2026; Aboadze International School — Basic Education, BECE Certificate, 2023.",
+
+    profession:
+        "Student",
+
+    experience:
+        "Youth Leader — Community Youth Development; Student Leader — St. John's School; Youth Advocate — Shama Constituency; Director of Finance & Administration, NTA.",
+
+    biography:
+        "SHADRACK PEACEFUL BAIDOO is a dedicated and passionate youth leader from Shama in the Western Region of Ghana. He is a student and a strong advocate for youth empowerment, education, and community development. He had his basic education at Aboadze International School, completing in 2023, and continued to St. John's School, completing in 2026. As the Youth Member of Parliament for Shama Constituency, he is committed to representing the voice of the youth, promoting good leadership, financial accountability, and inclusive development. He believes in the power of both formal and informal education to transform young people.",
+
+    vision:
+        "To empower young people through education, responsible leadership, financial accountability, and inclusive community development.",
+
+    plans:
+        "Promote youth empowerment, education, leadership development, accountability, and initiatives that create opportunities for young people in Shama.",
+
+    contribution:
+        "Contributes to youth leadership, community development, education advocacy, and initiatives aimed at empowering young people.",
+
+    currentActivities:
+        "Currently serving as Youth Member of Parliament for Shama under Youth Parliament Ghana and Director of Finance & Administration, NTA.",
+
+    leadershipExperience:
+        "Youth MP for Shama; Youth Leader in community development; Student Leader at St. John's School; Youth Advocate for the Shama Constituency.",
+
+    professionalExperience:
+        "Student with experience in youth leadership, community development, education advocacy, and finance and administration.",
+
+    focusAreas:
+        "Youth Development • Education • Leadership • Financial Accountability • Community Development • Youth Empowerment",
+
+    slogan:
+        "Empowering Youth, Promoting Accountability, Building Communities.",
+
+    image: "images/peaceful.jpeg",
+
+    email: "shadrackpeacefulbaidoo@gmail.com",
+    phone: "0535997482 / 0534530135",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp142",
+    name: "EMMANUEL AMPOMAH",
+    position: "Member of Parliament",
+    constituency: "Techiman North constituency",
+    region: "Bono East",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+
+    education:
+        "University of Energy and Natural Resources (UENR), Sunyani — Bachelor of Science (BSc) Medical Laboratory Science.",
+
+    profession:
+        "Student",
+
+    experience:
+        "Former Vice President — Medical Laboratory Science Students Association, UENR; Former Deputy Public Relations Officer — Medical Laboratory Science Students Association, UENR; Minority Member — UENR SRC Parliament; Sales Assistant — Ikemina Pharmacy for three years; Head Boy — Tuobodom Presby School; Assistant Head Prefect — Junior High School.",
+
+    biography:
+        "EMMANUEL AMPOMAH is a Youth Member of Parliament for the Techiman North Constituency. He began his leadership journey as Head Boy at Tuobodom Presby School and later served as Assistant Head Prefect at the Junior High School level. He attended Seventh Day Adventist Senior High School, Agona. After completing Senior High School, he worked as a Sales Assistant at Ikemina Pharmacy for three years before pursuing Medical Laboratory Science at the University of Energy and Natural Resources (UENR), Sunyani. At UENR, he has served in student leadership as Deputy Public Relations Officer and Vice President of the Medical Laboratory Science Students Association, as well as a member of the Students Bar Association. He currently serves as a Minority Member in the UENR SRC Parliament.",
+
+    vision:
+        "To represent the youth of Techiman North and contribute to meaningful youth development, leadership, education, and community service.",
+
+    plans:
+        "Promote youth participation, educational development, responsible leadership, and opportunities that support young people in Techiman North.",
+
+    contribution:
+        "Contributes to student leadership, youth representation, community development, and professional development in the field of medical laboratory science.",
+
+    currentActivities:
+        "Currently pursuing a Bachelor of Science in Medical Laboratory Science at UENR and serving as a Minority Member in the UENR SRC Parliament while representing Techiman North in Youth Parliament Ghana.",
+
+    leadershipExperience:
+        "Head Boy, Tuobodom Presby School; Assistant Head Prefect, Junior High School; Vice President, Medical Laboratory Science Students Association, UENR; Deputy Public Relations Officer, Medical Laboratory Science Students Association, UENR; Minority Member, UENR SRC Parliament.",
+
+    professionalExperience:
+        "Medical Laboratory Science student with three years of professional experience as a Sales Assistant at Ikemina Pharmacy.",
+
+    focusAreas:
+        "Youth Development • Education • Leadership • Healthcare • Medical Laboratory Science • Student Representation • Community Development",
+
+    slogan:
+        "Youth Leadership • Service • Representation",
+
+    image: "images/Ampomah.jpeg",
+
+    email: "ampomahe31@gmail.com",
+    phone: "0241665147",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "mp143",
+    name: "OSANTEY KINGSBEL BLESS",
+    position: "Member of Parliament",
+    constituency: "Yilo Krobo Constituency",
+    region: "Eastern Region",
+    parliament: "Parliament of Ghana",
+    status: "active",
+
+    education:
+        "University of Environment and Sustainable Development (UESD) — Bachelor of Science (BSc) Sustainable Development, 2026.",
+
+    profession:
+        "NSS Personnel",
+
+    experience:
+        "Deputy Speaker, School of Sustainable Development Student Association, UESD; Chairman, Vetting Committee, School of Sustainable Development Student Association, UESD.",
+
+    biography:
+        "OSANTEY KINGSBEL BLESS is a Member of Parliament representing the Yilo Krobo Constituency. He holds a Bachelor of Science in Sustainable Development from the University of Environment and Sustainable Development (UESD). He has gained leadership experience through his involvement in the School of Sustainable Development Student Association, UESD, where he served as Deputy Speaker and Chairman of the Vetting Committee. He currently serves as a student leader within the School of Sustainable Development.",
+
+    vision:
+        "To promote sustainable development, youth leadership, and meaningful participation of young people in community and national development.",
+
+    plans:
+        "Support youth development, sustainable development initiatives, student leadership, and community-focused programmes.",
+
+    contribution:
+        "Contributes to student leadership and sustainable development through academic and organizational engagement at UESD.",
+
+    currentActivities:
+        "Currently serving as an NSS Personnel and student leader within the School of Sustainable Development at UESD.",
+
+    leadershipExperience:
+        "Deputy Speaker, School of Sustainable Development Student Association, UESD; Chairman, Vetting Committee, School of Sustainable Development Student Association, UESD.",
+
+    professionalExperience:
+        "NSS Personnel with academic and student leadership experience in sustainable development.",
+
+    focusAreas:
+        "Sustainable Development • Youth Leadership • Education • Community Development • Student Representation",
+
+    slogan:
+        "Leadership • Sustainability • Service",
+
+    image: "images/osantey-kingsbel-bless.jpeg",
+
+    email: "djheaven1234@gmail.com",
+    phone: "0531894184",
+    website: "#",
+
+    facebook: "https://www.facebook.com/share/1CM57QQe8n/?mibextid=wwXIfr",
+    twitter: "https://x.com/osantey_kingsbe?s=11",
+    instagram: "https://www.instagram.com/kingsbel_osantey_bless?stkn=MXY2NHI4YXgwOWYxcg%3D%3D&utm_source=qr",
+    linkedin: "https://www.linkedin.com/in/osantey-kingsbel-bless-48242a276?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+    tiktok: "#"
+},
+{
+    id: "mp144",
+    name: "ERIC AWINE MBA",
+    position: "Member of Parliament",
+    constituency: "Bongo Constituency",
+    region: "Upper East",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+
+    education:
+        "Kwame Nkrumah University of Science and Technology (KNUST) — Bachelor of Science in Agriculture, Fourth Year; Mastercard Foundation Scholar, Cohort 10. Kongo Senior High School — Agriculture / General Agriculture, Senior High School Certificate, 2022.",
+
+    profession:
+        "Student • Entrepreneur • Graphic Designer",
+
+    experience:
+        "Youth Member of Parliament-elect, Bongo Constituency, Youth Parliament Ghana, 2026; Electoral Commissioner, Persons with Disability Association, KNUST, 2025–2026 Academic Year; Deputy Head of Media, Pax Romana, KNUST, 2024–2025 Academic Year; Peer Mentor and Leadership Volunteer, Mastercard Foundation Scholars Program, KNUST; General Secretary, St. Francis of Assisi, Kongo Senior High School, 2021–2022; SRC Representative, Kongo Senior High School, 2020–2022; Creative/Graphic Designer, Momento Craft Studio; Youth Skills Trainer, Community Skills Development Initiatives.",
+
+    biography:
+        "ERIC AWINE MBA is a young Ghanaian from Bongo District in the Upper East Region whose journey has been shaped by education, entrepreneurship, leadership, creativity, and community service. He is currently a fourth-year Bachelor of Science in Agriculture student at the Kwame Nkrumah University of Science and Technology (KNUST) and a Mastercard Foundation Scholar, Cohort 10. His interest in leadership and public service developed through student leadership at Kongo Senior High School, where he served as an SRC Representative from 2020 to 2022 and later as General Secretary of St. Francis of Assisi during the 2021–2022 academic year. At KNUST, he has continued to combine academics with leadership, mentorship, and community engagement. He has served as Deputy Head of Media for Pax Romana, KNUST, participated in the Mastercard Foundation Scholars Program as a peer mentor and leadership volunteer, and served as Electoral Commissioner of the Persons with Disability Association at KNUST for the 2025–2026 academic year. Beyond academics, he is an entrepreneur and creative professional through Momento Craft Studio, where he is involved in graphic design, branding, printing, and customised products. He has also supported community skills-development initiatives in areas including leather craft, footwear production, picture framing, T-shirt printing, branding, and customised-product production. His entrepreneurial efforts were recognised within the Mastercard Foundation Scholars Program at KNUST, where he was elected Entrepreneur of the Year. In 2026, he was elected Youth Member of Parliament-elect for the Bongo Constituency under Youth Parliament Ghana.",
+
+    vision:
+        "To promote meaningful youth participation, practical skills development, entrepreneurship, education, employment opportunities, and community development.",
+
+    plans:
+        "Support initiatives in education, skills development, entrepreneurship, agriculture, employment, and community empowerment that respond to the needs and aspirations of young people.",
+
+    contribution:
+        "Contributes to youth leadership, entrepreneurship, graphic design, practical skills development, mentorship, disability advocacy, and community development.",
+
+    currentActivities:
+        "Currently pursuing a Bachelor of Science in Agriculture at KNUST, while engaging in entrepreneurship, creative work, youth leadership, mentorship, and community skills-development initiatives.",
+
+    leadershipExperience:
+        "Youth Member of Parliament-elect for Bongo Constituency; Electoral Commissioner, Persons with Disability Association, KNUST; Deputy Head of Media, Pax Romana, KNUST; Peer Mentor and Leadership Volunteer, Mastercard Foundation Scholars Program; General Secretary, St. Francis of Assisi; SRC Representative, Kongo Senior High School.",
+
+    professionalExperience:
+        "Entrepreneur and Graphic Designer through Momento Craft Studio, with experience in graphic design, branding, printing, customised products, and practical skills training.",
+
+    focusAreas:
+        "Agriculture • Youth Development • Entrepreneurship • Skills Development • Education • Technology • Graphic Design • Community Empowerment • Disability Advocacy",
+
+    slogan:
+        "Leadership Through Service, Innovation and Opportunity.",
+
+    image: "images/MBA.jpeg",
+
+    email: "mbaeric515@gmail.com",
+    phone: "0554564865",
+    website: "#",
+
+    facebook: "https://www.facebook.com/profile.php?id=100093376784964&mibextid=wwXIfr",
+    twitter: "#",
+    instagram: "https://www.instagram.com/515_awine?stkn=OThxeWkxcTdpZGs1&utm_source=qr",
+    linkedin: "https://www.linkedin.com/in/eric-awine-mba-850236347",
+    tiktok: "#"
+},
 
 ];
