@@ -3054,4 +3054,67 @@ region: "Ashanti",
     isMP: true,
     mpId: "mp136"
 },
+    {
+    id: "app053",
+    name: "NASHIRA ABUBAKAR",
+    position: "Deputy Regional Minister",
+    constituency: "Manhyia North",
+    region: "Ashanti",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+
+    ministry: "Ashanti Regional Coordinating Council",
+    appointmentDate: "25th September, 2026",
+    isMP: false,
+    mpId: null,
+
+    education:
+        "Kwame Nkrumah University of Science and Technology (KNUST), Obuasi Campus — Metallurgical Engineering, Year 3.",
+
+    profession:
+        "Student Leader / Member, Youth Parliament Ghana",
+
+    experience:
+        "Member, KNUST Legal Affairs Committee; Member, KNUST MATESA Department Academic Board; Course Representative; Vice President, MATESA Department; Deputy Women's Commissioner, TEIN.",
+
+    biography:
+        "NASHIRA ABUBAKAR is an emerging youth leader and STEM advocate serving as Deputy Regional Minister under Youth Parliament Ghana. She is currently a Year 3 student of Metallurgical Engineering at Kwame Nkrumah University of Science and Technology (KNUST), Obuasi Campus. She has gained leadership experience through various student and youth organizations, including the KNUST Legal Affairs Committee, KNUST MATESA Department Academic Board, and the MATESA Department, where she has served as a Course Representative and Vice President. She has also served as Deputy Women's Commissioner of TEIN. She is passionate about leadership, STEM development, youth empowerment, and creating meaningful impact through service.",
+
+    vision:
+        "To lead with purpose, empower others, and promote meaningful opportunities for young people, particularly in STEM and leadership.",
+
+    plans:
+        "Promote youth empowerment, STEM advocacy, leadership development, and opportunities that enable young people to contribute meaningfully to society.",
+
+    contribution:
+        "Contributes to student leadership, youth development, STEM advocacy, and initiatives that empower young people to participate actively in leadership and community development.",
+
+    currentActivities:
+        "Currently serving as Deputy Regional Minister while pursuing a Year 3 programme in Metallurgical Engineering at KNUST, Obuasi Campus.",
+
+    leadershipExperience:
+        "Member, KNUST Legal Affairs Committee; Member, KNUST MATESA Department Academic Board; Course Representative; Vice President, MATESA Department; Deputy Women's Commissioner, TEIN.",
+
+    professionalExperience:
+        "Metallurgical Engineering student with experience in student leadership, academic representation, youth advocacy, and organizational administration.",
+
+    focusAreas:
+        "Youth Development • STEM Advocacy • Leadership • Education • Women's Empowerment • Community Development",
+
+    slogan:
+        "Leading with Purpose, Empowering Others, Creating Impact.",
+
+    image: "images/nashira.jpeg",
+
+    email: "abubakarnashira0@gmail.com",
+    phone: "0539598619",
+    website: "#",
+
+    facebook: "#",
+    twitter: "Abubakar Nashira",
+    instagram: "kwenash0",
+    linkedin: "Abubakar Nashira",
+    tiktok: "#"
+},
+
 ];
