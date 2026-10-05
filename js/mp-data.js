@@ -2081,7 +2081,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Leadership • Service • Representation",
 
-    image: "images/Doreen Quarmyne.png",
+    image: "images/Doreen.jpeg",
 
     email: "doreenquarmyne1@gmail.com",
     phone: "#",
@@ -4315,7 +4315,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Service • Integrity • Unity • Inclusion",
 
-    image: "images/Fomenyo Godsway.png",
+    image: "images/fomenyo.jpeg",
 
     email: "godswayfomenyo@gmail.com",
     phone: "0540780958",
