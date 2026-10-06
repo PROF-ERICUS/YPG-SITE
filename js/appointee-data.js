@@ -2461,7 +2461,7 @@ region: "Ashanti",
     slogan:
         "Service, empathy, accountability and meaningful community engagement.",
 
-    image: "staphanie.jpeg",
+    image: "images/staphanie.jpeg",
 
     email: "stephaniekensengasiedu@gmail.com",
     phone: "0240807995",
