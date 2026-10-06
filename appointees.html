@@ -3364,128 +3364,185 @@ document.addEventListener(
         );
 
 
-        /* =========================================================
-           DUPLICATE APPOINTMENT CHECK
-           
-           Existing system retained.
-        ========================================================== */
+       /* =========================================================
+   DUPLICATE APPOINTMENT CHECK
 
-        function checkDuplicateAppointees() {
+   RULE:
+   A duplicate only exists when the SAME POSITION
+   is assigned to the SAME CONSTITUENCY / AREA.
 
-            const appointmentMap =
-                {};
+   Therefore:
 
-            const duplicates =
-                [];
+   MCE + Lower West Akim
+   MCE + Obuasi Municipality
 
+   = NOT DUPLICATES
 
-            /*
-             * Duplicate checking is performed on active
-             * appointees, including records that may be hidden
-             * because of constituency validation.
-             *
-             * This is intentional because a hidden DCE/MCE
-             * can still have an appointment conflict in the
-             * underlying data.
-             */
+   MCE + Lower West Akim
+   MCE + Lower West Akim
 
-            activeAppointees.forEach(
-                function (
-                    person
-                ) {
+   = DUPLICATE
+========================================================= */
 
-                    const position =
-                        String(
-                            person.position ||
-                            ""
-                        )
-                            .trim()
-                            .replace(
-                                /\s+/g,
-                                " "
-                            )
-                            .toLowerCase();
+function checkDuplicateAppointees() {
+
+    const appointmentMap = {};
+    const duplicates = [];
 
 
-                    if (
-                        !position
-                    ) {
+    activeAppointees.forEach(function (person) {
 
-                        return;
-                    }
+        /* -----------------------------------------
+           POSITION
+        ----------------------------------------- */
+
+        const position =
+            String(
+                person.position || ""
+            )
+            .trim()
+            .replace(/\s+/g, " ")
+            .toLowerCase();
 
 
-                    if (
-                        appointmentMap[
-                            position
-                        ]
-                    ) {
+        if (!position) {
+            return;
+        }
 
-                        duplicates.push({
 
-                            position:
-                                person.position,
+        /* -----------------------------------------
+           CONSTITUENCY / AREA
+        ----------------------------------------- */
 
-                            firstAppointee:
-                                appointmentMap[
-                                    position
-                                ],
-
-                            duplicateAppointee:
-                                person
-
-                        });
-
-                    } else {
-
-                        appointmentMap[
-                            position
-                        ] =
-                            person;
-                    }
-                }
+        const constituency =
+            normalizeConstituency(
+                person.constituency || ""
             );
 
 
-            if (
-                duplicates.length > 0
-            ) {
+        /*
+         * National appointments without a
+         * constituency should be checked by
+         * position only.
+         *
+         * Example:
+         *
+         * Minister for Defence
+         * Minister for Defence
+         *
+         * = duplicate
+         */
 
-                let message =
-                    "⚠️ DUPLICATE APPOINTMENT DETECTED\n\n" +
-
-                    "Two active appointees cannot hold the same appointment.\n\n";
-
-
-                duplicates.forEach(
-                    function (
-                        duplicate,
-                        index
-                    ) {
-
-                        message +=
-
-                            `${index + 1}. ${duplicate.position}\n` +
-
-                            `Existing Appointee: ${duplicate.firstAppointee.name} (${duplicate.firstAppointee.id})\n` +
-
-                            `Duplicate Appointee: ${duplicate.duplicateAppointee.name} (${duplicate.duplicateAppointee.id})\n\n`;
-                    }
-                );
+        let duplicateKey;
 
 
-                alert(
-                    message
-                );
+        if (constituency) {
 
+            duplicateKey =
+                `${position}||${constituency}`;
 
-                console.error(
-                    "Duplicate appointments detected:",
-                    duplicates
-                );
-            }
+        } else {
+
+            duplicateKey =
+                `${position}||national`;
+
         }
 
+
+        /* -----------------------------------------
+           DUPLICATE CHECK
+        ----------------------------------------- */
+
+        if (
+            appointmentMap[
+                duplicateKey
+            ]
+        ) {
+
+            duplicates.push({
+
+                position:
+                    person.position,
+
+                constituency:
+                    person.constituency ||
+                    "National",
+
+                firstAppointee:
+                    appointmentMap[
+                        duplicateKey
+                    ],
+
+                duplicateAppointee:
+                    person
+
+            });
+
+        } else {
+
+            appointmentMap[
+                duplicateKey
+            ] = person;
+
+        }
+
+    });
+
+
+    /* -----------------------------------------
+       SHOW DUPLICATES
+    ----------------------------------------- */
+
+    if (
+        duplicates.length > 0
+    ) {
+
+        let message =
+            "⚠️ DUPLICATE APPOINTMENT DETECTED\n\n" +
+
+            "The same position cannot be assigned " +
+            "to the same constituency or area twice.\n\n";
+
+
+        duplicates.forEach(
+            function (
+                duplicate,
+                index
+            ) {
+
+                message +=
+
+                    `${index + 1}. ` +
+                    `${duplicate.position}\n` +
+
+                    `Area: ` +
+                    `${duplicate.constituency}\n` +
+
+                    `Existing Appointee: ` +
+                    `${duplicate.firstAppointee.name} ` +
+                    `(${duplicate.firstAppointee.id})\n` +
+
+                    `Duplicate Appointee: ` +
+                    `${duplicate.duplicateAppointee.name} ` +
+                    `(${duplicate.duplicateAppointee.id})\n\n`;
+
+            }
+        );
+
+
+        alert(
+            message
+        );
+
+
+        console.error(
+            "Duplicate appointments detected:",
+            duplicates
+        );
+
+    }
+
+}
 
         /* =========================================================
            DEBUG / VALIDATION REPORT
