@@ -3116,5 +3116,613 @@ region: "Ashanti",
     linkedin: "Abubakar Nashira",
     tiktok: "#"
 },
+    {
+    id: "app054",
+    name: "SAMUEL ABOAGYE NSIAH",
+    position: "Municipal Chief Executive (MCE), Ejisu",
+    constituency: "Ejisu Constituency",
+    region: "Ashanti",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+
+    ministry: "Ministry of Youth Development and Empowerment",
+    appointmentDate: "2 October 2026",
+    isMP: false,
+    mpId: null,
+
+    education:
+        "Ejisu M/A Basic School; Ejisuman SHS, 2018–2021; Kumasi Technical University, B.Tech Data Science, 2022–2026",
+
+    profession:
+        "National Service Personnel (NSS)",
+
+    experience:
+        "Faculty Treasurer, Faculty of Applied Science and Technology Students’ Association (FASTSA), Kumasi Technical University; Departmental Organizer, Department of Statistical Science; Data Science Student and Emerging Data Professional, Kumasi Technical University; Church Shepherd and Transport Officer, The Hopeway Revival Church",
+
+    biography:
+        "Samuel Aboagye Nsiah is a young Ghanaian leader, data science professional and public-service advocate serving as the Municipal Chief Executive (MCE) for Ejisu and a member of the Youth Parliament Ghana. He holds a Bachelor of Technology (B.Tech) in Data Science from Kumasi Technical University, completed in 2026. His academic and professional interests are centred on data, technology, innovation and the use of evidence-based approaches to address societal challenges and improve public-sector decision-making. He has demonstrated leadership and organisational experience through his involvement in student leadership at Kumasi Technical University, where he served as Faculty Treasurer of the Faculty of Applied Science and Technology Students’ Association (FASTSA). Through this role, he gained practical experience in financial administration, student representation, stakeholder engagement and organisational management. His leadership journey is driven by a strong commitment to youth development, community service and creating opportunities for young people to contribute meaningfully to Ghana’s development. As a member of the Youth Parliament Ghana, he seeks to contribute constructively to discussions on national development, youth empowerment, education, technology, employment and community development while representing the interests and aspirations of young people. He is currently engaged in National Service and continues to develop his professional interests in data science, technology, leadership and public service.",
+
+    vision:
+        "To promote youth development, technology-driven solutions, community service and evidence-based public-sector decision-making.",
+
+    plans:
+        "Support youth empowerment, education, technology, employment and community development while promoting meaningful youth participation in national development.",
+
+    contribution:
+        "Student leadership, financial administration, data science, youth development and community service.",
+
+    currentActivities:
+        "Municipal Chief Executive (MCE), Ejisu; Director for Programs under the Ministry of Youth Development and Empowerment, Youth Parliament Ghana; National Service Personnel.",
+
+    leadershipExperience:
+        "Faculty Treasurer, FASTSA, Kumasi Technical University; Departmental Organizer, Department of Statistical Science; Church Shepherd and Transport Officer, The Hopeway Revival Church.",
+
+    professionalExperience:
+        "Data science training and emerging professional experience, National Service, student organisational leadership and public-service engagement.",
+
+    focusAreas:
+        "Youth development, data science, technology, innovation, education, employment, community development and public service",
+
+    slogan:
+        "Data, leadership and service for youth development",
+
+    image: "images/samuel.jpeg",
+
+    email: "samuelnsiag787@gmail.com",
+    phone: "0552863334",
+    website: "#",
+
+    facebook: "Aboagye Nsiah Samuel",
+    twitter: "#",
+    instagram: "PinballJunior",
+    linkedin: "Samuel Nsiah Aboagye"
+},
+{
+    id: "app055",
+    name: "MAMEIBI MABANINA PHILEMON",
+    position: "Minister for Health",
+    constituency: "Saboba",
+    region: "Northern",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+
+    ministry: "Ministry of Health",
+    appointmentDate: "23rd September, 2026",
+    isMP: false,
+    mpId: null,
+
+    education:
+        "St. John of God College of Health, Duayaw Nkwanta — Trauma and Orthopaedics Technician, Diploma in Trauma and Orthopaedics Technician, 2023–2025; Oxford Business Senior High School, Abesim — General Education / WASSCE, 2018–2021; Boakoln SDA Junior High School, Saboba — Basic Education / BECE, 2016–2018",
+
+    profession:
+        "Trauma and Orthopaedic Technician",
+
+    experience:
+        "National General Secretary, Trauma and Orthopaedic Technicians Association of Ghana (TOTAG), 2026/2027; Regional General Secretary, National Service Personnel Association (NASPA), Brong Ahafo Region, 2026/2027; General Secretary, National Service Personnel Association (NASPA), Sunyani Municipality, 2026/2027; SRC President, St. John of God College of Health, Duayaw Nkwanta, 2024/2025; General Secretary, Federation of Ghana Catholic Health Trainees (FGCHT) / International Movement of Catholic Students (IMCS), 2024; Catechist, FGCHT/IMCS, St. John of God College of Health Chapter, 2024/2025; Assistant General Secretary, Chosen Ambassadors, St. John of God College of Health, 2024/2025; Financial Secretary, Sign Language Club, St. John of God College of Health, 2024/2025; School Prefect, Oxford Business Senior High School, 2021; Trauma and Orthopaedic Technician (Intern), Sunyani Teaching Hospital, October 2025–Present; Teaching Assistant, Sunyani Success City Senior High School, 2021–Present; Chief Executive Officer, MP Mobile Kitchen, Accra; Volunteer and Donor, Mums Love Care Foundation Orphanage and Rehabilitation Center, Duayaw Nkwanta, 2023–Present",
+
+    biography:
+        "MAMEIBI MABANINA PHILEMON is a Ghanaian Trauma and Orthopaedic Technician, youth leader, health advocate and public-service enthusiast with a background in orthopaedic healthcare, student leadership, professional association leadership and community service. He holds a Diploma in Trauma and Orthopaedic Technician from the St. John of God College of Health, Duayaw Nkwanta, affiliated with the Kwame Nkrumah University of Science and Technology (KNUST), completed between 2023 and 2025. He serves as a Trauma and Orthopaedic Technician (Intern) at Sunyani Teaching Hospital, where his professional responsibilities include orthopaedic patient care, casting and splinting, traction management, preparation and assistance during orthopaedic procedures, orthopaedic device management and related clinical responsibilities. His professional development includes training and certifications in CPR and First Aid, Basic Life Support (BLS), Advanced Trauma Life Support (ATLS) and Advanced Cardiovascular Life Support (ACLS). Philemon has demonstrated leadership experience across student, professional and national-service structures, including serving as SRC President of St. John of God College of Health, National General Secretary of the Trauma and Orthopaedic Technicians Association of Ghana (TOTAG), Regional General Secretary of NASPA for the Brong Ahafo Region and General Secretary of NASPA for the Sunyani Municipality. He has also served in various student, religious and organisational leadership roles. His leadership has been recognised through awards including Overall Best Outstanding SRC Executive 2024/2025 and Overall Most Disciplined Student of St. John of God College of Health. Beyond his professional and leadership activities, he has contributed to community service as a Volunteer and Donor with Mums Love Care Foundation Orphanage and Rehabilitation Center, Duayaw Nkwanta. He was appointed Minister for Health of Youth Parliament Ghana on 23rd September, 2026, where he seeks to contribute to youth participation in health policy discussions, healthcare advocacy, healthcare development and issues affecting young people and communities in Ghana.",
+
+    vision:
+        "To contribute to improved healthcare development, youth participation in health policy discussions and stronger health advocacy for young people and communities.",
+
+    plans:
+        "Promote youth participation in healthcare discussions, health advocacy, healthcare development and awareness of issues affecting young people and communities.",
+
+    contribution:
+        "Orthopaedic healthcare, youth leadership, professional association leadership, health advocacy and community service.",
+
+    currentActivities:
+        "Minister for Health, Youth Parliament Ghana; Trauma and Orthopaedic Technician (Intern), Sunyani Teaching Hospital; Teaching Assistant, Sunyani Success City Senior High School.",
+
+    leadershipExperience:
+        "National General Secretary, TOTAG; Regional General Secretary, NASPA Brong Ahafo Region; General Secretary, NASPA Sunyani Municipality; SRC President, St. John of God College of Health; General Secretary, FGCHT/IMCS; Catechist; Assistant General Secretary, Chosen Ambassadors; Financial Secretary, Sign Language Club.",
+
+    professionalExperience:
+        "Trauma and Orthopaedic Technician (Intern) at Sunyani Teaching Hospital, with experience in orthopaedic patient care, casting and splinting, traction management, orthopaedic procedures and orthopaedic device management.",
+
+    focusAreas:
+        "Healthcare, youth development, health advocacy, orthopaedic healthcare, education, community service and public leadership",
+
+    slogan:
+        "Advancing youth leadership and better health for communities",
+
+    image: "images/philemon.jpeg",
+
+    email: "mameibiphilemon@gmail.com",
+    phone: "+233 543 616 422 / +233 536 175 674",
+    website: "#",
+
+    facebook: "Philemon Mameibi Mabanina",
+    twitter: "@MameibiPhilemon",
+    instagram: "Mameibi Philemon",
+    linkedin: "Philemon Mameibi",
+    tiktok: "@prof.hero8"
+},
+{
+    id: "app056",
+    name: "SAMIRA ABDULLAH",
+    position: "Municipal Chief Executive (MCE)",
+    constituency: "Obuasi Municipality",
+    region: "Ashanti",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+
+    ministry: "Obuasi Municipal Assembly",
+    appointmentDate: "4th October, 2026",
+    isMP: false,
+    mpId: null,
+
+    education:
+        "University for Development Studies, Nyankpala Campus — Bachelor of Science (BSc) in Natural Resources Management, 2022–2026; Christ the King Catholic Senior High School, Obuasi — Senior High School, 2019–2022",
+
+    profession:
+        "Natural Resource Management Graduate",
+
+    experience:
+        "Dining Hall Prefect, Christ the King Catholic Senior High School, Obuasi, 2019–2022; Main Dining Hall Girls Prefect, Christ the King Catholic Senior High School; Intern, Environmental Protection Authority (EPA), Obuasi Municipal Office, June 2025–August 2025; Member, Majority Caucus, UDS Students’ Parliament, First Parliament, 2024/2025 Academic Year; Member, Majority Caucus, UDS Students’ Parliament, Second Parliament, 2025/2026 Academic Year; Deputy Chairperson, UDS SRC Planning Committee; Secretary, Natural Resources Students Association (NARSA); Secretary, Ghana Muslim Students Association (GMSA); Secretary Candidate, UDS SRC",
+
+    biography:
+        "SAMIRA ABDULLAH is a Natural Resource Management graduate, emerging public leader and youth advocate with a strong interest in public service, environmental sustainability, youth development and inclusive community development. She is a graduate of the University for Development Studies (UDS), Nyankpala Campus, where she pursued a Bachelor of Science in Natural Resources Management from 2022 to 2026. Her academic training equipped her with knowledge and practical skills in natural resource management, environmental management, geographical information systems, research and data analysis. Her leadership journey began during her Senior High School education at Christ the King Catholic Senior High School, Obuasi, where she served in dining hall leadership and became the Main Dining Hall Girls Prefect in her final year. At the University for Development Studies, she served as a Member of the UDS Students’ Parliament under the Majority Caucus during the First and Second Parliaments. She also served as Deputy Chairperson of the UDS SRC Planning Committee, Secretary of the Natural Resources Students Association (NARSA) and Secretary of the Ghana Muslim Students Association (GMSA), and contested for the position of UDS SRC Secretary. Professionally, she gained practical environmental experience through her internship at the Environmental Protection Authority (EPA), Obuasi Municipal Office, from June to August 2025, where she gained exposure to environmental monitoring, field inspections, field data collection, compliance activities, stakeholder engagement and community sensitisation. As part of her academic work, she conducted research on dynamics in fuelwood consumption and dependence on economic tree species in the Tolon District, Northern Region, Ghana, strengthening her experience in community-based research and data analysis. As Municipal Chief Executive for Obuasi Municipality under the Youth Parliament Ghana, she seeks to contribute to meaningful youth participation, community development, environmental sustainability and opportunities for young people through collaboration with communities, institutions and relevant stakeholders.",
+
+    vision:
+        "To promote sustainable natural resource management, youth participation, environmental sustainability and inclusive community development.",
+
+    plans:
+        "Support youth empowerment, environmental sustainability, responsible natural resource management and community development through collaboration with communities and relevant stakeholders.",
+
+    contribution:
+        "Natural resource management, environmental advocacy, student leadership, community research, youth development and public service.",
+
+    currentActivities:
+        "Municipal Chief Executive (MCE), Obuasi Municipality, Youth Parliament Ghana.",
+
+    leadershipExperience:
+        "Member, UDS Students’ Parliament Majority Caucus; Deputy Chairperson, UDS SRC Planning Committee; Secretary, Natural Resources Students Association; Secretary, Ghana Muslim Students Association; Main Dining Hall Girls Prefect, Christ the King Catholic Senior High School.",
+
+    professionalExperience:
+        "Environmental Protection Authority (EPA), Obuasi Municipal Office — environmental monitoring, field inspections, data collection, compliance activities, stakeholder engagement and community sensitisation.",
+
+    focusAreas:
+        "Youth empowerment, environmental sustainability, natural resource management, community development, research and public service",
+
+    slogan:
+        "Sustainable resources, empowered youth and inclusive development",
+
+    image: "images/samira.jpeg",
+
+    email: "mira80280@gmail.com",
+    phone: "0257405400",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#"
+},
+{
+    id: "app057",
+    name: "HARLLEY GODSWAY",
+    position: "Minister for Parliamentary Affairs",
+    constituency: "Awutu Senya East",
+    region: "Central",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+
+    ministry: "Ministry for Parliamentary Affairs",
+    appointmentDate: "25th September, 2026",
+    isMP: false,
+    mpId: null,
+
+    education:
+        "BYU Pathway University — Bachelor of Science in Public Health Nursing, 2026–Present; Nyaniba Health College — Nursing Assistant Clinical, 2025; Central University — Diploma in Health and Social Care, 2023; Bishop Herman College; Additional training in Mental Health Care and professional leadership development",
+
+    profession:
+        "Nurse / Public Health Professional",
+
+    experience:
+        "Minister for Parliamentary Affairs, Youth Parliament Ghana; Ministry of Health Appointee / Representative of Health Students Across Ghana, Youth Parliament Ghana; Board Committee Member, Youth Parliament Ghana; National Vice President, Ghana Association of Health Training Institutions (GAHTI); General Secretary, Bishop Herman Old Boys Union; Deputy Chairperson, Constitutional Review Committee, NAHSAG; Former Greater Accra Regional President, GAHTI; Former Deputy Organizer, TEIN NHC; Former Vice President, Nyaniba Health College",
+
+    biography:
+        "Hon. Harlley Godsway is a Ghanaian nurse, public health professional, youth advocate, student leader and emerging public servant with a strong commitment to healthcare, youth development, leadership and inclusive national development. He currently serves as the Minister for Parliamentary Affairs of Youth Parliament Ghana, having been appointed on 25th September 2026, and represents the Awutu Senya East Constituency. In this capacity, he contributes to parliamentary engagement, youth representation, policy dialogue and initiatives that promote meaningful youth participation in governance and national development. Hon. Godsway is also a Ministry of Health Appointee and Representative of Health Students Across Ghana within Youth Parliament Ghana, where he advocates for the interests, welfare, professional development and effective representation of health students across the country. He additionally serves as a Board Committee Member of Youth Parliament Ghana, contributing to institutional leadership and strategic decision-making. In the health sector, he serves as the National Vice President of the Ghana Association of Health Training Institutions (GAHTI), having previously served as the Greater Accra Regional President of GAHTI. His leadership experience also includes serving as Deputy Chairperson of the Constitutional Review Committee of NAHSAG, as well as previous leadership positions at Nyaniba Health College, including Vice President and Deputy Organizer of TEIN NHC. Professionally, Hon. Godsway has a background in nursing and health and social care and is further advancing his academic career in Public Health Nursing. His professional and leadership interests lie at the intersection of healthcare, public policy, youth empowerment, education and governance. He believes that leadership is fundamentally about service, responsibility and creating opportunities for others to thrive, with a public-service philosophy centred on integrity, representation, accountability, collaboration and impact.",
+
+    vision:
+        "To promote meaningful youth participation, responsible parliamentary engagement, healthcare advocacy and inclusive national development.",
+
+    plans:
+        "Strengthen youth representation, promote health-sector advocacy, support policy dialogue and contribute to initiatives in healthcare, education, governance and community development.",
+
+    contribution:
+        "Youth representation, parliamentary affairs, health advocacy, student leadership, public policy engagement and institutional development.",
+
+    currentActivities:
+        "Minister for Parliamentary Affairs, Youth Parliament Ghana; National Vice President, Ghana Association of Health Training Institutions (GAHTI); Ministry of Health Appointee and Representative of Health Students Across Ghana; Board Committee Member, Youth Parliament Ghana.",
+
+    leadershipExperience:
+        "Minister for Parliamentary Affairs, Youth Parliament Ghana; National Vice President, GAHTI; Former Greater Accra Regional President, GAHTI; Deputy Chairperson, Constitutional Review Committee, NAHSAG; Former Vice President, Nyaniba Health College; Former Deputy Organizer, TEIN NHC; General Secretary, Bishop Herman Old Boys Union.",
+
+    professionalExperience:
+        "Nursing and health and social care background with continuing academic training in Public Health Nursing, alongside leadership and advocacy experience within health-training institutions and youth governance.",
+
+    focusAreas:
+        "Health, youth development, public policy, parliamentary affairs, education, advocacy, governance and community development",
+
+    slogan:
+        "Service, leadership, representation, accountability and impact",
+
+    image: "images/harlley-godsway.jpeg",
+
+    email: "#",
+    phone: "#",
+    website: "#",
+
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "app058",
+    name: "ABEDU GADBLESS SACKEY",
+    position: "Municipal Chief Executive (MCE)",
+    constituency: "Asunafo North",
+    region: "Ahafo",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+
+    ministry: "Asunafo North Municipal Assembly",
+    appointmentDate: "2nd October, 2026",
+    isMP: false,
+    mpId: null,
+
+    education:
+        "University of Energy and Natural Resources — Civil Engineering, Degree, Second Year",
+
+    profession:
+        "Civil Engineering Student",
+
+    experience:
+        "Assistant Boys Chaplain, Bright Star Preparatory School; Assistant Boys Prefect, Mim Senior High School",
+
+    biography:
+        "A young Ghanaian leader and Civil Engineering student with experience in student leadership and youth development. Currently serving as Municipal Chief Executive for Asunafo North under Youth Parliament Ghana.",
+
+    vision:
+        "To contribute to youth development, community leadership and sustainable local development through effective public service.",
+
+    plans:
+        "To promote youth participation, community development and initiatives that support the growth and wellbeing of young people within the constituency.",
+
+    contribution:
+        "Youth leadership, community engagement and public-service development.",
+
+    currentActivities:
+        "Municipal Chief Executive (MCE), Asunafo North; Civil Engineering student at the University of Energy and Natural Resources.",
+
+    leadershipExperience:
+        "Assistant Boys Chaplain, Bright Star Preparatory School; Assistant Boys Prefect, Mim Senior High School.",
+
+    professionalExperience:
+        "Civil Engineering student with leadership experience in basic and secondary education.",
+
+    focusAreas:
+        "Youth development, community development, education and public service.",
+
+    slogan:
+        "Leadership with purpose and service.",
+
+    image: "images/abedu.jpeg",
+
+    email: "abedugadbless7@gmail.com",
+    phone: "020 542 6273",
+    website: "#",
+
+    facebook: "Gadbless Abedu",
+    twitter: "#",
+    instagram: "gadblessabedu",
+    linkedin: "#",
+    tiktok: "#"
+},
+{
+    id: "app059",
+    name: "LAARJAH JACOB YENNUMI",
+    position: "Minister for Trade, Agribusiness and Industry (MOTAI)",
+    constituency: "Bunkpurugu-Nankpanduri",
+    region: "North East",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+
+    ministry: "Ministry for Trade, Agribusiness and Industry",
+    appointmentDate: "26 September 2026",
+    isMP: false,
+    mpId: null,
+
+    education:
+        "Tamale College of Education — B.Ed. Geography and Social Studies, affiliated with KNUST, 2026",
+
+    profession:
+        "Educator | Youth Development Advocate",
+
+    experience:
+        "Pan-African Parliamentary Affairs Research Assistant (Volunteer); Author and Volunteer Contributor, Right for Education Africa; Director of Finance, Better Dream Foundation Ghana; E-Learning Ambassador, KNUST/Arizona State University Digital Education Initiative; Founder, Passion Smart Sky Farms IoTs",
+
+    biography:
+        "A Ghanaian educator, youth development advocate, researcher, and emerging agribusiness entrepreneur serving as Minister for Trade, Agribusiness and Industry (MOTAI), Youth Parliament Ghana. He holds a B.Ed. in Geography and Social Studies from Tamale College of Education, affiliated with KNUST. His interests include youth development, agribusiness, climate change, environmental justice, and sustainable development.",
+
+    vision:
+        "To promote youth development, sustainable agribusiness, innovation and inclusive economic opportunities.",
+
+    plans:
+        "To support youth participation in agribusiness, trade, innovation and sustainable development while promoting practical opportunities for young people.",
+
+    contribution:
+        "Youth development, agribusiness, research, education and sustainable development advocacy.",
+
+    currentActivities:
+        "Minister for Trade, Agribusiness and Industry (MOTAI), Youth Parliament Ghana; Founder, Passion Smart Sky Farms IoTs.",
+
+    leadershipExperience:
+        "Director of Finance, Better Dream Foundation Ghana; E-Learning Ambassador under the KNUST/Arizona State University Digital Education Initiative.",
+
+    professionalExperience:
+        "Educator, researcher, youth development advocate and emerging agribusiness entrepreneur with experience in parliamentary affairs research, digital education and development initiatives.",
+
+    focusAreas:
+        "Trade, agribusiness, industry, youth development, climate change, environmental justice and sustainable development.",
+
+    slogan:
+        "Empowering youth through trade, agribusiness and sustainable development.",
+
+    image: "images/laarjahjpeg",
+
+    email: "jacoblaajah4@gmail.com",
+    phone: "+233 249 885 168",
+    website: "#",
+
+    facebook: "Laarjah Jacob",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "https://www.linkedin.com/in/yennumi-jacob-laarjah",
+    tiktok: "#"
+},
+{
+    id: "app060",
+    name: "ASANTE KWADWO NTI",
+    position: "District Chief Executive (DCE), Twifu Atti Morkwa; Deputy Director General (GES)",
+    constituency: "Twifu Atti Morkwa",
+    region: "Central",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+
+    ministry: "Twifu Atti Morkwa District Assembly",
+    appointmentDate: "2/10/2026",
+    isMP: false,
+    mpId: null,
+
+    education:
+        "University of Mines and Technology (UMaT) — BSc Natural Gas Engineering; Mfantsipim School — WASSCE, 2021–2023; Adugyaa A.M.E Zion JHS — BECE, 2018–2020",
+
+    profession:
+        "Natural Gas Engineering Student / Youth Leader",
+
+    experience:
+        "Chief of Staff, Gold Refinery Hall, UMaT, 2025/2026; General Secretary, MOBA UMaT, 2025/2026; House Marshall, Freeman Aggrey House, Mfantsipim School, 2021/2022; SRC Class Entertainment Representative, Mfantsipim School, 2021/2022; Boys Prefect, AME Zion Junior High School, 2019/2020",
+
+    biography:
+        "A Natural Gas Engineering student at the University of Mines and Technology (UMaT) and a passionate youth leader committed to leadership, advocacy, empowerment and community development. He serves as the District Chief Executive for Twifu Atti Morkwa and Deputy Director General (GES) of Youth Parliament Ghana, contributing to youth representation, educational development and leadership initiatives. His leadership experience spans tertiary, secondary and basic education, with a leadership approach anchored in integrity, collaboration, effective communication and creating meaningful opportunities for young people.",
+
+    vision:
+        "To promote youth leadership, educational development, community empowerment and meaningful opportunities for young people.",
+
+    plans:
+        "To support youth representation, educational initiatives, leadership development and community-focused programmes within Youth Parliament Ghana.",
+
+    contribution:
+        "Youth representation, educational development, leadership, advocacy and community development.",
+
+    currentActivities:
+        "District Chief Executive, Twifu Atti Morkwa; Deputy Director General (GES), Youth Parliament Ghana; Natural Gas Engineering student at UMaT.",
+
+    leadershipExperience:
+        "Chief of Staff, Gold Refinery Hall, UMaT; General Secretary, MOBA UMaT; House Marshall, Freeman Aggrey House, Mfantsipim School; SRC Class Entertainment Representative, Mfantsipim School; Boys Prefect, AME Zion Junior High School.",
+
+    professionalExperience:
+        "Natural Gas Engineering student and youth leader with experience in educational leadership, youth advocacy, community development and organizational administration.",
+
+    focusAreas:
+        "Youth leadership, education, advocacy, empowerment, community development and public service.",
+
+    slogan:
+        "Engineering Knowledge. Youth Leadership. Community Impact.",
+
+    image: "images/nti.jpeg",
+
+    email: "kwadwontiasan602@gmail.com",
+    phone: "+233 591 526 054",
+    website: "#",
+
+    facebook: "Kwadwo Nti Asante",
+    twitter: "asante_nti24",
+    instagram: "a.m.g_ghosted",
+    linkedin: "Kwadwo Nti Asante",
+    tiktok: "#"
+},
+{
+    id: "app061",
+    name: "ABDULAI MOHAMMED",
+    position: "Minister for Energy and Green Transition",
+    constituency: "Yapei Kusawgu",
+    region: "Savanna",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+    ministry: "Ministry for Energy and Green Transition",
+    appointmentDate: "25th September, 2026",
+    education:
+        "Sunyani Technical University — Electrical & Electronic Engineering (Computer Option), BTech, 2023–2026; Dabokpa Technical Institute, Tamale — Electrical Engineering Technology, Senior High School Certificate, 2020–2022; St. Xavier Junior High School — Basic Education, Basic Education Certificate, 2017–2019",
+    profession: "Electrical and Electronic Engineer",
+    experience:
+        "Industrial Attachment, Electrical Department, Ghana Water Company Limited, Dalun (May–August 2025); Industrial Attachment, Electrical Department, Ghana Water Company Limited, Dalun (October–December 2024); Industrial Attachment, Electrical Department, Ghana Water Company Limited, Dalun (September–October 2023); Electrician, Abdul Wahid and Brothers Electricals (March 2020–August 2022); Parliamentarian, Student Representative Council, Sunyani Technical University; Project Coordinator, Electrical and Electronic Engineering Students Association (EEESA), Sunyani Technical University; Deputy Muazin, Ghana Muslim Students Association (GMSA), Sunyani Technical University; Organizer, Ghana Muslim Students Association (GMSA), Dabokpa Technical Institute (2020–2022); Dining Hall Prefect, Dabokpa Technical Institute (2020–2022)",
+    biography:
+        "Abdulai Mohammed is an Electrical and Electronic Engineer (Computer Option), completing his BTech at Sunyani Technical University in 2026. He holds a Senior High School Certificate in Electrical Engineering Technology from Dabokpa Technical Institute, Tamale. He began his career as an electrician with Abdul Wahid and Brothers Electricals, where he worked on domestic installations, overhead line work and appliance repair. He then completed three industrial attachments with the Electrical Department of Ghana Water Company Limited, Dalun, gaining experience in fault diagnosis, panel inspection, preventive maintenance and industrial safety. He has also held several student leadership roles, including Parliamentarian on the Student Representative Council of Sunyani Technical University and Project Coordinator of the Electrical and Electronic Engineering Students Association (EEESA). He also served as Deputy Muazin of the Ghana Muslim Students Association (GMSA) at Sunyani Technical University and Organizer of GMSA at Dabokpa Technical Institute. As Minister for Energy and Green Transition, he leads on energy, renewable energy, energy transition, sustainability and environmental innovation. His priorities include developing a youth energy policy paper on expanding electricity access and reducing energy poverty, liaising with relevant energy institutions, organizing youth forums on green energy, and promoting technical and vocational training in electrical engineering and solar installation. He speaks English, Dagbani, Twi, Gonja and Bissa.",
+    vision:
+        "To promote sustainable energy development, renewable energy adoption, energy transition and environmental innovation.",
+    plans:
+        "Develop a youth energy policy paper on expanding electricity access and reducing energy poverty; engage relevant energy institutions; organize youth forums on green energy; and promote technical and vocational training in electrical engineering and solar installation.",
+    contribution:
+        "Electrical engineering, energy advocacy, youth leadership, technical training and community-focused energy initiatives.",
+    currentActivities:
+        "Serving as Minister for Energy and Green Transition, Youth Parliament Ghana.",
+    leadershipExperience:
+        "Parliamentarian, Student Representative Council, Sunyani Technical University; Project Coordinator, EEESA; Deputy Muazin, GMSA, Sunyani Technical University; Organizer, GMSA, Dabokpa Technical Institute; Dining Hall Prefect, Dabokpa Technical Institute.",
+    professionalExperience:
+        "Electrical and electronic engineering, domestic electrical installations, overhead line work, appliance repair, fault diagnosis, panel inspection, preventive maintenance and industrial safety.",
+    focusAreas:
+        "Energy, renewable energy, energy transition, sustainability, environmental innovation, electricity access, green energy and technical skills development.",
+    slogan:
+        "Powering youth-led energy transformation and a sustainable future.",
+    image: "images/abdulai.jpeg",
+    email: "mohammedabdullai424@gmail.com",
+    phone: "0596687541",
+    website: "#",
+    facebook: "#",
+    twitter: "https://x.com/abdullai1703",
+    instagram: "#",
+    linkedin: "#",
+    isMP: false,
+    mpId: null
+},
+{
+    id: "app062",
+    name: "KPELI BENEDICTA EMEFA",
+    position: "Municipal Chief Executive (MCE).",
+    constituency: "Awutu Senya East",
+    region: "Central",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+    ministry: "Awutu Senya East Municipal Assembly",
+    appointmentDate: "To be provided",
+    education:
+        "University of Energy and Natural Resources — Biological Sciences, Student",
+    profession: "Biological Sciences Student",
+    experience:
+        "Municipal Chief Executive (MCE), Awutu Senya East",
+    biography:
+        "Hon. Kpeli Benedicta Emefa is a Biological Sciences student at the University of Energy and Natural Resources serving as Municipal Chief Executive (MCE) for Awutu Senya East under Youth Parliament Ghana.",
+    vision:
+        "To support youth development, community service and effective local leadership in Awutu Senya East.",
+    plans:
+        "To promote youth participation, community development and initiatives that support the people of Awutu Senya East.",
+    contribution:
+        "Youth leadership and community-focused public service.",
+    currentActivities:
+        "Serving as Municipal Chief Executive (MCE) for Awutu Senya East.",
+    leadershipExperience:
+        "Municipal Chief Executive (MCE), Awutu Senya East.",
+    professionalExperience:
+        "Biological Sciences student at the University of Energy and Natural Resources.",
+    focusAreas:
+        "Youth development, community development, education and local governance.",
+    slogan:
+        "Service, leadership and community development.",
+    image: "images/emefa.jpeg",
+    email: "benedictakpeli2005@gmail.com",
+    phone: "0591492782 / 0502836414",
+    website: "#",
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    isMP: false,
+    mpId: null
+},
+{
+    id: "app063",
+    name: "CLIFFORD PAX KOOMSON",
+    position: "Deputy Western Regional Minister",
+    constituency: "Ahanta West",
+    region: "Western Region",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+    ministry: "Western Regional Coordinating Council",
+    appointmentDate: "To be provided",
+    education:
+        "University of Mines and Technology — BSc Geological Engineering; Ghana Secondary Technical School, Takoradi — General Science, West African Senior School Certificate Examination (WASSCE)",
+    profession: "Geological Engineering Student",
+    experience:
+        "TESCON Vice President (January 2026–Present); Band Master, UMaT Essikado Campus (September 2026–Present); Chief Justice (Judicial Chair), Railway Hall (September 2025–August 2026); Innovations and Internship Committee Member, Railway Hall (January 2025–September 2025); Regimental Band Organizer, Ghana Secondary Technical School; Dining Hall Prefect, Ghana Secondary Technical School; School Prefect, Young Christian Fellowship",
+    biography:
+        "Clifford Pax Koomson is a motivated and disciplined Geological Engineering student at the University of Mines and Technology with a strong foundation in leadership, political advocacy and legal principles. He has experience in leadership, community organizing, policy analysis, judicial processes, project management, stakeholder engagement and strategic planning. He is passionate about sustainable practices, resource-based communities, environmental and social justice, and youth leadership. He currently serves as Deputy Western Regional Minister under Youth Parliament Ghana.",
+    vision:
+        "To promote sustainable practices, responsible resource management and meaningful youth participation in community and public leadership.",
+    plans:
+        "To contribute to sustainable development, environmental advocacy, youth empowerment and community-focused initiatives across the Western Region.",
+    contribution:
+        "Youth leadership, environmental advocacy, student governance, community organizing and stakeholder engagement.",
+    currentActivities:
+        "Serving as Deputy Western Regional Minister, Youth Parliament Ghana; Geological Engineering student at the University of Mines and Technology; TESCON Vice President; Band Master, UMaT Essikado Campus.",
+    leadershipExperience:
+        "TESCON Vice President; Band Master, UMaT Essikado Campus; Chief Justice (Judicial Chair), Railway Hall; Innovations and Internship Committee Member, Railway Hall; Regimental Band Organizer, Ghana Secondary Technical School; Dining Hall Prefect; School Prefect, Young Christian Fellowship.",
+    professionalExperience:
+        "Experience in leadership, community organizing, policy analysis, judicial processes, project coordination, stakeholder engagement and student governance.",
+    focusAreas:
+        "Environmental sustainability, geological engineering, resource management, youth leadership, community development, environmental justice and public policy.",
+    slogan:
+        "Leadership, sustainability and service.",
+    image: "images/koomson.jpeg",
+    email: "cliffordpaxkoomson@gmail.com",
+    phone: "+233530220443",
+    website: "#",
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    isMP: false,
+    mpId: null
+},
+{
+    id: "app064",
+    name: "NARH ELIAH KENNEY",
+    position: "District Chief Executive Representative",
+    constituency: "Ekumfi",
+    region: "Eastern",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+    ministry: "Ekumfi District Assembly",
+    appointmentDate: "To be provided",
+    education:
+        "University of Education, Winneba — BSc Accounting Education, Degree",
+    profession: "Accounting Education Graduate",
+    experience:
+        "District Chief Executive Representative, Youth Parliament Ghana — Ekumfi Constituency; Administrative and Executive Leadership; Development and Finance; Central Government Representation; Political and Community Leadership",
+    biography:
+        "NARH ELIAH KENNEY has been appointed as the District Chief Executive Representative under Youth Parliament Ghana for the Ekumfi Constituency. In this capacity, he will serve as a bridge between Youth Parliament Ghana, the Ekumfi Constituency and the DCE/MCE, with a focus on matters affecting young people and seminars aimed at strengthening the youth in the Ekumfi Constituency. His responsibilities include administrative and executive leadership, development and finance, central government representation, and political and community leadership.",
+    vision:
+        "To strengthen youth participation, community development and effective engagement between young people and local leadership in Ekumfi.",
+    plans:
+        "To support youth-focused initiatives, seminars, community engagement and development activities within the Ekumfi Constituency.",
+    contribution:
+        "Youth representation, community engagement, development advocacy and strengthening collaboration between young people and local leadership.",
+    currentActivities:
+        "Serving as District Chief Executive Representative under Youth Parliament Ghana for the Ekumfi Constituency.",
+    leadershipExperience:
+        "District Chief Executive Representative, Youth Parliament Ghana — Ekumfi Constituency; Administrative and Executive Leadership; Development and Finance; Central Government Representation; Political and Community Leadership.",
+    professionalExperience:
+        "BSc Accounting Education graduate with a focus on accounting education and community leadership.",
+    focusAreas:
+        "Youth development, community leadership, local governance, development and finance, youth seminars and community engagement.",
+    slogan:
+        "Commitment, integrity and service to the youth.",
+    image: "images/kenney.jpeg",
+    email: "#",
+    phone: "#",
+    website: "#",
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    isMP: false,
+    mpId: null
+},
 
 ];
