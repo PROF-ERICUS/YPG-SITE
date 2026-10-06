@@ -3873,5 +3873,64 @@ region: "Ashanti",
     isMP: true,
     mpId: null
 },
+    {
+    id: "app068",
+    name: "JALULAH NBAYAN ALFRED",
+    position: "District Chief Executive (DCE)",
+    constituency: "Saboba",
+    region: "Northern",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+
+    ministry: "Saboba District Assembly",
+    appointmentDate: "30th August, 2026",
+
+    education:
+        "Kwame Nkrumah University of Science and Technology (KNUST) — BA Communication Design, Degree; St. Francis Seminary Senior High School — WACE; EP Junior High School, Saboba.",
+
+    profession: "Student",
+
+    experience:
+        "Deputy Transport Commissioner, KNUST SRC; Deputy Sponsorship Head, CABEESA-KNUST; Presidential Envoy, Art Society-KNUST; Publicity Member, GASA-KNUST; NUGS Representative, Art Society-KNUST; Senior Dormitory Prefect, St. Francis Seminary Senior High School; Debate Club President, St. Francis Seminary Senior High School; Co-founder, Change Mindset Club; Founder and CEO, HopeBridge Africa.",
+
+    biography:
+        "Jalulah Nbayan Alfred was born in Saboba in the Northern Region on 28th September, 2002. He began his basic education in Saboba before gaining admission to St. Francis Seminary Senior High School in Techiman, where he studied Visual Arts. During his time at St. Francis Seminary, he served as Senior Dormitory Prefect and Debate Club President for the 2021/2022 academic year and co-founded the Change Mindset Club in 2022. He later gained admission to the Kwame Nkrumah University of Science and Technology, where he studied BA Communication Design. At KNUST, he served in various student leadership roles, including Presidential Envoy for Art Society-KNUST, Deputy Sponsorship Head for CABEESA-KNUST, Publicity Member for GASA-KNUST, Deputy Transport Commissioner for KNUST-SRC and NUGS Representative for Art Society-KNUST. He is also the Founder of HopeBridge Africa, a foundation focused on mentorship, career development and skills training.",
+
+    vision:
+        "To promote youth development through mentorship, skills training, creativity and effective community leadership.",
+
+    plans:
+        "To support mentorship, career development, skills training and youth-focused community initiatives within Saboba.",
+
+    contribution:
+        "Youth leadership, creative development, mentorship, career development and skills training.",
+
+    currentActivities:
+        "Serving as District Chief Executive (DCE) for Saboba under Youth Parliament Ghana and pursuing studies in Communication Design.",
+
+    leadershipExperience:
+        "District Chief Executive (DCE), Saboba; Deputy Transport Commissioner, KNUST SRC; Presidential Envoy, Art Society-KNUST; Deputy Sponsorship Head, CABEESA-KNUST; Publicity Member, GASA-KNUST; NUGS Representative, Art Society-KNUST; Senior Dormitory Prefect and Debate Club President, St. Francis Seminary Senior High School.",
+
+    professionalExperience:
+        "Student and creative professional with experience in student governance, communication design, youth mentorship and community development.",
+
+    focusAreas:
+        "Youth development, mentorship, career development, skills training, communication design, creativity and community development.",
+
+    slogan:
+        "Mentorship, creativity and opportunity for youth development.",
+
+    image: "images/alfred.jpeg",
+    email: "alfredjalulah@gmail.com",
+    phone: "0541938219",
+    website: "#",
+    facebook: "Alph Red",
+    twitter: "JALULAH N ALFRED",
+    instagram: "Alfred Jalulah",
+    linkedin: "Jalulah Nbayan Alfred",
+
+    isMP: false,
+    mpId: null
+},
 
 ];
