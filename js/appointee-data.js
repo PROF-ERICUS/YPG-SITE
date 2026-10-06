@@ -3768,5 +3768,49 @@ region: "Ashanti",
     isMP: false,
     mpId: null
 },
+    {
+    id: "app066",
+    name: "AGBERTEY NICHOLAS TAWIAH",
+    position: "Minister for Communications, Digital Technology and Innovations",
+    constituency: "Upper Manya Krobo",
+    region: "Eastern",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+    ministry: "Ministry for Communications, Digital Technology and Innovations",
+    appointmentDate: "23rd September, 2026",
+    education:
+        "University of Ghana — Bachelor of Science in Administration, Level 100, 2026",
+    profession: "Student",
+    experience:
+        "Minister for Communications, Digital Technology and Innovations; Former Head Boy; Former SRC Vice President; Former President of Business Department; Former President of Catholic Students' Association in SHS; Organizer, Star Foundation",
+    biography:
+        "Agbertey Nicholas Tawiah is a student at the University of Ghana pursuing a Bachelor of Science in Administration. He serves as Minister for Communications, Digital Technology and Innovations under Youth Parliament Ghana. He has demonstrated leadership experience through his previous roles as Head Boy, SRC Vice President, President of the Business Department and President of the Catholic Students' Association in senior high school. He also serves as an Organizer of the Star Foundation.",
+    vision:
+        "To promote digital innovation, effective communication, technology development and meaningful youth participation.",
+    plans:
+        "To support initiatives in digital technology, innovation, communication and youth development.",
+    contribution:
+        "Youth leadership, student representation, communication, digital technology and community initiatives.",
+    currentActivities:
+        "Serving as Minister for Communications, Digital Technology and Innovations while pursuing a Bachelor of Science in Administration at the University of Ghana.",
+    leadershipExperience:
+        "Former Head Boy; Former SRC Vice President; Former President of Business Department; Former President of Catholic Students' Association in SHS; Organizer, Star Foundation.",
+    professionalExperience:
+        "Student and youth leader with experience in student governance, administration, communication and community organization.",
+    focusAreas:
+        "Communications, digital technology, innovation, youth development, administration and student leadership.",
+    slogan:
+        "Communication, innovation and digital transformation.",
+    image: "images/agbertey.jpeg",
+    email: "agberteynicholas7@gmail.com",
+    phone: "0553546416",
+    website: "#",
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    isMP: false,
+    mpId: null
+},
 
 ];
