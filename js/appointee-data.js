@@ -3980,7 +3980,7 @@ region: "Ashanti",
     slogan:
         "Service, humility, accountability and positive impact.",
 
-    image: "images/jamal.jpeg",
+    image: "images/jamal1.jpeg",
     email: "issakujamal0@gmail.com",
     phone: "0598063901",
     website: "#",
