@@ -3724,5 +3724,49 @@ region: "Ashanti",
     isMP: false,
     mpId: null
 },
+    {
+    id: "app065",
+    name: "REXFORD AMEYAW",
+    position: "Elder & Advisor to the President",
+    constituency: "Suaman",
+    region: "Western North",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+    ministry: "Special Advisor and Elder to the President and the Youth Parliament",
+    appointmentDate: "To be provided",
+    education:
+        "Enchi College of Education — Education, with studies connected to Geography and Social Studies",
+    profession: "Educator, Community Advocate, Christian Minister and Youth Leader",
+    experience:
+        "Teacher of Science and Computing in private-school and government Junior High School settings; Youth Leadership and Mentorship; Student Leadership and Institutional Development; Christian Ministry and Chaplaincy Activities; Community Development Initiatives; Public Speaking and Youth Empowerment; Digital Knowledge and Wikimedia Projects; Leadership Training and Civic Engagement; Educational and Academic Support Initiatives",
+    biography:
+        "Hon. Rexford Ameyaw is a Ghanaian youth leader, educator, community advocate, Christian minister and public-service-oriented young professional with a strong passion for leadership development, youth empowerment, education, knowledge sharing and institutional development. He is committed to promoting responsible youth leadership, unity, integrity, discipline and service to society. His leadership philosophy is centred on serving with humility, providing sound counsel, empowering young people and contributing meaningfully to national development. Hon. Ameyaw has been actively involved in youth, educational, Christian and community initiatives, contributing to leadership development, mentorship, public communication and social-impact activities. He is also passionate about equipping young people with practical skills and creating platforms through which young people can contribute to their communities and national development. He is a trained Wikimedian and has participated in knowledge-sharing and Wikimedia-related programmes aimed at making information and knowledge more accessible to the public.",
+    vision:
+        "To promote responsible youth leadership, unity, integrity, discipline, mentorship and meaningful service to society.",
+    plans:
+        "To provide sound counsel, mentor young leaders, support leadership development and contribute to institutional and youth development initiatives.",
+    contribution:
+        "Youth mentorship, education, Christian ministry, community development, public communication, knowledge sharing and leadership development.",
+    currentActivities:
+        "Serving as Elder & Advisor to the President of Youth Parliament Ghana and providing mentorship, counsel and guidance to the President and the wider Youth Parliament.",
+    leadershipExperience:
+        "Youth Leadership and Mentorship; Student Leadership and Institutional Development; Christian Ministry and Chaplaincy Activities; Community Development Initiatives; Public Speaking and Youth Empowerment; Leadership Training and Civic Engagement.",
+    professionalExperience:
+        "Education sector experience as a Science and Computing teacher in private-school and government Junior High School settings; trained Wikimedian and participant in knowledge-sharing and Wikimedia-related programmes.",
+    focusAreas:
+        "Youth leadership, mentorship, education, leadership development, civic engagement, knowledge sharing, community development and institutional development.",
+    slogan:
+        "Leadership, humility, counsel and service.",
+    image: "images/ameyaw.jpeg",
+    email: "ameyawrexford313@gmail.com",
+    phone: "0534405910",
+    website: "#",
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    isMP: false,
+    mpId: null
+},
 
 ];
