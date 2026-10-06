@@ -3932,5 +3932,66 @@ region: "Ashanti",
     isMP: false,
     mpId: null
 },
+    {
+    id: "app069",
+    name: "ISSAKU JAMAL",
+    position: "Deputy Minister for Lands and Natural Resources",
+    constituency: "Kwabre East",
+    region: "Ashanti Region",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+
+    ministry: "Ministry for Lands and Natural Resources",
+    appointmentDate: "2nd October, 2026",
+
+    education:
+        "First Class Education Complex — Primary and Junior High School; New Konkrope Senior High School — General Science, WASSCE; University of Cape Coast — BSc Chemical Engineering, currently pursuing, commenced 21st January 2025, expected completion 2028.",
+
+    profession:
+        "Chemical Engineering Student | Youth Leader | Public Servant",
+
+    experience:
+        "Deputy Minister for Lands and Natural Resources, Youth Parliament Ghana; Primary Compound Overseer, First Class Education Complex; JHS House Prefect, First Class Education Complex; Class Representative, Junior High School; Class Representative, New Konkrope Senior High School; School Boys Prefect Assistant, New Konkrope Senior High School; Deputy SRC President, New Konkrope Senior High School; Course Representative, University of Cape Coast; Best Student Politician, Departmental Level; PRO, PASS Academy; Project Manager, School of Sustainable Engineering; Founder and Leader, Team SP; Educational Support Professional, Edupro Traveling and Tour.",
+
+    biography:
+        "Hon. Issaku Jamal is a youth leader, student representative, public servant and Chemical Engineering student with a strong passion for youth development, leadership and public service. He serves as Deputy Minister for Lands and Natural Resources under Youth Parliament Ghana. His leadership journey began at First Class Education Complex, where he served as a Primary Compound Overseer, JHS House Prefect and Class Representative. At New Konkrope Senior High School, where he studied General Science, he served as Class Representative, School Boys Prefect Assistant and Deputy SRC President. He is currently pursuing a BSc in Chemical Engineering at the University of Cape Coast. At university, he has served as a course representative, PRO of PASS Academy and Project Manager of the School of Sustainable Engineering. He is also the Founder and Leader of Team SP and has been involved in youth-focused initiatives including Ubuntu Fest. Professionally, he works with Edupro Traveling and Tour, gaining experience in educational support, communication and coordination.",
+
+    vision:
+        "To promote meaningful youth participation, responsible leadership, service and opportunities for young people to contribute to national development.",
+
+    plans:
+        "To support youth development, leadership, education, skills development and initiatives that empower young people to participate meaningfully in governance and national development.",
+
+    contribution:
+        "Youth leadership, student representation, public relations, project coordination, student welfare, mentorship and youth empowerment.",
+
+    currentActivities:
+        "Serving as Deputy Minister for Lands and Natural Resources while pursuing a BSc in Chemical Engineering at the University of Cape Coast.",
+
+    leadershipExperience:
+        "Deputy Minister for Lands and Natural Resources; Primary Compound Overseer; JHS House Prefect; Deputy SRC President, New Konkrope Senior High School; Course Representative, University of Cape Coast; PRO, PASS Academy; Project Manager, School of Sustainable Engineering; Founder and Leader, Team SP.",
+
+    professionalExperience:
+        "Chemical Engineering student, youth leader and public servant with experience in communication, educational support, project coordination and stakeholder engagement.",
+
+    focusAreas:
+        "Youth development, leadership, education, public service, student welfare, project management, communication and national development.",
+
+    slogan:
+        "Service, humility, accountability and positive impact.",
+
+    image: "images/jamal.jpeg",
+    email: "issakujamal0@gmail.com",
+    phone: "0598063901",
+    website: "#",
+    facebook: "https://www.facebook.com/share/19et8DL5jW/?mibextid=wwXIfr",
+    twitter: "https://x.com/jissaku32938?s=11",
+    instagram: "https://www.instagram.com/issaku_jamal?stkn=MWNmdnY2anN1eW8zbg%3D%3D&utm_source=qr",
+    linkedin: "https://www.linkedin.com/in/jamal-issaku-b0110b2ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+    tiktok: "https://www.tiktok.com/@jamalissaku?_r=1&_t=ZS-9AKwIMRjX2D",
+
+    isMP: false,
+    mpId: null
+},
 
 ];
