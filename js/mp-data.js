@@ -7309,59 +7309,42 @@ parliament: "Youth Parliament Ghana",
 {
     id: "mp133",
     name: "SAEED HAWAWU",
-    position: "Member of Parliament",
-    constituency: "Suame Constituency",
+    position: "Youth Member of Parliament",
+    constituency: "Suame",
     region: "Ashanti",
     parliament: "Youth Parliament Ghana",
     status: "active",
-
     education:
-        "Bachelor of Laws (LLB) — Central University, Kumasi Campus, 2026; Bachelor of Science (BSc) in Business Administration (Logistics & Supply Chain Management) — Kwame Nkrumah University of Science and Technology (KNUST), 2020.",
-
-    profession:
-        "Supply Chain Specialist & Legal Practitioner in Training",
-
+        "Central University, Kumasi Campus — Law, Bachelor of Laws (LLB), still in school; Kwame Nkrumah University of Science and Technology (KNUST) — Business Administration (Logistics & Supply Chain Management), BSc in Business Administration, 2020; OpenLabs — Software Development & Digital Marketing, Practical Certificate, 2022; Women's Haven — Mobile Application Development, Certificate of Recognition / Award, 2023; Women's Haven — Digital Marketing, Certificate of Recognition / Award, 2021",
+    profession: "Local Governance (Assembly Member), Entrepreneur, Supply Chain Specialist & Social Media Manager",
     experience:
-        "Member of Parliament — Suame Constituency, Youth Parliament Ghana; Chief Development Officer — Global Youth Connect Foundation; 2nd Deputy Speaker — Tafo Youth Parliament; Procurement Intern — Electricity Company of Ghana (ECG); Stores & Accounts Intern — National Health Insurance Scheme (NHIS); Sales Intern — MTN Ghana; Sales & Accounts Intern — Seisal Motors; Social Media Manager — CastingAfrica Inc.; Dining Hall Prefect — Tweneboa Kodua Senior High School; Youth Representative for Unemployed Youth — National Youth Parliament.",
-
+        "Chief Development Officer — Global Youth Connect Foundation; 2nd Deputy Speaker — Tafo Youth Parliament; Youth Representative for Unemployed Youth — National Youth Parliament; Class Representative — Central University; Dining Hall Prefect — Tweneboa Kodua Senior High School; Procurement Intern — Electricity Company of Ghana (ECG); Stores & Accounts Intern — National Health Insurance Scheme (NHIS); Sales Intern — MTN Ghana; Sales & Accounts Intern — Seisal Motors; Social Media Manager — CastingAfrica Inc.",
     biography:
-        "SAEED HAWAWU is a Ghanaian civic leader, legal scholar and advocate dedicated to grassroots governance, youth empowerment and economic development in the Ashanti Region. Born on 14th May 1996, he has built a multifaceted career bridging public administration, legal advocacy, business operations and youth development in Ghana. He holds a Bachelor of Laws (LLB) from Central University, Kumasi Campus, and a Bachelor of Science in Business Administration with a specialization in Logistics and Supply Chain Management from Kwame Nkrumah University of Science and Technology (KNUST). He has also received practical training and certifications in software development, digital marketing and mobile application development. Professionally, Saeed serves as Chief Development Officer of Global Youth Connect Foundation, where he contributes to institutional growth, strategic partnerships and youth empowerment programmes. His corporate and administrative experience includes roles in sales, procurement, accounting and inventory management with organizations including Seisal Motors, MTN Ghana, the National Health Insurance Scheme and the Electricity Company of Ghana. He is also active in agricultural entrepreneurship and software development and has received recognition from Women’s Haven for mobile application innovation. Within Youth Parliament Ghana, he serves as the Member of Parliament for the Suame Constituency and as a youth liaison to local government authorities. His leadership experience also includes serving as a Youth Representative for Unemployed Youth under the National Youth Parliament and as 2nd Deputy Speaker of the Tafo Youth Parliament. He has coordinated grassroots development initiatives submitted to the Suame Municipal Assembly, including IP CCTV technical skills training, backyard aquaculture models, voluntary blood donation drives and public health education. He is also involved in youth and civic engagement through Enactus KNUST, Youth Connect and the Mohkari Foundation. Through educational outreach across Senior High Schools, he mentors young people in civic responsibility, leadership and the arts.",
-
+        "Saeed Hawawu is a Ghanaian civic leader, local governance advocate, entrepreneur, and supply chain specialist dedicated to local governance, youth empowerment, and economic development in the Ashanti Region. He currently serves as the Youth Member of Parliament for the Suame Constituency under the Youth Parliament of Ghana and as the Chief Development Officer for the Global Youth Connect Foundation. Over the years, Hawawu has established a strong record in grassroots development, community organizing, and youth representation. His initiatives span practical digital skills training, IP CCTV installation workshops, backyard aquaculture starter models, voluntary blood donation drives, public health education, and educational outreach to Senior High Schools across Suame, Abirem, and surrounding areas.",
     vision:
-        "To strengthen grassroots governance, empower young people, promote economic development and create practical opportunities that contribute to the advancement of the Suame Constituency and the wider Ashanti Region.",
-
+        "To promote youth empowerment, effective local governance, community development and economic opportunities for young people.",
     plans:
-        "Promote youth empowerment and civic participation; support practical skills development and entrepreneurship; encourage grassroots development initiatives; promote public health education and community engagement; support technology-driven solutions; and strengthen collaboration between young people, local authorities and development organisations.",
-
+        "To support youth participation in governance, practical skills development, community initiatives and economic empowerment.",
     contribution:
-        "Youth empowerment, grassroots governance, economic development, civic education, entrepreneurship, technology, public health education, community development, legal advocacy and leadership.",
-
+        "Grassroots development, youth representation, digital skills training, IP CCTV installation workshops, backyard aquaculture initiatives, blood donation drives, public health education and educational outreach.",
     currentActivities:
-        "Member of Parliament — Suame Constituency, Youth Parliament Ghana; Chief Development Officer — Global Youth Connect Foundation; Legal Practitioner in Training; Youth empowerment, civic engagement and grassroots development initiatives.",
-
+        "Chief Development Officer — Global Youth Connect Foundation; Youth Member of Parliament for Suame Constituency — Youth Parliament of Ghana.",
     leadershipExperience:
-        "Member of Parliament — Suame Constituency, Youth Parliament Ghana; Youth Representative for Unemployed Youth — National Youth Parliament; 2nd Deputy Speaker — Tafo Youth Parliament; Chief Development Officer — Global Youth Connect Foundation; Class Representative — KNUST; Dining Hall Prefect — Tweneboa Kodua Senior High School; Youth and civic leadership activities through Enactus KNUST, Youth Connect and the Mohkari Foundation.",
-
+        "2nd Deputy Speaker — Tafo Youth Parliament; Youth Representative for Unemployed Youth — National Youth Parliament; Class Representative — Central University; Dining Hall Prefect — Tweneboa Kodua Senior High School.",
     professionalExperience:
-        "Chief Development Officer at Global Youth Connect Foundation; Procurement Intern at Electricity Company of Ghana (ECG); Stores and Accounts Intern at National Health Insurance Scheme (NHIS); Sales Intern at MTN Ghana; Sales and Accounts Intern at Seisal Motors; Social Media Manager at CastingAfrica Inc.; Supply chain and business administration experience; Legal training at Central University.",
-
+        "Supply chain, local governance, entrepreneurship, social media management and professional internships with ECG, NHIS, MTN Ghana and Seisal Motors.",
     focusAreas:
-        "Grassroots governance • Youth empowerment • Economic development • Civic participation • Entrepreneurship • Technology • Public health • Community development • Legal advocacy • Supply chain management • Leadership",
-
+        "Local governance, youth empowerment, economic development, community development, digital skills, public health and youth representation.",
     slogan:
-        "Empowering youth, strengthening communities and advancing grassroots development.",
-
+        "Youth empowerment, community development and responsible leadership.",
     image: "images/hawawu.jpeg",
-
     email: "saeedhawawu@gmail.com",
     phone: "0541652506 / 0501598398",
     website: "#",
-
     facebook: "https://www.facebook.com/share/1DS4z25kTL/?mibextid=wwXIfr",
-    twitter: "https://x.com/khookilyonz?s=11",
+    twitter: "#",
     instagram: "#",
-    linkedin: "#",
-    tiktok: "#"
+    linkedin: "http://www.linkedin.com/in/hawawu-saeed-a83016215"
 },
 {
     id: "mp134",
