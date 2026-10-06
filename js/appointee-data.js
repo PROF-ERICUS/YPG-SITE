@@ -3474,7 +3474,7 @@ region: "Ashanti",
     slogan:
         "Empowering youth through trade, agribusiness and sustainable development.",
 
-    image: "images/laarjahjpeg",
+    image: "images/laarjah.jpeg",
 
     email: "jacoblaajah4@gmail.com",
     phone: "+233 249 885 168",
