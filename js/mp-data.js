@@ -4971,7 +4971,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Technology • Leadership • Impact",
 
-    image: "images/prof.jpeg",
+    image: "images/prof1.jpeg",
 
     email: "agyemangkwamep@gmail.com",
     phone: "0268705994",
