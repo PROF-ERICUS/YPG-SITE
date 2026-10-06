@@ -565,7 +565,7 @@ region: "Ashanti",
 },
 {
     id: "app010",
-    name: "HON. IRENE AYIKU",
+    name: "IRENE AYIKU",
     position: "Representative of Women in Parliament",
     ministry: "Office of Women's Caucus",
     constituency: "Ada Constituency",
@@ -2020,7 +2020,7 @@ region: "Ashanti",
 {
     id: "app035",
     name: "NANCY SAMPSON MENSAH",
-    position: "Minister for Youth Development and Empowerment",
+    position: "Deputy Minister for Youth Development and Empowerment",
     ministry: "Ministry for Youth Development and Empowerment",
     region: "Greater Accra Region",
     appointmentDate: "August 2026",
@@ -3810,6 +3810,67 @@ region: "Ashanti",
     instagram: "#",
     linkedin: "#",
     isMP: false,
+    mpId: null
+},
+    {
+    id: "app067",
+    name: "COLLINS KLENAM AKPALOO",
+    position: "Minister for Youth Development and Empowerment",
+    constituency: "Sekondi",
+    region: "Western",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+
+    ministry: "Ministry for Youth Development and Empowerment",
+    appointmentDate: "27th September,2026.",
+
+    education:
+        "University of Ghana — Bachelor of Commerce (B.Com) Management, distance; Sekondi College (SHS) — Home Economics/Food, Senior High School Certificate, 2025; Police Basic School — BECE, 2023",
+
+    profession:
+        "Sales Executive, Corporate Manager and Youth Advocate",
+
+    experience:
+        "Minister for Youth Development and Empowerment, Youth Parliament; Candidate for Member of Parliament for Sekondi Constituency, Youth Parliament; Founder and Chief Executive Officer, Success City Foundation; Part-Time Social Media Manager; Area Manager at Telecel Ghana; Sales Executive at Telecel Ghana; Compound Overseer, Police Basic School; Dining Hall Prefect, Head of Media, Cadet 2iC, Entertainment Organizer and Handball Captain, Sekondi College",
+
+    biography:
+        "Collins Klenam Akpaloo is a corporate leader, youth advocate and public servant representing the Sekondi Constituency in the Western Region of Ghana. He serves as Minister for Youth Development and Empowerment within Youth Parliament Ghana and previously served as a Member of Parliament for the Sekondi Youth Constituency. He developed his leadership skills through various student leadership positions at Police Basic School and Sekondi College. He is pursuing a Bachelor of Commerce (B.Com) in Management at the University of Ghana through distance education. Professionally, he has experience in telecommunications and enterprise management, serving as an Area Manager at Telecel Ghana and as a part-time Social Media Manager. He is also the Founder and Chief Executive Officer of Success City Foundation, which focuses on youth empowerment, street support and vocational training.",
+
+    vision:
+        "To empower young people through leadership, skills development, entrepreneurship and meaningful opportunities.",
+
+    plans:
+        "To promote youth development, vocational training, entrepreneurship, digital skills and community-based empowerment initiatives.",
+
+    contribution:
+        "Youth empowerment, corporate leadership, community development, vocational training and youth advocacy.",
+
+    currentActivities:
+        "Serving as Minister for Youth Development and Empowerment and working as Area Manager at Telecel Ghana while leading Success City Foundation.",
+
+    leadershipExperience:
+        "Minister for Youth Development and Empowerment; Candidate for Member of Parliament for Sekondi Constituency; Compound Overseer, Police Basic School; Dining Hall Prefect; Head of Media; Cadet 2iC; Entertainment Organizer; Handball Captain, Sekondi College.",
+
+    professionalExperience:
+        "Area Manager and Sales Executive at Telecel Ghana; Part-Time Social Media Manager; Founder and Chief Executive Officer of Success City Foundation.",
+
+    focusAreas:
+        "Youth development, empowerment, vocational training, entrepreneurship, digital skills, community development and leadership.",
+
+    slogan:
+        "Empowering youth, building communities and creating opportunities.",
+
+    image: "images/akpaloo.jpeg",
+    email: "collinsklenam821@gmail.com",
+    phone: "0207089672 / 0200230996",
+    website: "#",
+    facebook: "#",
+    twitter: "#",
+    instagram: "Mr_kobina|youth advocate",
+    linkedin: "Collins Klenam",
+    tiktok: "Mr_kobina|youth advocate",
+
+    isMP: true,
     mpId: null
 },
 
