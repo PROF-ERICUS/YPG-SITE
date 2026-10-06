@@ -1279,12 +1279,12 @@ region: "Ashanti",
 {
     id: "app022",
     name: "BOAKYE MOHAMMED NAZIFA ANIMA",
-    position: "Representative to All Senior High Schools Across Ghana",
-    ministry: "Youth Parliament Ghana",
-    constituency: "Tamale Metro constituency",
+    position: "Representative to All Senior High Schools Across Ghana / National Head of Secondary Education Division, GES",
+    ministry: "Office of the Secondary Education Division, GES",
+    constituency: "Tamale North constituency",
     region: "Northern",
     appointmentDate: "2026",
-     status: "active",
+    status: "active",
     isMP: false,
 
     education:
