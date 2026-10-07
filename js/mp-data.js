@@ -9055,5 +9055,171 @@ parliament: "Youth Parliament Ghana",
     linkedin: "Asante Richard",
     tiktok: "#"
 },
+  {
+    id: "mp166",
+    name: "GRACE PATIENCE ACKAH",
+    position: "Member of Parliament",
+    constituency: "Hoho",
+    region: "Volta",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+
+    education:
+        "University of Cape Coast (UCC) — Bachelor of Science in Laboratory Technology, 2026",
+
+    profession: "Laboratory Technology Professional",
+
+    experience:
+        "Youth Member of Parliament, Youth Parliament Ghana — Hohoe Constituency; Secretary, Rotaract Club of the University of Cape Coast, 2025/2026; Financial Secretary, CANSSAG, 2024/2025; Executive Member, Rotaract Club of Cape Coast (Under Formation); Member, Donorcom UCC; Lab Prefect, EPC Mawuko Girls SHS, 2019/2020; Organizer, EPSU, Mawuko Chapter, 2019",
+
+    biography:
+        "Grace Patience Ackah is a youth leader and science professional with a background from the University of Cape Coast. She serves as the Youth Member of Parliament for the Hohoe Constituency under Youth Parliament Ghana, representing the interests of young people and contributing to constituency engagement, youth development and public discussions. She has served in student and youth leadership roles and is committed to inclusive participation, teamwork and creating opportunities for young people to contribute meaningfully to community and national development.",
+
+    vision:
+        "To promote inclusive youth participation, teamwork and opportunities for young people to contribute meaningfully to community and national development.",
+
+    plans:
+        "To support youth development, constituency engagement, inclusive participation and initiatives that create opportunities for young people.",
+
+    contribution:
+        "Youth leadership, student representation, laboratory science, community engagement and youth development.",
+
+    currentActivities:
+        "Serving as Youth Member of Parliament for Hohoe Constituency and working as a Teaching Assistant.",
+
+    leadershipExperience:
+        "Secretary, Rotaract Club of the University of Cape Coast; Financial Secretary, CANSSAG; Executive Member, Rotaract Club of Cape Coast; Lab Prefect, EPC Mawuko Girls SHS; Organizer, EPSU, Mawuko Chapter.",
+
+    professionalExperience:
+        "Laboratory Technology professional and Teaching Assistant with experience in student leadership, youth engagement and organizational activities.",
+
+    focusAreas:
+        "Youth development, inclusive participation, education, science, community engagement, teamwork and leadership.",
+
+    slogan:
+        "Inclusive leadership, teamwork and youth development.",
+
+    image: "images/grace.jpeg",
+
+    email: "patienceackah555@gmail.com",
+    phone: "0502091894 / 0598424834",
+    website: "#",
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "Grace Ackah",
+    tiktok: "#"
+},
+
+{
+    id: "mp167",
+    name: "MENSAH LAWER DANIEL TEYE",
+    position: "Youth Member of Parliament",
+    constituency: "Atiwa East",
+    region: "Eastern",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+
+    education:
+        "University for Development Studies — Diploma in Biotechnology and Molecular Biology; Bachelor of Science (BSc) in Biological Sciences, 2026",
+
+    profession: "Business and Researcher",
+
+    experience:
+        "Researcher — Food and Agriculture; Project Coordinator; Youth Member of Parliament, Atiwa East",
+
+    biography:
+        "Mensah Lawer Daniel Teye is a dedicated public servant, scientist and youth advocate from Atiwa East in the Eastern Region of Ghana. He holds a background in Biological Sciences and has demonstrated a strong commitment to evidence-based policy, community development and public service. Driven by a vision to empower young people and enhance socioeconomic development within Atiwa and beyond, he actively engages in public leadership, grassroots organizing and academic research. His leadership focuses on sustainable youth empowerment, educational growth and strengthening local infrastructure.",
+
+    vision:
+        "To empower young people and contribute to sustainable socioeconomic development, educational growth and improved local infrastructure.",
+
+    plans:
+        "To support youth empowerment, educational development, evidence-based initiatives, community development and grassroots engagement within Atiwa East.",
+
+    contribution:
+        "Youth leadership, scientific research, food and agriculture, community development and public service.",
+
+    currentActivities:
+        "Serving as Youth Member of Parliament for Atiwa East while engaging in business, research and community-focused activities.",
+
+    leadershipExperience:
+        "Youth Member of Parliament, Atiwa East; Project Coordinator; Researcher in Food and Agriculture.",
+
+    professionalExperience:
+        "Business and researcher with a background in Biological Sciences, Biotechnology and Molecular Biology, Food and Agriculture research and project coordination.",
+
+    focusAreas:
+        "Youth empowerment, education, biological sciences, research, food and agriculture, community development, public service and evidence-based policy.",
+
+    slogan:
+        "Empowering youth through knowledge, leadership and service.",
+
+    image: "images/teye1.jpeg",
+
+    email: "Mensahlawerteyed@gmail.com / dmensahlawerteye@gmail.com",
+    phone: "0545258473",
+    website: "#",
+    facebook: "Nhyiraba Stunnerwan",
+    twitter: "Stunnerwan",
+    instagram: "Stunnerwan",
+    linkedin: "#",
+    tiktok: "Stunnerwan"
+},
+{
+    id: "mp168",
+    name: "JONATHAN AMARTEIFIO",
+    position: "Member of Parliament",
+    constituency: "Okaikwei Sout",
+    region: "Greater Accra Region",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+
+    education:
+        "Kwame Nkrumah University of Science and Technology (KNUST) — Political Science, Degree, 2026",
+
+    profession: "Political Science Graduate",
+
+    experience:
+        "POSSA / PASA President; Faculty of Social Science Majority Leader",
+
+    biography:
+        "Jonathan Amarteifio is a young Ghanaian leader and Political Science graduate from Kwame Nkrumah University of Science and Technology (KNUST). He has demonstrated leadership through his service as POSSA/PASA President and Faculty of Social Science Majority Leader. He is committed to teamwork, honesty and responsible leadership and serves as Member of Parliament for the Okaikwei South Constituency under Youth Parliament Ghana.",
+
+    vision:
+        "To promote honest, responsible and inclusive leadership while strengthening youth participation and representation.",
+
+    plans:
+        "To support youth development, effective representation, teamwork and initiatives that contribute to community and student development.",
+
+    contribution:
+        "Youth leadership, student representation, teamwork, governance and community engagement.",
+
+    currentActivities:
+        "Serving as Member of Parliament for Okaikwei South Constituency under Youth Parliament Ghana.",
+
+    leadershipExperience:
+        "POSSA / PASA President; Faculty of Social Science Majority Leader.",
+
+    professionalExperience:
+        "Political Science graduate from Kwame Nkrumah University of Science and Technology with experience in student leadership and representation.",
+
+    focusAreas:
+        "Youth leadership, governance, teamwork, honesty, student representation and community development.",
+
+    slogan:
+        "Teamwork, honesty and responsible leadership.",
+
+    image: "images/amarteifio.jpeg",
+
+    email: "jonathanamarteifio17@gmail.com",
+    phone: "0591556638",
+    website: "#",
+    facebook: "Jonathan Thomas Amarteifio",
+    twitter: "Jonathan Amarteifio",
+    instagram: "Jonathan Amarteifio",
+    linkedin: "Jonathan Amarteifio",
+    tiktok: "#"
+},
 
 ];
