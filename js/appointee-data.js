@@ -4221,7 +4221,7 @@ region: "Ashanti",
     slogan:
         "Knowledge, leadership and sustainable development.",
 
-    image: "images/teye.jpeg",
+    image: "images/teye1.jpeg",
 
     email: "Mensahlawerteyed@gmail.com / dmensahlawerteye@gmail.com",
     phone: "0545258473",
