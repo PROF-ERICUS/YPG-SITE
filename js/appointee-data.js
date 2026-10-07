@@ -3412,7 +3412,7 @@ region: "Ashanti",
     slogan:
         "Leadership with purpose and service.",
 
-    image: "images/abedu.jpeg",
+    image: "images/Abedu.jpeg",
 
     email: "abedugadbless7@gmail.com",
     phone: "020 542 6273",
