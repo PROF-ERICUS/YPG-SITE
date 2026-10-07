@@ -4113,6 +4113,67 @@ region: "Ashanti",
     isMP: false,
     mpId: null
 },
+    {
+    id: "app072",
+    name: "ANIM TENKORANG MCFINLEY",
+    position: "Metropolitan Chief Executive (MCE), Kumasi Metropolitan Assembly",
+    constituency: "Bantama",
+    region: "Ashanti",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+
+    ministry: "Kumasi Metropolitan Assembly",
+    appointmentDate: "7th October, 2026",
+
+    education:
+        "University of Cape Coast (UCC) — Geography and Regional Planning, Undergraduate Degree, Level 400, In Progress",
+
+    profession: "Emerging Geography and Regional Planning Professional",
+
+    experience:
+        "Metropolitan Chief Executive (MCE), Kumasi Metropolitan Assembly; Planning/GIS Intern, Land Use and Spatial Planning Authority (LUSPA); GIS/Planning Intern, Anti-Land Encroachment Unit, University of Cape Coast; Youth Representative, Youth Parliament Ghana; Current Media and Publicity Chair, Ghana Association of Students Planners",
+
+    biography:
+        "Hon. Anim Tenkorang McFinley is a young Ghanaian leader and Level 400 Geography and Regional Planning student at the University of Cape Coast. He has a strong interest in governance, spatial planning, GIS, remote sensing, urban development, sustainable development, climate change, transportation and community development. Through his academic studies and practical experience with the Land Use and Spatial Planning Authority (LUSPA) and the Anti-Land Encroachment Unit at the University of Cape Coast, he has developed skills in QGIS, ArcGIS, GPS data collection, georeferencing, mapping and spatial analysis. He also has skills and interests in graphic design, digital content creation and visual communication, alongside an interest in finance and investment, particularly stocks, forex, cryptocurrency, financial markets and economic analysis. As a member of Youth Parliament Ghana, he seeks to contribute to meaningful youth participation in governance, community development and national development while continuously developing his professional, creative and leadership skills.",
+
+    vision:
+        "To promote effective local governance, sustainable urban development, youth participation and community development.",
+
+    plans:
+        "To support initiatives in urban development, spatial planning, youth participation, sustainable development and community-focused governance within Kumasi.",
+
+    contribution:
+        "Youth leadership, spatial planning, GIS, community development, digital communication and public service.",
+
+    currentActivities:
+        "Serving as Metropolitan Chief Executive (MCE) of the Kumasi Metropolitan Assembly while pursuing a Level 400 degree in Geography and Regional Planning at the University of Cape Coast.",
+
+    leadershipExperience:
+        "Metropolitan Chief Executive (MCE), Kumasi Metropolitan Assembly; Youth Representative, Youth Parliament Ghana; Current Media and Publicity Chair, Ghana Association of Students Planners.",
+
+    professionalExperience:
+        "Geography and Regional Planning student with practical experience in GIS, planning, mapping and spatial analysis through internships with LUSPA and the Anti-Land Encroachment Unit at the University of Cape Coast.",
+
+    focusAreas:
+        "GIS, spatial planning, urban development, sustainable development, climate change, transportation, community development, finance and investment, graphic design and digital content creation.",
+
+    slogan:
+        "Planning, innovation and sustainable development.",
+
+    image: "images/mcfinley.jpeg",
+
+    email: "tenkoranganimmmcfinley1555@gmail.com",
+    phone: "0256876653",
+    website: "#",
+    facebook: "Mc Finley",
+    twitter: "#",
+    instagram: "Anim Tenkorang McFinley",
+    linkedin: "#",
+    tiktok: "#",
+
+    isMP: false,
+    mpId: null
+},
 
 
 ];
