@@ -4174,6 +4174,66 @@ region: "Ashanti",
     isMP: false,
     mpId: null
 },
+    {
+    id: "app073",
+    name: "MENSAH LAWER DANIEL TEYE",
+    position: "Eastern Regional Minister",
+    constituency: "Atiwa East",
+    region: "Eastern Region",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
 
+    ministry: "Eastern Regional Coordinating Council",
+    appointmentDate: "To be provided",
+
+    education:
+        "University for Development Studies — Diploma in Biotechnology and Molecular Biology; Bachelor of Science (BSc) in Biological Sciences, 2026",
+
+    profession: "Business and Researcher",
+
+    experience:
+        "Eastern Regional Minister, Youth Parliament Ghana; Researcher — Food and Agriculture; Project Coordinator; Youth leadership and community engagement",
+
+    biography:
+        "Mensah Lawer Daniel Teye is a Ghanaian public servant, scientist, researcher and youth advocate from Atiwa East in the Eastern Region. He has a background in Biological Sciences and has demonstrated a strong commitment to evidence-based policy, community development and public service. He has experience in food and agriculture research and project coordination and is passionate about youth empowerment, educational development, grassroots organizing and sustainable community development.",
+
+    vision:
+        "To promote youth development, effective regional leadership, evidence-based initiatives and sustainable socioeconomic development across the Eastern Region.",
+
+    plans:
+        "To support youth empowerment, education, community development, research and initiatives that create opportunities for young people across the Eastern Region.",
+
+    contribution:
+        "Youth leadership, scientific research, food and agriculture, community development and public service.",
+
+    currentActivities:
+        "Serving as Eastern Regional Minister under Youth Parliament Ghana and engaging in research, youth development and community-focused activities.",
+
+    leadershipExperience:
+        "Eastern Regional Minister, Youth Parliament Ghana; Project Coordinator; Youth leadership and grassroots community engagement.",
+
+    professionalExperience:
+        "Business professional and researcher with a background in Biological Sciences, Biotechnology and Molecular Biology, Food and Agriculture research and project coordination.",
+
+    focusAreas:
+        "Youth development, education, scientific research, food and agriculture, regional development, community development and evidence-based policy.",
+
+    slogan:
+        "Knowledge, leadership and sustainable development.",
+
+    image: "images/teye.jpeg",
+
+    email: "Mensahlawerteyed@gmail.com / dmensahlawerteye@gmail.com",
+    phone: "0545258473",
+    website: "#",
+    facebook: "Nhyiraba Stunnerwan",
+    twitter: "Stunnerwan",
+    instagram: "Stunnerwan",
+    linkedin: "#",
+    tiktok: "Stunnerwan",
+
+    isMP: true,
+    mpId: "mp167"
+},
 
 ];
