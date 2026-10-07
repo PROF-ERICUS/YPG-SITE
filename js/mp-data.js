@@ -8991,8 +8991,8 @@ parliament: "Youth Parliament Ghana",
 
     image: "images/ofosuhene.jpeg",
 
-    email: "#",
-    phone: "#",
+    email: "ofosuhenejoshua781@gmail.com",
+    phone: "0598098115",
     website: "#",
     facebook: "#",
     twitter: "#",
