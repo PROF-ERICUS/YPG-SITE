@@ -4235,5 +4235,55 @@ region: "Ashanti",
     isMP: true,
     mpId: "mp167"
 },
+    {
+    id: "app074",
+    name: "MAXWELL ANNOR SARBENG",
+    position: "Municipal Chief Executive (MCE)",
+    constituency: "Upper Denkyira East",
+    region: "Central",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+
+    ministry: "Upper Denkyira East Municipal Assembly",
+    appointmentDate: "29th September 2026",
+    isMP: false,
+    mpId: null,
+
+    education: "University of Energy and Natural Resources (UENR), Biological Sciences, undergraduate degree in progress, Level 300.",
+
+    profession: "Student and Youth Leader",
+
+    experience: "Municipal Chief Executive, Youth Parliament Ghana, Upper Denkyira East; Director of Finance and Budget, Youth Parliament Ghana, Ministry of Sports and Recreation; Financial Secretary, Biological Science Students Association (BIOSSA), University of Energy and Natural Resources; Student Leader, University of Energy and Natural Resources; Youth Leadership and Community Engagement, Upper Denkyira East.",
+
+    biography: "Maxwell Annor Sarbeng is a young Ghanaian leader, student and emerging public servant from the Upper Denkyira East Municipality in the Central Region of Ghana. He serves as the Municipal Chief Executive for Upper Denkyira East under Youth Parliament Ghana. He is a student of the University of Energy and Natural Resources (UENR), pursuing Biological Sciences. His leadership experience includes serving as Financial Secretary of the Biological Science Students Association (BIOSSA) at UENR, where he gained experience in financial management, budgeting, accountability, transparency and resource mobilisation. He is passionate about youth participation in governance, financial literacy, entrepreneurship, education, sports development, community development and environmental issues. His leadership philosophy is founded on accountability, transparency, commitment, service and responsible leadership.",
+
+    vision: "To promote meaningful youth participation in governance, community development and decision-making.",
+
+    plans: "To support youth development, financial literacy, education, entrepreneurship, sports development and stronger engagement between young people and public institutions.",
+
+    contribution: "Youth leadership, student governance, financial management, community engagement and advocacy for youth development.",
+
+    currentActivities: "Municipal Chief Executive for Upper Denkyira East, Youth Parliament Ghana; Level 300 Biological Sciences student at the University of Energy and Natural Resources.",
+
+    leadershipExperience: "Municipal Chief Executive, Upper Denkyira East; Director of Finance and Budget, Ministry of Sports and Recreation, Youth Parliament Ghana; Financial Secretary, Biological Science Students Association (BIOSSA), UENR; Student Leader, UENR; Youth leadership and community engagement in Upper Denkyira East.",
+
+    professionalExperience: "Student and emerging public servant with experience in student governance, financial management, budgeting, youth leadership and community engagement.",
+
+    focusAreas: "Youth development and empowerment, youth participation in governance, financial literacy, public finance and budgeting, accountability and transparency, education, sports development, entrepreneurship, employment, community development, environmental issues and leadership development.",
+
+    slogan: "Leadership is not about the position we occupy, but the positive difference we make in the lives of the people we serve.",
+
+    image: "images/sarbeng.jpeg",
+
+    email: "maxwellannorsarbeng@gmail.com",
+    phone: "0592400635",
+    website: "#",
+    facebook: "#",
+    twitter: "#",
+    instagram: "@MaxwellAhenfie_91",
+    linkedin: "#",
+    tiktok: "@FinancialSarbeng"
+},
+
 
 ];
