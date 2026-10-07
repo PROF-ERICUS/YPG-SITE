@@ -9221,5 +9221,136 @@ parliament: "Youth Parliament Ghana",
     linkedin: "Jonathan Amarteifio",
     tiktok: "#"
 },
+  {
+    id: "mp169",
+    name: "QUAR SAM JUSTUS JECIUS",
+    position: "Member of Parliament",
+    constituency: "Upper Denkyira Eas",
+    region: "Central",
+    parliament: "Parliament of Ghana",
+    status: "active",
+
+    education: "University of Energy and Natural Resources (UENR), BSc Medical Laboratory Science, Degree, Level 400, commenced January 2024. Kumasi Academy, General Science. Springs of Life International School.",
+    
+    profession: "Student / Unemployed",
+    experience: "1st Deputy Chairperson, Legal and Disciplinary Committee, TEIN-UENR; Majority Leader, 13th Parliamentary Council, UENR, August 2025 to date; Chairperson, Business Committee, 13th Parliamentary Council, August 2025 to date; Member, Vetting Committee, 13th Parliamentary Council, August 2025 to date; Member of Parliament, MELSSA-UENR, August 2025 to date; FG-MELSA Audit Committee Member, September 2025 to date; Public Relations Officer (PRO), DISC-UENR, February 2025 to 2026.",
+    
+    biography: "Quarm Sam Justus Jecius is a Ghanaian student leader and Medical Laboratory Science student at the University of Energy and Natural Resources (UENR). He is currently pursuing a Bachelor of Science in Medical Laboratory Science. His leadership experience spans university, church, secondary school, and basic school settings. At UENR, he has served as Majority Leader of the 13th Parliamentary Council, Chairperson of the Business Committee, a member of the Vetting Committee, and Member of Parliament for MELSSA-UENR. He has also served on the FG-MELSA Audit Committee and previously worked as the Public Relations Officer of DISC-UENR. Beyond the university, he serves as Deputy Chairperson of the Media Team at Gethsemane Methodist Church. Through The Quarm Foundation, he has participated in community service activities including donations to Denkyirah Nyinawusu DA School and health screening activities. He has also supported Springs of Life Organization (SOLO) as an advocate for annual fundraising activities for orphanage support. His achievements include being part of the FG-MELSA Northern Zone B Zonal Quiz Championship team in 2026, placing first runner-up in the NAHSAG BA Zonal Quiz Competition, and being recognised as Most Popular Student of the Year by MELSSA-UENR. He describes himself as passionate about leadership, advocacy, and student development, with interests in reading, gaming, team sports, and advocacy. He speaks English and Asante Twi.",
+    
+    vision: "To promote effective student representation, collaboration, advocacy, and an academic environment where students' voices are heard.",
+    
+    plans: "To encourage collaboration, strengthen student representation, support student development, and contribute to community-focused initiatives.",
+    
+    contribution: "Community service and volunteer activities through The Quarm Foundation, including support for Denkyirah Nyinawusu DA School, health screening activities, and advocacy for orphanage support through Springs of Life Organization.",
+    
+    currentActivities: "Member of Parliament for Upper Denkyira East; Majority Leader of the 13th Parliamentary Council, UENR; Chairperson of the Business Committee, 13th Parliamentary Council; Member of the Vetting Committee, 13th Parliamentary Council; Member of Parliament, MELSSA-UENR; FG-MELSA Audit Committee Member.",
+    
+    leadershipExperience: "Majority Leader, 13th Parliamentary Council, UENR; Chairperson, Business Committee; Member, Vetting Committee; Member of Parliament, MELSSA-UENR; 1st Deputy Chairperson, Legal and Disciplinary Committee, TEIN-UENR; Public Relations Officer, DISC-UENR; Deputy Chairperson of the Media Team, Gethsemane Methodist Church.",
+    
+    professionalExperience: "Medical Laboratory Science student at UENR with experience in student governance, public relations, committee work, advocacy, community service, and volunteer activities.",
+    
+    focusAreas: "Leadership, advocacy, student development, education, community service, youth development, collaboration, and student representation.",
+    
+    slogan: "Leadership, advocacy and student development.",
+    
+    image: "images/quar-sam.jpeg",
+    
+    email: "justusjecius@gmail.com",
+    phone: "+233509180005 / 0595760986",
+    website: "#",
+    facebook: "jecius_justus",
+    twitter: "@JustusJecius",
+    instagram: "jecius_justus",
+    linkedin: "https://www.linkedin.com/in/quarm-sam-justus-jecius-048754375?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+    tiktok: "#"
+},
+{
+    id: "mp170",
+    name: "SPECIAL BLESSING SESHIE",
+    position: "Youth MP and Secretary to the President",
+    constituency: "Ketu South",
+    region: "Volta",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+
+    education: "University of Cape Coast, Bachelor of Commerce (Human Resource Management), undergraduate; Sogakope Senior High School; Aflao Border Basic School; Amazing Love School.",
+
+    profession: "Beautician (Braiding, Lashes and Nails) and Mini Importer",
+
+    experience: "Infirmarian in school; Organizer for NCCE at Sogakope Senior High School; Prayer Secretary in the Ushering Team and AGCM; Organizer for Scripture Union at Sogasco; Provost at Sogakope Senior High School; Member of the Kwame Nkrumah Hall Parliamentary Council.",
+
+    biography: "Special Blessing Seshie is a native of Ketu South Constituency and was born and raised in Aflao. She completed her primary education at Amazing Love School, her Junior High School education at Aflao Border Basic School, and her Senior High School education at Sogakope Senior High School. She is currently pursuing a Bachelor of Commerce in Human Resource Management at the University of Cape Coast. Her leadership experience includes serving as an infirmarian, Organizer for NCCE at Sogakope Senior High School, Prayer Secretary in the Ushering Team and AGCM, Organizer for Scripture Union at Sogasco, and Provost at Sogakope Senior High School. She also became a member of the Kwame Nkrumah Hall Parliamentary Council. She is also a beautician specialising in braiding, lashes and nails, as well as a mini importer.",
+
+    vision: "To promote youth leadership, representation, collaboration and development within Ketu South.",
+
+    plans: "To support youth participation, leadership development, advocacy and opportunities for young people within the constituency.",
+
+    contribution: "Student leadership, youth participation, community involvement and advocacy.",
+
+    currentActivities: "Youth MP for Ketu South Constituency and Secretary to the President, Youth Parliament Ghana; Bachelor of Commerce (Human Resource Management) student at the University of Cape Coast.",
+
+    leadershipExperience: "Organizer for NCCE at Sogakope Senior High School; Prayer Secretary in the Ushering Team and AGCM; Organizer for Scripture Union at Sogasco; Provost at Sogakope Senior High School; Member of the Kwame Nkrumah Hall Parliamentary Council.",
+
+    professionalExperience: "Beautician specialising in braiding, lashes and nails, and mini importer.",
+
+    focusAreas: "Youth leadership, advocacy, student development, human resource management, entrepreneurship and community development.",
+
+    slogan: "Youth leadership, representation and development.",
+
+    image: "images/special.jpeg",
+
+    email: "blessingseshie03@gmail.com",
+    phone: "0536972341 / 0548697635",
+    website: "#",
+    facebook: "Blessing Seshie",
+    twitter: "#",
+    instagram: "Special Seshie",
+    linkedin: "#",
+    tiktok: "Xclusive"
+},
+{
+    id: "mp171",
+    name: "BENJAMIN SENYASU",
+    position: "Member of Parliament",
+    constituency: "Kade",
+    region: "Eastern",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+
+    education: "Ghana Communication Technology University, BSc Information Technology, 2023.",
+
+    profession: "Frontend Developer",
+
+    experience: "SRC Treasurer, Student Representative Council (SRC); TEIN Deputy Organizer, Tertiary Education Institutions Network (TEIN).",
+
+    biography: "Benjamin Senyasu is a young Ghanaian leader from Kade in the Eastern Region with a strong interest in finance, leadership, technology and public service. He is a member of Youth Parliament Ghana, representing the Kade Constituency. His leadership experience includes serving as an SRC Treasurer, where he gained practical experience in financial administration, accountability, budgeting and resource management. He has also served as a TEIN Deputy Organizer, contributing to organizational coordination and youth engagement. As a BSc Information Technology graduate from Ghana Communication Technology University, Hon. Senyasu combines technology with leadership and financial interests. His leadership approach emphasizes accountability, responsible management of resources, teamwork and practical solutions to challenges affecting young people.",
+
+    vision: "To promote accountable leadership, responsible resource management, technology and youth development.",
+
+    plans: "To support youth development through technology, responsible leadership, financial accountability and practical solutions to challenges affecting young people.",
+
+    contribution: "Student leadership, financial administration, organizational coordination, youth engagement and technology-related activities.",
+
+    currentActivities: "Member of Parliament for Kade Constituency, Youth Parliament Ghana; Frontend Developer.",
+
+    leadershipExperience: "SRC Treasurer, Student Representative Council; TEIN Deputy Organizer, Tertiary Education Institutions Network.",
+
+    professionalExperience: "Frontend Developer and BSc Information Technology graduate with experience in student leadership, financial administration, organizational coordination and youth engagement.",
+
+    focusAreas: "Finance, youth leadership, technology, public service, accountability and responsible resource management.",
+
+    slogan: "Accountability, responsible leadership and practical solutions.",
+
+    image: "images/senyasu.jpeg",
+
+    email: "senyasu400@gmail.com",
+    phone: "0257173153",
+    website: "#",
+    facebook: "#",
+    twitter: "#",
+    instagram: "mrben_jamin8",
+    linkedin: "Benjamin Senyasu",
+    tiktok: "#"
+},
 
 ];
