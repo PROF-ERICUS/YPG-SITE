@@ -4040,7 +4040,7 @@ region: "Ashanti",
     slogan:
         "Leading with compassion, serving with integrity.",
 
-    image: "images/faustina.jpeg",
+    image: "images/faustina1.jpeg",
     email: "faustinaaikins3@gmail.com",
     phone: "0242836979",
     website: "#",
