@@ -972,11 +972,11 @@ website: "#"
         "#"
 },
 {
-    id: "mp021",
+     id: "mp021",
     name: "DAVID ERNUU DORGARA",
     position: "Member of Parliament",
-    constituency: "Sene West Constituency",
-    region: "Bono East",
+    constituency: "Tano South Constituency",
+    region: "Ahafo",
     parliament: "Youth Parliament Ghana",
   status: "active",
 
@@ -1010,7 +1010,7 @@ website: "#"
 
     image: "images/david.jpeg",
 
-    email: " dorgaradavid@gmail.com",
+    email: "dorgaradavid@gmail.com",
 
     phone: "+233547411539",
 
