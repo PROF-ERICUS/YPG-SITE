@@ -4052,5 +4052,66 @@ region: "Ashanti",
     isMP: false,
     mpId: null
 },
+    {
+    id: "app071",
+    name: "REDEEMER FAITH AMEGBO-DELA",
+    position: "District Chief Executive (DCE)",
+    constituency: "Krachi Nchumuru",
+    region: "Oti Region",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+
+    ministry: "Krachi Nchumuru District Assembly",
+    appointmentDate: "4th October, 2026",
+
+    education:
+        "Kwame Nkrumah University of Science and Technology (KNUST) — Bachelor of Science in Chemistry; Faith Baptist Senior High; Mawuli Senior High School; St. Mary's International School",
+
+    profession: "BSc Chemistry Graduate & National Service Personnel",
+
+    experience:
+        "District Chief Executive (DCE), Krachi Nchumuru; President, National Service Personnel Association (NASPA), Krachi Nchumuru District; Sub-District Supervisor, Seasonal Malaria Chemoprevention (SMC); Public Relations Officer, Ghana Students' Chemical Society (GSCS), KNUST, 2023/2024 academic year; Media Team Member; Deputy Organiser, Heralds of Praise, KNUST; Vice President and President, Africa Hall Christian Fellowship (AHCF), KNUST",
+
+    biography:
+        "Redeemer Faith Amegbo-Dela is a Ghanaian chemistry graduate, researcher and community-focused young leader with a strong passion for public service and youth development. He holds a Bachelor of Science in Chemistry from Kwame Nkrumah University of Science and Technology (KNUST). He served as Public Relations Officer of the Ghana Students' Chemical Society (GSCS-KNUST) during the 2023/2024 academic year and served as Vice President and later President of Africa Hall Christian Fellowship (AHCF), a sub-fellowship of Inter-Hall Christian Fellowship (IHCF) under Ghana Fellowship of Evangelical Students (GHAFES)-KNUST. He currently serves as District Chief Executive for Krachi Nchumuru under Youth Parliament Ghana and as President of the National Service Personnel Association (NASPA) in the Krachi Nchumuru District.",
+
+    vision:
+        "To promote youth development, community service, responsible leadership and meaningful participation in local development.",
+
+    plans:
+        "To support youth-focused initiatives, community development, public service and programmes that create opportunities for young people in Krachi Nchumuru.",
+
+    contribution:
+        "Youth leadership, community development, public service, student leadership and community-focused initiatives.",
+
+    currentActivities:
+        "Serving as District Chief Executive for Krachi Nchumuru and President of the National Service Personnel Association (NASPA), Krachi Nchumuru District.",
+
+    leadershipExperience:
+        "President, National Service Personnel Association (NASPA), Krachi Nchumuru District; Sub-District Supervisor, Seasonal Malaria Chemoprevention (SMC); Public Relations Officer, Ghana Students' Chemical Society (GSCS-KNUST); Vice President and President, Africa Hall Christian Fellowship (AHCF), KNUST; Deputy Organiser, Heralds of Praise, KNUST.",
+
+    professionalExperience:
+        "BSc Chemistry graduate and National Service Personnel with experience in community service, research, public relations, student leadership and public-sector engagement.",
+
+    focusAreas:
+        "Youth development, community service, public health, education, local governance, leadership and community development.",
+
+    slogan:
+        "Service, leadership and community development.",
+
+    image: "images/redeemer.jpeg",
+
+    email: "fradmef@gmail.com",
+    phone: "0546933990 / 0506540095",
+    website: "#",
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#",
+
+    isMP: false,
+    mpId: null
+},
 
 ];
