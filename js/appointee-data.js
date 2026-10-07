@@ -3993,5 +3993,64 @@ region: "Ashanti",
     isMP: false,
     mpId: null
 },
+    {
+    id: "app070",
+    name: "FAUSTINA AIKINS",
+    position: "Municipal Chief Executive (MCE)",
+    constituency: "Evalue Ajomoro Gwira",
+    region: "Western",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+
+    ministry: "Evalue Ajomoro Gwira Municipal Assembly",
+    appointmentDate: "To be provided",
+
+    education:
+        "Nkroful Agricultural Senior High School — General Arts, WASSCE, 2017; Prominence Institute of Management and Professional Studies (PRIMPS) — Journalism, currently pursuing.",
+
+    profession: "Student Journalist",
+
+    experience:
+        "GAMSU President — Ghana Methodist Students Union; President — Leadership International; President — Writers' and Debaters' Club; President — Abstinence Club; Chief Editor — Sour High Club; Scripture Union Bible Studies Coordinator; School Choir Secretary; Church Secretary; Youth Athletics Support and Training.",
+
+    biography:
+        "Faustina Aikins was born on 4th December, 1997 and hails from Axim in the Western Region of Ghana. She is a dedicated, disciplined and God-fearing young woman with a strong passion for service, leadership and community development. She had her secondary education at Nkroful Agricultural Senior High School and is currently studying Journalism at Prominence Institute of Management and Professional Studies (PRIMPS). She has demonstrated leadership through various roles including President of the Ghana Methodist Students Union, President of Leadership International, President of the Writers' and Debaters' Club, President of the Abstinence Club, Chief Editor of Sour High Club, Scripture Union Bible Studies Coordinator and School Choir Secretary. She is also involved in community service, including church administration, environmental clean-up initiatives and youth athletics. She is known for humility, hard work, integrity and service to humanity.",
+
+    vision:
+        "To promote effective community leadership, youth development, service and inclusive local development.",
+
+    plans:
+        "To support youth empowerment, community development, environmental cleanliness, mentorship and initiatives that improve the wellbeing of young people.",
+
+    contribution:
+        "Youth leadership, community service, mentorship, communication, environmental initiatives and youth development.",
+
+    currentActivities:
+        "Serving as Municipal Chief Executive (MCE) for Evalue Ajomoro Gwira under Youth Parliament Ghana while pursuing studies in Journalism.",
+
+    leadershipExperience:
+        "GAMSU President, Ghana Methodist Students Union; President, Leadership International; President, Writers' and Debaters' Club; President, Abstinence Club; Chief Editor, Sour High Club; Scripture Union Bible Studies Coordinator; School Choir Secretary; Church Secretary.",
+
+    professionalExperience:
+        "Student journalist with experience in leadership, communication, administration, youth mentorship and community service.",
+
+    focusAreas:
+        "Youth development, community development, leadership, journalism, mentorship, environmental cleanliness and public service.",
+
+    slogan:
+        "Leading with compassion, serving with integrity.",
+
+    image: "images/faustina.jpeg",
+    email: "faustinaaikins3@gmail.com",
+    phone: "0242836979",
+    website: "#",
+    facebook: "Faustina Momela AIKINS",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+
+    isMP: false,
+    mpId: null
+},
 
 ];
