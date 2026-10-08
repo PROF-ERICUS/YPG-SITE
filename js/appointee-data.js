@@ -76,8 +76,7 @@ const appointeeData = [
 
     website:
         "https://prof-ericus.github.io/YPG/"
-    linkedin:
-        "https://linkedin.com/in/eric-andoh49ab01335"
+  
 },
     // ==========================================
     // SAMPLE APPOINTEE 2
