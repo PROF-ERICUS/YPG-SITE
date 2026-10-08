@@ -4379,6 +4379,55 @@ region: "Ashanti",
     linkedin: "#",
     tiktok: "#"
 },
+    {
+    id: "app077",
+    name: "BOAFO RICHEAL AFUMWAH",
+    position: "Municipal Chief Executive (MCE)",
+    constituency: "Kpone-Katamanso",
+    region: "Greater Accra",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+
+    ministry: "Kpone-Katamanso Municipal Assembly",
+    appointmentDate: "8th October 2026",
+    isMP: false,
+    mpId: null,
+
+    education: "University of Ghana, Combined Major in Biochemistry and Nutrition, Bachelor's Degree in progress, 2024–Present.",
+
+    profession: "Student of Biochemistry and Nutrition",
+
+    experience: "Youth Diplomacy, two years of experience; Delegate Representing Sudan, Model United Nations (MUN), World Health Organization (WHO); Delegate Representing Chad, Model United Nations (MUN), Food and Agriculture Organization (FAO).",
+
+    biography: "Boafo Richeal Afumwah is a student of the University of Ghana pursuing a combined major in Biochemistry and Nutrition. She has two years of experience in youth diplomacy and has actively participated in Model United Nations (MUN), representing Sudan at the World Health Organization (WHO) and Chad at the Food and Agriculture Organization (FAO). Through her involvement in youth diplomacy, she has developed an interest in leadership, international relations, public service and youth development. She is passionate about empowering young people, promoting meaningful dialogue and contributing to policies that improve communities and create opportunities for future generations. As the Municipal Chief Executive for Kpone-Katamanso Municipal Assembly under Youth Parliament Ghana, she seeks to promote inclusive leadership, responsible governance and sustainable community development.",
+
+    vision: "To promote inclusive leadership, responsible governance, meaningful youth participation and sustainable community development.",
+
+    plans: "To empower young people, promote meaningful dialogue, support inclusive governance and contribute to community development initiatives.",
+
+    contribution: "Youth diplomacy, Model United Nations participation, youth development, leadership and community engagement.",
+
+    currentActivities: "Municipal Chief Executive for Kpone-Katamanso Municipal Assembly, Youth Parliament Ghana; University of Ghana student pursuing a combined major in Biochemistry and Nutrition.",
+
+    leadershipExperience: "Youth diplomacy participant with two years of experience; Model United Nations delegate representing Sudan at the World Health Organization; Model United Nations delegate representing Chad at the Food and Agriculture Organization.",
+
+    professionalExperience: "Student of Biochemistry and Nutrition with experience in youth diplomacy, international relations, Model United Nations and youth development.",
+
+    focusAreas: "Youth development, leadership, international relations, public service, youth diplomacy, inclusive governance, community development and meaningful dialogue.",
+
+    slogan: "Inclusive leadership, responsible governance and sustainable development.",
+
+    image: "images/boafo.jpeg",
+
+    email: "richealboafo18@gmail.com",
+    phone: "0531543064",
+    website: "#",
+    facebook: "#",
+    twitter: "Miss Richeal Afumwah Boafo",
+    instagram: "Miss Afumwah",
+    linkedin: "Richeal Boafo",
+    tiktok: "#"
+},
 
 
 ];
