@@ -4330,6 +4330,55 @@ region: "Ashanti",
     linkedin: "JACKLINE KAFUI AGBEKO",
     tiktok: "#"
 },
+    {
+    id: "app076",
+    name: "CHANUL BERNARD ADAMS",
+    position: "Deputy Minister for Local Governance, Chieftaincy and Religious Affairs",
+    constituency: "Nkwanta North",
+    region: "Oti",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+
+    ministry: "Ministry of Local Governance, Chieftaincy and Religious Affairs",
+    appointmentDate: "To be provided",
+    isMP: false,
+    mpId: null,
+
+    education: "University of Business Integrated Development Studies (UBIDS), Bachelor of Laws (LLB), in progress; St. Paul’s Senior High School, completed 2023; Nkwanta MA Junior High School, completed 2020; St. Talafor Academy, Sibi.",
+
+    profession: "Law Student / Youth Leader / Advocate",
+
+    experience: "Senator, Law Students’ Union (LSU), elected for three consecutive terms; Youth leadership and community advocacy.",
+
+    biography: "Chanul Bernard Adams is a young Ghanaian leader, law student, advocate and emerging public servant whose journey is rooted in education, leadership, service and community development. Born on 29 November 2005 in Sibi, he began his education at St. Talafor Academy in Sibi before attending Nkwanta MA Junior High School, where he completed his JHS education in 2020. He subsequently attended St. Paul’s Senior High School and completed his secondary education in 2023. He is currently pursuing a Bachelor of Laws (LLB) at the University of Business Integrated Development Studies (UBIDS). His legal education has strengthened his interest in justice, governance, leadership, advocacy and the role of law in building a fair and progressive society. Chanul has served as a Senator of the Law Students’ Union, having been elected for three consecutive terms. His leadership experience has provided exposure to representation, public speaking, negotiation, teamwork and student governance. He is passionate about youth development, politics, community advancement and public service. His leadership approach is centred on integrity, hard work, courage, service and purposeful leadership.",
+
+    vision: "To contribute to community and national development through purposeful leadership, youth participation, advocacy and public service.",
+
+    plans: "To promote youth participation in leadership and decision-making while supporting initiatives focused on community development, education, governance and opportunities for young people.",
+
+    contribution: "Youth advocacy, student leadership, public speaking, community engagement, representation and leadership development.",
+
+    currentActivities: "Deputy Minister for Local Governance, Chieftaincy and Religious Affairs, Youth Parliament Ghana; Bachelor of Laws (LLB) student at the University of Business Integrated Development Studies.",
+
+    leadershipExperience: "Senator, Law Students’ Union, elected for three consecutive terms; youth leadership, advocacy and community engagement.",
+
+    professionalExperience: "Law student and emerging public servant with experience in student governance, representation, public speaking, negotiation, advocacy and youth engagement.",
+
+    focusAreas: "Youth development, governance, leadership, advocacy, justice, public service, community development, education and youth participation.",
+
+    slogan: "Integrity, service, courage and purposeful leadership.",
+
+    image: "images/chanul.jpeg",
+
+    email: "0533143750",
+    phone: "0533143750",
+    website: "#",
+    facebook: "#",
+    twitter: "#",
+    instagram: "#",
+    linkedin: "#",
+    tiktok: "#"
+},
 
 
 ];
