@@ -293,10 +293,10 @@ website:
     appointmentDate: "Information to be updated.",
         status: "active",
     isMP: true,
-    constituency: "Komenda Edina Eguafo Abrem",
+    constituency: "Komenda-Edina-Eguafo-Abirem",
 
     education:
-        "BSc. Civil Engineering (In Progress) — University of Mines and Technology (UMaT).",
+        "BSc. Civil Engineering (In Progress) — University of Mines and Technology (UMaT), Senior High:Mfantsipim School.",
 
     profession:
         "Entrepreneur and Student",
