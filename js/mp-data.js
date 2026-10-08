@@ -9696,7 +9696,7 @@ parliament: "Youth Parliament Ghana",
     image: "images/ajaab.jpeg",
 
     email: "#",
-    phone: "#",
+    phone: "0205977723",
     website: "www.youthparliamentgh.org",
     facebook: "#",
     twitter: "#",
