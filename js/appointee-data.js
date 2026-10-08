@@ -4340,7 +4340,7 @@ region: "Ashanti",
     status: "active",
 
     ministry: "Ministry of Local Governance, Chieftaincy and Religious Affairs",
-    appointmentDate: "To be provided",
+    appointmentDate: "3rd October,2026.",
     isMP: false,
     mpId: null,
 
