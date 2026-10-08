@@ -4284,6 +4284,55 @@ region: "Ashanti",
     linkedin: "#",
     tiktok: "@FinancialSarbeng"
 },
+    {
+    id: "app075",
+    name: "JACKLINE KAFUI AGBEKO",
+    position: "Director of Public Relations and Stakeholders Engagement",
+    constituency: "Kpone-Katamanso",
+    region: "Greater Accra",
+    parliament: "Parliament of Ghana",
+    status: "active",
+
+    ministry: "Office of the Director of Public Relations and Stakeholders Engagement",
+    appointmentDate: "7th October 2026",
+    isMP: false,
+    mpId: null,
+
+    education: "University of Mines and Technology (UMaT), Tarkwa, Bachelor of Science Degree in Mechanical Engineering, Level 400.",
+
+    profession: "Digital Marketer",
+
+    experience: "Deputy Senate Chair, Association of Mechanical Engineering Students (AMES), UMaT; Robotics Tutor, Aaenics UMaT Robotics Club; General Secretary, Assemblies of God Campus Ministry, UMaT; Design Lead, Coasted Code; Social Media Marketer, VIKAD Mining Solutions.",
+
+    biography: "Jackline Kafui Agbeko is a Mechanical Engineering student at the University of Mines and Technology (UMaT) with a growing interest in youth development, public engagement, STEM and effective communication. She has gained leadership experience as a Deputy Senate Chair, Design Lead, Robotics Tutor and Media Head, through which she has developed skills in communication, teamwork, creative problem-solving and engaging diverse audiences. She is also a certified Digital Marketer with experience in graphic design, digital communication and content creation. She is passionate about connecting people, ideas and opportunities through effective communication and hopes to contribute meaningfully to youth engagement, public service and community development.",
+
+    vision: "To promote effective communication, meaningful stakeholder engagement, youth participation and community development.",
+
+    plans: "To strengthen public engagement, improve communication between stakeholders and young people, and use digital communication and creative skills to support youth development.",
+
+    contribution: "Student leadership, robotics education, digital marketing, graphic design, social media communication and youth engagement.",
+
+    currentActivities: "Director of Public Relations and Stakeholders Engagement, Youth Parliament Ghana; Level 400 Mechanical Engineering student at the University of Mines and Technology; Design Lead at Coasted Code; Social Media Marketer at VIKAD Mining Solutions.",
+
+    leadershipExperience: "Deputy Senate Chair, Association of Mechanical Engineering Students (AMES), UMaT; Robotics Tutor, Aaenics UMaT Robotics Club; General Secretary, Assemblies of God Campus Ministry, UMaT.",
+
+    professionalExperience: "Digital Marketer with experience in graphic design, digital communication, content creation, design leadership and social media marketing.",
+
+    focusAreas: "Public relations, stakeholder engagement, youth development, STEM, digital communication, graphic design, technology, community development and public service.",
+
+    slogan: "Connecting people, ideas and opportunities through effective communication.",
+
+    image: "images/jackline.jpeg",
+
+    email: "kafuijackline@gmail.com",
+    phone: "0532664894",
+    website: "#",
+    facebook: "JACKLINE KAFUI AGBEKO",
+    twitter: "#",
+    instagram: "JACKLINE KAFUI AGBEKO",
+    linkedin: "JACKLINE KAFUI AGBEKO",
+    tiktok: "#"
+},
 
 
 ];
