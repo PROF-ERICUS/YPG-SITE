@@ -9649,7 +9649,7 @@ parliament: "Youth Parliament Ghana",
 
     slogan: "Connecting young people to leadership and opportunities.",
 
-    image: "images/elton.jpeg",
+    image: "images/elton1.jpeg",
 
     email: "eltonarthur100@gmail.com",
     phone: "0531845897",
