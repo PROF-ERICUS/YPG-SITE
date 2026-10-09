@@ -3113,7 +3113,7 @@ region: "Ashanti",
     linkedin: "Abubakar Nashira",
     tiktok: "#"
 },
-    {
+{
     id: "app054",
     name: "SAMUEL ABOAGYE NSIAH",
     position: "Municipal Chief Executive (MCE), Ejisu",
@@ -3163,9 +3163,9 @@ region: "Ashanti",
     slogan:
         "Data, leadership and service for youth development",
 
-    image: "images/samuel.jpeg",
+    image: "images/samuel1.jpeg",
 
-    email: "samuelnsiag787@gmail.com",
+    email: "samuelnsiah787@gmail.com",
     phone: "0552863334",
     website: "#",
 
