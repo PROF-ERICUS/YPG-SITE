@@ -62,7 +62,7 @@ const appointeeData = [
     // PROFILE PHOTO
     // ==============================
     image:
-        "images/defence.jpeg",
+        "images/profericus2.png",
 
 
     // ==============================
