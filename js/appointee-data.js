@@ -2240,7 +2240,7 @@ region: "Ashanti",
     status: "active",
     isMP: false,
     mpId: "",
-    constituency: "Nhyiayeso Constituency",
+    constituency: "Nhyiaeso",
 
     education:
         "Bachelor of Science (BSc) Biological Science — University of Energy and Natural Resources (UENR), 2024–2028. West African Senior School Certificate Examination (WASSCE), General Science — Kumasi Wesley Girls' Senior High School, 2020–2023.",
