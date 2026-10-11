@@ -1552,7 +1552,7 @@ region: "Ashanti",
     focusAreas:
         "Healthcare • Community Development • Leadership • Youth Engagement • Union Management • Education • Community Service",
 
-    image: "images/Akobta Peter.png",
+    image: "images/Akobta Peter.jpeg",
 
     email: "akobtapeter@gmail.com",
     phone: "0502245970 / 0556814775",
