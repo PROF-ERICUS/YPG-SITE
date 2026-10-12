@@ -5076,7 +5076,7 @@ region: "Ashanti",
 },
     {
     id: "app097",
-    name: "NELSON AGBO DZA JUNIOR",
+    name: "NELSON AGBODZA JUNIOR",
     position: "Volta Regional Minister",
     constituency: "Central Tongu",
     region: "Volta",
