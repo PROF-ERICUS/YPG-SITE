@@ -10034,7 +10034,8 @@ parliament: "Youth Parliament Ghana",
     linkedin: "#",
     tiktok: "#"
 },
-  {
+
+{
     id: "mp191",
     name: "THOMAS SEKYERE OWUSU",
     position: "Member of Parliament",
@@ -10050,7 +10051,7 @@ parliament: "Youth Parliament Ghana",
     plans: "To encourage youth participation, support leadership development and promote constructive engagement on issues affecting young people in the Dome-Kwabenya Constituency.",
     contribution: "Brings experience in student governance, parliamentary representation, committee coordination and workplace supervision to youth leadership and representation.",
     currentActivities: "Pursuing a Bachelor of Commerce in Human Resource Management at the University of Cape Coast and serving as a supervisor at Enoa Natural Mineral Water, Kenyasi-Abirem.",
-    leadershipExperience: "School Prefect; Greater Accra Regional SRC Chief Justice for Zone 5; Majority Chief Whip for the 7th Kwame Nkrumah Hall Parliamentary Council; Secretary of the Planning and Organising Committee for the 64th UCC-SRC; and other leadership and committee roles.",
+   leadershipExperience: "School Prefect; Greater Accra Regional SRC Chief Justice for Zone 5; Majority Chief Whip for the 7th Kwame Nkrumah Hall Parliamentary Council; Secretary of the Planning and Organising Committee for the 64th UCC-SRC; and other leadership and committee roles.",
     professionalExperience: "Supervisor at Enoa Natural Mineral Water, Kenyasi-Abirem.",
     focusAreas: "Youth Representation, Student Leadership, Human Resource Management, Social Networking and Youth Development",
     slogan: "Responsible Leadership, Meaningful Representation",
