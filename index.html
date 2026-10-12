@@ -2756,7 +2756,7 @@
 }
         
 
-/* FORCE REGISTERED MPs BUTTON STYLING */
+/* REGISTERED MPs BUTTON */
 a.registered-mps-link,
 .navbar a.registered-mps-link,
 .navbar-nav a.registered-mps-link {
@@ -2782,18 +2782,42 @@ a.registered-mps-link,
 
     flex-shrink: 0 !important;
     box-shadow: 0 4px 12px rgba(215, 169, 40, 0.2);
+
+    transition:
+        background-color 0.35s ease,
+        color 0.35s ease,
+        border-color 0.35s ease,
+        box-shadow 0.35s ease,
+        transform 0.35s ease !important;
 }
 
+/* HOVER: NAVY BLUE WITH GOLD TEXT */
 a.registered-mps-link:hover,
 .navbar a.registered-mps-link:hover,
 .navbar-nav a.registered-mps-link:hover {
-    background: #f0d477 !important;
-    color: #071b35 !important;
+    background: #071b35 !important;
+    color: #f0d477 !important;
     border-color: #f0d477 !important;
+
+    box-shadow: 0 7px 18px rgba(7, 27, 53, 0.3);
+    transform: translateY(-2px);
 }
 
+/* KEEP ICONS THE SAME COLOUR AS THE TEXT */
 a.registered-mps-link i {
     color: inherit !important;
+    transition: color 0.35s ease;
+}
+
+/* CLICK EFFECT */
+a.registered-mps-link:active {
+    transform: translateY(0) scale(0.97);
+}
+
+/* KEYBOARD ACCESSIBILITY */
+a.registered-mps-link:focus-visible {
+    outline: 3px solid #f0d477;
+    outline-offset: 3px;
 }
 
     </style>
