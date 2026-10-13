@@ -354,7 +354,7 @@ isMP: true,
 
 
 constituency: "Trobu Constituency",
-status: "revoked",
+status: "inactive",
 revocationReason: "Administrative decision",
 
     education:
