@@ -165,28 +165,32 @@ function isBirthdayToday(member, today) {
         memberPosition.className = "ypg-birthday-position";
         memberPosition.textContent = position;
 
-        const message = document.createElement("p");
-        message.className = "ypg-birthday-message";
-        message.textContent =
-            "On behalf of the Youth Parliament of Ghana, " +
-            "we extend our warmest birthday wishes to you. " +
-            "May your new year bring you good health, wisdom, " +
-            "greater accomplishments, and continued success " +
-            "in your service to our nation. May your commitment " +
-            "to leadership and national development continue " +
-            "to inspire others. Happy Birthday!";
+       const message = document.createElement("p");
+message.className = "ypg-birthday-message";
+message.textContent =
+    "Youth Parliament Ghana warmly celebrates you " +
+    "on your birthday. May the year ahead bring you " +
+    "wisdom, good health, greater achievements, and " +
+    "continued success in your service to young people " +
+    "and our nation.";
 
-        const signature = document.createElement("div");
-        signature.className = "ypg-birthday-signature";
-        signature.textContent =
-            "With warm wishes, Youth Parliament of Ghana";
+       const signature = document.createElement("div");
+signature.className = "ypg-birthday-signature";
+signature.textContent =
+    "The Leadership and Membership";
 
-        card.append(
-            memberName,
-            memberPosition,
-            message,
-            signature
-        );
+const signatureOrganisation = document.createElement("div");
+signatureOrganisation.className = "ypg-birthday-signature-org";
+signatureOrganisation.textContent =
+    "YOUTH PARLIAMENT GHANA";
+
+     card.append(
+    memberName,
+    memberPosition,
+    message,
+    signature,
+    signatureOrganisation
+);
 
         return card;
     }
