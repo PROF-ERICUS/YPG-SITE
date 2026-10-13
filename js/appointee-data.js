@@ -5177,5 +5177,6 @@ region: "Ashanti",
     tiktok: "#"
 },
 
-
 ];
+// Make appointee records accessible to the birthday system
+window.appointeeData = appointeeData;
