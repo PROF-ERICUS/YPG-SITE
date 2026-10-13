@@ -2541,6 +2541,9 @@ region: "Ashanti",
     isMP: false,
     mpId: "",
     constituency: "Manhyia North",
+         // Birthday for automatic YPG birthday cards
+birthday: "10-13",
+
 
     education:
         "Bachelor of Science (BSc) in Sustainable Land Management — University of Energy and Natural Resources (UENR), currently in Year 300; Senior High School — Serwaa Nyarko Girls' Senior High School; Junior High School — Brilliant International School.",
