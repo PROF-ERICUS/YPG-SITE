@@ -2542,7 +2542,7 @@ region: "Ashanti",
     mpId: "",
     constituency: "Manhyia North",
          // Birthday for automatic YPG birthday cards
-birthday: "10-13",
+birthday: "10-14",
 
 
     education:
