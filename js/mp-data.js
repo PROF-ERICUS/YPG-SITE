@@ -10096,5 +10096,5 @@ parliament: "Youth Parliament Ghana",
     tiktok: "#"
 },
 
-
 ];
+window.mpData = mpData;
