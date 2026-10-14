@@ -4984,29 +4984,50 @@ birthday: "10-14",
     parliament: "Youth Parliament Ghana",
     status: "active",
     ministry: "Mampong Municipal Assembly",
-    appointmentDate: "8th October 2026",
+    appointmentDate: "8th October, 2026",
     isMP: false,
     mpId: null,
-    education: "BSc Business Administration, specialising in Business Information Technology, Kwame Nkrumah University of Science and Technology (KNUST), in progress; General Arts, Opoku Ware School (WASSCE, 2022). Additional training: AHEAD Mini-MBA, African Foresight Group; Diploma in Entrepreneurship and Business Development, Incubadora CON VALORES; Aspire Institute Leadership Programme.",
-    profession: "Entrepreneur and Business Information Technology Student",
-    experience: "General Manager, AUNTYCECE FOODS; Founder, Ribotel Technologies; First Deputy Speaker, KNUST Students Parliament House; former Deputy Majority Leader, KNUST Students Parliament House; Head of IT and Strategy, Nuru Africa Foundation; Intern, Mampong Municipal Assembly; Volunteer, Blue Outreach Programme; Funds and Grants Division, Enactus KNUST.",
-    biography: "Simon Akaribo is a Ghanaian youth leader, entrepreneur, and Business Information Technology student at the Kwame Nkrumah University of Science and Technology (KNUST). He serves as Youth Municipal Chief Executive for the Mampong Municipality under Youth Parliament Ghana and as First Deputy Speaker of the KNUST Students Parliament House. He is pursuing a Bachelor of Science in Business Administration, specialising in Business Information Technology, with an expected completion year of 2027. As an entrepreneur, he serves as General Manager of AUNTYCECE FOODS and founder of Ribotel Technologies, a venture focused on business consultancy, software solutions, and digital literacy. His interests include inclusive leadership, youth empowerment, entrepreneurship, technology, civic participation, and sustainable community development.",
-    vision: "To promote inclusive leadership, empower young people, and advance sustainable community development through entrepreneurship, technology, and civic participation.",
-    plans: "Encourage youth participation in local governance, promote entrepreneurship and digital literacy, support educational and leadership development, and foster collaboration on community development initiatives.",
-    contribution: "Contribute experience in business operations, technology, student parliamentary leadership, entrepreneurship, and strategic planning to youth representation and municipal development.",
-    currentActivities: "Serving as Youth Municipal Chief Executive for Mampong Municipality, First Deputy Speaker of the KNUST Students Parliament House, General Manager of AUNTYCECE FOODS, and founder of Ribotel Technologies while pursuing a BSc in Business Administration at KNUST.",
-    leadershipExperience: "Youth Municipal Chief Executive, Mampong Municipality; First Deputy Speaker, KNUST Students Parliament House; Deputy Majority Leader, KNUST Students Parliament House; Head of IT and Strategy, Nuru Africa Foundation; Funds and Grants Division, Enactus KNUST; volunteer, Blue Outreach Programme.",
-    professionalExperience: "General Manager, AUNTYCECE FOODS; Founder, Ribotel Technologies; Intern, Mampong Municipal Assembly; Head of IT and Strategy, Nuru Africa Foundation.",
-    focusAreas: "Youth empowerment, local governance, entrepreneurship, business development, digital literacy, technology, education, student leadership, and sustainable community development.",
-    slogan: "Inclusive Leadership, Youth Empowerment, and Sustainable Development.",
+
+    education: "Kwame Nkrumah University of Science and Technology (KNUST) — Bachelor of Science (BSc) in Business Administration, specialising in Business Information Technology, in progress; expected completion in 2027. Opoku Ware School — General Arts, West African Senior School Certificate Examination (WASSCE), completed in 2022. Additional Training: AHEAD Mini-MBA, African Foresight Group; Diploma in Entrepreneurship and Business Development, Incubadora CON VALORES; Aspire Institute Leadership Programme.",
+
+    profession: "Entrepreneur and Business Information Technology Professional",
+
+    experience: "Simon Akaribo is a Ghanaian youth leader, entrepreneur, and Business Information Technology student at KNUST. He has experience in student parliamentary leadership, business operations, strategic planning, technology, business consultancy, software solutions, digital literacy, business development, entrepreneurship, local government administration, youth empowerment and community service. He currently serves as General Manager of AUNTYCECE FOODS and Founder of Ribotel Technologies. His previous experience includes serving as Deputy Majority Leader of the KNUST Students Parliament House, Head of IT and Strategy at Nuru Africa Foundation, an intern at Mampong Municipal Assembly, a volunteer with the Blue Outreach Programme, and service in the Funds and Grants Division of Enactus KNUST.",
+
+    biography: "SIMON AKARIBO is a Ghanaian youth leader, entrepreneur, and Business Information Technology student at the Kwame Nkrumah University of Science and Technology (KNUST). He is passionate about inclusive leadership, community development, entrepreneurship, and creating opportunities for young people. He serves as the Youth Municipal Chief Executive (MCE) for the Mampong Municipality under the Youth Parliament of Ghana, Ashanti Regional Parliament. He also serves as the First Deputy Speaker of the KNUST Students Parliament House, contributing to student representation, parliamentary administration, and leadership development. Hon. Akaribo is pursuing a Bachelor of Science in Business Administration, specialising in Business Information Technology, at KNUST, with an expected completion year of 2027. He completed his General Arts education at Opoku Ware School, obtaining his WASSCE in 2022. He has undertaken additional training in entrepreneurship, business development, leadership, and management, including the AHEAD Mini-MBA by the African Foresight Group, a Diploma in Entrepreneurship and Business Development from Incubadora CON VALORES, and the Aspire Institute Leadership Programme. Professionally, he is an entrepreneur with interests in business development, technology, and sustainable enterprise growth. He currently serves as General Manager of AUNTYCECE FOODS, contributing to business operations, strategic planning, and organisational development. He is also the Founder of Ribotel Technologies, a venture focused on business consultancy, software solutions, and digital literacy. His previous experience includes serving as Deputy Majority Leader of the KNUST Students Parliament House, Head of IT and Strategy at Nuru Africa Foundation, an intern at Mampong Municipal Assembly, a volunteer with the Blue Outreach Programme, and service in the Funds and Grants Division of Enactus KNUST. Hon. Akaribo is committed to youth empowerment, civic participation, educational development, and inclusive community growth. Through his leadership and entrepreneurial activities, he seeks to encourage youth participation and contribute to sustainable local development.",
+
+    vision: "To promote inclusive leadership, youth empowerment, entrepreneurship, civic participation, educational development, and sustainable community growth in the Mampong Municipality and beyond.",
+
+    plans: "To encourage young people to participate in civic and community development; promote entrepreneurship and opportunities for youth; support educational development and leadership training; encourage technology adoption and digital literacy; and contribute to inclusive and sustainable local development in the Mampong Municipality.",
+
+    contribution: "Simon Akaribo has contributed to student representation and parliamentary administration through his service in the KNUST Students Parliament House. His entrepreneurial work includes business operations and strategic development at AUNTYCECE FOODS and founding Ribotel Technologies, which focuses on business consultancy, software solutions, and digital literacy. His leadership and community involvement also reflect his commitment to youth empowerment, civic participation, and sustainable local development.",
+
+    currentActivities: "Youth Municipal Chief Executive for Mampong Municipality under the Youth Parliament of Ghana, Ashanti Regional Parliament; First Deputy Speaker of the KNUST Students Parliament House; General Manager of AUNTYCECE FOODS; Founder of Ribotel Technologies; and student pursuing a Bachelor of Science in Business Administration, specialising in Business Information Technology, at KNUST.",
+
+    leadershipExperience: "Youth Municipal Chief Executive (MCE), Mampong Municipality, Youth Parliament of Ghana; First Deputy Speaker, KNUST Students Parliament House; Deputy Majority Leader, KNUST Students Parliament House; General Manager, AUNTYCECE FOODS; Founder, Ribotel Technologies; Head of IT and Strategy, Nuru Africa Foundation; Funds and Grants Division, Enactus KNUST; Intern, Mampong Municipal Assembly; Volunteer, Blue Outreach Programme.",
+
+    professionalExperience: "General Manager at AUNTYCECE FOODS, contributing to business operations, strategic planning, and organisational development; Founder of Ribotel Technologies, a venture focused on business consultancy, software solutions, and digital literacy; Head of IT and Strategy at Nuru Africa Foundation; Intern at Mampong Municipal Assembly; and service in the Funds and Grants Division of Enactus KNUST. His professional interests include entrepreneurship, business development, technology, and sustainable enterprise growth.",
+
+    focusAreas: "Youth Empowerment, Inclusive Leadership, Local Governance, Community Development, Entrepreneurship, Business Information Technology, Software Solutions, Digital Literacy, Business Consultancy, Student Representation, Civic Participation, Educational Development and Sustainable Enterprise Growth",
+
+    slogan: "Inclusive Leadership, Innovation and Community Impact",
+
     image: "images/simon-akaribo.jpeg",
+
     email: "simonakaribo3@gmail.com",
+
     phone: "+233 53 481 9667",
+
     website: "#",
+
     facebook: "#",
+
     twitter: "#",
+
     instagram: "#",
+
     linkedin: "https://www.linkedin.com/in/simonakaribo",
+
     tiktok: "#"
 },
 {
