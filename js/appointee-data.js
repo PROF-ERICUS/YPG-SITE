@@ -5289,6 +5289,62 @@ birthday: "10-14",
 
     tiktok: "#"
 },
+    {
+    id: "app102",
+    name: "KWESI KAKRA ADDISON",
+    position: "Municipal Chief Executive (MCE)",
+    constituency: "Trobu Constituency",
+    region: "Greater Accra",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+    ministry: "Ga North Municipal Assembly",
+    appointmentDate: "7th October, 2026",
+    isMP: false,
+    mpId: null,
+
+    education: "Methodist University Ghana — Bachelor of Business Administration (BBA) in Human Resource Management (2022–2025), completed in May/June 2025; Rev. John Teye Memorial Institute — General Arts (2018–2021); Atomic Hills '2' Basic School (2011–2018).",
+
+    profession: "Human Resource Management, Banking Operations and Front-End Development",
+
+    experience: "Experience in banking operations, transaction settlement monitoring, payment reporting, chargeback handling, card transaction investigations, human resource administration, staff training support and committee service. Currently serving as National Service Personnel at GCB Bank Ghana Limited. Previously volunteered at the Ghana Revenue Authority and the Food and Drugs Authority, supporting administrative efficiency and staff training activities.",
+
+    biography: "KWESI KAKRA ADDISON is a dedicated and detail-oriented Ghanaian youth from the Greater Accra Region. He is passionate about leadership, youth development, efficient administration and technology-driven innovation in the banking sector. He holds a Bachelor of Business Administration in Human Resource Management from Methodist University Ghana, completed in May/June 2025. He is currently serving as National Service Personnel at GCB Bank Ghana Limited, where he prepares PAPSS settlement reports, monitors transactions, handles chargebacks involving wallet and POS transactions, and supports investigations into e-commerce, ATM and POS card transactions. At the Ghana Revenue Authority and Food and Drugs Authority, he supported administrative activities and worked with HR and training staff to improve staff experience. He has also served as Prayer Secretary in the Ghana Methodist Students' Union and as a committee member on the Electoral Commission committee of Methodist University Ghana. His academic research examined 'The Impact of Leadership Behaviour on Employee Engagement: A Case Study of Opportunity International Savings and Loans Limited (OISL)'.",
+
+    vision: "To promote efficient administration, responsible leadership, youth development and the use of technology to improve public service and community outcomes.",
+
+    plans: "To encourage youth participation in local governance, support efficient administrative practices, promote technology-driven solutions and contribute to community development initiatives within the Ga North Municipal Assembly.",
+
+    contribution: "Brings experience in banking operations, payment settlement monitoring, human resource administration, staff training support and student leadership to public service and youth development. His academic research on leadership behaviour and employee engagement informs his interest in effective leadership and organisational performance.",
+
+    currentActivities: "Serving as National Service Personnel at GCB Bank Ghana Limited, handling payment settlement reports, transaction monitoring, chargebacks and card transaction investigations, while serving as Municipal Chief Executive under Youth Parliament Ghana.",
+
+    leadershipExperience: "Municipal Chief Executive, Ga North Municipal Assembly, Youth Parliament Ghana; Prayer Secretary, Ghana Methodist Students' Union; Committee Member, Electoral Commission Committee, Methodist University Ghana.",
+
+    professionalExperience: "National Service Personnel, GCB Bank Ghana Limited (January 2026–Present); Volunteer Intern, Ghana Revenue Authority (June–August 2024); Volunteer Intern and Secretary to the Head of HR, Food and Drugs Authority (June–July 2023). At GCB Bank, responsibilities include preparing PAPSS settlement reports, monitoring transactions, handling wallet and POS chargebacks, and supporting investigations into e-commerce, ATM and POS transactions.",
+
+    focusAreas: "Youth Development, Local Governance, Human Resource Management, Banking Operations, Financial Technology, Digital Innovation, Administrative Efficiency, Leadership, Employee Engagement and Community Development",
+
+    slogan: "Responsible Leadership, Efficient Administration, Innovative Solutions",
+
+    image: "images/kwesi-kakra-addison.jpeg",
+
+    email: "kwesikakraaddison@gmail.com",
+
+    phone: "+233 50 857 4365",
+
+    website: "#",
+
+    facebook: "#",
+
+    twitter: "#",
+
+    instagram: "#",
+
+    linkedin: "#",
+
+    tiktok: "#"
+},
+
 
 ];
 // Make appointee records accessible to the birthday system
