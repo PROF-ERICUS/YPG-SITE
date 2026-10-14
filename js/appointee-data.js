@@ -5378,6 +5378,61 @@ birthday: "10-14",
     linkedin: "Addai Musah Asamoah",
     tiktok: "#"
 },
+    {
+    id: "app104",
+    name: "UMAR ZELIA",
+    position: "Minister for Gender, Children and Social Welfare",
+    constituency: "Tamale Central",
+    region: "Northern",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+    ministry: "Ministry of Gender, Children and Social Welfare",
+    appointmentDate: "25th September, 2026",
+    isMP: false,
+    mpId: null,
+
+    education: "Tamale College of Education — Social Science, Bachelor's Degree (2026).",
+
+    profession: "Educator and Entrepreneur",
+
+    experience: "Experience in student leadership, welfare advocacy, youth governance, community engagement, coordination and administrative support. Previous roles include Secretary of the National Union of Ghana Students (NUGS), Secretary of the Ghana Union of Professional Students (GUPS), WOCom at Tamale College of Education, WOCom at Northern College of Education (Attricons), Chief Assistant at Mimies Cravings, and coordinating and championing the welfare of members of Attricons.",
+
+    biography: "UMAR ZELIA is a dedicated youth leader and community advocate committed to promoting sustainable development, youth empowerment and legislative engagement in Ghana. With an academic background in Geography and Social Studies and practical leadership experience, she has contributed to community initiatives, youth governance programmes and professional public-service roles. Passionate about advocacy, governance and national development, she continues to support youth participation in decision-making processes across Ghana. As Minister for Gender, Children and Social Welfare under Youth Parliament Ghana, she is committed to promoting welfare, inclusion and the development of young people and communities.",
+
+    vision: "To promote gender inclusion, child welfare, social protection, youth empowerment and sustainable community development through advocacy and meaningful participation in governance.",
+
+    plans: "To promote awareness of gender and child welfare issues, encourage youth participation in social development initiatives, support community welfare advocacy and contribute to inclusive programmes that improve the well-being of children, young people and vulnerable groups.",
+
+    contribution: "Brings experience in student leadership, welfare coordination, organisational administration and youth advocacy. Her previous roles within student organisations and educational institutions reflect her involvement in representing members and championing welfare-related concerns.",
+
+    currentActivities: "Serving as Minister for Gender, Children and Social Welfare under Youth Parliament Ghana and working as an educator, facilitator and entrepreneur.",
+
+    leadershipExperience: "Secretary, National Union of Ghana Students (NUGS); Secretary, Ghana Union of Professional Students (GUPS); WOCom, Tamale College of Education; WOCom, Northern College of Education (Attricons); Chief Assistant, Mimies Cravings; welfare coordinator and advocate for members of Attricons; Minister for Gender, Children and Social Welfare, Youth Parliament Ghana.",
+
+    professionalExperience: "Educator and Facilitator; Entrepreneur; Chief Assistant at Mimies Cravings; student leadership and welfare coordination through NUGS, GUPS and college-based organisations.",
+
+    focusAreas: "Gender Equality, Child Welfare, Social Protection, Youth Empowerment, Community Development, Education, Advocacy, Inclusion and Sustainable Development",
+
+    slogan: "Empowering People, Protecting Children, Building Inclusive Communities",
+
+    image: "images/umar-zelia.jpeg",
+
+    email: "umarzelia30@gmail.com",
+
+    phone: "0501225403 / 0256691241",
+
+    website: "#",
+
+    facebook: "Umar Zelia",
+
+    twitter: "#",
+
+    instagram: "Umar Zelia",
+
+    linkedin: "Umar Zelia",
+
+    tiktok: "Umar Zelia"
+},
 
 
 
