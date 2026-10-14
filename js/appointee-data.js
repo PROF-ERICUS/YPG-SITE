@@ -1513,7 +1513,7 @@ region: "Ashanti",
     name: "AKOBTA PETER",
     position: "Representative of the five northern Regions to All DCEs",
     ministry: "District Chief Executives",
-    constituency: "Five Northern Regions",
+    constituency: "Madina",
     region: "Northern",
     appointmentDate: "26th September,2026.",
      status: "active",
@@ -1552,7 +1552,7 @@ region: "Ashanti",
     focusAreas:
         "Healthcare • Community Development • Leadership • Youth Engagement • Union Management • Education • Community Service",
 
-    image: "images/Akobta Peter.jpeg",
+    image: "images/Peter.jpeg",
 
     email: "akobtapeter@gmail.com",
     phone: "0502245970 / 0556814775",
@@ -5232,6 +5232,61 @@ birthday: "10-14",
     twitter: "#",
     instagram: "#",
     linkedin: "#",
+    tiktok: "#"
+},
+    {
+    id: "app101",
+    name: "FELICITY TENG-VIEL",
+    position: "Director of Policy, Research and Strategic Planning",
+    constituency: "Sunyani East",
+    region: "Bono",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+    ministry: "Ministry of Trade, Agribusiness and Industry",
+    appointmentDate: "13th October, 2026",
+    isMP: false,
+    mpId: null,
+
+    education: "University of Business and Integrated Development Studies (UBIDS) — Bachelor of Science (BSc) in Real Estate, First Class Honours (2025); Diploma in Estate Agency with Distinction, UBIDS (year of completion not provided).",
+
+    profession: "Real Estate Professional, Researcher and Teaching Assistant",
+
+    experience: "Experience in teaching, academic leadership, financial administration, professional association activities, land administration and the real estate sector. Served as Teaching Assistant in the Department of Real Estate at UBIDS, Supreme Justice of the Department of Real Estate, Financial Secretary of the International Facility Management Association (IFMA) Student Chapter, and a member of the Ghana Institution of Surveyors (GhIS) Students' Organizing Committee. Also completed attachment training at the Lands Commission in Sunyani and Gold Fields Ghana Limited in Tarkwa.",
+
+    biography: "FELICITY TENG-VIEL is a Ghanaian real estate graduate and young leader with strong interests in policy research, strategic planning, investment and sustainable development. She holds a Bachelor of Science in Real Estate, graduating with First Class Honours, and a Diploma in Estate Agency with Distinction from the University of Business and Integrated Development Studies (UBIDS). She currently serves as a Teaching Assistant in the Department of Real Estate at UBIDS. Her leadership experience includes serving as Supreme Justice of the Department of Real Estate and Financial Secretary of the International Facility Management Association (IFMA) Student Chapter. She has also been involved with the Ghana Institution of Surveyors (GhIS) Students' Organizing Committee. Her academic achievements include being named Overall Best Student in the Department of Real Estate and Overall Female Best Graduating Student in the Faculty of Planning and Land Management. She is also a recipient of the Samuel Offori-Offei Academic Excellence Award from the Ghana Institution of Surveyors. As Director of Policy, Research and Strategic Planning under the Ministry of Trade, Agribusiness and Industry within Youth Parliament Ghana, she aspires to contribute to evidence-based policymaking, youth empowerment and Ghana's economic transformation through research, strategic planning and innovative development initiatives.",
+
+    vision: "To advance evidence-based policymaking, strategic planning, youth empowerment and sustainable economic development through research, innovation and informed policy initiatives.",
+
+    plans: "To promote research-informed policy discussions, encourage youth participation in trade and agribusiness development, support strategic planning initiatives, and explore innovative approaches that contribute to investment, sustainable development and Ghana's economic transformation.",
+
+    contribution: "Brings academic expertise in real estate, research experience, teaching, student governance and professional association involvement to policy research and strategic planning. Her academic distinctions and professional training provide a foundation for contributing to evidence-based policy discussions and development initiatives.",
+
+    currentActivities: "Serving as Director of Policy, Research and Strategic Planning under the Ministry of Trade, Agribusiness and Industry within Youth Parliament Ghana, and working as a Teaching Assistant in the Department of Real Estate at UBIDS.",
+
+    leadershipExperience: "Director of Policy, Research and Strategic Planning, Youth Parliament Ghana; Supreme Justice, Department of Real Estate, UBIDS; Financial Secretary, International Facility Management Association (IFMA) Student Chapter; Students' Organizing Committee Member, Ghana Institution of Surveyors (GhIS).",
+
+    professionalExperience: "Teaching Assistant, Department of Real Estate, UBIDS; Attachment Trainee, Lands Commission, Sunyani; Attachment Trainee, Gold Fields Ghana Limited, Tarkwa; Financial Secretary, IFMA Student Chapter; Students' Organizing Committee Member, GhIS.",
+
+    focusAreas: "Policy Research, Strategic Planning, Trade, Agribusiness, Industry, Real Estate, Investment, Sustainable Development, Youth Empowerment, Evidence-Based Policymaking and Economic Transformation",
+
+    slogan: "Research, Strategy and Sustainable Development",
+
+    image: "images/felicity-teng-viel.jpeg",
+
+    email: "tengvielfelicity20@gmail.com",
+
+    phone: "0245063064",
+
+    website: "#",
+
+    facebook: "Felicity Nuota",
+
+    twitter: "#",
+
+    instagram: "Tengviel Felicity",
+
+    linkedin: "Felicity Teng-viel",
+
     tiktok: "#"
 },
 
