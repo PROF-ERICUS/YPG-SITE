@@ -5344,6 +5344,41 @@ birthday: "10-14",
 
     tiktok: "#"
 },
+    {
+    id: "app103",
+    name: "ADDAI MUSAH ASAMOAH",
+    position: "District Chief Executive (DCE)",
+    constituency: "Ahafo Ano South-West",
+    region: "Ashanti",
+    parliament: "Youth Parliament Ghana",
+    status: "active",
+    ministry: "Ahafo Ano South-West District Assembly",
+    appointmentDate: "To be provided",
+    isMP: false,
+    mpId: null,
+    education: "Kwame Nkrumah University of Science and Technology (KNUST) — Human Resource Management degree programme, in progress; expected completion in 2028.",
+    profession: "Hotel Receptionist and Front Desk Personnel",
+    experience: "Professional experience in hotel reception and front desk operations. Further details about previous leadership, professional and public-service positions have not yet been provided.",
+    biography: "ADDAI MUSAH ASAMOAH is a youth leader serving as District Chief Executive for the Ahafo Ano South-West area under Youth Parliament Ghana. He is pursuing a degree programme in Human Resource Management at Kwame Nkrumah University of Science and Technology (KNUST), with an expected completion year of 2028. Professionally, he works as a hotel receptionist in a front desk role. His background in human resource management and front desk operations provides a foundation for his interests in administration, service delivery and organisational coordination. Further verified information about his leadership journey, professional career and community involvement can be added when provided.",
+    vision: "To promote effective local administration, responsive service delivery, youth participation and sustainable community development in the Ahafo Ano South-West area.",
+    plans: "To encourage youth participation in local governance, promote efficient administration, support community engagement and contribute to initiatives that improve service delivery and local development.",
+    contribution: "Brings experience in front desk operations and ongoing studies in Human Resource Management to youth leadership and public-service engagement.",
+    currentActivities: "Serving as District Chief Executive under Youth Parliament Ghana and working in a hotel front desk role while pursuing Human Resource Management studies at KNUST.",
+    leadershipExperience: "District Chief Executive, Ahafo Ano South-West area, Youth Parliament Ghana. Additional leadership positions have not yet been provided.",
+    professionalExperience: "Hotel Receptionist and Front Desk Personnel. Previous employers, dates and other professional roles have not yet been provided.",
+    focusAreas: "Local Governance, Human Resource Management, Public Administration, Service Delivery, Youth Participation and Community Development",
+    slogan: "Responsive Leadership, Efficient Service, Community Development",
+    image: "images/addai-musah-asamoah.jpeg",
+    email: "addaimusahasamoah.ypg@gmail.com",
+    phone: "0559172478",
+    website: "#",
+    facebook: "Asamoah Lawson",
+    twitter: "lawson_asa19626",
+    instagram: "Asamoah Lawson",
+    linkedin: "Addai Musah Asamoah",
+    tiktok: "#"
+},
+
 
 
 ];
