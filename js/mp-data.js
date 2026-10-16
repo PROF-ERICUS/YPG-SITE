@@ -9576,7 +9576,7 @@ parliament: "Youth Parliament Ghana",
     id: "mp177",
     name: "ERIC ANDOH",
     position: "Member of Parliament",
-    constituency: "Ayawaso West",
+    constituency: "Ayawaso Wes",
     region: "Greater Accra",
     parliament: "Youth Parliament Ghana",
     status: "active",
@@ -10304,7 +10304,7 @@ parliament: "Youth Parliament Ghana",
     instagram: "Mr. Issakaba",
     linkedin: "Salifu Issaka",
     tiktok: "#"
-}
+},
 
 
 
