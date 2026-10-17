@@ -643,6 +643,69 @@
     }
 
 }
+        
+/* ========================================
+   APPOINTEES RESPONSIVE GRID
+======================================== */
+
+#appointeeGrid {
+    display: grid !important;
+    grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+    gap: 12px !important;
+    width: 100%;
+    margin: 0 !important;
+}
+
+/* Override Bootstrap column sizing */
+#appointeeGrid > * {
+    display: block;
+    flex: none !important;
+    width: auto !important;
+    max-width: none !important;
+    min-width: 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+/* Five profiles per row on large screens */
+@media (min-width: 1200px) {
+    #appointeeGrid {
+        grid-template-columns: repeat(5, minmax(0, 1fr)) !important;
+    }
+}
+
+/* Three profiles per row on tablets and phones */
+@media (max-width: 1199.98px) {
+    #appointeeGrid {
+        grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+        gap: 8px !important;
+    }
+}
+
+/* Compact cards on narrow phones */
+@media (max-width: 576px) {
+    #appointeeGrid .mp-image {
+        height: 120px !important;
+    }
+
+    #appointeeGrid .mp-info {
+        padding: 7px !important;
+    }
+
+    #appointeeGrid .mp-info h3 {
+        font-size: 10px !important;
+        line-height: 1.3;
+        overflow-wrap: anywhere;
+    }
+
+    #appointeeGrid .mp-position,
+    #appointeeGrid .mp-details p,
+    #appointeeGrid .view-profile {
+        font-size: 9px !important;
+        overflow-wrap: anywhere;
+    }
+}
+
     </style>
 </head>
 <body>
