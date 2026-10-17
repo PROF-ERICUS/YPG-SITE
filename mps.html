@@ -380,6 +380,73 @@
 
         }
         
+/* MP directory: responsive profile layout */
+#mpGrid.mp-directory-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 16px;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+/* Remove Bootstrap column sizing from generated cards */
+#mpGrid.mp-directory-grid > * {
+    width: auto !important;
+    max-width: none !important;
+    min-width: 0;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0;
+}
+
+/* Five profiles per row on large screens */
+@media (min-width: 1200px) {
+    #mpGrid.mp-directory-grid {
+        grid-template-columns: repeat(5, minmax(0, 1fr));
+    }
+}
+
+/* Three profiles per row on tablets and mobile */
+@media (max-width: 1199.98px) {
+    #mpGrid.mp-directory-grid {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 10px;
+    }
+}
+
+/* Compact profile cards for small screens */
+@media (max-width: 576px) {
+    #mpGrid.mp-directory-grid {
+        gap: 8px;
+    }
+
+    #mpGrid .mp-image {
+        height: 135px;
+    }
+
+    #mpGrid .mp-info {
+        padding: 9px;
+    }
+
+    #mpGrid .mp-info h3 {
+        font-size: 11px;
+        line-height: 1.35;
+        overflow-wrap: anywhere;
+    }
+
+    #mpGrid .mp-position,
+    #mpGrid .mp-details p {
+        font-size: 10px;
+        line-height: 1.4;
+        overflow-wrap: anywhere;
+    }
+
+    #mpGrid .view-profile {
+        font-size: 10px;
+    }
+}
+
+        
 
     </style>
 
@@ -679,7 +746,29 @@
         <div class="row g-4" id="mpGrid">
         </div>
 
+<!-- =========================
+     MPs DIRECTORY
+========================= -->
 
+<section class="section-padding pt-4">
+    <div class="container">
+
+        <div class="directory-heading">
+            <div>
+                <h2>Parliamentary Directory</h2>
+            </div>
+
+            <span class="results-count" id="resultsCount">
+                Showing MPs
+            </span>
+        </div>
+
+        <!-- MP CARDS GENERATED AUTOMATICALLY -->
+        <div class="row g-3 mp-directory-grid" id="mpGrid"></div>
+
+    </div>
+</section>
+        
         <!-- No results -->
 
         <div
