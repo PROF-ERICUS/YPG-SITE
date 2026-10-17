@@ -727,17 +727,17 @@
         font-size: 10px;
     }
 }
-        
-/* =========================================
-   YPG PROFESSIONAL APPOINTEE DIRECTORY
-========================================= */
+
+/* ==========================================
+   YPG APPOINTEES — REFINED OFFICIAL DESIGN
+========================================== */
 
 #appointeeGrid {
     align-items: stretch;
-    gap: 22px 16px !important;
+    gap: 24px 18px !important;
 }
 
-/* Individual grid item */
+/* Card wrapper */
 #appointeeGrid > .appointee-item {
     display: flex;
     min-width: 0;
@@ -745,33 +745,45 @@
 
 /* Main card */
 #appointeeGrid .appointee-card {
+    position: relative;
     display: flex;
     flex-direction: column;
     width: 100%;
     min-width: 0;
     height: 100%;
     background: #ffffff;
-    border: 1px solid #e1e7ef;
-    border-radius: 14px;
+    border: 1px solid #e4e9f0;
+    border-radius: 12px;
     overflow: hidden;
-    box-shadow: 0 3px 12px rgba(7, 27, 53, 0.04);
+    box-shadow: 0 4px 15px rgba(7, 27, 53, 0.045);
     transition: transform 0.25s ease,
                 box-shadow 0.25s ease,
                 border-color 0.25s ease;
 }
 
-#appointeeGrid .appointee-card:hover {
-    transform: translateY(-4px);
-    border-color: #c5a04b;
-    box-shadow: 0 12px 28px rgba(7, 27, 53, 0.10);
+/* Subtle official gold accent */
+#appointeeGrid .appointee-card::before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 3px;
+    flex-shrink: 0;
+    background: #b08d35;
 }
 
-/* Photograph */
+#appointeeGrid .appointee-card:hover {
+    transform: translateY(-4px);
+    border-color: #d5bd82;
+    box-shadow: 0 12px 28px rgba(7, 27, 53, 0.09);
+}
+
+/* Portrait */
 #appointeeGrid .appointee-photo {
+    height: 205px;
     width: 100%;
-    height: 220px;
     flex-shrink: 0;
-    background: #f1f4f8;
+    padding: 10px 10px 0;
+    background: #f7f8fa;
     overflow: hidden;
 }
 
@@ -781,48 +793,45 @@
     height: 100%;
     object-fit: cover;
     object-position: center 15%;
-    transition: transform 0.3s ease;
+    border-radius: 7px 7px 0 0;
 }
 
-#appointeeGrid .appointee-card:hover .appointee-photo img {
-    transform: scale(1.025);
-}
-
-/* Card body */
+/* Content layout */
 #appointeeGrid .appointee-content {
     display: flex;
     flex-direction: column;
     flex: 1;
     min-width: 0;
-    padding: 18px 16px;
+    padding: 17px 15px 16px;
 }
 
-/* Appointee name */
+/* Name */
 #appointeeGrid .appointee-content h3 {
-    margin: 0 0 8px;
+    margin: 0 0 7px;
     color: #071b35;
-    font-size: 17px;
+    font-size: 16px;
     font-weight: 800;
     line-height: 1.4;
+    letter-spacing: -0.2px;
     overflow-wrap: anywhere;
 }
 
-/* Official position */
+/* Position */
 #appointeeGrid .appointee-position {
-    margin-bottom: 14px;
+    margin: 0 0 15px;
     color: #9a7410;
-    font-size: 13px;
+    font-size: 12px;
     font-weight: 600;
-    line-height: 1.6;
+    line-height: 1.55;
     overflow-wrap: anywhere;
 }
 
-/* Ministry, region and constituency information */
+/* Office details section */
 #appointeeGrid .appointee-meta {
     display: flex;
     flex-direction: column;
     gap: 10px;
-    padding-top: 13px;
+    padding: 13px 0 0;
     border-top: 1px solid #edf0f4;
 }
 
@@ -830,76 +839,83 @@
 #appointeeGrid .appointee-constituency {
     display: block;
     min-width: 0;
-    color: #66758a;
-    font-size: 12px;
-    line-height: 1.65;
+    color: #64748b;
+    font-size: 11px;
+    line-height: 1.6;
     overflow-wrap: anywhere;
 }
 
 #appointeeGrid .appointee-meta i {
-    margin-right: 6px;
     color: #b08d35;
+    margin-right: 6px;
 }
 
-/* Verification badges */
+/* Constituency verification */
 #appointeeGrid .constituency-verified-badge,
 #appointeeGrid .unverified-badge {
     display: inline-block;
-    width: fit-content;
-    max-width: 100%;
-    margin: 5px 0 0;
-    padding: 4px 9px;
-    border-radius: 20px;
-    font-size: 10px;
-    font-weight: 700;
-    letter-spacing: 0.4px;
+    margin-top: 5px;
+    padding: 4px 8px;
+    border-radius: 5px;
+    font-size: 9px;
+    font-weight: 800;
+    letter-spacing: 0.5px;
     line-height: 1.4;
 }
 
 #appointeeGrid .constituency-verified-badge {
-    color: #276749;
-    background: #e7f5ed;
-    border: 1px solid #b8e0c8;
+    color: #236846;
+    background: #eaf5ee;
+    border: 1px solid #c9e5d2;
 }
 
 #appointeeGrid .unverified-badge {
-    color: #8a5b00;
-    background: #fff4d6;
-    border: 1px solid #f0d68b;
+    color: #875d0a;
+    background: #fff5dc;
+    border: 1px solid #f0dfb0;
 }
 
-/* Verification warning */
+/* Warning for unverified records */
 #appointeeGrid .constituency-verification-warning {
     margin-top: 10px;
     padding: 8px;
-    border-radius: 7px;
-    background: #fff8e6;
-    color: #8a5b00;
-    font-size: 11px;
+    border-left: 3px solid #d5a32a;
+    border-radius: 4px;
+    background: #fff9e9;
+    color: #785710;
+    font-size: 10px;
     line-height: 1.5;
 }
 
-/* Consistent profile link at the bottom */
+/* Profile action */
 #appointeeGrid .view-profile {
     display: inline-flex;
     align-items: center;
     justify-content: space-between;
-    gap: 8px;
-    width: fit-content;
-    max-width: 100%;
+    align-self: flex-start;
+    gap: 12px;
+    width: 100%;
     margin-top: auto;
-    padding-top: 18px;
-    color: #946d0b;
-    font-size: 13px;
+    padding-top: 15px;
+    color: #8c6b17;
+    font-size: 12px;
     font-weight: 700;
     text-decoration: none;
+}
+
+#appointeeGrid .view-profile i {
+    transition: transform 0.2s ease;
 }
 
 #appointeeGrid .view-profile:hover {
     color: #071b35;
 }
 
-/* Five cards on large screens */
+#appointeeGrid .view-profile:hover i {
+    transform: translateX(3px);
+}
+
+/* Five cards on desktop */
 @media (min-width: 1200px) {
     #appointeeGrid {
         grid-template-columns: repeat(5, minmax(0, 1fr)) !important;
@@ -910,21 +926,19 @@
 @media (max-width: 1199.98px) {
     #appointeeGrid {
         grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+        gap: 14px 10px !important;
     }
 }
 
-/* Compact, readable mobile layout */
+/* Compact mobile cards */
 @media (max-width: 576px) {
-    #appointeeGrid {
-        gap: 12px 8px !important;
-    }
-
     #appointeeGrid .appointee-photo {
         height: 125px;
+        padding: 6px 6px 0;
     }
 
     #appointeeGrid .appointee-content {
-        padding: 10px 8px;
+        padding: 10px 8px 11px;
     }
 
     #appointeeGrid .appointee-content h3 {
@@ -933,9 +947,9 @@
     }
 
     #appointeeGrid .appointee-position {
-        margin-bottom: 10px;
         font-size: 10px;
-        line-height: 1.5;
+        line-height: 1.45;
+        margin-bottom: 10px;
     }
 
     #appointeeGrid .appointee-meta {
@@ -945,15 +959,17 @@
 
     #appointeeGrid .appointee-meta > span,
     #appointeeGrid .appointee-constituency {
-        font-size: 10px;
+        font-size: 9px;
         line-height: 1.5;
     }
 
     #appointeeGrid .view-profile {
-        padding-top: 12px;
         font-size: 10px;
+        padding-top: 12px;
     }
 }
+
+        
 
 
 
