@@ -377,74 +377,69 @@
             .mp-image {
                 height: 300px;
             }
-
         }
-        
-/* MP directory: responsive profile layout */
-#mpGrid.mp-directory-grid {
-    display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 16px;
-    margin-left: 0;
-    margin-right: 0;
+
+  
+/* FORCE MP DIRECTORY GRID ON ALL SCREEN SIZES */
+
+#mpGrid {
+    display: grid !important;
+    grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+    gap: 12px !important;
+    width: 100%;
+    margin: 0 !important;
 }
 
-/* Remove Bootstrap column sizing from generated cards */
-#mpGrid.mp-directory-grid > * {
+/* Override Bootstrap column widths */
+#mpGrid > * {
+    display: block;
+    flex: none !important;
     width: auto !important;
     max-width: none !important;
-    min-width: 0;
-    padding-left: 0;
-    padding-right: 0;
-    margin: 0;
+    min-width: 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
 }
 
-/* Five profiles per row on large screens */
+/* Five profiles on large screens */
 @media (min-width: 1200px) {
-    #mpGrid.mp-directory-grid {
-        grid-template-columns: repeat(5, minmax(0, 1fr));
+    #mpGrid {
+        grid-template-columns: repeat(5, minmax(0, 1fr)) !important;
     }
 }
 
-/* Three profiles per row on tablets and mobile */
+/* Three profiles on tablets and phones */
 @media (max-width: 1199.98px) {
-    #mpGrid.mp-directory-grid {
-        grid-template-columns: repeat(3, minmax(0, 1fr));
-        gap: 10px;
+    #mpGrid {
+        grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+        gap: 8px !important;
     }
 }
 
-/* Compact profile cards for small screens */
+/* Smaller cards on narrow phones */
 @media (max-width: 576px) {
-    #mpGrid.mp-directory-grid {
-        gap: 8px;
-    }
-
     #mpGrid .mp-image {
-        height: 135px;
+        height: 120px !important;
     }
 
     #mpGrid .mp-info {
-        padding: 9px;
+        padding: 7px !important;
     }
 
     #mpGrid .mp-info h3 {
-        font-size: 11px;
-        line-height: 1.35;
+        font-size: 10px !important;
+        line-height: 1.3;
         overflow-wrap: anywhere;
     }
 
     #mpGrid .mp-position,
-    #mpGrid .mp-details p {
-        font-size: 10px;
-        line-height: 1.4;
+    #mpGrid .mp-details p,
+    #mpGrid .view-profile {
+        font-size: 9px !important;
         overflow-wrap: anywhere;
     }
-
-    #mpGrid .view-profile {
-        font-size: 10px;
-    }
 }
+
 
         
 
