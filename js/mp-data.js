@@ -4018,7 +4018,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Sekyere Central constituency",
     region: "Ashanti",
     parliament: "Youth Parliament Ghana",
-    status: "revoked",
+    status: "inactive",
     revocationReason: "Position reassigned following constituency record rectification",
     education:
         "University of Media, Arts and Communication (UniMAC-IJ) — Bachelor of Arts in Development Communication, 2026. UniMAC-IJ — Diploma in Communication Studies. National Film and Television Institute (NAFTI) — Diploma in Broadcast Journalism. Ongoing postgraduate programme in Development Communication.",
@@ -5459,7 +5459,7 @@ parliament: "Youth Parliament Ghana",
         "Form Mistress & Examination Committee Member — Adakuru Junior High School, Zuarungu. Form Mistress, Examination Committee Member & Welfare Officer — Sokabisi Junior High School, Bolgatanga. Library Prefect — St. John Bosco’s College and Sandema SHTS. Compound/House Prefect — Fumbisi Preparatory JHS. Girls’ Prefect — Naadema Primary School.",
 
     biography:
-        "HON. AKOBTA ROSEMARY is a dedicated educator, youth leader, and public servant serving as the Youth Member of Parliament for Builsa South Constituency in the Upper East Region. She is also the Representative to the Vice President of the Republic of Ghana under Youth Parliament Ghana. A professional teacher by vocation, she combines academic excellence with experience in classroom leadership, student leadership, community engagement and youth development.",
+        "AKOBTA ROSEMARY is a dedicated educator, youth leader, and public servant serving as the Youth Member of Parliament for Builsa South Constituency in the Upper East Region. She is also the Representative to the Vice President of the Republic of Ghana under Youth Parliament Ghana. A professional teacher by vocation, she combines academic excellence with experience in classroom leadership, student leadership, community engagement and youth development.",
 
     vision:
         "To promote quality education, youth empowerment, and inclusive governance while inspiring young people, especially young women from rural communities, to aspire to leadership and academic excellence.",
@@ -5504,7 +5504,7 @@ parliament: "Youth Parliament Ghana",
     constituency: "Okaikwei North Constituency",
     region: "Greater Accra",
     parliament: "Youth Parliament Ghana",
-    status: "revoked",
+    status: "inactive",
     revocationReason: "Position reassigned following constituency record rectification",
 
     education:
