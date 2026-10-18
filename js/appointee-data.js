@@ -62,7 +62,7 @@ const appointeeData = [
     // PROFILE PHOTO
     // ==============================
     image:
-        "images/profericus2.png",
+        "images/profericus2.webp",
 
 
     // ==============================
@@ -137,7 +137,7 @@ leadershipStatement:
 // ==============================
 // PROFILE PHOTO
 // ==============================
-image: "images/Faustina Ladzaglah Fianudzu.jpeg",
+image: "images/Faustina Ladzaglah Fianudzu.webp",
 
 // ==============================
 // CONTACT INFORMATION
@@ -205,7 +205,7 @@ currentActivities:
     "Currently undertaking national service at the Environmental Protection Authority. She is also working on connections to secure support for a foundation she intends to launch and engaging young people through awareness and advocacy about Youth Parliament Ghana.",
 
 image:
-    "images/Rahmat Bint Sadique.jpeg",
+    "images/Rahmat Bint Sadique.webp",
 
 email:
     "sadiquebintrahmat@gmail.com",
@@ -267,7 +267,7 @@ website:
         "Skill to Income Movement Award • Youth MP of the Year — GYEA",
 
     image:
-        "images/Attah.jpeg",
+        "images/Attah.webp",
 
     email:
         "voiceofabuakwasouth@gmail.com",
@@ -323,7 +323,7 @@ website:
         "Currently pursuing a BSc. Civil Engineering at the University of Mines and Technology and serving as Deputy Minister of Parliamentary Affairs under Youth Parliament of Ghana.",
 
     image:
-        "images/kwame.jpeg",
+        "images/kwame.webp",
 
     email:
         "nkmhenri8@gmail.com",
@@ -382,7 +382,7 @@ revocationReason: "Administrative decision",
         "Currently serving as the Youth Member of Parliament for the Trobu Constituency and Minority Representative of Youth Parliament Ghana, while pursuing a Bachelor of Education at the University of Ghana.",
 
     image:
-        "images/Boakye.jpeg",
+        "images/Boakye.webp",
 
     email:
         "Gbaffahkelvin@gmail.com",
@@ -431,7 +431,7 @@ region: "Upper East",
 
     focusAreas: "Electrical Engineering • Renewable Energy • Solar Energy • Green Transition • Technical Skills Development • Energy Technology",
 
-    image: "images/francis.jpeg",
+    image: "images/francis.webp",
 
     email: "francisabanga028@gmail.com",
 
@@ -491,7 +491,7 @@ region: "Upper East",
     focusAreas:
         "EDUCATION • YOUTH DEVELOPMENT • LEADERSHIP • CIVIC EDUCATION • POLICY ADVOCACY • STUDENT EMPOWERMENT • HISTORY • GOVERNMENT • INCLUSIVE EDUCATION",
 
-    image: "images/prince.jpeg",
+    image: "images/prince.webp",
 
     email: "centralregedudirectorate07@gmail.com",
     phone: "0559597314 / 0598044690",
@@ -549,7 +549,7 @@ region: "Ashanti",
     books:
         "SCARS TO STRENGTH • REBUILD",
 
-    image: "images/Gyasi.jpeg",
+    image: "images/Gyasi.webp",
 
     email: "gyasinereusmensah@gmail.com",
     phone: "+233547582301",
@@ -607,7 +607,7 @@ region: "Ashanti",
     slogan:
         "Women First, Future Secured!",
 
-    image: "images/Ayiku.jpeg",
+    image: "images/Ayiku.webp",
 
     email: "ayikuirene44@gmail.com",
     phone: "0544280792",
@@ -668,7 +668,7 @@ region: "Ashanti",
     slogan:
         "Leadership • Communication • Service",
 
-    image: "images/valerie.jpeg",
+    image: "images/valerie.webp",
 
     email: "Kwegyirvalerie92@gmail.com",
     phone: "0550447676",
@@ -727,7 +727,7 @@ region: "Ashanti",
     slogan:
         "Communication • Innovation • Digital Transformation",
 
-    image: "images/Addison.PNG",
+    image: "images/Addison.webp",
 
     email: "infoghana360@gmail.com",
     phone: "0256961409",
@@ -786,7 +786,7 @@ region: "Ashanti",
     slogan:
         "Leadership • Service • Accountability",
 
-    image: "images/Teye.jpeg",
+    image: "images/Teye.webp",
 
     email: "joshuateye8833@gmail.com",
     phone: "0544978833 / 0557030363",
@@ -846,7 +846,7 @@ region: "Ashanti",
     slogan:
         "Leadership • Organisation • Service",
 
-    image: "images/prosper.jpeg",
+    image: "images/prosper.webp",
 
     email: "prosperakansale11@gmail.com",
     phone: "0539226670",
@@ -905,7 +905,7 @@ region: "Ashanti",
     slogan:
         "Integrity • Service • Responsibility • Innovation",
 
-    image: "images/allotey.jpeg",
+    image: "images/allotey.webp",
 
     email: "emmaallotey362@gmail.com",
     phone: "0535373153 / 0532998666",
@@ -964,7 +964,7 @@ region: "Ashanti",
     slogan:
         "Service • Discipline • Knowledge • Integrity",
 
-    image: "images/karim.jpeg",
+    image: "images/karim.webp",
 
     email: "ki9600334@gmail.com",
     phone: "0247504141",
@@ -1023,7 +1023,7 @@ region: "Ashanti",
     slogan:
         "Efficient Transport • Stronger Logistics • National Development",
 
-    image: "images/isaac.jpeg",
+    image: "images/isaac.webp",
 
     email: "isaacteye8047@gmail.com",
     phone: "0245897360",
@@ -1082,7 +1082,7 @@ region: "Ashanti",
     slogan:
         "Leadership • Education • Representation",
 
-    image: "images/Anim.jpeg",
+    image: "images/Anim.webp",
 
     email: "eanim349@gmail.com",
     phone: "0242516994",
@@ -1142,7 +1142,7 @@ region: "Ashanti",
     slogan:
         "Leadership • Communication • Youth Participation",
 
-    image: "images/Afari.jpeg",
+    image: "images/Afari.webp",
 
     email: "gordonafarisackey@gmail.com",
     phone: "0532845282",
@@ -1201,7 +1201,7 @@ region: "Ashanti",
     slogan:
         "Leadership • Diplomacy • Impact",
 
-    image: "images/Dery.jpeg",
+    image: "images/Dery.webp",
 
     email: "#",
     phone: "+233 59 375 8700",
@@ -1260,7 +1260,7 @@ region: "Ashanti",
     slogan:
         "Youth • Agriculture • Development",
 
-    image: "images/Basit.jpeg",
+    image: "images/Basit.webp",
 
     email: "gbedaseyabdulbasit@gmail.com",
     phone: "0549616087",
@@ -1320,7 +1320,7 @@ region: "Ashanti",
     slogan:
         "Technology • Leadership • Empowerment • Education",
 
-    image: "images/Nazifa.jpeg",
+    image: "images/Nazifa.webp",
 
     email: "mohammednazifa431@gmail.com",
     phone: "0592933716",
@@ -1379,7 +1379,7 @@ region: "Ashanti",
     slogan:
         "From Fish for Food to Fish for Wealth — Making Every Youth an Aqua-Entrepreneur.",
 
-    image: "images/kankam.jpeg",
+    image: "images/kankam.webp",
 
     email: "kankamevans2001@gmail.com",
     phone: "+233534431171",
@@ -1438,7 +1438,7 @@ region: "Ashanti",
     slogan:
         "Communication • Leadership • Representation • Service",
 
-    image: "images/konadu.jpeg",
+    image: "images/konadu.webp",
 
     email: "speaktokonadu@gmail.com",
     phone: "0242938490",
@@ -1497,7 +1497,7 @@ region: "Ashanti",
     books:
         "None provided.",
 
-    image: "images/yakoob.jpeg",
+    image: "images/yakoob.webp",
 
     email: "#",
     phone: "#",
@@ -1552,7 +1552,7 @@ region: "Ashanti",
     focusAreas:
         "Healthcare • Community Development • Leadership • Youth Engagement • Union Management • Education • Community Service",
 
-    image: "images/Peter.jpeg",
+    image: "images/Peter.webp",
 
     email: "akobtapeter@gmail.com",
     phone: "0502245970 / 0556814775",
@@ -1608,7 +1608,7 @@ region: "Ashanti",
     focusAreas:
         "Healthcare Innovation • Health Entrepreneurship • Biomedical Engineering • STEM Education • Technology • Youth Development",
 
-    image: "images/dapaah.jpeg",
+    image: "images/dapaah.webp",
 
     email: "baffourkyeikusidapaah@gmail.com",
     phone: "0502111091",
@@ -1664,7 +1664,7 @@ region: "Ashanti",
     focusAreas:
         "Women Empowerment • Girl-Child Education • Youth Leadership • Gender Equality • Youth Advocacy • Community Development • Leadership • Social Impact",
 
-    image: "images/bashiru.jpeg",
+    image: "images/bashiru.webp",
 
     email: "bashiruayisha764@gmail.com",
     phone: "0559016550",
@@ -1720,7 +1720,7 @@ region: "Ashanti",
     focusAreas:
         "Youth Representation • Youth Leadership • Community Development • Education • Youth Opportunities • Aerospace Engineering",
 
-    image: "images/Vyas.jpeg",
+    image: "images/Vyas.webp",
 
     email: "asantevyas45@gmail.com",
     phone: "0538497794",
@@ -1777,7 +1777,7 @@ region: "Ashanti",
     focusAreas:
         "Youth Development • Community Development • Health Advocacy • Education • Entrepreneurship • Stakeholder Collaboration • Innovation • Regional Development",
 
-    image: "images/ayaaba.jpeg",
+    image: "images/ayaaba.webp",
 
     email: "ayaabamichael906@gmail.com",
     phone: "+233 598 666 261",
@@ -1834,7 +1834,7 @@ region: "Ashanti",
     focusAreas:
         "Youth Advocacy • Gender Equality • Public Policy • Development • Debate • Public Speaking • Social Research • Technology & Social Impact",
 
-    image: "images/baaba.jpeg",
+    image: "images/baaba.webp",
 
     email: "hammahzoelynn1@gmail.com",
     phone: "050 326 2702",
@@ -1890,7 +1890,7 @@ region: "Ashanti",
     focusAreas:
         "Youth Employment • Health Advocacy • Health Education • Youth Development • Health Information Management • Community Outreach • Public Speaking • Debate",
 
-    image: "images/aboagye.jpeg",
+    image: "images/aboagye.webp",
 
     email: "aboagyeprince361@gmail.com",
     phone: "0206622806",
@@ -1947,7 +1947,7 @@ region: "Ashanti",
     focusAreas:
         "QUALITY EDUCATION • YOUTH EMPOWERMENT • MATHEMATICS EDUCATION • CIVIC LEADERSHIP • WOMEN EMPOWERMENT • RURAL YOUTH DEVELOPMENT • INCLUSIVE GOVERNANCE",
 
-    image: "images/ROSEMARY.jpeg",
+    image: "images/ROSEMARY.webp",
 
     email: "#",
     phone: "#",
@@ -2002,7 +2002,7 @@ region: "Ashanti",
     focusAreas:
         "FINANCE • YOUTH DEVELOPMENT • PROCUREMENT • LOGISTICS • SUPPLY CHAIN MANAGEMENT • PUBLIC SERVICE",
 
-    image: "images/eric.jpeg",
+    image: "images/eric.webp",
 
     email: "Ikukumensah4940@gmail.com",
     phone: "0551631187",
@@ -2062,7 +2062,7 @@ region: "Ashanti",
     slogan:
         "Inclusive leadership. Empowerment. Representation.",
 
-    image: "images/MENSAH.jpeg",
+    image: "images/MENSAH.webp",
 
     email: "mensahnancy59@gmail.com",
     phone: "+233597239518",
@@ -2124,7 +2124,7 @@ region: "Ashanti",
     slogan:
         "Empowering youth through civic education and leadership.",
 
-    image: "images/SACKEY.jpeg",
+    image: "images/SACKEY.webp",
 
     email: "sackeywisdom659@gmail.com",
     phone: "0264703839",
@@ -2159,7 +2159,7 @@ region: "Ashanti",
     professionalExperience: "Coach — Youth and Community Sports Teams; Volunteer — Grassroots Sports Development Programs.",
     focusAreas: "Youth Sports Development, Grassroots Sports, Talent Development, Youth Empowerment and Inclusive Sports.",
     slogan: "Empowering youth through sports and inclusive development.",
-    image: "images/OKINE.jpeg",
+    image: "images/OKINE.webp",
     email: "okineemmanuel645@gmail.com",
     phone: "0248358772",
     website: "https://youth-parliament-ghana-site.vercel.app/",
@@ -2217,7 +2217,7 @@ region: "Ashanti",
     slogan:
         "Effective communication, youth representation and meaningful participation.",
 
-    image: "images/Anyane.jpeg",
+    image: "images/Anyane.webp",
 
     email: "samuelayebeng1@gmail.com",
     phone: "0501729271",
@@ -2278,7 +2278,7 @@ region: "Ashanti",
     slogan:
         "Youth leadership, justice, accountability and public service.",
 
-    image: "images/angela.jpeg",
+    image: "images/angela.webp",
 
     email: "AngelaAfortor@gmail.com",
     phone: "0537025622",
@@ -2338,7 +2338,7 @@ region: "Ashanti",
     slogan:
         "Youth empowerment, sustainable agriculture and effective parliamentary administration.",
 
-    image: "images/alabani.jpeg",
+    image: "images/alabani.webp",
 
     email: "alabaniibrahim33@gmail.com",
     phone: "0248827195",
@@ -2398,7 +2398,7 @@ region: "Ashanti",
     slogan:
         "Promoting Ghanaian arts and culture through creativity, innovation and youth empowerment.",
 
-    image: "images/sam.jpeg",
+    image: "images/sam.webp",
 
     email: "sammildred596@gmail.com",
     phone: "0509274263",
@@ -2458,7 +2458,7 @@ region: "Ashanti",
     slogan:
         "Service, empathy, accountability and meaningful community engagement.",
 
-    image: "images/staphanie.jpeg",
+    image: "images/staphanie.webp",
 
     email: "stephaniekensengasiedu@gmail.com",
     phone: "0240807995",
@@ -2518,7 +2518,7 @@ region: "Ashanti",
     slogan:
         "Bridging legal service, technical expertise and youth leadership.",
 
-    image: "images/adu.jpeg",
+    image: "images/adu.webp",
 
     email: "adukenneth99@gmail.com",
     phone: "0554410704",
@@ -2581,7 +2581,7 @@ birthday: "10-14",
     slogan:
         "Empowering communities, representing youth and advancing sustainable development.",
 
-    image: "images/benmensah.jpeg",
+    image: "images/benmensah.webp",
 
     email: "Dicta4568@gmail.com",
     phone: "0595708530",
@@ -2641,7 +2641,7 @@ birthday: "10-14",
     slogan:
         "Building skills, serving communities and supporting infrastructure development.",
 
-    image: "images/rahim.jpeg",
+    image: "images/rahim.webp",
 
     email: "rahimabubakari76@gmail.com",
     phone: "+233559738960 / +233542354127",
@@ -2701,7 +2701,7 @@ birthday: "10-14",
     slogan:
         "Leadership, communication and service for meaningful youth representation.",
 
-    image: "images/agare.jpeg",
+    image: "images/agare.webp",
 
     email: "sarmic4040@gmail.com",
     phone: "0509147443",
@@ -2761,7 +2761,7 @@ birthday: "10-14",
     slogan:
         "Empowering youth, building communities and creating opportunities.",
 
-    image: "images/bright.jpeg",
+    image: "images/bright.webp",
 
     email: "brightodoom61@gmail.com",
     phone: "0504840513",
@@ -2821,7 +2821,7 @@ birthday: "10-14",
     slogan:
         "Professional competence, accountability and responsible financial leadership.",
 
-    image: "images/spencer.jpeg",
+    image: "images/spencer.webp",
 
     email: "spen.abdulfatawodoom@gmail.com",
     phone: "0535995443",
@@ -2883,7 +2883,7 @@ birthday: "10-14",
     slogan:
         "Empowering young people through participation, innovation and inclusive leadership.",
 
-    image: "images/eshun.jpeg",
+    image: "images/eshun.webp",
 
     email: "eshunmichael366@gmail.com",
     phone: "+233 534 588 484 / +233 205 884 459",
@@ -2946,7 +2946,7 @@ birthday: "10-14",
     slogan:
         "Fairness, transparency, accountability and dedicated service.",
 
-    image: "images/oduro.jpeg",
+    image: "images/oduro.webp",
 
     email: "josephodurokonadu6@gmail.com",
     phone: "0502870344",
@@ -3008,7 +3008,7 @@ birthday: "10-14",
     slogan:
         "Youth, Peace, Public Safety and Internal Security.",
 
-    image: "images/apasug.jpeg",
+    image: "images/apasug.webp",
 
     email: "frankapasugbey900@gmail.com",
     phone: "0245143433",
@@ -3040,7 +3040,7 @@ birthday: "10-14",
     professionalExperience: "National service personnel.",
     focusAreas: "Youth empowerment, policy engagement, grassroots development, and community participation.",
     slogan: "Dedicated to amplifying young voices, driving policy engagement, and championing grassroots development.",
-    image: "images/bonsu.jpeg",
+    image: "images/bonsu.webp",
     email: "ernestbonsu239@gmail.com",
     phone: "0246407987",
     website: "#",
@@ -3104,7 +3104,7 @@ birthday: "10-14",
     slogan:
         "Leading with Purpose, Empowering Others, Creating Impact.",
 
-    image: "images/nashira.jpeg",
+    image: "images/nashira.webp",
 
     email: "abubakarnashira0@gmail.com",
     phone: "0539598619",
@@ -3166,7 +3166,7 @@ birthday: "10-14",
     slogan:
         "Data, leadership and service for youth development",
 
-    image: "images/samuel1.jpeg",
+    image: "images/samuel1.webp",
 
     email: "samuelnsiah787@gmail.com",
     phone: "0552863334",
@@ -3227,7 +3227,7 @@ birthday: "10-14",
     slogan:
         "Advancing youth leadership and better health for communities",
 
-    image: "images/philemon.jpeg",
+    image: "images/philemon.webp",
 
     email: "mameibiphilemon@gmail.com",
     phone: "+233 543 616 422 / +233 536 175 674",
@@ -3289,7 +3289,7 @@ birthday: "10-14",
     slogan:
         "Sustainable resources, empowered youth and inclusive development",
 
-    image: "images/samira.jpeg",
+    image: "images/samira.webp",
 
     email: "mira80280@gmail.com",
     phone: "0257405400",
@@ -3350,7 +3350,7 @@ birthday: "10-14",
     slogan:
         "Service, leadership, representation, accountability and impact",
 
-    image: "images/harlley-godsway.jpeg",
+    image: "images/harlley-godsway.webp",
 
     email: "#",
     phone: "#",
@@ -3412,7 +3412,7 @@ birthday: "10-14",
     slogan:
         "Leadership with purpose and service.",
 
-    image: "images/Abedu.jpeg",
+    image: "images/Abedu.webp",
 
     email: "abedugadbless7@gmail.com",
     phone: "020 542 6273",
@@ -3474,7 +3474,7 @@ birthday: "10-14",
     slogan:
         "Empowering youth through trade, agribusiness and sustainable development.",
 
-    image: "images/laarjah.jpeg",
+    image: "images/laarjah.webp",
 
     email: "jacoblaajah4@gmail.com",
     phone: "+233 249 885 168",
@@ -3536,7 +3536,7 @@ birthday: "10-14",
     slogan:
         "Engineering Knowledge. Youth Leadership. Community Impact.",
 
-    image: "images/nti.jpeg",
+    image: "images/nti.webp",
 
     email: "kwadwontiasan602@gmail.com",
     phone: "+233 591 526 054",
@@ -3581,7 +3581,7 @@ birthday: "10-14",
         "Energy, renewable energy, energy transition, sustainability, environmental innovation, electricity access, green energy and technical skills development.",
     slogan:
         "Powering youth-led energy transformation and a sustainable future.",
-    image: "images/abdulai.jpeg",
+    image: "images/abdulai.webp",
     email: "mohammedabdullai424@gmail.com",
     phone: "0596687541",
     website: "#",
@@ -3625,7 +3625,7 @@ birthday: "10-14",
         "Youth development, community development, education and local governance.",
     slogan:
         "Service, leadership and community development.",
-    image: "images/emefa.jpeg",
+    image: "images/emefa.webp",
     email: "benedictakpeli2005@gmail.com",
     phone: "0591492782 / 0502836414",
     website: "#",
@@ -3669,7 +3669,7 @@ birthday: "10-14",
         "Environmental sustainability, geological engineering, resource management, youth leadership, community development, environmental justice and public policy.",
     slogan:
         "Leadership, sustainability and service.",
-    image: "images/koomson.jpeg",
+    image: "images/koomson.webp",
     email: "cliffordpaxkoomson@gmail.com",
     phone: "+233530220443",
     website: "#",
@@ -3713,7 +3713,7 @@ birthday: "10-14",
         "Youth development, community leadership, local governance, development and finance, youth seminars and community engagement.",
     slogan:
         "Commitment, integrity and service to the youth.",
-    image: "images/kenney.jpeg",
+    image: "images/kenney.webp",
     email: "#",
     phone: "#",
     website: "#",
@@ -3757,7 +3757,7 @@ birthday: "10-14",
         "Youth leadership, mentorship, education, leadership development, civic engagement, knowledge sharing, community development and institutional development.",
     slogan:
         "Leadership, humility, counsel and service.",
-    image: "images/ameyaw.jpeg",
+    image: "images/ameyaw.webp",
     email: "ameyawrexford313@gmail.com",
     phone: "0534405910",
     website: "#",
@@ -3801,7 +3801,7 @@ birthday: "10-14",
         "Communications, digital technology, innovation, youth development, administration and student leadership.",
     slogan:
         "Communication, innovation and digital transformation.",
-    image: "images/agbertey.jpeg",
+    image: "images/agbertey.webp",
     email: "agberteynicholas7@gmail.com",
     phone: "0553546416",
     website: "#",
@@ -3860,7 +3860,7 @@ birthday: "10-14",
     slogan:
         "Empowering youth, building communities and creating opportunities.",
 
-    image: "images/akpaloo.jpeg",
+    image: "images/akpaloo.webp",
     email: "collinsklenam821@gmail.com",
     phone: "0207089672 / 0200230996",
     website: "#",
@@ -3920,7 +3920,7 @@ birthday: "10-14",
     slogan:
         "Mentorship, creativity and opportunity for youth development.",
 
-    image: "images/alfred.jpeg",
+    image: "images/alfred.webp",
     email: "alfredjalulah@gmail.com",
     phone: "0541938219",
     website: "#",
@@ -3980,7 +3980,7 @@ birthday: "10-14",
     slogan:
         "Service, humility, accountability and positive impact.",
 
-    image: "images/jamal1.jpeg",
+    image: "images/jamal1.webp",
     email: "issakujamal0@gmail.com",
     phone: "0598063901",
     website: "#",
@@ -4040,7 +4040,7 @@ birthday: "10-14",
     slogan:
         "Leading with compassion, serving with integrity.",
 
-    image: "images/faustina1.jpeg",
+    image: "images/faustina1.webp",
     email: "faustinaaikins3@gmail.com",
     phone: "0242836979",
     website: "#",
@@ -4099,7 +4099,7 @@ birthday: "10-14",
     slogan:
         "Service, leadership and community development.",
 
-    image: "images/redeemer.jpeg",
+    image: "images/redeemer.webp",
 
     email: "fradmef@gmail.com",
     phone: "0546933990 / 0506540095",
@@ -4160,7 +4160,7 @@ birthday: "10-14",
     slogan:
         "Planning, innovation and sustainable development.",
 
-    image: "images/mcfinley.jpeg",
+    image: "images/mcfinley.webp",
 
     email: "tenkoranganimmmcfinley1555@gmail.com",
     phone: "0256876653",
@@ -4221,7 +4221,7 @@ birthday: "10-14",
     slogan:
         "Knowledge, leadership and sustainable development.",
 
-    image: "images/teye1.jpeg",
+    image: "images/teye1.webp",
 
     email: "Mensahlawerteyed@gmail.com / dmensahlawerteye@gmail.com",
     phone: "0545258473",
@@ -4273,7 +4273,7 @@ birthday: "10-14",
 
     slogan: "Leadership is not about the position we occupy, but the positive difference we make in the lives of the people we serve.",
 
-    image: "images/sarbeng.jpeg",
+    image: "images/sarbeng.webp",
 
     email: "maxwellannorsarbeng@gmail.com",
     phone: "0592400635",
@@ -4322,7 +4322,7 @@ birthday: "10-14",
 
     slogan: "Connecting people, ideas and opportunities through effective communication.",
 
-    image: "images/jackline.jpeg",
+    image: "images/jackline.webp",
 
     email: "kafuijackline@gmail.com",
     phone: "0532664894",
@@ -4371,7 +4371,7 @@ birthday: "10-14",
 
     slogan: "Integrity, service, courage and purposeful leadership.",
 
-    image: "images/chanul.jpeg",
+    image: "images/chanul.webp",
 
     email: "0533143750",
     phone: "0533143750",
@@ -4420,7 +4420,7 @@ birthday: "10-14",
 
     slogan: "Inclusive leadership, responsible governance and sustainable development.",
 
-    image: "images/boafo.jpeg",
+    image: "images/boafo.webp",
 
     email: "richealboafo18@gmail.com",
     phone: "0531543064",
@@ -4455,7 +4455,7 @@ birthday: "10-14",
     professionalExperience: "National Service Personnel at the Ministry of Environment, Science and Technology; Ministry of Energy internship involving research into sustainable and cost-effective biodiesel feedstock; engineering research; meeting documentation; records management; data analysis; report writing; student welfare initiatives and educational volunteering.",
     focusAreas: "Municipal development, youth leadership, women's empowerment, education, petrochemical engineering, renewable energy, student welfare, public administration, communication and community development.",
     slogan: "Integrity, innovation and inclusive leadership for national development.",
-    image: "images/yamoah.jpeg",
+    image: "images/yamoah.webp",
     email: "nanaakuaampofoahyamoah@gmail.com",
     phone: "0503192094",
     website: "#",
@@ -4489,7 +4489,7 @@ birthday: "10-14",
     professionalExperience: "Trading, youth leadership, student administration, organisational communication, media coordination, publicity and content development.",
     focusAreas: "Education, youth leadership, entrepreneurship, financial literacy, student representation, public service, media and communications, and youth development.",
     slogan: "Empowering youth through education, leadership and opportunity.",
-    image: "images/inusah.jpeg",
+    image: "images/inusah.webp",
     email: "iliasuinusah@gmail.com",
     phone: "0558094210",
     website: "#",
@@ -4523,7 +4523,7 @@ birthday: "10-14",
     professionalExperience: "Automobile Engineering studies, student representation, youth coordination, organisational leadership and community engagement.",
     focusAreas: "Youth empowerment, automobile engineering, technical and vocational education, student leadership, problem-solving, Christian ministry and community development.",
     slogan: "Empowering youth to identify challenges and create solutions.",
-    image: "images/isaiah-saadaare.jpeg",
+    image: "images/isaiah-saadaare.webp",
     email: "saadaare608@gmail.com",
     phone: "0532733735",
     website: "#",
@@ -4557,7 +4557,7 @@ birthday: "10-14",
     professionalExperience: "Practical electrical installations, power distribution systems, electrical circuit analysis, analog electronics, Python fundamentals and graphic design.",
     focusAreas: "Electrical engineering, engineering innovation, technical skills development, youth leadership, community development and practical vocational training.",
     slogan: "Engineering innovation, empowered youth and community development.",
-    image: "images/adagbe-jethro-mawuli.jpeg",
+    image: "images/adagbe-jethro-mawuli.webp",
     email: "mawulijethro75@gmail.com",
     phone: "0264084217 / 0542983352",
     website: "#",
@@ -4591,7 +4591,7 @@ birthday: "10-14",
     professionalExperience: "Public relations studies, entrepreneurship, community advocacy, teaching primary school students, working with food organisations and student ambassador activities.",
     focusAreas: "Youth development, youth empowerment, education, public relations, entrepreneurship, community advocacy and leadership.",
     slogan: "Empowering youth, inspiring leadership and building stronger communities.",
-    image: "images/mardiya-abdul-karim.jpeg",
+    image: "images/mardiya-abdul-karim.webp",
     email: "mardiyaabdulkarim25@gmail.com",
     phone: "0549240375",
     website: "#",
@@ -4625,7 +4625,7 @@ birthday: "10-14",
     professionalExperience: "Student governance, administrative coordination, welfare management, women's representation, electoral administration and organisational communication.",
     focusAreas: "Youth development, student welfare, women's empowerment, education, inclusive leadership, civic engagement and community development.",
     slogan: "Inclusive leadership, empowered youth and meaningful representation.",
-    image: "images/esther-akosua-agyeiwaa-owusu.jpeg",
+    image: "images/esther-akosua-agyeiwaa-owusu.webp",
     email: "giftyebyna2003@gmail.com",
     phone: "0592808563 / 0500631866",
     website: "#",
@@ -4659,7 +4659,7 @@ birthday: "10-14",
     professionalExperience: "Petroleum refining and petrochemical engineering studies, student governance, strategic planning, academic representation, organisational coordination and accountability.",
     focusAreas: "Youth empowerment, leadership, student development, accountability, petroleum engineering, academic growth and community development.",
     slogan: "Accountable leadership, empowered youth and meaningful progress.",
-    image: "images/grace-aboagyewaa-kwarteng.jpeg",
+    image: "images/grace-aboagyewaa-kwarteng.webp",
     email: "rp-gakwarteng6723@st.umat.edu.gh",
     phone: "0248508027 / 0576698837",
     website: "#",
@@ -4693,7 +4693,7 @@ birthday: "10-14",
     professionalExperience: "Education studies, student representation, judicial administration, student union coordination and electoral administration.",
     focusAreas: "Education, youth development, student leadership, civic engagement, accountability, ICT and community development.",
     slogan: "Education, accountable leadership and youth empowerment.",
-    image: "images/binpiinfoot-john-linnyibipo.jpeg",
+    image: "images/binpiinfoot-john-linnyibipo.webp",
     email: "binpiinfootj@gmail.com",
     phone: "0257876343",
     website: "#",
@@ -4727,7 +4727,7 @@ birthday: "10-14",
     professionalExperience: "Nursing studies, student governance, sports leadership, financial record-keeping and budget administration.",
     focusAreas: "Youth development, student leadership, sports, financial accountability, nursing and community development.",
     slogan: "Responsible leadership, accountable service and empowered youth.",
-    image: "images/obeng-mensah-stephen.jpeg",
+    image: "images/obeng-mensah-stephen.webp",
     email: "obengmensahstephen3@gmail.com",
     phone: "0541174048",
     website: "#",
@@ -4761,7 +4761,7 @@ birthday: "10-14",
     professionalExperience: "Biological Sciences studies, youth leadership and community empowerment.",
     focusAreas: "Health, education, youth development, equal opportunities, personal development, inclusive leadership and community empowerment.",
     slogan: "Empowering people, promoting equality and building stronger communities.",
-    image: "images/abanga-ilham-mma.jpeg",
+    image: "images/abanga-ilham-mma.webp",
     email: "abangailhammma@gmail.com",
     phone: "0597665061",
     website: "#",
@@ -4795,7 +4795,7 @@ birthday: "10-14",
     professionalExperience: "Teaching at Asamankama/Dentin Methodist Basic School, Offinso; sales; educational support; student leadership; organisational coordination and communication.",
     focusAreas: "Education, youth empowerment, community development, student leadership, teamwork, communication and public service.",
     slogan: "Education, responsible leadership and community development.",
-    image: "images/lot-twumasi.jpeg",
+    image: "images/lot-twumasi.webp",
     email: "twumasilot1@gmail.com",
     phone: "0540919548",
     website: "#",
@@ -4829,7 +4829,7 @@ birthday: "10-14",
     professionalExperience: "Public relations and student leadership at Kumasi Technical University; event hosting and coordination as a Master of Ceremonies; church youth leadership.",
     focusAreas: "Youth empowerment, leadership development, community service, public relations, information technology, effective communication, and youth participation in governance.",
     slogan: "Ready to serve, not to be served.",
-    image: "images/owusu-benjamin.jpeg",
+    image: "images/owusu-benjamin.webp",
     email: "emperorben26@gmail.com",
     phone: "0593240564",
     website: "#",
@@ -4863,7 +4863,7 @@ birthday: "10-14",
     professionalExperience: "Private School Teacher, Sunesis Vine Montessori Basic School, Nalerigu (2023/2024); educator in training; poet, Wikimedian, and graphic designer.",
     focusAreas: "Youth development, education, civic activism, student leadership, community engagement, public communication, and leadership development.",
     slogan: "Committed to youth development, responsible leadership, and community service.",
-    image: "images/elijah.jpeg",
+    image: "images/elijah.webp",
     email: "aelijahmankutam@gmail.com",
     phone: "0257031725 / 0559021737",
     website: "#",
@@ -4897,7 +4897,7 @@ birthday: "10-14",
     professionalExperience: "Mining Engineering student with experience in student leadership, recruitment, public relations, auditing, and organizational administration.",
     focusAreas: "Youth empowerment, student leadership, professional development, mining and engineering, recruitment, public relations, organizational accountability, and community development.",
     slogan: "Leadership, Service, and Opportunity for Youth Development.",
-    image: "images/gideon-acheampong.jpeg",
+    image: "images/gideon-acheampong.webp",
     email: "mn-gacheampong5323@st.umat.edu.gh",
     phone: "0534056383",
     website: "#",
@@ -4931,7 +4931,7 @@ birthday: "10-14",
     professionalExperience: "Tour Guide and Manager, Kwame Nkrumah Museum, Nkroful, supporting visitor engagement, public education, and the promotion of Ghana's historical and cultural heritage.",
     focusAreas: "Youth empowerment, education, skills development, youth unemployment, environmental management, GIS, remote sensing, sustainable development, responsible tourism, cultural heritage preservation, and local governance.",
     slogan: "Empowering Youth, Preserving Heritage, Advancing Sustainable Development.",
-    image: "images/godfred-essien.jpeg",
+    image: "images/godfred-essien.webp",
     email: "essiengodfred08@gmail.com",
     phone: "0505707324",
     website: "#",
@@ -4965,7 +4965,7 @@ birthday: "10-14",
     professionalExperience: "Entrepreneur with training in Fashion Design and Textiles Studies; experience in school and community leadership and volunteer activities.",
     focusAreas: "Gender inclusion, children's rights, child protection, social protection, youth development, community engagement, and challenging harmful cultural practices.",
     slogan: "Promoting Gender Inclusion, Protecting Children, and Strengthening Communities.",
-    image: "images/helena-manauba-magbit.jpeg",
+    image: "images/helena-manauba-magbit.webp",
     email: "manaubahelena@gmail.com",
     phone: "0597263537",
     website: "#",
@@ -5012,7 +5012,7 @@ birthday: "10-14",
 
     slogan: "Inclusive Leadership, Innovation and Community Impact",
 
-    image: "images/simon-akaribo.jpeg",
+    image: "images/simon-akaribo.webp",
 
     email: "simonakaribo3@gmail.com",
 
@@ -5054,7 +5054,7 @@ birthday: "10-14",
     professionalExperience: "Public Health student with experience in youth organization leadership, community service, school leadership, and volunteer activities.",
     focusAreas: "Youth employment, skills development, entrepreneurship, public health, education, peacebuilding, social cohesion, climate action, and sustainable development.",
     slogan: "Empowering Youth, Building Peace, and Advancing Inclusive Development.",
-    image: "images/sulemana-salamatu.jpeg",
+    image: "images/sulemana-salamatu.webp",
     email: "suleimansalamatu000@gmail.com",
     phone: "0591871629",
     website: "#",
@@ -5088,7 +5088,7 @@ birthday: "10-14",
     professionalExperience: "Public Health student with experience in student leadership, political organisation, public relations, communication, advocacy, entrepreneurship, and volunteer activities.",
     focusAreas: "Governance, public policy, youth empowerment, public health, women’s advancement, entrepreneurship, diplomacy, volunteerism, and national development.",
     slogan: "Empowering Youth, Advancing Public Health, and Transforming Communities.",
-    image: "images/ibrahim-fuseina-maltiti.jpeg",
+    image: "images/ibrahim-fuseina-maltiti.webp",
     email: "seinatseinat864@gmail.com",
     phone: "0591542494",
     website: "#",
@@ -5122,7 +5122,7 @@ birthday: "10-14",
     professionalExperience: "Experience in organisational operations, student governance, political organisation, grassroots mobilisation, public engagement, and youth leadership.",
     focusAreas: "Youth empowerment, public administration, governance, educational advancement, youth employment, entrepreneurship, agricultural development, institutional effectiveness, and community development.",
     slogan: "Empowering Youth Through Leadership, Accountability, and Collective Action.",
-    image: "images/nelson-agbodza-junior.jpeg",
+    image: "images/nelson-agbodza-junior.webp",
     email: "Agbodzanelaonjunior137@gmail.com",
     phone: "0542116265 / 0506145009",
     website: "#",
@@ -5156,7 +5156,7 @@ birthday: "10-14",
     professionalExperience: "Nursing student with previous teaching experience and involvement in student leadership and community advocacy.",
     focusAreas: "Women's empowerment, girl child education, nursing and healthcare, youth leadership, advocacy, community development, and inclusive participation.",
     slogan: "Empowering Women, Educating Girls, and Transforming Communities.",
-    image: "images/jessica-naa-martey.jpeg",
+    image: "images/jessica-naa-martey.webp",
     email: "marteyjessica984@gmail.com",
     phone: "0599454823 / 0551245251",
     website: "#",
@@ -5190,7 +5190,7 @@ birthday: "10-14",
     professionalExperience: "National Service Personnel at Absa Bank (November 2025–September 2026); industrial attachments at Ghana Revenue Authority, Food and Drugs Authority, Pinnacle Life Insurance and Absa Bank. Experience includes customer service, administration, tax collection and business registration.",
     focusAreas: "Local Governance, Youth Development, Community Productivity, Human Resource Management, Public Administration and Leadership",
     slogan: "Effective Governance, Empowered Youth, Productive Communities",
-    image: "images/kwesi-panyin-addison.jpeg",
+    image: "images/kwesi-panyin-addison.webp",
     email: "addisonkwesi80@gmail.com",
     phone: "0560131412 / 0503930763",
     website: "#",
@@ -5224,7 +5224,7 @@ birthday: "10-14",
     professionalExperience: "Founder of TASPEC Foundation, focused on health, education and community development; Founder of Lawson ASP MedSimplified, focused on medical and biomedical education; Health Education and Community Outreach Lead at Lawson ASP MedSimplified.",
     focusAreas: "Public Health, Health Education, Youth Development, Healthcare Access, Nursing, Digital Health, Health Data Strategy, Neuroscience, Artificial Intelligence, Research, Healthcare Innovation and Community Development",
     slogan: "Translating Knowledge into Health and Community Impact",
-    image: "images/lawson-all-shallpass-datsomor.jpeg",
+    image: "images/lawson-all-shallpass-datsomor.webp",
     email: "lawsonallshallpass@gmail.com",
     phone: "0535678952",
     website: "#",
@@ -5271,7 +5271,7 @@ birthday: "10-14",
 
     slogan: "Research, Strategy and Sustainable Development",
 
-    image: "images/felicity-teng-viel.jpeg",
+    image: "images/felicity-teng-viel.webp",
 
     email: "tengvielfelicity20@gmail.com",
 
@@ -5326,7 +5326,7 @@ birthday: "10-14",
 
     slogan: "Responsible Leadership, Efficient Administration, Innovative Solutions",
 
-    image: "images/kwesi-kakra-addison.jpeg",
+    image: "images/kwesi-kakra-addison.webp",
 
     email: "kwesikakraaddison@gmail.com",
 
@@ -5368,7 +5368,7 @@ birthday: "10-14",
     professionalExperience: "Hotel Receptionist and Front Desk Personnel. Previous employers, dates and other professional roles have not yet been provided.",
     focusAreas: "Local Governance, Human Resource Management, Public Administration, Service Delivery, Youth Participation and Community Development",
     slogan: "Responsive Leadership, Efficient Service, Community Development",
-    image: "images/addai-musah-asamoah.jpeg",
+    image: "images/addai-musah-asamoah.webp",
     email: "addaimusahasamoah.ypg@gmail.com",
     phone: "0559172478",
     website: "#",
@@ -5415,7 +5415,7 @@ birthday: "10-14",
 
     slogan: "Empowering People, Protecting Children, Building Inclusive Communities",
 
-    image: "images/umar-zelia.jpeg",
+    image: "images/umar-zelia.webp",
 
     email: "umarzelia30@gmail.com",
 
