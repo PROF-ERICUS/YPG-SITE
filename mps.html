@@ -939,697 +939,444 @@
 <script>
 
 document.addEventListener("DOMContentLoaded", function () {
+    "use strict";
 
     /* =========================================================
        ELEMENTS
     ========================================================= */
 
-    const searchInput =
-        document.getElementById("mpSearch");
-
-    const regionFilter =
-        document.getElementById("regionFilter");
-
-    const mpGrid =
-        document.getElementById("mpGrid");
-
-    const noResults =
-        document.getElementById("noResults");
-
-    const resultsCount =
-        document.getElementById("resultsCount");
-
+    const searchInput = document.getElementById("mpSearch");
+    const regionFilter = document.getElementById("regionFilter");
+    const mpGrid = document.getElementById("mpGrid");
+    const noResults = document.getElementById("noResults");
+    const resultsCount = document.getElementById("resultsCount");
 
     /* =========================================================
        CHECK REQUIRED DATA
     ========================================================= */
 
-    if (typeof mpData === "undefined") {
-
+    if (typeof mpData === "undefined" || !Array.isArray(mpData)) {
         console.error(
-            "❌ MP DATA NOT FOUND."
+            "MP data not found. Check that js/mp-data.js loads before this script."
         );
-
         return;
     }
 
-
-    if (
-        typeof getOfficialConstituency !== "function"
-    ) {
-
+    if (typeof getOfficialConstituency !== "function") {
         console.error(
-            "❌ CONSTITUENCY REGISTRY FUNCTIONS NOT FOUND."
+            "Constituency registry functions not found. Check that the registry script loads first."
         );
-
         return;
     }
 
-
- function validateMPConstituencies() {
-
-    if (
-        typeof mpData === "undefined" ||
-        typeof getOfficialConstituency !== "function"
-    ) {
-
-        console.error(
-            "MP data or constituency registry is not available."
-        );
-
+    if (!mpGrid || !searchInput || !regionFilter || !noResults || !resultsCount) {
+        console.error("One or more required Active MPs page elements are missing.");
         return;
-
     }
 
+    /* =========================================================
+       HELPER FUNCTIONS
+    ========================================================= */
 
-    mpData.forEach(function(member) {
+    function normaliseText(value) {
+        return String(value || "").trim().toLowerCase();
+    }
 
-        const official =
-            getOfficialConstituency(
+    function normaliseConstituency(value) {
+        const text = normaliseText(value);
+
+        if (typeof normalizeConstituencyName === "function") {
+            return normalizeConstituencyName(text);
+        }
+
+        return text
+            .replace(/\bconstituency\b/g, "")
+            .replace(/[’'`.,\-_/]+/g, " ")
+            .replace(/\s+/g, " ")
+            .trim();
+    }
+
+    function escapeHTML(value) {
+        return String(value == null ? "" : value).replace(/[&<>"']/g, function (character) {
+            const entities = {
+                "&": "&amp;",
+                "<": "&lt;",
+                ">": "&gt;",
+                '"': "&quot;",
+                "'": "&#39;"
+            };
+
+            return entities[character];
+        });
+    }
+
+    /* =========================================================
+       OFFICIAL CONSTITUENCY VERIFICATION
+    ========================================================= */
+
+    function validateMPConstituencies() {
+        mpData.forEach(function (member) {
+            const official = getOfficialConstituency(
                 member.constituency,
                 member.region
             );
 
+            if (official) {
+                member.constituencyStatus = "valid";
 
-        if (official) {
+                // Use the official constituency and region.
+                member.constituency = official.constituency;
+                member.region = official.region;
 
-            member.constituencyStatus =
-                "valid";
+                member.constituencyError = null;
+            } else {
+                member.constituencyStatus = "invalid";
 
-            /*
-             * Always replace the MP's constituency
-             * with the official registry name.
-             */
-
-            member.constituency =
-                official.constituency;
-
-
-            /*
-             * Always take the region from the
-             * official registry.
-             */
-
-            member.region =
-                official.region;
-
-
-            member.constituencyError =
-                null;
-
-        }
-
-        else {
-
-            member.constituencyStatus =
-                "invalid";
-
-            member.constituencyError =
-                "Constituency does not exist in the official constituency registry.";
-
-        }
-
-    });
-
-}
-
-
-    /* =========================================================
-       RUN CONSTITUENCY VALIDATION FIRST
-    ========================================================= */
+                member.constituencyError =
+                    "Constituency does not exist in the official constituency registry.";
+            }
+        });
+    }
 
     validateMPConstituencies();
 
-
     /* =========================================================
-       CREATE MP CARD
+       CREATE MP PROFILE CARD
     ========================================================= */
 
     function createMPCard(member) {
+        const name = escapeHTML(member.name || "Name not provided");
+        const position = escapeHTML(
+            member.position || "Member of Parliament"
+        );
+        const constituency = escapeHTML(
+            member.constituency || "Not specified"
+        );
+        const region = escapeHTML(member.region || "Not specified");
+        const image = String(member.image || "").trim();
+        const id = encodeURIComponent(String(member.id || ""));
 
         let imageHTML = "";
 
-
-        if (member.image) {
-
+        if (image) {
             imageHTML = `
-
                 <img
-                    src="${member.image}"
-                    alt="${member.name}"
-
+                    src="${escapeHTML(image)}"
+                    alt="${name}"
+                    loading="lazy"
+                    decoding="async"
                     onerror="
                         this.style.display='none';
                         this.nextElementSibling.style.display='flex';
                     "
                 >
 
-                <div
-                    class="mp-placeholder"
-                    style="display:none;"
-                >
-
+                <div class="mp-placeholder" style="display:none;">
                     <i class="bi bi-person"></i>
-
                 </div>
-
             `;
-
-        }
-
-
-        else {
-
+        } else {
             imageHTML = `
-
                 <div class="mp-placeholder">
-
                     <i class="bi bi-person"></i>
-
                 </div>
-
             `;
-
         }
-
 
         return `
-
             <div
                 class="col-lg-4 col-md-6 mp-item"
-
-                data-name="${member.name}"
-
-                data-constituency="${member.constituency}"
-
-                data-region="${member.region}"
+                data-name="${name}"
+                data-constituency="${constituency}"
+                data-region="${region}"
             >
-
                 <div class="mp-card">
 
-
                     <!-- MP PHOTO -->
-
                     <div class="mp-image">
-
                         ${imageHTML}
-
                     </div>
 
-
                     <!-- MP INFORMATION -->
-
                     <div class="mp-info">
 
-                        <h3>
-                            ${member.name}
-                        </h3>
-
+                        <h3>${name}</h3>
 
                         <div class="mp-position">
-
-                            ${member.position}
-
+                            ${position}
                         </div>
-
 
                         <div class="mp-details">
 
                             <p>
-
                                 <i class="bi bi-geo-alt"></i>
-
-                                ${member.constituency}
-
+                                ${constituency}
                             </p>
 
-
                             <p>
-
                                 <i class="bi bi-map"></i>
-
-                                ${member.region}
-
+                                ${region}
                             </p>
 
                         </div>
 
-
                         <a
-                            href="profile.html?id=${member.id}"
+                            href="profile.html?id=${id}"
                             class="view-profile"
                         >
-
                             View Profile
-
                             <i class="bi bi-arrow-right"></i>
-
                         </a>
 
                     </div>
-
                 </div>
-
             </div>
-
         `;
-
     }
 
-function displayMPs() {
+    /* =========================================================
+       DISPLAY ACTIVE MPs ONLY
+    ========================================================= */
 
-    const search =
-        searchInput.value
-            .toLowerCase()
-            .trim();
+    function displayMPs() {
+        const search = normaliseText(searchInput.value);
 
-    const selectedRegion =
-        regionFilter.value
-            .toLowerCase()
-            .trim();
+        const selectedRegion = normaliseText(
+            regionFilter.value
+        );
 
-    /*
-     * Normalize the search text so that:
-     *
-     * Ayawaso West Wuogon
-     * Ayawaso West Wuogon Constituency
-     *
-     * are treated the same.
-     */
-    const normalizedSearch =
-        typeof normalizeConstituencyName === "function"
-            ? normalizeConstituencyName(search)
-            : search;
+        const normalizedSearch =
+            normaliseConstituency(search);
 
-    const filteredMPs =
-        mpData.filter(function (member) {
+        const filteredMPs = mpData.filter(function (member) {
 
-            /*
-             * ONLY ACTIVE MPs
-             */
-            if (member.status !== "active") {
+            /* -----------------------------------------
+               ONLY ACTIVE MPs
+               Hide inactive, revoked and missing status.
+            ----------------------------------------- */
+
+            const status = normaliseText(member.status);
+
+            if (status !== "active") {
                 return false;
             }
 
+            /* -----------------------------------------
+               ONLY VERIFIED CONSTITUENCIES
+            ----------------------------------------- */
 
-            /*
-             * ONLY VALID CONSTITUENCIES
-             */
             if (member.constituencyStatus !== "valid") {
                 return false;
             }
 
-/* =============================================
-   SEARCH DATA
-============================================= */
+            /* -----------------------------------------
+               SEARCH DATA
+            ----------------------------------------- */
 
-const name =
-    String(member.name || "")
-        .toLowerCase()
-        .trim();
+            const name = normaliseText(member.name);
 
-const rawConstituency =
-    String(member.constituency || "")
-        .toLowerCase()
-        .trim();
+            const rawConstituency = normaliseText(
+                member.constituency
+            );
 
-const constituency =
-    typeof normalizeConstituencyName === "function"
-        ? normalizeConstituencyName(rawConstituency)
-        : rawConstituency;
+            const constituency = normaliseConstituency(
+                member.constituency
+            );
 
-const combinedSearch =
-    name + " " + rawConstituency;
+            const region = normaliseText(member.region);
 
+            /* -----------------------------------------
+               SEARCH MATCH
+            ----------------------------------------- */
 
-/* =============================================
-   NORMALIZE USER SEARCH
-============================================= */
+            const matchesSearch =
+                search === "" ||
+                name.includes(search) ||
+                rawConstituency.includes(search) ||
+                constituency.includes(normalizedSearch) ||
+                (name + " " + rawConstituency).includes(search);
 
-const normalizedSearch =
-    typeof normalizeConstituencyName === "function"
-        ? normalizeConstituencyName(search)
-        : search;
+            /* -----------------------------------------
+               REGION MATCH
+            ----------------------------------------- */
 
-
-/* =============================================
-   SEARCH MATCH
-============================================= */
-
-const matchesSearch =
-    search === "" ||
-    name.includes(search) ||
-    rawConstituency.includes(search) ||
-    constituency.includes(normalizedSearch) ||
-    combinedSearch.includes(search);
-    
-            /*
-             * REGION MATCH
-             */
             const matchesRegion =
                 selectedRegion === "" ||
                 region === selectedRegion;
 
+            return matchesSearch && matchesRegion;
+        });
 
-            return (
-                matchesSearch &&
-                matchesRegion
+        /* CLEAR EXISTING CARDS */
+
+        mpGrid.innerHTML = "";
+
+        /* DISPLAY FILTERED MPs */
+
+        filteredMPs.forEach(function (member) {
+            mpGrid.insertAdjacentHTML(
+                "beforeend",
+                createMPCard(member)
             );
         });
 
+        /* UPDATE RESULT COUNT */
 
-    /*
-     * CLEAR CURRENT CARDS
-     */
-    mpGrid.innerHTML = "";
+        resultsCount.textContent =
+            "Showing " +
+            filteredMPs.length +
+            " MP" +
+            (filteredMPs.length === 1 ? "" : "s");
 
+        /* SHOW OR HIDE NO RESULTS */
 
-    /*
-     * ADD FILTERED CARDS
-     */
-    filteredMPs.forEach(function (member) {
-
-        mpGrid.insertAdjacentHTML(
-            "beforeend",
-            createMPCard(member)
-        );
-
-    });
-
-
-    /*
-     * UPDATE RESULT COUNT
-     */
-    resultsCount.textContent =
-        "Showing " +
-        filteredMPs.length +
-        " MP" +
-        (
-            filteredMPs.length === 1
-                ? ""
-                : "s"
-        );
-
-
-    /*
-     * SHOW / HIDE NO RESULTS
-     */
-    noResults.style.display =
-        filteredMPs.length === 0
-            ? "block"
-            : "none";
-}
+        noResults.style.display =
+            filteredMPs.length === 0 ? "block" : "none";
+    }
 
     /* =========================================================
-       CHECK DUPLICATE MP CONSTITUENCIES
+       CHECK DUPLICATE ACTIVE MP CONSTITUENCIES
     ========================================================= */
 
     function checkDuplicateConstituencies() {
-
-        if (
-            typeof mpData === "undefined" ||
-            typeof getOfficialConstituency !== "function"
-        ) {
-
-            console.error(
-                "MP data or constituency registry unavailable."
-            );
-
-            return;
-        }
-
-
         const constituencyMap = {};
-
-
         const duplicates = [];
-
-
-        /* =====================================================
-           CHECK EACH MP
-        ===================================================== */
 
         mpData.forEach(function (member) {
 
-
-            /* =============================================
-               IGNORE REVOKED MPs
-            ============================================= */
-
-            if (
-                member.status === "revoked"
-            ) {
-
+            // Ignore inactive, revoked and other non-active records.
+            if (normaliseText(member.status) !== "active") {
                 return;
-
             }
 
-
-            /* =============================================
-               IGNORE INVALID CONSTITUENCIES
-            ============================================= */
-
-            if (
-                member.constituencyStatus !== "valid"
-            ) {
-
+            // Ignore unverified constituencies.
+            if (member.constituencyStatus !== "valid") {
                 return;
-
             }
 
-
-            /* =============================================
-               GET OFFICIAL CONSTITUENCY
-            ============================================= */
-
-            const official =
-                getOfficialConstituency(
-                    member.constituency
-                );
-
+            const official = getOfficialConstituency(
+                member.constituency,
+                member.region
+            );
 
             if (!official) {
-
                 return;
-
             }
 
+            const key = normaliseConstituency(
+                official.constituency
+            );
 
-            /* =============================================
-               USE OFFICIAL REGISTRY NAME
-            ============================================= */
-
-            const key =
-                normalizeConstituencyName(
-                    official.constituency
-                );
-
-
-            /* =============================================
-               CREATE MAP ENTRY
-            ============================================= */
+            if (!key) {
+                return;
+            }
 
             if (!constituencyMap[key]) {
-
                 constituencyMap[key] = [];
-
             }
 
-
-            constituencyMap[key].push(
-                member
-            );
-
+            constituencyMap[key].push(member);
         });
 
-
-        /* =====================================================
-           FIND DUPLICATES
-        ===================================================== */
-
-        Object.keys(
-            constituencyMap
-        ).forEach(function (key) {
-
-            const members =
-                constituencyMap[key];
-
-
-            if (
-                members.length > 1
-            ) {
-
+        Object.keys(constituencyMap).forEach(function (key) {
+            if (constituencyMap[key].length > 1) {
                 duplicates.push({
-
-                    constituency:
-                        members[0].constituency,
-
-                    members:
-                        members
-
+                    constituency: constituencyMap[key][0].constituency,
+                    members: constituencyMap[key]
                 });
-
             }
-
         });
 
-
-        /* =====================================================
-           NO DUPLICATES
-        ===================================================== */
-
-        if (
-            duplicates.length === 0
-        ) {
-
+        if (duplicates.length === 0) {
             console.log(
-                "✅ No duplicate active MP constituencies found."
+                "No duplicate active MP constituencies found."
             );
-
             return;
-
         }
 
-
-        /* =====================================================
-           DUPLICATES FOUND
-        ===================================================== */
-
         console.warn(
-            "⚠️ DUPLICATE CONSTITUENCIES FOUND:",
+            "Duplicate active MP constituencies found:",
             duplicates
         );
 
-
-        /* =====================================================
-           CREATE ALERT MESSAGE
-        ===================================================== */
-
         let message =
-            "⚠️ DUPLICATE MP CONSTITUENCIES FOUND\n\n" +
+            "DUPLICATE ACTIVE MP CONSTITUENCIES FOUND\n\n" +
+            "Two active MPs should not be assigned to the same constituency.\n\n";
 
-            "Two active MPs cannot be assigned to the same constituency.\n\n";
+        duplicates.forEach(function (item, index) {
+            message +=
+                (index + 1) + ". " +
+                item.constituency + "\n";
 
-
-        duplicates.forEach(
-            function (item, index) {
-
+            item.members.forEach(function (member) {
                 message +=
+                    "• " + (member.name || "Unknown") +
+                    "\n  ID: " + (member.id || "Not provided") +
+                    "\n";
+            });
 
-                    `${index + 1}. ` +
+            message +=
+                "\n--------------------------------\n\n";
+        });
 
-                    `${item.constituency}\n`;
-
-
-                item.members.forEach(
-                    function (member) {
-
-                        message +=
-
-                            `• ${member.name}\n` +
-
-                            `  ID: ${member.id}\n`;
-
-                    }
-                );
-
-
-                message +=
-                    "\n--------------------------------\n\n";
-
-            }
-        );
-
-
-        alert(message);
-
+        console.warn(message);
     }
 
-
     /* =========================================================
-       RUN DUPLICATE CHECK
+       SEARCH EVENT
     ========================================================= */
 
-    checkDuplicateConstituencies();
-
-
-    /* =========================================================
-       SEARCH
-    ========================================================= */
-
-    if (searchInput) {
-
-        searchInput.addEventListener(
-            "input",
-            displayMPs
-        );
-
-    }
-
+    searchInput.addEventListener("input", displayMPs);
 
     /* =========================================================
-       REGION FILTER
+       REGION FILTER EVENT
     ========================================================= */
 
-    if (regionFilter) {
-
-        regionFilter.addEventListener(
-            "change",
-            displayMPs
-        );
-
-    }
+    regionFilter.addEventListener("change", displayMPs);
 
     /* =========================================================
        INITIAL LOAD
     ========================================================= */
 
+    checkDuplicateConstituencies();
     displayMPs();
-
-
 });
-    /* =========================================================
+
+/* =========================================================
    PAGE NAVIGATION BUTTONS
 ========================================================= */
 
-const scrollTopBtn =
-    document.getElementById("scrollTopBtn");
+document.addEventListener("DOMContentLoaded", function () {
 
-const scrollDownBtn =
-    document.getElementById("scrollDownBtn");
+    const scrollTopBtn =
+        document.getElementById("scrollTopBtn");
 
+    const scrollDownBtn =
+        document.getElementById("scrollDownBtn");
 
-/* GO TO TOP */
+    /* GO TO TOP */
 
-if (scrollTopBtn) {
-
-    scrollTopBtn.addEventListener("click", function () {
-
-        window.scrollTo({
-            top: 0,
-            behavior: "smooth"
+    if (scrollTopBtn) {
+        scrollTopBtn.addEventListener("click", function () {
+            window.scrollTo({
+                top: 0,
+                behavior: "smooth"
+            });
         });
+    }
 
-    });
+    /* GO DOWN */
 
-}
-
-
-/* GO DOWN */
-
-if (scrollDownBtn) {
-
-    scrollDownBtn.addEventListener("click", function () {
-
-        window.scrollBy({
-            top: window.innerHeight * 0.8,
-            behavior: "smooth"
+    if (scrollDownBtn) {
+        scrollDownBtn.addEventListener("click", function () {
+            window.scrollBy({
+                top: window.innerHeight * 0.8,
+                behavior: "smooth"
+            });
         });
-
-    });
-
-}
-
+    }
+});
+    
 </script>
 
 
