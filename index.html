@@ -9,10 +9,10 @@
           content="width=device-width, initial-scale=1.0">
 
     <title>Youth Parliament Ghana | Official Website</title>
-        <!-- Youth Parliament Ghana Favicon -->
+    <!-- Youth Parliament Ghana Favicon -->
 <!-- Youth Parliament Ghana Website Logo -->
-<link rel="icon" type="image/png" href="/images/YPG-LOGO.png">
-<link rel="apple-touch-icon" href="/images/YPG-LOGO.png">
+<link rel="icon" type="image/webp" href="/images/YPG-LOGO.webp">
+<link rel="apple-touch-icon" href="/images/YPG-LOGO.webp">
 
     <meta name="description"
           content="Official website of Youth Parliament Ghana. Discover our Members of Parliament, leadership, ministries, programmes, news, events and opportunities for youth participation and representation in Ghana.">
@@ -28,7 +28,7 @@
           href="https://youth-parliament-ghana-site.vercel.app/">
 
     <!-- Bootstrap 5 -->
-    
+    ...
 
     <!-- Bootstrap 5 -->
     <link
@@ -42,8 +42,6 @@
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="css/style.css">
-     <!-- Custom CSS -->
-    
     <link rel="stylesheet" href="css/birthday.css">
 
     <style>
@@ -2242,7 +2240,9 @@
 
 }
 
-        /* =========================================
+
+
+/* =========================================
    BREAST CANCER AWARENESS IMAGE SLIDER
 ========================================= */
 
@@ -2348,6 +2348,8 @@
     }
 
 }
+
+
 
 /* ==============================
    YPG SUPPORT
@@ -2730,7 +2732,7 @@
     }
 
 }
-        @media (max-width: 576px) {
+@media (max-width: 576px) {
 
     .ypg-support {
         right: 10px;
@@ -2761,72 +2763,67 @@
     }
 
 }
-        
+/* =====================================
+   REGISTERED MPs - NAVIGATION LINK
+===================================== */
 
-/* REGISTERED MPs BUTTON */
-a.registered-mps-link,
-.navbar a.registered-mps-link,
-.navbar-nav a.registered-mps-link {
-    display: inline-flex !important;
-    align-items: center !important;
-    justify-content: center !important;
-    gap: 8px !important;
+.registered-mps-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 9px;
 
-    padding: 10px 16px !important;
-    margin: 0 0 0 8px !important;
+    padding: 11px 17px;
 
-    background: #d7a928 !important;
+    background: linear-gradient(135deg, #d7a928, #f0d477);
     color: #071b35 !important;
 
-    border: 1px solid #d7a928 !important;
-    border-radius: 7px !important;
-
-    font-weight: 800 !important;
-    font-size: 13px !important;
-    line-height: 1.4 !important;
+    font-size: 14px;
+    font-weight: 800;
     text-decoration: none !important;
-    white-space: nowrap !important;
 
-    flex-shrink: 0 !important;
-    box-shadow: 0 4px 12px rgba(215, 169, 40, 0.2);
+    border: 1px solid rgba(215, 169, 40, 0.8);
+    border-radius: 7px;
 
-    transition:
-        background-color 0.35s ease,
-        color 0.35s ease,
-        border-color 0.35s ease,
-        box-shadow 0.35s ease,
-        transform 0.35s ease !important;
+    box-shadow: 0 4px 12px rgba(215, 169, 40, 0.18);
+
+    transition: all 0.3s ease;
+    white-space: nowrap;
 }
 
-/* HOVER: NAVY BLUE WITH GOLD TEXT */
-a.registered-mps-link:hover,
-.navbar a.registered-mps-link:hover,
-.navbar-nav a.registered-mps-link:hover {
-    background: #071b35 !important;
+.registered-mps-link:hover {
+    background: #071b35;
     color: #f0d477 !important;
-    border-color: #f0d477 !important;
 
-    box-shadow: 0 7px 18px rgba(7, 27, 53, 0.3);
+    border-color: #d7a928;
+
     transform: translateY(-2px);
+
+    box-shadow: 0 7px 18px rgba(7, 27, 53, 0.2);
 }
 
-/* KEEP ICONS THE SAME COLOUR AS THE TEXT */
-a.registered-mps-link i {
-    color: inherit !important;
-    transition: color 0.35s ease;
+.registered-mps-link i {
+    font-size: 16px;
+    line-height: 1;
 }
 
-/* CLICK EFFECT */
-a.registered-mps-link:active {
-    transform: translateY(0) scale(0.97);
+.registered-mps-link .bi-arrow-up-right {
+    font-size: 12px;
+    transition: transform 0.3s ease;
 }
 
-/* KEYBOARD ACCESSIBILITY */
-a.registered-mps-link:focus-visible {
-    outline: 3px solid #f0d477;
-    outline-offset: 3px;
+.registered-mps-link:hover .bi-arrow-up-right {
+    transform: translate(2px, -2px);
 }
 
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+    .registered-mps-link {
+        padding: 10px 14px;
+        font-size: 13px;
+        gap: 7px;
+    }
+}
     </style>
 
 </head>
@@ -2861,7 +2858,7 @@ a.registered-mps-link:focus-visible {
                 href="index.html">
 
                 <img
-                    src="images/YPG-LOGO.png"
+                    src="images/YPG-LOGO.webp"
                     alt="Youth Parliament Ghana"
                     class="site-logo">
 
@@ -2938,9 +2935,10 @@ a.registered-mps-link:focus-visible {
                             href="about.html">
                             About
                         </a>
+                        
                     </li>
 
-                          <li class="nav-item ms-lg-3">
+                    <li class="nav-item ms-lg-3">
 
      <a href="https://ypgfilebook.vercel.app/"
    class="registered-mps-link"
@@ -3007,10 +3005,10 @@ a.registered-mps-link:focus-visible {
                         </a>
 
                         <a
-                            href="appointees.html"
+                            href="about.html"
                             class="btn btn-outline-light btn-lg">
 
-                            Explore Appointees
+                            Learn More
 
                         </a>
 
@@ -3048,7 +3046,7 @@ a.registered-mps-link:focus-visible {
         </div>
 
     </section>
-        <!-- YPG Automatic Birthday Celebration Section -->
+    <!-- YPG Automatic Birthday Celebration Section -->
 <section
     id="ypg-birthday-section"
     hidden
@@ -3075,8 +3073,6 @@ a.registered-mps-link:focus-visible {
     </div>
 </section>
 
-
-    
 
     <!-- =====================================================
          PRESIDENT
@@ -3105,31 +3101,23 @@ a.registered-mps-link:focus-visible {
                 <div class="col-lg-7">
 
                     <span class="section-label">
-                        FOUNDER &amp; PRESIDENT, YOUTH PARLIAMENT GHANA
+                        OFFICE OF THE PRESIDENT
                     </span>
 
                     <h2>
-                        H.E. OSMAN ABDUL LATIF CHEBOO
+                        HON. OSMAN ABDUL LATIF CHIBO
                     </h2>
 
                     <h4>
-                       Founder and President, Youth Parliament Ghana
+                        PRESIDENT
                     </h4>
 
                     <p>
-        H.E. Osman Abdul Latif Cheboo is the Founder and President
-        of the Youth Parliament of Ghana, an independent and
-        non-partisan youth leadership institution dedicated to
-        promoting youth participation, leadership development and
-        democratic engagement.
-    </p>
-
-    <p>
-        Through the Youth Parliament of Ghana, he provides strategic
-        leadership and coordinates a national structure that brings
-        together young people from constituencies, regions, schools
-        and communities across Ghana.
-    </p>
+                        The President of Youth Parliament Ghana
+                        provides leadership and strategic direction
+                        towards strengthening youth participation,
+                        representation and civic engagement.
+                    </p>
 
                     <a
                         href="president-profile.html"
@@ -3163,7 +3151,7 @@ a.registered-mps-link:focus-visible {
                 <div class="col-lg-7 order-2 order-lg-1">
 
                     <span class="section-label">
-                        NATIONAL DIRECTORATE FOR PROJECTS, PROGRAMS &amp; LOGISTICS
+                        YOUTH PARLIAMENT GHANA
                     </span>
 
                     <h2>
@@ -3171,16 +3159,14 @@ a.registered-mps-link:focus-visible {
                     </h2>
 
                     <h4>
-                       National Director for Projects, Programs &amp; Logistics
+                        LEADERSHIP
                     </h4>
 
                     <p>
-                         HON. MAVIS OHENE BOAKYE serves as the National Director
-                for Projects, Programs &amp; Logistics of Youth Parliament
-                Ghana. She supports the planning, coordination and
-                implementation of impactful youth projects, programs,
-                national sittings, summits and logistical operations
-                across the organization.
+                        Youth Parliament Ghana continues to
+                        strengthen youth leadership and create
+                        meaningful opportunities for young people
+                        to participate in national development.
                     </p>
 
                     <a
@@ -3389,7 +3375,8 @@ a.registered-mps-link:focus-visible {
 
             </div>
 
-<!-- NEWS 2 - BREAST CANCER AWARENESS -->
+
+           <!-- NEWS 2 - BREAST CANCER AWARENESS -->
 
 <div class="col-md-4">
 
@@ -3617,7 +3604,7 @@ a.registered-mps-link:focus-visible {
                     class="footer-brand">
 
                     <img
-                        src="images/YPG-LOGO.png"
+                        src="images/YPG-LOGO.webp"
                         alt="Youth Parliament Ghana"
                         class="site-logo"
                     >
@@ -3646,7 +3633,7 @@ a.registered-mps-link:focus-visible {
                 </p>
 
 
-                 <div class="social-links">
+                <div class="social-links">
 
     <!-- Facebook -->
     <a
@@ -3704,6 +3691,7 @@ a.registered-mps-link:focus-visible {
 </a>
 
 </div>
+
             </div>
 
 
@@ -3816,9 +3804,10 @@ a.registered-mps-link:focus-visible {
 <!-- Custom JS -->
 
 <script src="js/main.js"></script>
-    <script src="js/birthday.js"></script>
+<script src="js/birthday.js"></script>
 <script src="js/mp-data.js"></script>
 <script src="js/appointee-data.js"></script>
+
 
 
 <!-- Greeting Script -->
@@ -4110,8 +4099,7 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 </script>
-
-    <script>
+<script>
 
 document.addEventListener("DOMContentLoaded", function () {
 
@@ -4175,7 +4163,7 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 </script>
-    <script>
+<script>
 
 function toggleYPGSupport() {
 
@@ -4242,6 +4230,7 @@ function sendYPGSupport() {
 }
 
 </script>
+
 <!-- YPG FLOATING SUPPORT -->
 <div class="ypg-support">
 
@@ -4303,6 +4292,7 @@ function sendYPGSupport() {
     </div>
 
 </div>
+
 </body>
 
 </html>
