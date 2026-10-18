@@ -1,3 +1,4 @@
+
 document.addEventListener("DOMContentLoaded", function () {
 
     /* ===============================
@@ -6,16 +7,23 @@ document.addEventListener("DOMContentLoaded", function () {
 
     const navbar = document.querySelector(".navbar");
 
-    window.addEventListener("scroll", function () {
+    if (navbar) {
+        let ticking = false;
 
-        if (window.scrollY > 50) {
-            navbar.style.boxShadow =
-                "0 5px 25px rgba(0, 0, 0, 0.15)";
-        } else {
-            navbar.style.boxShadow = "none";
-        }
+        window.addEventListener("scroll", function () {
+            if (ticking) return;
+            ticking = true;
 
-    });
+            window.requestAnimationFrame(function () {
+                navbar.style.boxShadow =
+                    window.scrollY > 50
+                        ? "0 5px 25px rgba(0, 0, 0, 0.15)"
+                        : "none";
+
+                ticking = false;
+            });
+        }, { passive: true });
+    }
 
 
     /* ===============================
@@ -24,48 +32,89 @@ document.addEventListener("DOMContentLoaded", function () {
 
     const counters = document.querySelectorAll("[data-count]");
 
-    const observer = new IntersectionObserver(
-        function (entries, observer) {
+    if ("IntersectionObserver" in window) {
+        const observer = new IntersectionObserver(
+            function (entries, observer) {
+                entries.forEach(function (entry) {
+                    if (!entry.isIntersecting) return;
 
-            entries.forEach(function (entry) {
+                    const counter = entry.target;
+                    const target = Number.parseInt(
+                        counter.getAttribute("data-count"),
+                        10
+                    );
 
-                if (!entry.isIntersecting) return;
-
-                const counter = entry.target;
-                const target = parseInt(
-                    counter.getAttribute("data-count")
-                );
-
-                let current = 0;
-
-                const increment = Math.ceil(target / 50);
-
-                const updateCounter = setInterval(function () {
-
-                    current += increment;
-
-                    if (current >= target) {
-                        current = target;
-                        clearInterval(updateCounter);
+                    if (!Number.isFinite(target) || target < 0) {
+                        observer.unobserve(counter);
+                        return;
                     }
 
-                    counter.textContent =
-                        current.toLocaleString();
+                    const reduceMotion = window.matchMedia(
+                        "(prefers-reduced-motion: reduce)"
+                    ).matches;
 
-                }, 30);
+                    if (reduceMotion || target === 0) {
+                        counter.textContent = target.toLocaleString();
+                        observer.unobserve(counter);
+                        return;
+                    }
 
-                observer.unobserve(counter);
+                    const duration = 1200;
+                    const start = performance.now();
 
-            });
+                    function animate(now) {
+                        const progress = Math.min(
+                            (now - start) / duration,
+                            1
+                        );
 
-        },
-        {
-            threshold: 0.5
+                        counter.textContent = Math.floor(
+                            target * progress
+                        ).toLocaleString();
+
+                        if (progress < 1) {
+                            requestAnimationFrame(animate);
+                        }
+                    }
+
+                    requestAnimationFrame(animate);
+                    observer.unobserve(counter);
+                });
+            },
+            { threshold: 0.5 }
+        );
+
+        counters.forEach(function (counter) {
+            observer.observe(counter);
+        });
+    } else {
+        counters.forEach(function (counter) {
+            const target = Number.parseInt(
+                counter.getAttribute("data-count"),
+                10
+            );
+
+            if (Number.isFinite(target)) {
+                counter.textContent = target.toLocaleString();
+            }
+        });
+    }
+
+
+    /* ===============================
+       IMAGE LOADING OPTIMISATION
+    =============================== */
+
+    document.querySelectorAll(
+        "img:not([loading])"
+    ).forEach(function (img) {
+
+        // Defer images that are not yet loaded.
+        if (!img.complete) {
+            img.loading = "lazy";
         }
-    );
 
-    counters.forEach(function (counter) {
-        observer.observe(counter);
+        img.decoding = "async";
     });
 
 });
