@@ -31,7 +31,7 @@ plans:
 leadershipStatement:
     "I believe every young person deserves to be heard, empowered and given the opportunity to contribute meaningfully to society. My leadership is centred on service, inclusion, opportunity and action.",
 
-image: "images/Faustina Ladzaglah Fianudzu.jpeg",
+image: "images/Faustina Ladzaglah Fianudzu.webp",
 email: "fianudzuf@gmail.com",
 phone: "0597878932",
 website: "#"
@@ -85,7 +85,7 @@ website: "#"
     slogan:
         "Empowering young people through leadership, service and opportunity.",
 
-    image: "images/Dennis Tachum.jpeg",
+    image: "images/Dennis Tachum.webp",
 
     email: "tachumdennis658@gmail.com",
     phone: "0534806415",
@@ -144,7 +144,7 @@ motto:
 areasOfInterest:
     "Youth development • Education • Technology and innovation • Community development • Civic participation • Drug education and prevention • Responsible youth leadership • Entrepreneurship and personal development",
 
-image: "images/Hon. Baadak Daniel.png",
+image: "images/Hon. Baadak Daniel.webp",
 email: "baadakdaniel@gmail.com",
 phone: "0559624663",
 website: "#"
@@ -186,7 +186,7 @@ website: "#"
         "Currently self-employed and involved in the production of agricultural products including cucumbers, tomatoes and pepper.",
 
     image:
-        "images/osei bless1.jpeg",
+        "images/osei bless1.webp",
 
     email:
         "oseibless15@gmail.com",
@@ -229,7 +229,7 @@ website: "#"
         "ADIZA OSMAN seeks to contribute to youth development and empowerment by promoting youth engagement and connecting young people with relevant skills, educational, entrepreneurial and employment opportunities.",
 
     image:
-        "images/Adiza.jpeg",
+        "images/Adiza.webp",
 
     email:
         "adizaosman163@gmail.com",
@@ -266,7 +266,7 @@ website: "#"
         "Currently pursuing a BSc in Nursing at Garden City University and serving as the Youth Member of Parliament for the Kwabre East Constituency under Youth Parliament Ghana.",
 
     image:
-        "images/Iman.jpeg",
+        "images/Iman.webp",
 
     email:
         "iddrisuiman@gmail.com",
@@ -309,7 +309,7 @@ website: "#"
         "OBENG MANU BLESSING seeks to contribute to youth development by promoting accessible education, supporting young people in rural communities and creating opportunities for youth empowerment and development.",
 
     image:
-        "images/obeng.jpeg",
+        "images/obeng.webp",
 
     email:
         "blessingobengmanu1@gmail.com",
@@ -354,7 +354,7 @@ website: "#"
         "To contribute to youth development through civic participation, education, grassroots engagement, youth governance and community development.",
 
     image:
-        "images/Boakye.jpeg",
+        "images/Boakye.webp",
 
     email:
         "Gbaffahkelvin@gmail.com",
@@ -412,7 +412,7 @@ website: "#"
         "NOAI Foundation — Founder • The Bridge Method / Afrovivo International Ltd — Creative Director • University of Ghana Business School",
 
     image:
-        "images/Attah.jpeg",
+        "images/Attah.webp",
 
     email:
         "voiceofabuakwasouth@gmail.com",
@@ -458,7 +458,7 @@ website: "#"
         "Currently serving as SRC Organizer at Takoradi Technical University and as Youth Member of Parliament for the Tarkwa Nsuaem Constituency under Youth Parliament Ghana.",
 
     image:
-        "images/james.jpeg",
+        "images/james.webp",
 
     email:
         "jamesbosomtwe21@gmail.com",
@@ -504,7 +504,7 @@ website: "#"
         "Currently serving as the Youth Member of Parliament for the Tema Central Constituency under Youth Parliament Ghana and pursuing her studies at the University of Professional Studies, Accra (UPSA).",
 
     image:
-        "images/adepa.jpeg",
+        "images/adepa.webp",
 
     email:
         "gracelovexr@gmail.com",
@@ -556,7 +556,7 @@ website: "#"
         "Elevate African Youth Foundation — Founder • Lumina Adiel Company Limited — Chief Executive Officer • FHSSA-KsTU • PHARM.SSAG-KsTU",
 
     image:
-        "images/zakaria.jpeg",
+        "images/zakaria.webp",
 
     email:
         "mzakariaiddrisu@gmail.com",
@@ -602,7 +602,7 @@ website: "#"
         "Currently serving as NASPA President for Wenchi Municipality and as the Youth Member of Parliament for the Tain Constituency under Youth Parliament Ghana.",
 
     image:
-        "images/Abuu.jpeg",
+        "images/Abuu.webp",
 
     email:
         "abuudauda249@gmail.com",
@@ -648,7 +648,7 @@ website: "#"
         "Currently serving as a Service Personnel and Administrative Assistant at St. John of God Hospital, Duayaw Nkwanta, and as General Secretary of NASPA for the Tano North Constituency for the 2025/2026 year group.",
 
     image:
-        "images/Benedicta.jpeg",
+        "images/Benedicta.webp",
 
     email:
         "benedictaamankwah1998@gmail.com",
@@ -700,7 +700,7 @@ website: "#"
         "Youth Leadership • Community Engagement • Administrative Skills • Communication • Organization • Networking • Career Development",
 
     image:
-        "images/mumuni.jpeg",
+        "images/mumuni.webp",
 
     email:
         "mumunifirdaus10@gmail.com",
@@ -746,7 +746,7 @@ website: "#"
         "Currently pursuing studies at the University of Professional Studies, Accra (UPSA), serving on the Sports Committee of his department and serving as the Youth Member of Parliament for the Awutu Senya West Constituency under Youth Parliament Ghana.",
 
     image:
-        "images/sakibu.jpeg",
+        "images/sakibu.webp",
 
     email:
         "sakibalhassan377@gmail.com",
@@ -801,7 +801,7 @@ website: "#"
         "Studio Guest — Prime Insight (Joy Prime) • Regular Guest — AIT TV • Regular Guest — JoyLearning TV",
 
     image:
-        "images/imoro.jpeg",
+        "images/imoro.webp",
 
     email:
         "hon.ibrahimimoro.ypg@gmail.com",
@@ -853,7 +853,7 @@ website: "#"
         "Verification Officer — Electoral Commission of Ghana (2024) • Enumerator — Integrated Business Establishment Survey (IBES) (2024)",
 
     image:
-        "images/mbimu.jpeg",
+        "images/mbimu.webp",
 
     email:
         "mbimutawfic@gmail.com",
@@ -905,7 +905,7 @@ website: "#"
         "Currently pursuing a B.A. in Political Science at KNUST and serving as the Youth Member of Parliament for the Komenda Edina Eguafo Abrem (KEEA) Constituency under Youth Parliament Ghana.",
 
     image:
-        "images/awortwe.jpeg",
+        "images/awortwe.webp",
 
     email:
         "Official contact to be added",
@@ -960,7 +960,7 @@ website: "#"
         "My vision is to see young people move from simply being beneficiaries of development to becoming active participants in shaping the future of their communities and Ghana as a whole.",
 
     image:
-        "images/juliet.jpeg",
+        "images/juliet.webp",
 
     email:
         "franklinsalama1@gmail.com",
@@ -1008,7 +1008,7 @@ website: "#"
 
     constituencyFocus: "Office of the Youth MP for Sene West Constituency",
 
-    image: "images/david.jpeg",
+    image: "images/david.webp",
 
     email: "dorgaradavid@gmail.com",
 
@@ -1046,7 +1046,7 @@ website: "#"
 
     focusAreas: "Youth Leadership • Civic Participation • Education • Governance • Community Development • Youth Representation • Grassroots Engagement",
 
-    image: "images/darko.jpeg",
+    image: "images/darko.webp",
 
     email: "qhwakucyril50@gmail.com",
 
@@ -1088,7 +1088,7 @@ website: "#"
 
     focusAreas: "Youth Empowerment • Education • Mentorship • Internships • Entrepreneurship • Leadership • Partnerships • Civic Participation • Community Development",
 
-    image: "images/issah.jpeg",
+    image: "images/issah.webp",
 
     email: "issah432@icloud.com",
 
@@ -1137,7 +1137,7 @@ website: "#"
 
     leadershipMotto: "SERVICE • REPRESENTATION • RESPONSIBILITY",
 
-    image: "images/bernard.jpeg",
+    image: "images/bernard.webp",
 
     email: "Official email to be provided",
 
@@ -1198,7 +1198,7 @@ website: "#"
     slogan:
         "Touching Lives, Transforming Communities.",
 
-    image: "images/muez.jpeg",
+    image: "images/muez.webp",
 
     email: "#",
     phone: "#",
@@ -1255,7 +1255,7 @@ parliament: "Youth Parliament Ghana",
     focusAreas:
         "HEALTHCARE • LABORATORY TECHNOLOGY • YOUTH DEVELOPMENT • EDUCATION • LEADERSHIP • HEALTH AWARENESS • COMMUNITY SERVICE",
 
-    image: "images/evans.jpeg",
+    image: "images/evans.webp",
 
     email: "professordrevans2020@gmail.com",
     phone: "0599782404",
@@ -1311,7 +1311,7 @@ parliament: "Youth Parliament Ghana",
     focusAreas:
         "YOUTH REPRESENTATION • SANITATION • ENVIRONMENTAL CLEANLINESS • PUBLIC HEALTH • YOUTH EMPOWERMENT • SKILLS DEVELOPMENT • EMPLOYMENT OPPORTUNITIES",
 
-    image: "images/fuseini.jpeg",
+    image: "images/fuseini.webp",
 
     email: "missahaku99@gmail.com",
     phone: "0548194905",
@@ -1367,7 +1367,7 @@ parliament: "Youth Parliament Ghana",
     focusAreas:
         "YOUTH REPRESENTATION • LEADERSHIP • LAW • YOUTH ENGAGEMENT • COMMUNITY SERVICE • COMMUNICATION • ADVOCACY",
 
-    image: "images/osman.jpeg",
+    image: "images/osman.webp",
 
     email: "osmannadia992@gmail.com",
     phone: "0534670809",
@@ -1423,7 +1423,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "BORN TO SERVE",
 
-    image: "images/Abubakari.jpeg",
+    image: "images/Abubakari.webp",
 
     email: "amashkurat@gmail.com",
     phone: "0552786730",
@@ -1480,7 +1480,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "SERVICE, INTEGRITY AND ACCOUNTABILITY",
 
-    image: "images/Rauf.jpeg",
+    image: "images/Rauf.webp",
 
     email: "alhassanabdulrauf2004@gamail.com",
     phone: "0553715137 / 0537622471",
@@ -1537,7 +1537,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "INSPIRING THE YOUTH • DEVELOPING CAPABILITIES",
 
-    image: "images/kwabena.jpeg",
+    image: "images/kwabena.webp",
 
     email: "iamtheking852@gmail.com",
     phone: "0595410497",
@@ -1594,7 +1594,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Youth • Leadership • Service",
 
-    image: "images/Rapheal.jpeg",
+    image: "images/Rapheal.webp",
 
     email: "raphaelablernarh100@gmail.com",
     phone: "0536924806",
@@ -1651,7 +1651,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "THE SERVANT LEADER",
 
-    image: "images/Angmorteh.jpeg",
+    image: "images/Angmorteh.webp",
 
     email: "davidtetteh838@gmail.com",
     phone: "0257007989",
@@ -1708,7 +1708,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Women First, Future Secured!",
 
-    image: "images/Ayiku.jpeg",
+    image: "images/Ayiku.webp",
 
     email: "ayikuirene44@gmail.com",
     phone: "0544280792",
@@ -1765,7 +1765,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Youth Empowerment • Leadership • Community Development",
 
-    image: "images/joseph.jpeg",
+    image: "images/joseph.webp",
 
     email: "nyarkoj304@gmail.com",
     phone: "0597620256 / 0205954545",
@@ -1822,7 +1822,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Youth Empowerment • Leadership • Service",
 
-    image: "images/bertin.jpeg",
+    image: "images/bertin.webp",
 
     email: "kouroumabertin155@gmail.com",
     phone: "0551892873",
@@ -1879,7 +1879,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Equality • Inclusion • Youth Empowerment",
 
-    image: "images/kwao.jpeg",
+    image: "images/kwao.webp",
 
     email: "isaackwaoike1958@gmail.com",
     phone: "0592787745",
@@ -1936,7 +1936,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Leadership • Service • Youth Development",
 
-    image: "images/Theodore.jpeg",
+    image: "images/Theodore.webp",
 
     email: "boatengtheodore139@gmail.com",
     phone: "0532840632",
@@ -1993,7 +1993,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Advocacy • Progress • Leadership • Unity • Service",
 
-    image: "images/paul.jpeg",
+    image: "images/paul.webp",
 
     email: "azoukoupaul100@gmail.com",
     phone: "0256845095",
@@ -2050,7 +2050,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Unity • Empowerment • Service",
 
-    image: "images/fatawu.jpeg",
+    image: "images/fatawu.webp",
 
     email: "abdulfatawu7373@gmail.com",
     phone: "0241254424",
@@ -2107,7 +2107,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Leadership • Service • Representation",
 
-    image: "images/Doreen.jpeg",
+    image: "images/Doreen.webp",
 
     email: "doreenquarmyne1@gmail.com",
     phone: "#",
@@ -2166,7 +2166,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Youth • Education • Empowerment",
 
-    image: "images/Gideon.jpeg",
+    image: "images/Gideon.webp",
 
     email: "gideondadzie.official@gmail.com",
     phone: "0531292345",
@@ -2223,7 +2223,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Innovation • Participation • Empowerment",
 
-    image: "images/julius.jpeg",
+    image: "images/julius.webp",
 
     email: "juliusmawunyo84@gmail.com",
     phone: "0257035120",
@@ -2280,7 +2280,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Leadership • Representation • Youth Empowerment • Development",
 
-    image: "images/owusu.jpeg",
+    image: "images/owusu.webp",
 
     email: "#",
     phone: "0548833353 / 0503546312",
@@ -2338,7 +2338,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Health • Youth • Agriculture • Service",
 
-    image: "images/ndati.jpeg",
+    image: "images/ndati.webp",
 
     email: "ndatikwakufrancis@gmail.com",
     phone: "0552884254",
@@ -2395,7 +2395,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Leadership, Service and Development.",
 
-    image: "images/azenga.jpeg",
+    image: "images/azenga.webp",
 
     email: "#",
     phone: "#",
@@ -2452,7 +2452,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Health • Leadership • Youth Development",
 
-    image: "images/Rahman.jpeg",
+    image: "images/Rahman.webp",
 
     email: "rahmaninusah12@gmail.com",
     phone: "0546227426",
@@ -2509,7 +2509,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Leadership • Service • Representation",
 
-    image: "images/walker.jpeg",
+    image: "images/walker.webp",
 
     email: "Oppongeugene024@gmail.com",
     phone: "0559186282",
@@ -2566,7 +2566,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Leadership • Service • Development",
 
-    image: "images/Adams.jpeg",
+    image: "images/Adams.webp",
 
     email: "#",
     phone: "#",
@@ -2623,7 +2623,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Leadership • Service • Youth Empowerment",
 
-    image: "images/Teye.jpeg",
+    image: "images/Teye.webp",
 
     email: "joshuateye8833@gmail.com",
     phone: "0544978833 / 0557030363",
@@ -2680,7 +2680,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Leadership • Integrity • Service",
 
-    image: "images/baman.jpeg",
+    image: "images/baman.webp",
 
     email: "davera036@gmail.com",
     phone: "0257755738",
@@ -2737,7 +2737,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Education • Empowerment • Health • Participation",
 
-    image: "images/Ibrahim.jpeg",
+    image: "images/Ibrahim.webp",
 
     email: "salamatuibrahim814@gmail.com",
     phone: "0596769750",
@@ -2794,7 +2794,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "DISCIPLINE • INTEGRITY • SERVICE",
 
-    image: "images/manu.jpeg",
+    image: "images/manu.webp",
 
     email: "www.nicky2.com@gmail.com",
     phone: "0535926756",
@@ -2853,7 +2853,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Leadership • Technology • Service",
 
-    image: "images/kyei.jpeg",
+    image: "images/kyei.webp",
 
     email: "godblesskyei22@gmail.com",
     phone: "0544639305 / WhatsApp: 0200421879",
@@ -2910,7 +2910,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Youth Empowerment • Research • Service",
 
-    image: "images/asante.jpeg",
+    image: "images/asante.webp",
 
     email: "kelvinboatengasante5@gmail.com",
     phone: "0598744386",
@@ -2967,7 +2967,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Education • Empowerment • Leadership",
 
-    image: "images/Ayinzouya.jpeg",
+    image: "images/Ayinzouya.webp",
 
     email: "fidausibrahim065@gmail.com",
     phone: "0598668016",
@@ -3025,7 +3025,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Education • Empowerment • Opportunity",
 
-    image: "images/amiratu.jpeg",
+    image: "images/amiratu.webp",
 
     email: "#",
     phone: "0596189425",
@@ -3082,7 +3082,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Service • Integrity • Collaboration • Opportunity",
 
-    image: "images/Raymond.jpeg",
+    image: "images/Raymond.webp",
 
     email: "raymondboateng998@gmail.com",
     phone: "0592806129 / 0599946689",
@@ -3139,7 +3139,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Education • Entrepreneurship • Service",
 
-    image: "images/Sumaila.jpeg",
+    image: "images/Sumaila.webp",
 
     email: "#",
     phone: "#",
@@ -3196,7 +3196,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Youth Empowerment • Service • Development",
 
-    image: "images/felix.jpeg",
+    image: "images/felix.webp",
 
     email: "philipfelixotoo2006@gmail.com",
     phone: "#",
@@ -3253,7 +3253,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Innovation • Leadership • Development",
 
-    image: "images/Asare.jpeg",
+    image: "images/Asare.webp",
 
     email: "klinsmannanaasare727@gmail.com",
     phone: "0246783900 / 0509179938",
@@ -3310,7 +3310,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Empowering Youth • Transforming Communities • Building Our Future",
 
-    image: "images/Ababio.jpeg",
+    image: "images/Ababio.webp",
 
     email: "Kwartengrichard899@gmail.com",
     phone: "#",
@@ -3367,7 +3367,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Youth Representation • Leadership • Community Development",
 
-    image: "images/Affum.jpeg",
+    image: "images/Affum.webp",
 
     email: "levelsquartsin06@gmail.com",
     phone: "0544099617 / 0257640653",
@@ -3424,7 +3424,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Youth Participation • Innovation • Development",
 
-    image: "images/Godfred.jpeg",
+    image: "images/Godfred.webp",
 
     email: "godfredabban812@gmail.com",
     phone: "+233 53 398 9239",
@@ -3481,7 +3481,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Education • Leadership • Community Development",
 
-    image: "images/Davis.jpeg",
+    image: "images/Davis.webp",
 
     email: "kwamenakingsley45@gmail.com",
     phone: "+233555619889",
@@ -3538,7 +3538,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Leadership • Service • Opportunity",
 
-    image: "images/Vyas.jpeg",
+    image: "images/Vyas.webp",
 
     email: "asantevyas45@gmail.com",
     phone: "0538497794",
@@ -3596,7 +3596,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Creativity • Leadership • Youth Empowerment",
 
-    image: "images/Mohammed.jpeg",
+    image: "images/Mohammed.webp",
 
     email: "kophiosman4945@gmail.com",
     phone: "0555224945",
@@ -3653,7 +3653,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Advocacy • Service • Leadership",
 
-    image: "images/jabez.jpeg",
+    image: "images/jabez.webp",
 
     email: "#",
     phone: "025641119",
@@ -3712,7 +3712,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Empowerment • Opportunity • Participation",
 
-    image: "images/Candy.PNG",
+    image: "images/Candy.webp",
 
     email: "candyohin0@gmail.com",
     phone: "0553320183",
@@ -3769,7 +3769,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Justice • Leadership • Education",
 
-    image: "images/Konyan.jpeg",
+    image: "images/Konyan.webp",
 
     email: "konyanraphael7@gmail.com",
     phone: "#",
@@ -3828,7 +3828,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Amplifying Youth Voices, Advancing Community Development.",
 
-    image: "images/Afrifa.jpeg",
+    image: "images/Afrifa.webp",
 
     email: "afrifaabdallah@gmail.com",
     phone: "Not provided",
@@ -3885,7 +3885,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Leadership • Integrity • Service • Accountability • Youth Empowerment • Community Development",
 
-    image: "images/Tetteh.jpeg",
+    image: "images/Tetteh.webp",
 
     email: "godwint970@gmail.com",
     phone: "0247497984 / 0204628116",
@@ -3942,7 +3942,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Service • Leadership • Community Development",
 
-    image: "images/kweku.jpeg",
+    image: "images/kweku.webp",
 
     email: "atsiraymond7@gmail.com",
     phone: "0592452005 / 0554088977",
@@ -3999,7 +3999,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Leadership • Representation • Service • Community Development",
 
-    image: "images/joshua.jpeg",
+    image: "images/joshua.webp",
 
     email: "narteytettey13@gmail.com",
     phone: "0572771003",
@@ -4056,7 +4056,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Communication • Leadership • Empowerment • Service",
 
-    image: "images/konadu.jpeg",
+    image: "images/konadu.webp",
 
     email: "speaktokonadu@gmail.com",
     phone: "0242938490",
@@ -4113,7 +4113,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Youth • Service • Public Health",
 
-    image: "images/Ayesu.jpeg",
+    image: "images/Ayesu.webp",
 
     email: "ChessmanFrimpong6@gmail.com",
     phone: "0547990098",
@@ -4170,7 +4170,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Education • Employment • Youth Development",
 
-    image: "images/kyeremeh.jpeg",
+    image: "images/kyeremeh.webp",
 
     email: "aboagyekingsley58@gmail.com",
     phone: "0591646581",
@@ -4227,7 +4227,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Representation • Leadership • Service",
 
-    image: "images/Yahaya.jpeg",
+    image: "images/Yahaya.webp",
 
     email: "mahamayahayal373@gmail.com",
     phone: "0552991947",
@@ -4284,7 +4284,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Education • Leadership • Service",
 
-    image: "images/gyamesi.jpeg",
+    image: "images/gyamesi.webp",
 
     email: "gyamesinoah@gmail.com",
     phone: "0546652425 / 0539700297",
@@ -4341,7 +4341,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Service • Integrity • Unity • Inclusion",
 
-    image: "images/fomenyo.jpeg",
+    image: "images/fomenyo.webp",
 
     email: "godswayfomenyo@gmail.com",
     phone: "0540780958",
@@ -4398,7 +4398,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Leadership • Opportunity • Youth Empowerment",
 
-    image: "images/Badzi.jpeg",
+    image: "images/Badzi.webp",
 
     email: "selormbadzi@gmail.com",
     phone: "0536418966 / 0501066756",
@@ -4455,7 +4455,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Education • Service • Representation",
 
-    image: "images/Afada.jpeg",
+    image: "images/Afada.webp",
 
     email: "afadajustice@gmail.com",
     phone: "0204558000 / 0504662204 / 0551876494",
@@ -4512,7 +4512,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Excellence • Leadership • Impact",
 
-    image: "images/Ewusi.jpeg",
+    image: "images/Ewusi.webp",
 
     email: "#",
     phone: "#",
@@ -4569,7 +4569,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Innovation • Opportunity • Youth Development",
 
-    image: "images/yakubu.jpeg",
+    image: "images/yakubu.webp",
 
     email: "#",
     phone: "#",
@@ -4626,7 +4626,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Leadership • Innovation • Youth Development",
 
-    image: "images/Nasir.jpeg",
+    image: "images/Nasir.webp",
 
     email: "abdulnasirinusah241@gmail.com",
     phone: "0597362852",
@@ -4683,7 +4683,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Youth • Leadership • Development",
 
-    image: "images/bright.jpeg",
+    image: "images/bright.webp",
 
     email: "brightodoom61@gmail.com",
     phone: "0504840513",
@@ -4740,7 +4740,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Communication • Leadership • Youth Voices",
 
-    image: "images/philip.jpeg",
+    image: "images/philip.webp",
 
     email: "gyasiphilipmawufemor@gmail.com",
     phone: "0257349584",
@@ -4798,7 +4798,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Service • Leadership • Empowerment",
 
-    image: "images/yussif.jpeg",
+    image: "images/yussif.webp",
 
     email: "abdulaiy755@gmail.com",
     phone: "0547196666",
@@ -4855,7 +4855,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Empowerment • Leadership • Development",
 
-    image: "images/Rubabatu.jpeg",
+    image: "images/Rubabatu.webp",
 
     email: "bazubayira.rubabatu.ypg@gmail.com",
     phone: "0539695194",
@@ -4912,7 +4912,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Technology • Leadership • Empowerment",
 
-    image: "images/naziru.jpeg",
+    image: "images/naziru.webp",
 
     email: "naziralhassan751@gmail.com",
     phone: "0247268473",
@@ -4971,7 +4971,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Technology • Leadership • Impact",
 
-    image: "images/prof1.jpeg",
+    image: "images/prof1.webp",
 
     email: "agyemangkwamep@gmail.com",
     phone: "0268705994",
@@ -5028,7 +5028,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Technology • Innovation • Youth Empowerment",
 
-    image: "images/bortei.jpeg",
+    image: "images/bortei.webp",
 
     email: "officialkingbee2@gmail.com",
     phone: "0599598288",
@@ -5085,7 +5085,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Agriculture • Youth Empowerment • Community Service",
 
-    image: "images/elisha.jpeg",
+    image: "images/elisha.webp",
 
     email: "elishaowusu484@gmail.com",
     phone: "+233 240 53 1429",
@@ -5142,7 +5142,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Education • Accountability • Responsible Leadership",
 
-    image: "images/brown.jpeg",
+    image: "images/brown.webp",
 
     email: "Baahbrownsolomon956@gmail.com",
     phone: "0557654820",
@@ -5199,7 +5199,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Youth Advocacy • Equality • Innovation",
 
-    image: "images/baaba.jpeg",
+    image: "images/baaba.webp",
 
     email: "hammahzoelynn1@gmail.com",
     phone: "050 326 2702",
@@ -5256,7 +5256,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Youth Development • Empowerment • Community Service",
 
-    image: "images/rashid.jpeg",
+    image: "images/rashid.webp",
 
     email: "rashidnajilaw@gmail.com",
     phone: "0591907869",
@@ -5313,7 +5313,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "STEM • Leadership • Opportunity",
 
-    image: "images/shakur.jpeg",
+    image: "images/shakur.webp",
 
     email: "ishaku356@gmail.com",
     phone: "0592215381",
@@ -5371,7 +5371,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Service • Integrity • Responsible Leadership",
 
-    image: "images/Ali.jpeg",
+    image: "images/Ali.webp",
 
     email: "aligodfredwunsunma@gmail.com",
     phone: "0594426871",
@@ -5428,7 +5428,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Leadership • Advocacy • Meaningful Impact",
 
-    image: "images/jawhara.jpeg",
+    image: "images/jawhara.webp",
 
     email: "jawharaalhassan0@gmail.com",
     phone: "0556091769",
@@ -5485,7 +5485,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Promoting quality education, youth empowerment and inclusive governance.",
 
-    image: "images/ROSEMARY.jpeg",
+    image: "images/ROSEMARY.webp",
 
     email: "#",
     phone: "#",
@@ -5543,7 +5543,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Technology, leadership and service for meaningful solutions.",
 
-    image: "images/DOSSAH.jpeg",
+    image: "images/DOSSAH.webp",
 
     email: "jyfdossah6@gmail.com",
     phone: "+233534094403",
@@ -5602,7 +5602,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Leadership, innovation and service for youth development.",
 
-    image: "images/FENYI.jpeg",
+    image: "images/FENYI.webp",
 
     email: "#",
     phone: "#",
@@ -5659,7 +5659,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "ACCOUNTABLE TO YOU. DRIVEN BY SERVICE.",
 
-    image: "images/QUAYE.jpeg",
+    image: "images/QUAYE.webp",
 
     email: "quayeabdulrahman@gmail.com",
     phone: "0570552377",
@@ -5717,7 +5717,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Servant leadership, youth empowerment and community transformation.",
 
-    image: "images/NARH.jpeg",
+    image: "images/NARH.webp",
 
     email: "amonijoshua075@gmail.com",
     phone: "0591313254",
@@ -5775,7 +5775,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Youth development, leadership and national transformation.",
 
-    image: "images/badu.jpeg",
+    image: "images/badu.webp",
 
     email: "winfulbrightblay@gmail.com",
     phone: "0558709291",
@@ -5833,7 +5833,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Strengthening youth representation, communication and grassroots participation.",
 
-    image: "images/Anyane.jpeg",
+    image: "images/Anyane.webp",
 
     email: "samuelayebeng1@gmail.com",
     phone: "0501729271",
@@ -5890,7 +5890,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Youth empowerment, leadership and community development.",
 
-    image: "images/elikem.jpeg",
+    image: "images/elikem.webp",
 
     email: "Paulelikem711@gmail.com",
     phone: "+233597022392",
@@ -5947,7 +5947,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Leadership, teamwork and service for youth development.",
 
-    image: "images/fosu.jpeg",
+    image: "images/fosu.webp",
 
     email: "ntoridaniel280@gmail.com",
     phone: "0257117479",
@@ -6004,7 +6004,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Youth leadership, representation and community development.",
 
-    image: "images/mapiin.jpeg",
+    image: "images/mapiin.webp",
 
     email: "greattimo89@gmail.com",
     phone: "0531486438",
@@ -6061,7 +6061,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Listening, connecting and building together.",
 
-    image: "images/ntim.jpeg",
+    image: "images/ntim.webp",
 
     email: "ndperpetual7@gmail.com",
     phone: "0555110264",
@@ -6097,7 +6097,7 @@ parliament: "Youth Parliament Ghana",
     seminars:
         "SHE LEADS Summit '24 — Certificate of Participation — 11th Oct 2024; Okponglo Community Health Screening 2024 — Volunteer Health Screener & Health Educator; Accra Arts & Health Festival 2026 — Academic Symposium.",
 
-    image: "images/adam.jpeg",
+    image: "images/adam.webp",
 
     email: "yahayaadam.5623@gmail.com",
     phone: "0547055893 / 0200114401",
@@ -6154,7 +6154,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Empowering the youth through collaboration, accountability and real results.",
 
-    image: "images/boadu.jpeg",
+    image: "images/boadu.webp",
 
     email: "bismarkboadu01@gmail.com",
     phone: "0532909722 / 056019464",
@@ -6211,7 +6211,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Empowering youth through knowledge, leadership and technical excellence.",
 
-    image: "images/ngmenbaraa.jpeg",
+    image: "images/ngmenbaraa.webp",
 
     email: "ngmenbaraaj@gmail.com",
     phone: "#",
@@ -6268,7 +6268,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Empowering youth through technology, leadership and meaningful representation.",
 
-    image: "images/nathan.jpeg",
+    image: "images/nathan.webp",
 
     email: "nathandankwah05@gmail.com",
     phone: "0204081704",
@@ -6325,7 +6325,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Service, integrity and empowerment for meaningful youth representation.",
 
-    image: "images/audrey.jpeg",
+    image: "images/audrey.webp",
 
     email: "officeoftheyouthmpsekondi@gmail.com",
     phone: "0502847667",
@@ -6382,7 +6382,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Serving with care, leadership and commitment to youth development.",
 
-    image: "images/Dede.jpeg",
+    image: "images/Dede.webp",
 
     email: "Paditey.bertha2020@gmail.com",
     phone: "0242408903",
@@ -6439,7 +6439,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Education, innovation, technical skills and youth participation for a stronger future.",
 
-    image: "images/opuni.jpeg",
+    image: "images/opuni.webp",
 
     email: "opunigeorge2006@gmail.com",
     phone: "0257152286 / 0509811728",
@@ -6496,7 +6496,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Empowering young people to be heard, informed and involved.",
 
-    image: "images/antwi.jpeg",
+    image: "images/antwi.webp",
 
     email: "antwi4084@gmail.com",
     phone: "0541540896",
@@ -6553,7 +6553,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Empowering young people and creating positive change in our communities.",
 
-    image: "images/lydia.jpeg",
+    image: "images/lydia.webp",
 
     email: "Lydianketiamarfo2005@gmail.com",
     phone: "0257582715",
@@ -6609,7 +6609,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Listening, learning and creating opportunities for the youth of Kwadaso.",
 
-    image: "images/bismark.jpeg",
+    image: "images/bismark.webp",
 
     email: "bismarkowusu2807@gmail.com",
     phone: "0552361281",
@@ -6666,7 +6666,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Professional competence, accountability and responsible financial leadership.",
 
-    image: "images/spencer.jpeg",
+    image: "images/spencer.webp",
 
     email: "spen.abdulfatawodoom@gmail.com",
     phone: "0535995443",
@@ -6723,7 +6723,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "From speeches to school compounds; from youth asking alone to youth working with authority.",
 
-    image: "images/chintoh.jpeg",
+    image: "images/chintoh.webp",
 
     email: "chintohfrancisharry@gmail.com",
     phone: "0257765048 / 0508930314",
@@ -6780,7 +6780,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Empowering young people, strengthening communities and connecting youth with opportunities.",
 
-    image: "images/otoo.jpeg",
+    image: "images/otoo.webp",
 
     email: "Kotoosamuel047@gmail.com",
     phone: "0545587907",
@@ -6837,7 +6837,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Leadership, service and education for a healthier and stronger community.",
 
-    image: "images/DUAGIB.jpeg",
+    image: "images/DUAGIB.webp",
 
     email: "adrass842@gmail.com",
     phone: "+233 59 785 7688",
@@ -6894,7 +6894,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Leadership, service and representation for the advancement of Chereponi youth.",
 
-    image: "images/jamal-frinjei-sulemana.jpeg",
+    image: "images/jamal-frinjei-sulemana.webp",
 
     email: "sulemanajamal5@gmail.com",
     phone: "0542278351",
@@ -6951,7 +6951,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Leadership, representation and service for a stronger community.",
 
-    image: "images/eva.jpeg",
+    image: "images/eva.webp",
 
     email: "evvaboateng@gmail.com",
     phone: "0543010168",
@@ -7008,7 +7008,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Education, practical skills and opportunities for empowered young people.",
 
-    image: "images/akwasi.jpeg",
+    image: "images/akwasi.webp",
 
     email: "quansah.akwasiaq@gmail.com",
     phone: "0532930430",
@@ -7065,7 +7065,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Education, scientific research and responsible leadership for meaningful community development.",
 
-    image: "images/osarfo.jpeg",
+    image: "images/osarfo.webp",
 
     email: "osarfoenock872@gmail.com",
     phone: "0546481407",
@@ -7122,7 +7122,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Science, education and effective leadership for youth development and national progress.",
 
-    image: "images/yeboah.jpeg",
+    image: "images/yeboah.webp",
 
     email: "emmanuel.yeboah014@stu.ucc.edu.gh",
     phone: "+233557609423",
@@ -7179,7 +7179,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Empowering young people through education, leadership, skills and purposeful service.",
 
-    image: "images/demas-abugri.jpeg",
+    image: "images/demas-abugri.webp",
 
     email: "demabugri@gmail.com",
     phone: "0593399323",
@@ -7237,7 +7237,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Service, integrity, accountability and meaningful impact.",
 
-    image: "images/michael-nyamekye.jpeg",
+    image: "images/michael-nyamekye.webp",
 
     email: "michaelnyamekye421@gmail.com",
     phone: "0556283132",
@@ -7294,7 +7294,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Leadership is measured by the lives we touch, the opportunities we create and the people we lift.",
 
-    image: "images/lord.jpeg",
+    image: "images/lord.webp",
 
     email: "#",
     phone: "#",
@@ -7337,7 +7337,7 @@ parliament: "Youth Parliament Ghana",
         "Local governance, youth empowerment, economic development, community development, digital skills, public health and youth representation.",
     slogan:
         "Youth empowerment, community development and responsible leadership.",
-    image: "images/hawawu.jpeg",
+    image: "images/hawawu.webp",
     email: "saeedhawawu@gmail.com",
     phone: "0541652506 / 0501598398",
     website: "#",
@@ -7391,7 +7391,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Empowering youth through leadership, health, education and opportunity.",
 
-    image: "images/mandy.jpeg",
+    image: "images/mandy.webp",
 
     email: "marthamandy2005@icloud.com",
     phone: "0539920227",
@@ -7449,7 +7449,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Empowering youth through digital skills, cybersecurity and responsible leadership.",
 
-    image: "images/asira.jpeg",
+    image: "images/asira.webp",
 
     email: "asirajoseph4@gmail.com",
     phone: "+233536764848",
@@ -7481,7 +7481,7 @@ parliament: "Youth Parliament Ghana",
     professionalExperience: "National service personnel.",
     focusAreas: "Youth empowerment, policy engagement, grassroots development, and community participation.",
     slogan: "Dedicated to amplifying young voices, driving policy engagement, and championing grassroots development.",
-    image: "images/bonsu.jpeg",
+    image: "images/bonsu.webp",
     email: "ernestbonsu239@gmail.com",
     phone: "0246407987",
     website: "#",
@@ -7526,7 +7526,7 @@ parliament: "Youth Parliament Ghana",
 
     slogan: "Dedicated to effective youth representation, leadership development, and community service.",
 
-    image: "images/james1.jpeg",
+    image: "images/james1.webp",
 
     email: "jamesoduronhyiraba@icloud.com",
 
@@ -7579,7 +7579,7 @@ parliament: "Youth Parliament Ghana",
 
     slogan: "Committed to representation, accountability, financial responsibility, and service.",
 
-    image: "images/edem.jpeg",
+    image: "images/edem.webp",
 
     email: "Charleswodome@gmail.com / wodomeedemcharles@gmail.com",
 
@@ -7638,7 +7638,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Amplifying youth voices through leadership, participation and practical solutions.",
 
-    image: "images/abdul-rahman.jpeg",
+    image: "images/abdul-rahman.webp",
 
     email: "acreyard6@gmail.com",
     phone: "0547007296",
@@ -7695,7 +7695,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Youth Leadership • Service • Community Development",
 
-    image: "images/gruba.jpeg",
+    image: "images/gruba.webp",
 
     email: "DavidIngruba68@gmail.com",
     phone: "0533359280",
@@ -7752,7 +7752,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Empowering Youth, Promoting Accountability, Building Communities.",
 
-    image: "images/peaceful.jpeg",
+    image: "images/peaceful.webp",
 
     email: "shadrackpeacefulbaidoo@gmail.com",
     phone: "0535997482 / 0534530135",
@@ -7809,7 +7809,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Youth Leadership • Service • Representation",
 
-    image: "images/Ampomah.jpeg",
+    image: "images/Ampomah.webp",
 
     email: "ampomahe31@gmail.com",
     phone: "0241665147",
@@ -7866,7 +7866,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Leadership • Sustainability • Service",
 
-    image: "images/osantey-kingsbel-bless.jpeg",
+    image: "images/osantey-kingsbel-bless.webp",
 
     email: "djheaven1234@gmail.com",
     phone: "0531894184",
@@ -7923,7 +7923,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Leadership Through Service, Innovation and Opportunity.",
 
-    image: "images/MBA.jpeg",
+    image: "images/MBA.webp",
 
     email: "mbaeric515@gmail.com",
     phone: "0554564865",
@@ -7980,7 +7980,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Inclusive leadership, empowered youth and active citizenship",
 
-    image: "images/justine-boogu-nyoo-tanibe.jpeg",
+    image: "images/justine-boogu-nyoo-tanibe.webp",
 
     email: "justinebtanibe777@gmail.com",
     phone: "0552479359",
@@ -8036,7 +8036,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Law, leadership and responsible youth representation",
 
-    image: "images/john.jpeg",
+    image: "images/john.webp",
 
     email: "johnowusumensah32@gmail.com",
     phone: "0597466067",
@@ -8092,7 +8092,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Learn. Lead. Serve. Create Change.",
 
-    image: "images/akanzige.jpeg",
+    image: "images/akanzige.webp",
 
     email: "akanzigetangajoshua@gmail.com",
     phone: "0544546153",
@@ -8149,7 +8149,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Empowering Youth. Building Communities.",
 
-    image: "images/haruna.jpeg",
+    image: "images/haruna.webp",
 
     email: "acheampongharuna25@gmail.com",
     phone: "0557102719 / 0206708774",
@@ -8206,7 +8206,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Leadership to Serve. Courage to Represent. Humility to Learn.",
 
-    image: "images/monica.jpeg",
+    image: "images/monica.webp",
 
     email: "amabeamoni1@gmail.com",
     phone: "0552238050",
@@ -8249,7 +8249,7 @@ parliament: "Youth Parliament Ghana",
         "Healthcare, youth empowerment, health awareness, social support and community development.",
     slogan:
         "Service, leadership and youth development.",
-    image: "images/amankwah.jpeg",
+    image: "images/amankwah.webp",
     email: "amankwahphidaux@gmail.com",
     phone: "0248909983",
     website: "#",
@@ -8289,7 +8289,7 @@ parliament: "Youth Parliament Ghana",
         "Youth participation, youth development, community advancement, student welfare, advocacy and responsible citizenship.",
     slogan:
         "Accessibility, service, unity and accountability.",
-    image: "images/abdullah.jpeg",
+    image: "images/abdullah.webp",
     email: "hon.AbdullahBanda@gmail.com",
     phone: "0548695885",
     website: "#",
@@ -8329,7 +8329,7 @@ parliament: "Youth Parliament Ghana",
         "Youth development, communication, social change, student advocacy, media and community engagement.",
     slogan:
         "Communication for social change and youth development.",
-    image: "images/albert.jpeg",
+    image: "images/albert.webp",
     email: "ayorekoalbert434@gmail.com",
     phone: "0241955904",
     website: "#",
@@ -8384,7 +8384,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Leadership, partnerships and opportunity for youth development.",
 
-    image: "images/nana.jpeg",
+    image: "images/nana.webp",
     email: "qhwantygh@gmail.com",
     phone: "+233 25 645 5880",
     website: "#",
@@ -8439,7 +8439,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Youth leadership, representation and service.",
 
-    image: "images/rilwaanu.jpeg",
+    image: "images/rilwaanu.webp",
     email: "abdulairilwaanu@gmail.com",
     phone: "0247540006",
     website: "#",
@@ -8493,7 +8493,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Leadership, service and youth development.",
 
-    image: "images/buadu.jpeg",
+    image: "images/buadu.webp",
 
     email: "#",
     phone: "0594418799",
@@ -8548,7 +8548,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Integrity, unity and inclusive leadership.",
 
-    image: "images/alexander.jpeg",
+    image: "images/alexander.webp",
 
     email: "alexanderamankwah119gmail.com",
     phone: "0551748776",
@@ -8603,7 +8603,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Financial literacy, responsible leadership and youth empowerment.",
 
-    image: "images/mubarak.jpeg",
+    image: "images/mubarak.webp",
 
     email: "pphrince@gmail.com",
     phone: "0533256383",
@@ -8658,7 +8658,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Leadership, service and agricultural development.",
 
-    image: "images/nsiah.jpeg",
+    image: "images/nsiah.webp",
 
     email: "nsiahkofirockson963@gmail.com",
     phone: "0535444913",
@@ -8713,7 +8713,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Empowering young people, strengthening communities, serving with purpose.",
 
-    image: "images/kyeremeh-emmanuel.jpeg",
+    image: "images/kyeremeh-emmanuel.webp",
 
     email: "kyeremehfuture680@gmail.com",
     phone: "0556656266",
@@ -8768,7 +8768,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Growth, unity and real impact.",
 
-    image: "images/jonathan.jpeg",
+    image: "images/jonathan.webp",
 
     email: "agbekejonathan0@gmail.com",
     phone: "0531761424",
@@ -8824,7 +8824,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Leadership, impact and service.",
 
-    image: "images/sanguru-richmond-nagmesoma.jpeg",
+    image: "images/sanguru-richmond-nagmesoma.webp",
 
     email: "richmondssanguru@gmail.com",
     phone: "0245425159",
@@ -8879,7 +8879,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Education, leadership and community development.",
 
-    image: "images/mathias-atadena-anyoka.jpeg",
+    image: "images/mathias-atadena-anyoka.webp",
 
     email: "mathiasatadena4@gmail.com",
     phone: "0243867665",
@@ -8934,7 +8934,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Leadership, education and service for development.",
 
-    image: "images/twum.jpeg",
+    image: "images/twum.webp",
 
     email: "benjamintwum979@gmail.com",
     phone: "0544846844",
@@ -8989,7 +8989,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Service, leadership and youth empowerment.",
 
-    image: "images/ofosuhene.jpeg",
+    image: "images/ofosuhene.webp",
 
     email: "ofosuhenejoshua781@gmail.com",
     phone: "0598098115",
@@ -9044,7 +9044,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Servant leadership, education and opportunity.",
 
-    image: "images/richard.jpeg",
+    image: "images/richard.webp",
 
     email: "hon.asanterichard.mpraeso@gmail.com",
     phone: "0553688914",
@@ -9099,7 +9099,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Inclusive leadership, teamwork and youth development.",
 
-    image: "images/grace.jpeg",
+    image: "images/grace.webp",
 
     email: "patienceackah555@gmail.com",
     phone: "0502091894 / 0598424834",
@@ -9155,7 +9155,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Empowering youth through knowledge, leadership and service.",
 
-    image: "images/teye1.jpeg",
+    image: "images/teye1.webp",
 
     email: "Mensahlawerteyed@gmail.com / dmensahlawerteye@gmail.com",
     phone: "0545258473",
@@ -9210,7 +9210,7 @@ parliament: "Youth Parliament Ghana",
     slogan:
         "Teamwork, honesty and responsible leadership.",
 
-    image: "images/amarteifio.jpeg",
+    image: "images/amarteifio.webp",
 
     email: "jonathanamarteifio17@gmail.com",
     phone: "0591556638",
@@ -9253,7 +9253,7 @@ parliament: "Youth Parliament Ghana",
     
     slogan: "Leadership, advocacy and student development.",
     
-    image: "images/quar-sam.jpeg",
+    image: "images/quar-sam.webp",
     
     email: "justusjecius@gmail.com",
     phone: "+233509180005 / 0595760986",
@@ -9297,7 +9297,7 @@ parliament: "Youth Parliament Ghana",
 
     slogan: "Youth leadership, representation and development.",
 
-    image: "images/special.jpeg",
+    image: "images/special.webp",
 
     email: "blessingseshie03@gmail.com",
     phone: "0536972341 / 0548697635",
@@ -9341,7 +9341,7 @@ parliament: "Youth Parliament Ghana",
 
     slogan: "Accountability, responsible leadership and practical solutions.",
 
-    image: "images/senyasu.jpeg",
+    image: "images/senyasu.webp",
 
     email: "senyasu400@gmail.com",
     phone: "0257173153",
@@ -9385,7 +9385,7 @@ parliament: "Youth Parliament Ghana",
 
     slogan: "Nation building is driven by the grooming of the youth and must start now.",
 
-    image: "images/enock.jpeg",
+    image: "images/enock.webp",
 
     email: "enocktabol0@gmail.com",
     phone: "0592727890 / 0257083779",
@@ -9429,7 +9429,7 @@ parliament: "Youth Parliament Ghana",
 
     slogan: "Leadership is responsibility, representation and service.",
 
-    image: "images/vicent.jpeg",
+    image: "images/vicent.webp",
 
     email: "kekelivince@gmail.com",
     phone: "0536846663",
@@ -9473,7 +9473,7 @@ parliament: "Youth Parliament Ghana",
 
     slogan: "Service, accountability, teamwork and meaningful representation.",
 
-    image: "images/luckmanul.jpeg",
+    image: "images/luckmanul.webp",
 
     email: "musahlukcman@gmail.com",
     phone: "0594331905",
@@ -9517,7 +9517,7 @@ parliament: "Youth Parliament Ghana",
 
     slogan: "#",
 
-    image: "images/jessica.jpeg",
+    image: "images/jessica.webp",
 
     email: "boakyejessica067@gmail.com",
     phone: "0544522906",
@@ -9561,7 +9561,7 @@ parliament: "Youth Parliament Ghana",
 
     slogan: "#",
 
-    image: "images/adamu.jpeg",
+    image: "images/adamu.webp",
 
     email: "#",
     phone: "0592471943",
@@ -9605,7 +9605,7 @@ parliament: "Youth Parliament Ghana",
 
     slogan: "Technology, creativity and service.",
 
-    image: "images/profericus2.png",
+    image: "images/profericus2.webp",
 
     email: "1700148287@live.gctu.edu.gh",
     phone: "0542044490",
@@ -9649,7 +9649,7 @@ parliament: "Youth Parliament Ghana",
 
     slogan: "Connecting young people to leadership and opportunities.",
 
-    image: "images/elton1.jpeg",
+    image: "images/elton1.webp",
 
     email: "eltonarthur100@gmail.com",
     phone: "0531845897",
@@ -9693,7 +9693,7 @@ parliament: "Youth Parliament Ghana",
 
     slogan: "Youth empowerment through entrepreneurship, skills and inclusive development.",
 
-    image: "images/ajaab.jpeg",
+    image: "images/ajaab.webp",
 
     email: "#",
     phone: "0205977723",
@@ -9724,7 +9724,7 @@ parliament: "Youth Parliament Ghana",
     professionalExperience: "Construction project management, cost estimation, contract administration, budget forecasting, tendering, value engineering, quality control and regulatory compliance.",
     focusAreas: "Youth development, infrastructure development, construction management, entrepreneurship, skills development, community development and effective governance.",
     slogan: "Building opportunities, empowering youth and advancing development.",
-    image: "images/gafaru.jpeg",
+    image: "images/gafaru.webp",
     email: "gafarunibrass589@gmail.com",
     phone: "+233541534393",
     website: "#",
@@ -9754,7 +9754,7 @@ parliament: "Youth Parliament Ghana",
     professionalExperience: "National Service Personnel at the Judicial Service of Ghana, Nkawie Circuit Court; court administration; student parliamentary administration; clerical duties; legal and constitutional affairs; student welfare and organisational coordination.",
     focusAreas: "Youth empowerment, civic engagement, justice, equality, legal affairs, constitutional governance, women's rights, children's welfare, minority rights and community development.",
     slogan: "Justice, equality and a voice for every young person.",
-    image: "images/ellen-nyantakyi.jpeg",
+    image: "images/ellen-nyantakyi.webp",
     email: "ellennyantakyi202020@gmail.com",
     phone: "0595742101",
     website: "#",
@@ -9784,7 +9784,7 @@ parliament: "Youth Parliament Ghana",
     professionalExperience: "Communication design, visual storytelling, strategic design, organisational administration, team collaboration, media communication and event volunteering.",
     focusAreas: "Youth empowerment, communication design, visual storytelling, strategic communication, civic responsibility, creative development, public service and community engagement.",
     slogan: "Creative vision, purposeful communication and empowered youth.",
-    image: "images/nana-adjoa-serwaa-boatemaa.jpeg",
+    image: "images/nana-adjoa-serwaa-boatemaa.webp",
     email: "#",
     phone: "0592299927",
     website: "#",
@@ -9814,7 +9814,7 @@ parliament: "Youth Parliament Ghana",
     professionalExperience: "Pharmacy studies and youth leadership. Professional pharmacy practice experience has not been provided.",
     focusAreas: "Youth empowerment, education, road infrastructure, good governance, leadership development, community participation, and responsible citizenship.",
     slogan: "Empowering the Youth, Strengthening Leadership, and Building a Better Saboba.",
-    image: "images/abraham-bigrini.jpeg",
+    image: "images/abraham-bigrini.webp",
     email: "bigriniabraham013@gmail.com",
     phone: "0546274826",
     website: "#",
@@ -9844,7 +9844,7 @@ parliament: "Youth Parliament Ghana",
     professionalExperience: "National Service Nutrition Officer, Ghana Health Service, Karaga District Hospital (2021/2022); Volunteer Staff, Child Welfare Clinic, Karaga District Hospital (2021); Field Officer, GABS Research Consult (2024); Field Officer, Strategic Communication (2024); Field Supervisor, Ghana National Household Registry (2020).",
     focusAreas: "Youth empowerment, maternal and child health, community nutrition, mental health research, education, peacebuilding, public health awareness, and community development.",
     slogan: "Empowering Youth, Promoting Health, and Building a Better Karaga.",
-    image: "images/abdul-wahab.jpeg",
+    image: "images/abdul-wahab.webp",
     email: "yussifabdulwahab884@gmail.com",
     phone: "0248732318 / 0504070921",
     website: "#",
@@ -9874,7 +9874,7 @@ parliament: "Youth Parliament Ghana",
     professionalExperience: "Student at the University for Development Studies with previous experience as an organizer.",
     focusAreas: "Youth empowerment, education, student leadership, community development, and food systems.",
     slogan: "Empowering Youth Through Leadership and Service.",
-    image: "images/abdulai-rahina.jpeg",
+    image: "images/abdulai-rahina.webp",
     email: "abdulairahina69@gmail.com",
     phone: "0594782651",
     website: "#",
@@ -9904,7 +9904,7 @@ parliament: "Youth Parliament Ghana",
     professionalExperience: "Student and youth leader with experience in student association leadership.",
     focusAreas: "Youth empowerment, leadership development, community development, youth participation in governance, and education.",
     slogan: "Empowering the Youth. Inspiring Leadership. Transforming Communities.",
-    image: "images/obeng-yeboah-blessing.jpeg",
+    image: "images/obeng-yeboah-blessing.webp",
     email: "obengbless67@gmail.com",
     phone: "0553185125",
     website: "#",
@@ -9934,7 +9934,7 @@ parliament: "Youth Parliament Ghana",
     professionalExperience: "Nursing graduate with experience in student leadership, association administration, project coordination, and healthcare advocacy.",
     focusAreas: "Healthcare development, youth empowerment, community service, education, responsible leadership, public health advocacy, and youth participation in governance.",
     slogan: "Empowering Youth, Advancing Healthcare, and Serving Communities.",
-    image: "images/emmanuel-ahenful.jpeg",
+    image: "images/emmanuel-ahenful.webp",
     email: "ahenfulemmanuel6@gmail.com",
     phone: "0596545291",
     website: "#",
@@ -9964,7 +9964,7 @@ parliament: "Youth Parliament Ghana",
     professionalExperience: "Student and youth advocate with experience in student leadership and campus governance.",
     focusAreas: "Youth empowerment, governance, accountability, inclusive leadership, education, community development, and youth participation in decision-making.",
     slogan: "Empowering Youth Through Inclusive Leadership and Community Development.",
-    image: "images/boabeng-amos-kofi-braye.jpeg",
+    image: "images/boabeng-amos-kofi-braye.webp",
     email: "amosboabemg53@gmail.com",
     phone: "0530028253",
     website: "#",
@@ -9994,7 +9994,7 @@ parliament: "Youth Parliament Ghana",
     professionalExperience: "Experience in accounting, operational coordination, electoral field management, resource oversight, grassroots organization, stakeholder communication, and community mobilization.",
     focusAreas: "Youth employment, youth empowerment, leadership development, grassroots mobilization, electoral organization, financial oversight, strategic communication, participatory governance, and community development.",
     slogan: "People, Empowerment, Unity, Opportunity, Service.",
-    image: "images/yabdow-mohammed.jpeg",
+    image: "images/yabdow-mohammed.webp",
     email: "#",
     phone: "#",
     website: "#",
@@ -10024,7 +10024,7 @@ parliament: "Youth Parliament Ghana",
     professionalExperience: "Law student with experience in student leadership, parliamentary administration, and student representation.",
     focusAreas: "Youth empowerment, education, student leadership, civic participation, law, governance, and community development.",
     slogan: "Empowering Youth Through Education, Leadership, and Service.",
-    image: "images/laana-shuruta-domilahadia.jpeg",
+    image: "images/laana-shuruta-domilahadia.webp",
     email: "shurutalaana3@gmail.com",
     phone: "0536419070",
     website: "#",
@@ -10055,7 +10055,7 @@ parliament: "Youth Parliament Ghana",
     professionalExperience: "Supervisor at Enoa Natural Mineral Water, Kenyasi-Abirem.",
     focusAreas: "Youth Representation, Student Leadership, Human Resource Management, Social Networking and Youth Development",
     slogan: "Responsible Leadership, Meaningful Representation",
-    image: "images/thomas-sekyere-owusu.jpeg",
+    image: "images/thomas-sekyere-owusu.webp",
     email: "thomas1owusu7@gmail.com",
     phone: "0550944995",
     website: "#",
@@ -10085,7 +10085,7 @@ parliament: "Youth Parliament Ghana",
     professionalExperience: "Teaching and Research Assistant at the University for Development Studies; practical training at the Navrongo Health Research Centre; research experience in biotechnology and molecular biology; software development trainee under the Precision Quality Internship program.",
     focusAreas: "Youth Development, Education, Science and Technology, Bioinformatics, Genomics, Research, Mentorship, Volunteerism and Student Leadership",
     slogan: "Bridging Knowledge and Opportunity",
-    image: "images/emmanuel-apodi.jpeg",
+    image: "images/emmanuel-apodi.webp",
     email: "apodiemmanuel335@gmail.com",
     phone: "0241253551",
     website: "#",
@@ -10115,7 +10115,7 @@ parliament: "Youth Parliament Ghana",
     professionalExperience: "Student leadership, student welfare representation, committee service, stakeholder engagement and campus development initiatives.",
     focusAreas: "Youth Empowerment, Accountable Leadership, Good Governance, Student Welfare, Community Service, Civic Participation and National Development",
     slogan: "Impact, Not Position",
-    image: "images/kofi.jpeg",
+    image: "images/kofi.webp",
     email: "jesseykofiadams07@gmail.com",
     phone: "0591602714",
     website: "#",
@@ -10145,7 +10145,7 @@ parliament: "Youth Parliament Ghana",
     professionalExperience: "Student leadership and student welfare advocacy through the UDS SRC Presidency; public speaking, emceeing, chairing occasions, judging programmes, cultural engagements and community service.",
     focusAreas: "Youth Empowerment, Student Welfare, Inclusive Leadership, Education, Nursing, Student Advocacy, Public Speaking, Cultural Representation and Community Service",
     slogan: "Inclusive Leadership, Empowered Youth, Meaningful Service",
-    image: "images/umar-maryam-boresa.jpeg",
+    image: "images/umar-maryam-boresa.webp",
     email: "mariamumar728@gmail.com",
     phone: "0240854000",
     website: "#",
@@ -10175,7 +10175,7 @@ parliament: "Youth Parliament Ghana",
     professionalExperience: "Student leadership, community participation, parliamentary service and internship-related coordination.",
     focusAreas: "Youth Representation, Education, Government, Student Leadership, Community Development, Internships and Sponsorship Opportunities",
     slogan: "Youth Representation, Education and Opportunity",
-    image: "images/nicholas-adjei-boateng.jpeg",
+    image: "images/nicholas-adjei-boateng.webp",
     email: "adjein182@gmail.com",
     phone: "0598123343",
     website: "#",
@@ -10205,7 +10205,7 @@ parliament: "Youth Parliament Ghana",
     professionalExperience: "Audit Service, DIA UCC; Financial Assistant, SMS Account Office, University of Cape Coast; Teaching Assistant, University of Cape Coast; Finance Committee Head, GUSSS Hall Parliament; Welfare Chairperson, GUSSS Hall; General Secretary, ICAG Student Association, UCC Chapter; Finance Secretary, CCCM UCC.",
     focusAreas: "Accounting, Auditing, Financial Management, Public-Sector Accountability, Integrity, Transparency, Youth Empowerment, Student Welfare and Institutional Development",
     slogan: "Leadership Is Stewardship",
-    image: "images/ebenezer.jpeg",
+    image: "images/ebenezer.webp",
     email: "ebenezer.baah005@gmail.com",
     phone: "0555087595 / 0551786898",
     website: "#",
@@ -10235,7 +10235,7 @@ parliament: "Youth Parliament Ghana",
     professionalExperience: "Student leadership, school welfare support, IT coordination, STEM engagement and student representation.",
     focusAreas: "Education, STEM Development, Aerospace Engineering, Youth Representation, Student Welfare, Civic Participation and Technology",
     slogan: "Empowering Youth Through Education and STEM",
-    image: "images/davis-oduoku-quansah.jpeg",
+    image: "images/davis-oduoku-quansah.webp",
     email: "Davisquansah91@gmail.com",
     phone: "0559316580",
     website: "#",
@@ -10265,7 +10265,7 @@ parliament: "Youth Parliament Ghana",
     professionalExperience: "Author and Researcher developing three interdisciplinary manuscripts; Principal Systems Architect and Lead Developer for Agri-Sentio and AgricPioneers technology initiatives; Agricultural Operations Manager; aspiring AI/ML Data Architect and Software Engineer.",
     focusAreas: "Youth Empowerment, Artificial Intelligence, Machine Learning, Data Architecture, Software Engineering, Statistics, Quantitative Analysis, Agricultural Technology, Digital Transformation, Education, Research, Sustainable Agriculture and Community Development",
     slogan: "Data-Driven Innovation, Empowered Youth, Sustainable Development",
-    image: "images/mateiyendou-kombat.jpeg",
+    image: "images/mateiyendou-kombat.webp",
     email: "Mateiyendoukombat@gmail.com",
     phone: "+233 55 566 7047",
     website: "#",
@@ -10295,7 +10295,7 @@ parliament: "Youth Parliament Ghana",
     professionalExperience: "Senior Staff Member at Medem Feli Enterprise, Kasoa, Opeikuma Junction, 2021–2026; Student Teacher undertaking a teaching internship; ICT Education Student at the University of Education, Winneba.",
     focusAreas: "Youth Empowerment, Education, Information and Communication Technology, Skills Development, Employment Opportunities, Community Development, Youth Participation in Governance, Accountability, Transparency, Community Infrastructure and Responsible Leadership",
     slogan: "Leadership • Accountability • Youth Empowerment • Community Development",
-    image: "images/salifu-issaka.png",
+    image: "images/salifu-issaka.webp",
     email: "salifu192@gmail.com",
     phone: "0555801481",
     website: "#",
@@ -10325,7 +10325,7 @@ parliament: "Youth Parliament Ghana",
     professionalExperience: "Physician Assistant Student undertaking clinical clerkship at the University of Cape Coast School of Medical Sciences; student research and needs assessment activities; participation in community health outreach, health education and academic programmes.",
     focusAreas: "Youth Leadership, Healthcare, Paediatrics and Child Health, Public Health, Community Medicine, Health Education, Community Health Outreach, Youth Mentorship, Research, Student Welfare, Evidence-Based Development and Community Engagement",
     slogan: "Youth Leadership • Healthcare • Community Development",
-    image: "images/ismaila-egyir.jpeg",
+    image: "images/ismaila-egyir.webp",
     email: "egyirismaila@gmail.com",
     phone: "0553487713",
     website: "#",
@@ -10355,7 +10355,7 @@ parliament: "Youth Parliament Ghana",
     professionalExperience: "Communication Officer, Links Reign Construction; Radio Presenter, Garin FM, University for Development Studies campus radio; broadcast journalism and media engagement; student public relations and communication.",
     focusAreas: "Youth Empowerment, Communication, Broadcast Journalism, Social Change Communication, Student Advocacy, Public Relations, Youth Leadership, Media Engagement, Governance, Education and Community Development",
     slogan: "Communication • Youth Advocacy • Social Change",
-    image: "images/albert.jpeg",
+    image: "images/albert.webp",
     email: "ayorekoalbert434@gmail.com",
     phone: "0241955904",
     website: "#",
@@ -10385,7 +10385,7 @@ parliament: "Youth Parliament Ghana",
     professionalExperience: "Professional Model; experience in student leadership, course representation, club and association leadership, and public engagement.",
     focusAreas: "Youth Empowerment, Leadership Development, Accounting, Education, Student Representation, Youth Participation in Governance, Community Development, Public Engagement, Discipline and Accountability",
     slogan: "Leadership • Service • Youth Empowerment",
-    image: "images/alhassan-abdul-rafiu.jpeg",
+    image: "images/alhassan-abdul-rafiu.webp",
     email: "alhassanabdulrafiu50@gmail.com",
     phone: "0599097756",
     website: "#",
@@ -10415,7 +10415,7 @@ parliament: "Youth Parliament Ghana",
     professionalExperience: "Accounting student with leadership experience in business student representation, audit committee activities, budget deliberations and student governance. Professional employment history was not provided.",
     focusAreas: "Youth Empowerment, Accounting, Finance, Entrepreneurship, Financial Literacy, Audit and Accountability, Budget Oversight, Student Leadership, Governance, Transparency and Community Development",
     slogan: "Leadership • Accountability • Entrepreneurship • Youth Empowerment",
-    image: "images/afereba-kennedy.jpeg",
+    image: "images/afereba-kennedy.webp",
     email: "kennedyafereba49@gmail.com",
     phone: "0248209257",
     website: "#",
@@ -10446,7 +10446,7 @@ parliament: "Youth Parliament Ghana",
     professionalExperience: "Law undergraduate at the University for Development Studies, Nyankpala Campus, with interests in constitutional law, legal research, leadership and community advocacy. No separate professional employment history was provided.",
     focusAreas: "Youth Empowerment, Constitutional Law, Legal Research, Debating, Public Speaking, Civic Education, Youth Participation in Governance, Community Advocacy, Leadership Development and Community Development",
     slogan: "Youth Leadership • Civic Participation • Effective Representation",
-    image: "images/ibrahim-zakariyaa.jpeg",
+    image: "images/ibrahim-zakariyaa.webp",
     email: "ibrahimzakariyaa330@gmail.com",
     phone: "0595478506",
     website: "#",
@@ -10476,7 +10476,7 @@ parliament: "Youth Parliament Ghana",
     professionalExperience: "Co-founder and Managing Director, VITAYAM Nutri Foods; aspiring chemical scientist with a background in Chemical Science and Technology; experience in student governance, electoral administration and organisational finance.",
     focusAreas: "Youth Empowerment, Scientific Innovation, Chemical Science, Entrepreneurship, Food Preservation, Agricultural Value Addition, Sustainable Development, Student Leadership, Financial Accountability, Education and Youth Participation in Governance",
     slogan: "Leadership • Innovation • Youth Representation",
-    image: "images/umm-khaira-afriyie.jpeg",
+    image: "images/umm-khaira-afriyie.webp",
     email: "ummikhairaafriyie@gmail.com",
     phone: "0504145312",
     website: "#",
@@ -10506,7 +10506,7 @@ parliament: "Youth Parliament Ghana",
     professionalExperience: "Automobile Engineering student pursuing a BTech after completing an HND in Automobile Engineering; student representative and youth leader; experience in electoral administration, cadet training and student association coordination. No separate engineering employment history was provided.",
     focusAreas: "Youth Empowerment, Student Welfare, Automobile Engineering, Technical and Vocational Education, Civic Education, Youth Representation, Leadership Development, Student Governance, Electoral Administration, Discipline, Accountability and Community Service",
     slogan: "Kaashe Gbeyei — Don't Be Afraid! | 2 Too Solid!",
-    image: "images/omar-sulley-bin.jpeg",
+    image: "images/omar-sulley-bin.webp",
     email: "Sulleybinomar@gmail.com",
     phone: "0245607110",
     website: "#",
@@ -10536,7 +10536,7 @@ parliament: "Youth Parliament Ghana",
     professionalExperience: "Accounting student pursuing a Bachelor of Commerce degree at the University of Cape Coast; aspiring accountant with experience in student representation, leadership and organisational coordination. Separate professional accounting employment was not provided.",
     focusAreas: "Youth Empowerment, Student Welfare, Youth Representation, Student Governance, Leadership Development, Education, Employment Opportunities, Financial Accountability, Mentorship and Community Development",
     slogan: "Youth Welfare • Responsible Leadership • Meaningful Representation",
-    image: "images/kelvin-atta-agyemang.jpeg",
+    image: "images/kelvin-atta-agyemang.webp",
     email: "Jade.kev.ag@gmail.com",
     phone: "0504262489",
     website: "#",
